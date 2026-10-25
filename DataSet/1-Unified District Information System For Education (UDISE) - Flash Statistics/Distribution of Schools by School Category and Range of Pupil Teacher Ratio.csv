@@ -1,0 +1,639 @@
+Country,Year,State/Ut Name,Pupil Teacher Ratio (Ptr),"Primary Schools (I–V) (UOM:%(Percentage)), Scaling Factor:1","Government Primary Schools (Classes I–V) (UOM:%(Percentage)), Scaling Factor:1","Upper Primary Schools (I–Viii) (UOM:%(Percentage)), Scaling Factor:1","Upper Primary Schools (I–Viii) (UOM:%(Percentage)), Scaling Factor:1","Higher Secondary Schools (Classes I–Xii) (UOM:%(Percentage)), Scaling Factor:1","Higher Secondary Schools (I–Xii) (UOM:%(Percentage)), Scaling Factor:1","Upper Primary Schools (Classes Vi–Viii) (UOM:%(Percentage)), Scaling Factor:1","Upper Primary Schools (Vi–Viii) (UOM:%(Percentage)), Scaling Factor:1","Higher Secondary Schools (Vi–Xii) (UOM:%(Percentage)), Scaling Factor:1","Higher Secondary Schools (Vi–Xii) (UOM:%(Percentage)), Scaling Factor:1","Secondary Schools (I–X) (UOM:%(Percentage)), Scaling Factor:1","Government Secondary Schools (I–X) (UOM:%(Percentage)), Scaling Factor:1","Total Secondary Schools (Vi–X) (UOM:%(Percentage)), Scaling Factor:1","Secondary Schools (Vi–X) (UOM:%(Percentage)), Scaling Factor:1","Total Schools Across Categories (UOM:%(Percentage)), Scaling Factor:1","Government Schools Across Categories (UOM:%(Percentage)), Scaling Factor:1"
+India,"Financial Year (Apr - Mar), 2017",All India,<=30,77,78,70,67,55,60,70,70,48,59,64,60,75,84,73,75
+India,"Financial Year (Apr - Mar), 2017",All India,30-35,7,7,8,9,11,13,7,7,8,8,9,9,7,5,7,7
+India,"Financial Year (Apr - Mar), 2017",All India,35-40,4,4,5,6,8,8,5,5,6,6,6,6,4,3,5,5
+India,"Financial Year (Apr - Mar), 2017",All India,40-45,3,3,4,4,5,5,4,4,6,6,4,4,3,2,3,3
+India,"Financial Year (Apr - Mar), 2017",All India,45-50,2,2,3,3,4,3,3,3,5,5,3,3,2,2,2,2
+India,"Financial Year (Apr - Mar), 2017",All India,>50,7,6,11,11,17,12,12,11,27,15,13,18,9,4,9,8
+India,"Financial Year (Apr - Mar), 2017",Andaman And Nicobar IslAnds,<=30,100,99,100,100,96,94,100,100,100,100,100,100,100,100,99,99
+India,"Financial Year (Apr - Mar), 2017",Andaman And Nicobar IslAnds,30-35,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2017",Andaman And Nicobar IslAnds,>50,0,1,0,0,2,3,0,0,0,0,0,0,0,0,0,1
+India,"Financial Year (Apr - Mar), 2017",Andhra Pradesh,<=30,89,94,86,93,32,27,100,0,34,34,48,61,80,92,85,93
+India,"Financial Year (Apr - Mar), 2017",Andhra Pradesh,30-35,4,3,3,2,11,13,0,0,19,19,8,8,6,5,4,3
+India,"Financial Year (Apr - Mar), 2017",Andhra Pradesh,35-40,2,1,2,1,11,11,0,0,15,15,7,6,4,2,3,1
+India,"Financial Year (Apr - Mar), 2017",Andhra Pradesh,40-45,1,1,2,1,4,5,0,0,4,4,5,6,2,1,2,1
+India,"Financial Year (Apr - Mar), 2017",Andhra Pradesh,45-50,1,0,1,1,5,5,0,0,7,7,3,3,2,0,1,0
+India,"Financial Year (Apr - Mar), 2017",Andhra Pradesh,>50,3,1,5,2,37,39,0,0,20,20,28,15,8,0,5,1
+India,"Financial Year (Apr - Mar), 2017",Arunachal Pradesh,<=30,92,92,94,92,83,79,100,100,80,80,89,86,95,95,92,91
+India,"Financial Year (Apr - Mar), 2017",Arunachal Pradesh,30-35,2,2,2,2,4,5,0,0,12,12,2,2,2,2,2,2
+India,"Financial Year (Apr - Mar), 2017",Arunachal Pradesh,35-40,1,1,1,1,3,5,0,0,4,4,4,5,2,2,2,2
+India,"Financial Year (Apr - Mar), 2017",Arunachal Pradesh,40-45,1,1,0,0,3,3,0,0,2,2,2,1,0,0,1,1
+India,"Financial Year (Apr - Mar), 2017",Arunachal Pradesh,45-50,1,1,1,1,0,0,0,0,0,0,1,1,0,0,1,1
+India,"Financial Year (Apr - Mar), 2017",Arunachal Pradesh,>50,3,3,2,3,7,8,0,0,2,2,2,3,0,0,2,3
+India,"Financial Year (Apr - Mar), 2017",Assam,<=30,82,80,92,84,67,61,91,87,76,74,85,80,84,82,84,81
+India,"Financial Year (Apr - Mar), 2017",Assam,30-35,7,7,2,5,7,12,3,4,9,10,5,7,6,6,6,7
+India,"Financial Year (Apr - Mar), 2017",Assam,35-40,4,4,2,3,6,9,2,3,4,5,3,7,4,4,4,4
+India,"Financial Year (Apr - Mar), 2017",Assam,40-45,2,3,1,3,3,4,1,2,4,4,2,2,2,2,2,3
+India,"Financial Year (Apr - Mar), 2017",Assam,45-50,2,2,1,2,2,5,1,1,3,3,1,2,2,2,2,2
+India,"Financial Year (Apr - Mar), 2017",Assam,>50,4,4,3,4,14,9,2,3,5,5,5,2,3,3,3,4
+India,"Financial Year (Apr - Mar), 2017",Bihar,<=30,32,29,31,13,21,4,19,18,52,65,17,8,52,59,31,23
+India,"Financial Year (Apr - Mar), 2017",Bihar,30-35,12,12,8,10,5,4,5,5,7,9,5,5,6,6,10,11
+India,"Financial Year (Apr - Mar), 2017",Bihar,35-40,10,11,9,11,6,6,14,14,1,2,7,7,4,3,10,11
+India,"Financial Year (Apr - Mar), 2017",Bihar,40-45,8,9,9,11,7,8,8,9,2,2,6,7,4,2,8,10
+India,"Financial Year (Apr - Mar), 2017",Bihar,45-50,7,7,8,10,6,7,9,10,7,7,8,9,2,3,7,8
+India,"Financial Year (Apr - Mar), 2017",Bihar,>50,30,32,35,45,56,70,44,44,30,15,56,65,31,28,34,38
+India,"Financial Year (Apr - Mar), 2017",Chandigarh,<=30,94,88,88,62,70,49,0,0,100,100,76,69,0,0,78,63
+India,"Financial Year (Apr - Mar), 2017",Chandigarh,30-35,6,13,7,23,23,42,0,0,0,0,13,16,0,0,15,26
+India,"Financial Year (Apr - Mar), 2017",Chandigarh,35-40,0,0,2,8,4,9,0,0,0,0,4,5,0,0,4,7
+India,"Financial Year (Apr - Mar), 2017",Chandigarh,40-45,0,0,2,8,1,0,0,0,0,0,3,4,0,0,2,3
+India,"Financial Year (Apr - Mar), 2017",Chandigarh,45-50,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,1
+India,"Financial Year (Apr - Mar), 2017",Chandigarh,>50,0,0,0,0,1,0,0,0,0,0,3,4,0,0,1,2
+India,"Financial Year (Apr - Mar), 2017",Chhattisgarh,<=30,88,88,85,82,59,42,79,79,54,64,71,10,74,50,84,85
+India,"Financial Year (Apr - Mar), 2017",Chhattisgarh,30-35,5,5,4,4,9,16,7,7,9,0,8,13,13,0,6,6
+India,"Financial Year (Apr - Mar), 2017",Chhattisgarh,35-40,3,3,3,2,7,14,4,4,8,7,6,7,6,33,3,3
+India,"Financial Year (Apr - Mar), 2017",Chhattisgarh,40-45,1,1,2,3,5,9,3,3,2,0,3,10,3,0,2,2
+India,"Financial Year (Apr - Mar), 2017",Chhattisgarh,45-50,1,1,1,2,3,2,2,2,3,4,2,3,3,17,1,1
+India,"Financial Year (Apr - Mar), 2017",Chhattisgarh,>50,2,2,5,8,17,16,5,5,23,25,11,57,0,0,4,3
+India,"Financial Year (Apr - Mar), 2017",Dadra And Nagar Haveli,<=30,82,82,85,87,75,100,100,100,100,100,64,100,0,0,83,84
+India,"Financial Year (Apr - Mar), 2017",Dadra And Nagar Haveli,30-35,6,6,5,2,13,0,0,0,0,0,27,0,0,0,6,4
+India,"Financial Year (Apr - Mar), 2017",Dadra And Nagar Haveli,35-40,7,6,4,4,13,0,0,0,0,0,9,0,0,0,6,5
+India,"Financial Year (Apr - Mar), 2017",Dadra And Nagar Haveli,40-45,4,3,2,2,0,0,0,0,0,0,0,0,0,0,3,3
+India,"Financial Year (Apr - Mar), 2017",Dadra And Nagar Haveli,45-50,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2017",Dadra And Nagar Haveli,>50,2,2,4,4,0,0,0,0,0,0,0,0,0,0,3,3
+India,"Financial Year (Apr - Mar), 2017",Daman And Diu,<=30,81,80,100,0,0,0,87,87,50,100,67,100,0,0,81,84
+India,"Financial Year (Apr - Mar), 2017",Daman And Diu,30-35,4,4,0,0,0,0,5,5,25,0,0,0,0,0,4,4
+India,"Financial Year (Apr - Mar), 2017",Daman And Diu,35-40,4,4,0,0,0,0,3,3,25,0,17,0,0,0,4,3
+India,"Financial Year (Apr - Mar), 2017",Daman And Diu,40-45,6,6,0,0,13,0,3,3,0,0,0,0,0,0,4,4
+India,"Financial Year (Apr - Mar), 2017",Daman And Diu,45-50,2,2,0,0,0,0,3,3,0,0,0,0,0,0,2,2
+India,"Financial Year (Apr - Mar), 2017",Daman And Diu,>50,4,4,0,0,25,0,0,0,0,0,17,0,0,0,4,2
+India,"Financial Year (Apr - Mar), 2017",Delhi,<=30,34,23,50,100,67,68,76,76,62,62,60,71,60,57,48,40
+India,"Financial Year (Apr - Mar), 2017",Delhi,30-35,21,26,17,0,20,23,15,24,22,23,16,8,20,24,20,25
+India,"Financial Year (Apr - Mar), 2017",Delhi,35-40,21,27,13,0,7,6,3,0,10,10,13,8,8,10,15,20
+India,"Financial Year (Apr - Mar), 2017",Delhi,40-45,11,13,7,0,3,2,0,0,4,3,4,4,7,7,8,9
+India,"Financial Year (Apr - Mar), 2017",Delhi,45-50,6,6,5,0,2,1,0,0,1,1,3,4,3,0,4,4
+India,"Financial Year (Apr - Mar), 2017",Delhi,>50,8,5,8,0,2,0,6,0,1,1,3,4,3,1,5,3
+India,"Financial Year (Apr - Mar), 2017",Goa,<=30,92,100,99,100,71,50,100,100,60,60,70,0,94,100,90,99
+India,"Financial Year (Apr - Mar), 2017",Goa,30-35,3,0,1,0,14,33,0,0,40,40,23,0,5,0,6,1
+India,"Financial Year (Apr - Mar), 2017",Goa,35-40,3,0,0,0,0,0,0,0,0,0,6,0,1,0,3,0
+India,"Financial Year (Apr - Mar), 2017",Goa,40-45,1,0,0,0,7,0,0,0,0,0,1,0,0,0,1,0
+India,"Financial Year (Apr - Mar), 2017",Goa,45-50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2017",Goa,>50,0,0,0,0,7,17,0,0,0,0,0,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2017",Gujarat,<=30,90,91,70,72,47,40,48,65,38,45,62,17,57,55,74,78
+India,"Financial Year (Apr - Mar), 2017",Gujarat,30-35,5,5,15,16,13,27,12,15,14,12,11,10,7,11,12,13
+India,"Financial Year (Apr - Mar), 2017",Gujarat,35-40,2,2,7,7,9,7,11,12,16,9,8,17,12,9,6,5
+India,"Financial Year (Apr - Mar), 2017",Gujarat,40-45,1,1,3,2,7,4,9,6,10,7,7,14,4,0,3,2
+India,"Financial Year (Apr - Mar), 2017",Gujarat,45-50,1,0,2,1,6,4,5,1,7,7,4,10,8,11,2,1
+India,"Financial Year (Apr - Mar), 2017",Gujarat,>50,1,1,4,2,18,18,16,1,14,21,9,31,12,15,4,2
+India,"Financial Year (Apr - Mar), 2017",Haryana,<=30,88,87,84,67,64,76,87,87,83,84,66,0,82,82,82,86
+India,"Financial Year (Apr - Mar), 2017",Haryana,30-35,5,6,6,33,12,15,3,3,7,7,12,50,6,6,7,5
+India,"Financial Year (Apr - Mar), 2017",Haryana,35-40,2,3,3,0,8,0,2,2,4,4,8,0,3,3,4,3
+India,"Financial Year (Apr - Mar), 2017",Haryana,40-45,1,2,2,0,4,6,1,1,2,2,4,0,2,2,2,2
+India,"Financial Year (Apr - Mar), 2017",Haryana,45-50,1,1,1,0,3,3,1,1,1,1,3,0,2,2,1,1
+India,"Financial Year (Apr - Mar), 2017",Haryana,>50,2,2,3,0,10,0,6,6,3,3,6,50,4,4,4,3
+India,"Financial Year (Apr - Mar), 2017",Himachal Pradesh,<=30,97,97,98,80,80,83,98,98,95,95,94,100,97,97,96,97
+India,"Financial Year (Apr - Mar), 2017",Himachal Pradesh,30-35,1,1,0,0,6,0,1,1,2,2,3,0,1,1,2,1
+India,"Financial Year (Apr - Mar), 2017",Himachal Pradesh,35-40,1,1,1,0,4,10,0,0,1,1,1,0,1,1,1,1
+India,"Financial Year (Apr - Mar), 2017",Himachal Pradesh,40-45,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2017",Himachal Pradesh,45-50,0,0,0,20,2,0,0,0,1,1,1,0,1,1,0,0
+India,"Financial Year (Apr - Mar), 2017",Himachal Pradesh,>50,0,0,0,0,6,7,0,0,0,0,0,0,0,0,1,0
+India,"Financial Year (Apr - Mar), 2017",Jammu And Kashmir,<=30,97,97,97,96,76,78,94,94,84,85,92,91,99,99,96,96
+India,"Financial Year (Apr - Mar), 2017",Jammu And Kashmir,30-35,1,1,2,2,7,7,2,2,4,5,3,4,1,1,2,2
+India,"Financial Year (Apr - Mar), 2017",Jammu And Kashmir,35-40,1,1,1,1,4,3,2,2,2,2,2,2,0,0,1,1
+India,"Financial Year (Apr - Mar), 2017",Jammu And Kashmir,40-45,0,0,0,0,3,3,0,0,6,6,1,1,0,0,1,0
+India,"Financial Year (Apr - Mar), 2017",Jammu And Kashmir,45-50,0,0,0,0,2,3,1,1,0,0,1,1,0,0,0,0
+India,"Financial Year (Apr - Mar), 2017",Jammu And Kashmir,>50,0,0,0,0,8,7,0,0,3,2,2,1,0,0,1,0
+India,"Financial Year (Apr - Mar), 2017",JharkhAnd,<=30,63,60,43,32,26,15,53,35,23,24,28,12,23,37,53,49
+India,"Financial Year (Apr - Mar), 2017",JharkhAnd,30-35,10,10,10,12,11,9,2,6,7,7,7,5,8,5,9,10
+India,"Financial Year (Apr - Mar), 2017",JharkhAnd,35-40,7,7,9,11,6,5,11,6,6,6,7,6,9,5,8,8
+India,"Financial Year (Apr - Mar), 2017",JharkhAnd,40-45,5,5,7,9,6,6,4,12,4,4,6,7,6,5,6,7
+India,"Financial Year (Apr - Mar), 2017",JharkhAnd,45-50,4,4,6,7,6,5,1,6,4,3,7,8,6,5,5,5
+India,"Financial Year (Apr - Mar), 2017",JharkhAnd,>50,12,13,25,29,45,59,28,35,56,56,45,62,48,41,20,21
+India,"Financial Year (Apr - Mar), 2017",Karnataka,<=30,89,92,71,77,45,38,62,57,59,63,49,52,59,60,76,83
+India,"Financial Year (Apr - Mar), 2017",Karnataka,30-35,3,3,8,8,11,24,10,9,11,14,11,12,14,14,6,5
+India,"Financial Year (Apr - Mar), 2017",Karnataka,35-40,2,2,6,5,8,5,7,8,3,2,8,8,7,6,4,3
+India,"Financial Year (Apr - Mar), 2017",Karnataka,40-45,1,1,4,3,5,0,4,3,8,9,6,7,5,5,3,2
+India,"Financial Year (Apr - Mar), 2017",Karnataka,45-50,1,1,3,2,5,10,6,9,5,5,5,5,6,7,2,2
+India,"Financial Year (Apr - Mar), 2017",Karnataka,>50,3,2,8,5,25,24,12,14,13,7,21,15,9,8,7,4
+India,"Financial Year (Apr - Mar), 2017",Kerala,<=30,95,95,94,92,79,86,96,93,87,88,87,89,92,96,92,93
+India,"Financial Year (Apr - Mar), 2017",Kerala,30-35,2,2,4,5,10,7,2,4,9,9,6,4,4,2,4,4
+India,"Financial Year (Apr - Mar), 2017",Kerala,35-40,1,1,1,2,5,4,1,0,2,2,3,4,2,0,2,2
+India,"Financial Year (Apr - Mar), 2017",Kerala,40-45,1,1,0,1,2,2,1,2,1,1,2,1,1,0,1,1
+India,"Financial Year (Apr - Mar), 2017",Kerala,45-50,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0
+India,"Financial Year (Apr - Mar), 2017",Kerala,>50,0,0,0,0,3,1,0,2,1,1,2,1,1,2,1,1
+India,"Financial Year (Apr - Mar), 2017",Lakshadweep,<=30,100,100,100,100,100,100,0,0,100,100,100,100,0,0,100,100
+India,"Financial Year (Apr - Mar), 2017",Madhya Pradesh,<=30,81,81,85,70,41,23,49,48,52,49,65,41,85,100,73,72
+India,"Financial Year (Apr - Mar), 2017",Madhya Pradesh,30-35,6,7,4,20,9,14,9,9,10,13,8,24,11,0,7,7
+India,"Financial Year (Apr - Mar), 2017",Madhya Pradesh,35-40,3,4,2,0,7,8,8,8,7,11,5,0,2,0,4,5
+India,"Financial Year (Apr - Mar), 2017",Madhya Pradesh,40-45,2,2,2,0,5,10,6,6,5,6,4,0,0,0,3,3
+India,"Financial Year (Apr - Mar), 2017",Madhya Pradesh,45-50,2,2,1,0,4,9,5,5,4,6,3,0,0,0,2,3
+India,"Financial Year (Apr - Mar), 2017",Madhya Pradesh,>50,5,5,6,10,34,36,24,24,22,15,15,35,2,0,10,10
+India,"Financial Year (Apr - Mar), 2017",Maharashtra,<=30,88,94,75,85,32,37,89,62,43,63,55,55,70,68,77,90
+India,"Financial Year (Apr - Mar), 2017",Maharashtra,30-35,5,4,9,8,18,16,3,15,16,14,16,14,11,10,8,5
+India,"Financial Year (Apr - Mar), 2017",Maharashtra,35-40,2,1,5,4,17,15,4,23,13,8,11,12,6,7,5,2
+India,"Financial Year (Apr - Mar), 2017",Maharashtra,40-45,1,1,3,2,12,9,1,0,8,3,7,5,5,4,3,1
+India,"Financial Year (Apr - Mar), 2017",Maharashtra,45-50,1,0,2,1,7,5,2,0,6,5,4,4,3,2,2,1
+India,"Financial Year (Apr - Mar), 2017",Maharashtra,>50,3,0,5,1,12,18,1,0,14,8,7,10,5,9,4,1
+India,"Financial Year (Apr - Mar), 2017",Manipur,<=30,95,95,96,94,81,88,98,95,91,90,92,93,92,90,94,95
+India,"Financial Year (Apr - Mar), 2017",Manipur,30-35,2,2,1,2,6,4,2,5,0,0,3,3,5,6,2,2
+India,"Financial Year (Apr - Mar), 2017",Manipur,35-40,1,1,1,1,3,0,0,0,3,3,3,0,2,2,1,1
+India,"Financial Year (Apr - Mar), 2017",Manipur,40-45,1,1,1,1,4,4,0,0,3,3,1,1,0,0,1,1
+India,"Financial Year (Apr - Mar), 2017",Manipur,45-50,0,0,1,1,1,0,0,0,0,0,0,0,1,1,0,0
+India,"Financial Year (Apr - Mar), 2017",Manipur,>50,1,1,1,2,5,4,0,0,3,3,2,3,0,0,1,1
+India,"Financial Year (Apr - Mar), 2017",Meghalaya,<=30,80,80,85,86,74,58,94,97,74,83,81,82,86,90,84,85
+India,"Financial Year (Apr - Mar), 2017",Meghalaya,30-35,6,6,5,0,10,17,2,1,10,13,5,0,8,5,5,5
+India,"Financial Year (Apr - Mar), 2017",Meghalaya,35-40,4,4,4,14,8,17,1,1,8,4,3,9,2,2,3,3
+India,"Financial Year (Apr - Mar), 2017",Meghalaya,40-45,3,3,1,0,3,8,1,0,5,0,4,0,2,0,2,2
+India,"Financial Year (Apr - Mar), 2017",Meghalaya,45-50,2,2,2,0,3,0,0,0,0,0,3,9,1,2,1,1
+India,"Financial Year (Apr - Mar), 2017",Meghalaya,>50,6,5,4,0,3,0,1,0,3,0,3,0,1,2,4,4
+India,"Financial Year (Apr - Mar), 2017",Mizoram,<=30,91,90,93,75,0,0,98,99,0,0,0,0,0,0,94,94
+India,"Financial Year (Apr - Mar), 2017",Mizoram,30-35,3,3,3,25,0,0,1,0,0,0,0,0,0,0,2,2
+India,"Financial Year (Apr - Mar), 2017",Mizoram,35-40,2,2,2,0,0,0,0,0,0,0,0,0,0,0,1,1
+India,"Financial Year (Apr - Mar), 2017",Mizoram,40-45,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+India,"Financial Year (Apr - Mar), 2017",Mizoram,45-50,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2017",Mizoram,>50,2,3,1,0,0,0,0,0,0,0,0,0,0,0,1,2
+India,"Financial Year (Apr - Mar), 2017",NagalAnd,<=30,99,99,98,98,65,83,100,100,96,95,89,100,99,99,96,99
+India,"Financial Year (Apr - Mar), 2017",NagalAnd,30-35,0,0,1,1,15,0,0,0,2,2,5,0,1,1,2,1
+India,"Financial Year (Apr - Mar), 2017",NagalAnd,35-40,0,0,0,0,4,17,0,0,0,0,2,0,0,0,1,0
+India,"Financial Year (Apr - Mar), 2017",NagalAnd,40-45,0,0,0,1,7,0,0,0,2,2,1,0,0,0,1,0
+India,"Financial Year (Apr - Mar), 2017",NagalAnd,45-50,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2017",NagalAnd,>50,0,0,0,0,9,0,0,0,0,0,1,0,0,0,1,0
+India,"Financial Year (Apr - Mar), 2017",Odisha,<=30,89,89,75,71,46,24,62,53,58,57,61,59,72,53,81,80
+India,"Financial Year (Apr - Mar), 2017",Odisha,30-35,5,6,10,11,11,16,11,14,25,26,13,15,8,13,7,8
+India,"Financial Year (Apr - Mar), 2017",Odisha,35-40,3,3,6,7,9,14,8,11,9,9,9,10,7,12,4,5
+India,"Financial Year (Apr - Mar), 2017",Odisha,40-45,1,1,3,4,5,4,5,7,5,4,6,6,5,8,2,2
+India,"Financial Year (Apr - Mar), 2017",Odisha,45-50,1,1,2,2,5,8,4,5,1,1,3,4,3,6,1,2
+India,"Financial Year (Apr - Mar), 2017",Odisha,>50,1,1,5,5,25,35,10,10,3,3,8,7,5,9,3,3
+India,"Financial Year (Apr - Mar), 2017",Puducherry,<=30,95,97,100,100,90,83,100,100,96,96,91,95,100,100,94,97
+India,"Financial Year (Apr - Mar), 2017",Puducherry,30-35,1,1,0,0,4,0,0,0,4,4,5,3,0,0,3,1
+India,"Financial Year (Apr - Mar), 2017",Puducherry,35-40,1,1,0,0,4,17,0,0,0,0,3,3,0,0,1,1
+India,"Financial Year (Apr - Mar), 2017",Puducherry,40-45,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+India,"Financial Year (Apr - Mar), 2017",Puducherry,45-50,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2017",Puducherry,>50,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+India,"Financial Year (Apr - Mar), 2017",Punjab,<=30,88,87,97,88,81,67,96,96,84,87,90,80,85,85,88,88
+India,"Financial Year (Apr - Mar), 2017",Punjab,30-35,6,7,1,13,7,13,2,2,7,6,5,16,5,5,5,6
+India,"Financial Year (Apr - Mar), 2017",Punjab,35-40,3,3,1,0,4,10,1,1,3,3,2,0,3,3,3,3
+India,"Financial Year (Apr - Mar), 2017",Punjab,40-45,1,1,0,0,2,4,0,0,2,2,1,4,2,2,1,1
+India,"Financial Year (Apr - Mar), 2017",Punjab,45-50,1,1,0,0,1,4,0,0,1,1,0,0,2,2,1,1
+India,"Financial Year (Apr - Mar), 2017",Punjab,>50,1,1,1,0,4,2,1,1,4,2,2,0,4,3,2,1
+India,"Financial Year (Apr - Mar), 2017",Rajasthan,<=30,79,78,82,78,63,67,78,76,66,66,77,77,83,80,77,76
+India,"Financial Year (Apr - Mar), 2017",Rajasthan,30-35,8,8,7,9,12,14,6,7,9,13,9,11,10,13,8,9
+India,"Financial Year (Apr - Mar), 2017",Rajasthan,35-40,5,5,4,5,8,8,4,4,6,7,5,5,3,3,5,5
+India,"Financial Year (Apr - Mar), 2017",Rajasthan,40-45,3,3,2,3,5,5,1,2,3,4,3,3,1,1,3,3
+India,"Financial Year (Apr - Mar), 2017",Rajasthan,45-50,2,2,1,2,3,3,2,2,3,2,2,2,0,0,2,2
+India,"Financial Year (Apr - Mar), 2017",Rajasthan,>50,4,4,3,4,8,3,9,10,12,8,4,2,4,3,5,4
+India,"Financial Year (Apr - Mar), 2017",Sikkim,<=30,99,100,100,100,98,100,0,0,63,50,99,100,100,100,99,100
+India,"Financial Year (Apr - Mar), 2017",Sikkim,30-35,0,0,0,0,1,0,0,0,13,25,1,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2017",Sikkim,35-40,0,0,0,0,1,0,0,0,13,25,0,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2017",Sikkim,40-45,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2017",Sikkim,45-50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2017",Sikkim,>50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2017",Tamil Nadu,<=30,92,92,95,97,81,71,96,100,77,90,91,95,90,96,91,93
+India,"Financial Year (Apr - Mar), 2017",Tamil Nadu,30-35,5,5,2,2,8,7,3,0,9,7,4,2,4,2,5,4
+India,"Financial Year (Apr - Mar), 2017",Tamil Nadu,35-40,2,1,1,1,4,4,2,0,4,2,2,2,2,1,2,1
+India,"Financial Year (Apr - Mar), 2017",Tamil Nadu,40-45,1,1,0,0,2,3,0,0,3,0,1,0,1,0,1,1
+India,"Financial Year (Apr - Mar), 2017",Tamil Nadu,45-50,0,0,0,0,1,2,0,0,2,0,1,0,1,0,1,0
+India,"Financial Year (Apr - Mar), 2017",Tamil Nadu,>50,1,1,1,0,4,12,0,0,5,0,2,2,2,0,1,1
+India,"Financial Year (Apr - Mar), 2017",Telangana,<=30,90,91,86,93,46,45,0,0,18,18,51,62,93,96,83,90
+India,"Financial Year (Apr - Mar), 2017",Telangana,30-35,4,4,4,3,13,15,0,0,28,28,8,9,3,2,5,4
+India,"Financial Year (Apr - Mar), 2017",Telangana,35-40,2,2,2,2,8,8,0,0,21,21,7,6,1,1,3,2
+India,"Financial Year (Apr - Mar), 2017",Telangana,40-45,1,1,2,1,5,5,0,0,18,18,5,3,1,0,2,1
+India,"Financial Year (Apr - Mar), 2017",Telangana,45-50,1,1,1,0,5,6,0,0,8,8,4,4,0,0,1,1
+India,"Financial Year (Apr - Mar), 2017",Telangana,>50,2,1,6,1,22,21,0,0,7,7,24,16,2,0,6,2
+India,"Financial Year (Apr - Mar), 2017",Tripura,<=30,98,99,97,98,87,89,100,100,93,92,93,93,100,100,96,97
+India,"Financial Year (Apr - Mar), 2017",Tripura,30-35,1,0,1,1,7,7,0,0,5,6,4,4,0,0,2,2
+India,"Financial Year (Apr - Mar), 2017",Tripura,35-40,1,0,1,1,4,2,0,0,1,2,2,2,0,0,1,1
+India,"Financial Year (Apr - Mar), 2017",Tripura,40-45,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2017",Tripura,45-50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2017",Tripura,>50,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+India,"Financial Year (Apr - Mar), 2017",Uttar Pradesh,<=30,56,58,41,40,19,33,71,74,19,29,30,43,35,36,56,62
+India,"Financial Year (Apr - Mar), 2017",Uttar Pradesh,30-35,11,12,8,9,5,5,7,8,5,6,7,4,7,11,10,11
+India,"Financial Year (Apr - Mar), 2017",Uttar Pradesh,35-40,8,9,6,7,4,6,5,5,5,3,7,4,7,6,7,8
+India,"Financial Year (Apr - Mar), 2017",Uttar Pradesh,40-45,6,6,5,4,5,4,4,3,5,4,5,4,5,4,5,5
+India,"Financial Year (Apr - Mar), 2017",Uttar Pradesh,45-50,4,4,4,4,4,6,2,2,5,4,4,9,5,4,3,3
+India,"Financial Year (Apr - Mar), 2017",Uttar Pradesh,>50,16,12,36,37,63,46,11,8,61,53,47,35,43,38,19,11
+India,"Financial Year (Apr - Mar), 2017",UttarakhAnd,<=30,93,94,85,96,51,49,90,91,78,85,75,92,88,90,90,92
+India,"Financial Year (Apr - Mar), 2017",UttarakhAnd,30-35,2,2,4,4,10,11,3,3,6,6,6,0,4,4,3,3
+India,"Financial Year (Apr - Mar), 2017",UttarakhAnd,35-40,1,1,3,0,5,8,1,1,4,3,4,8,2,2,2,2
+India,"Financial Year (Apr - Mar), 2017",UttarakhAnd,40-45,1,1,2,0,5,2,1,1,3,2,4,0,2,1,1,1
+India,"Financial Year (Apr - Mar), 2017",UttarakhAnd,45-50,0,0,1,0,3,0,1,1,2,1,1,0,1,1,1,1
+India,"Financial Year (Apr - Mar), 2017",UttarakhAnd,>50,2,2,5,0,27,30,3,3,7,3,10,0,3,2,3,2
+India,"Financial Year (Apr - Mar), 2017",West Bengal,<=30,90,89,87,70,49,53,59,57,14,14,69,63,48,48,80,79
+India,"Financial Year (Apr - Mar), 2017",West Bengal,30-35,5,5,3,9,8,11,9,9,8,8,7,16,11,11,6,6
+India,"Financial Year (Apr - Mar), 2017",West Bengal,35-40,2,2,3,6,8,11,6,7,12,13,5,5,10,10,4,4
+India,"Financial Year (Apr - Mar), 2017",West Bengal,40-45,1,1,2,2,5,5,5,6,14,15,3,3,7,7,3,3
+India,"Financial Year (Apr - Mar), 2017",West Bengal,45-50,1,1,1,3,4,5,4,4,14,14,2,3,6,6,2,2
+India,"Financial Year (Apr - Mar), 2017",West Bengal,>50,1,1,4,10,27,15,17,17,38,38,14,11,18,18,6,6
+India,"Financial Year (Apr - Mar), 2016",All India,<=30,74,75,67,64,53,59,70,70,46,58,63,59,72,79,70,72
+India,"Financial Year (Apr - Mar), 2016",All India,30-35,7,7,8,9,11,12,7,7,8,9,9,8,8,7,8,8
+India,"Financial Year (Apr - Mar), 2016",All India,35-40,5,5,5,6,8,8,5,5,7,7,6,6,5,4,5,5
+India,"Financial Year (Apr - Mar), 2016",All India,40-45,3,3,4,4,6,5,4,4,6,6,4,4,4,3,4,3
+India,"Financial Year (Apr - Mar), 2016",All India,45-50,2,2,3,3,4,3,3,3,5,5,3,3,2,2,3,2
+India,"Financial Year (Apr - Mar), 2016",All India,>50,9,8,13,13,18,12,12,11,28,15,14,21,9,5,11,9
+India,"Financial Year (Apr - Mar), 2016",Andaman And Nicobar IslAnds,<=30,100,100,100,100,100,100,0,0,100,100,98,98,100,100,100,100
+India,"Financial Year (Apr - Mar), 2016",Andaman And Nicobar IslAnds,30-35,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0
+India,"Financial Year (Apr - Mar), 2016",Andaman And Nicobar IslAnds,35-40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2016",Andhra Pradesh,<=30,89,94,86,91,52,50,100,0,66,66,50,59,79,90,86,93
+India,"Financial Year (Apr - Mar), 2016",Andhra Pradesh,30-35,4,3,4,3,6,7,0,0,10,10,9,10,6,5,4,3
+India,"Financial Year (Apr - Mar), 2016",Andhra Pradesh,35-40,2,1,3,2,10,11,0,0,10,10,7,9,3,2,2,2
+India,"Financial Year (Apr - Mar), 2016",Andhra Pradesh,40-45,1,1,2,1,5,6,0,0,5,4,5,4,2,1,2,1
+India,"Financial Year (Apr - Mar), 2016",Andhra Pradesh,45-50,1,0,1,1,2,3,0,0,2,2,4,3,2,0,1,0
+India,"Financial Year (Apr - Mar), 2016",Andhra Pradesh,>50,3,1,5,2,25,24,0,0,8,8,25,14,8,1,5,1
+India,"Financial Year (Apr - Mar), 2016",Arunachal Pradesh,<=30,89,88,90,88,80,74,100,100,75,75,87,84,95,95,89,88
+India,"Financial Year (Apr - Mar), 2016",Arunachal Pradesh,30-35,3,3,3,3,3,3,0,0,12,12,6,7,3,3,3,3
+India,"Financial Year (Apr - Mar), 2016",Arunachal Pradesh,35-40,2,2,1,2,7,11,0,0,6,6,2,3,0,0,2,2
+India,"Financial Year (Apr - Mar), 2016",Arunachal Pradesh,40-45,1,1,1,2,3,5,0,0,2,2,1,1,3,3,1,1
+India,"Financial Year (Apr - Mar), 2016",Arunachal Pradesh,45-50,1,1,1,1,1,3,0,0,2,2,1,2,0,0,1,1
+India,"Financial Year (Apr - Mar), 2016",Arunachal Pradesh,>50,4,5,4,5,6,5,0,0,4,4,4,4,0,0,4,4
+India,"Financial Year (Apr - Mar), 2016",Assam,<=30,71,67,87,78,60,51,88,82,76,75,85,89,85,83,75,70
+India,"Financial Year (Apr - Mar), 2016",Assam,30-35,7,8,3,6,6,10,4,5,9,10,4,5,5,6,6,7
+India,"Financial Year (Apr - Mar), 2016",Assam,35-40,5,6,2,4,8,13,2,4,5,5,4,5,4,4,4,5
+India,"Financial Year (Apr - Mar), 2016",Assam,40-45,4,4,2,3,4,6,2,2,3,4,1,0,2,2,3,4
+India,"Financial Year (Apr - Mar), 2016",Assam,45-50,3,3,1,2,3,7,1,2,2,2,1,0,1,2,2,3
+India,"Financial Year (Apr - Mar), 2016",Assam,>50,10,12,4,7,20,13,3,4,5,5,6,0,2,3,8,10
+India,"Financial Year (Apr - Mar), 2016",Bihar,<=30,24,23,19,10,16,5,14,11,48,64,10,4,50,59,22,17
+India,"Financial Year (Apr - Mar), 2016",Bihar,30-35,10,11,7,7,5,3,9,8,2,2,4,4,7,5,9,9
+India,"Financial Year (Apr - Mar), 2016",Bihar,35-40,10,10,8,9,6,6,5,6,2,4,4,4,6,4,9,9
+India,"Financial Year (Apr - Mar), 2016",Bihar,40-45,9,9,8,9,5,5,8,9,4,0,6,6,4,4,8,9
+India,"Financial Year (Apr - Mar), 2016",Bihar,45-50,7,8,8,9,5,6,10,11,7,6,7,7,4,3,8,8
+India,"Financial Year (Apr - Mar), 2016",Bihar,>50,39,40,49,56,63,76,54,55,36,25,69,76,29,26,44,47
+India,"Financial Year (Apr - Mar), 2016",Chandigarh,<=30,100,100,93,83,80,77,0,0,100,100,75,69,0,0,82,76
+India,"Financial Year (Apr - Mar), 2016",Chandigarh,30-35,0,0,7,17,15,16,0,0,0,0,12,16,0,0,12,15
+India,"Financial Year (Apr - Mar), 2016",Chandigarh,35-40,0,0,0,0,5,7,0,0,0,0,8,10,0,0,5,7
+India,"Financial Year (Apr - Mar), 2016",Chandigarh,40-45,0,0,0,0,0,0,0,0,0,0,2,2,0,0,1,1
+India,"Financial Year (Apr - Mar), 2016",Chandigarh,>50,0,0,0,0,1,0,0,0,0,0,3,4,0,0,2,2
+India,"Financial Year (Apr - Mar), 2016",Chhattisgarh,<=30,87,87,86,77,58,34,76,77,53,55,73,14,62,62,83,83
+India,"Financial Year (Apr - Mar), 2016",Chhattisgarh,30-35,5,6,4,7,9,19,8,8,13,13,9,24,12,12,6,7
+India,"Financial Year (Apr - Mar), 2016",Chhattisgarh,35-40,3,3,2,2,7,15,5,5,10,10,5,19,7,7,3,3
+India,"Financial Year (Apr - Mar), 2016",Chhattisgarh,40-45,2,2,2,2,5,12,3,3,3,4,2,5,5,5,2,2
+India,"Financial Year (Apr - Mar), 2016",Chhattisgarh,45-50,1,1,1,1,4,7,2,2,3,3,1,0,4,4,1,1
+India,"Financial Year (Apr - Mar), 2016",Chhattisgarh,>50,2,2,5,11,17,13,6,6,17,14,10,38,10,10,4,3
+India,"Financial Year (Apr - Mar), 2016",Dadra And Nagar Haveli,<=30,91,92,86,86,71,100,100,100,100,100,73,100,0,0,88,89
+India,"Financial Year (Apr - Mar), 2016",Dadra And Nagar Haveli,30-35,5,5,5,5,14,0,0,0,0,0,18,0,0,0,6,5
+India,"Financial Year (Apr - Mar), 2016",Dadra And Nagar Haveli,35-40,2,2,2,2,14,0,0,0,0,0,9,0,0,0,2,2
+India,"Financial Year (Apr - Mar), 2016",Dadra And Nagar Haveli,40-45,1,0,2,3,0,0,0,0,0,0,0,0,0,0,1,1
+India,"Financial Year (Apr - Mar), 2016",Dadra And Nagar Haveli,45-50,0,0,2,2,0,0,0,0,0,0,0,0,0,0,1,1
+India,"Financial Year (Apr - Mar), 2016",Dadra And Nagar Haveli,>50,1,1,2,3,0,0,0,0,0,0,0,0,0,0,2,2
+India,"Financial Year (Apr - Mar), 2016",Daman And Diu,<=30,78,75,100,0,38,0,95,95,75,100,33,0,0,0,79,83
+India,"Financial Year (Apr - Mar), 2016",Daman And Diu,30-35,9,9,0,0,13,0,0,0,0,0,50,100,0,0,8,6
+India,"Financial Year (Apr - Mar), 2016",Daman And Diu,35-40,3,4,0,0,0,0,3,3,0,0,17,0,0,0,3,3
+India,"Financial Year (Apr - Mar), 2016",Daman And Diu,40-45,2,2,0,0,0,0,0,0,25,0,0,0,0,0,2,1
+India,"Financial Year (Apr - Mar), 2016",Daman And Diu,45-50,2,2,0,0,25,0,3,3,0,0,0,0,0,0,3,2
+India,"Financial Year (Apr - Mar), 2016",Daman And Diu,>50,7,8,0,0,25,0,0,0,0,0,0,0,0,0,5,4
+India,"Financial Year (Apr - Mar), 2016",Delhi,<=30,30,16,56,88,68,65,80,78,57,57,65,75,46,44,46,34
+India,"Financial Year (Apr - Mar), 2016",Delhi,30-35,21,26,18,0,20,26,9,17,20,21,15,8,27,31,20,25
+India,"Financial Year (Apr - Mar), 2016",Delhi,35-40,23,29,12,13,7,7,3,0,13,14,10,4,13,14,16,22
+India,"Financial Year (Apr - Mar), 2016",Delhi,40-45,12,15,6,0,2,1,3,6,5,4,4,4,6,7,8,10
+India,"Financial Year (Apr - Mar), 2016",Delhi,45-50,7,7,4,0,1,1,0,0,2,3,2,0,2,0,4,5
+India,"Financial Year (Apr - Mar), 2016",Delhi,>50,8,7,5,0,2,1,6,0,1,1,3,8,5,4,5,5
+India,"Financial Year (Apr - Mar), 2016",Goa,<=30,92,99,100,100,69,33,100,0,80,80,73,0,94,100,90,99
+India,"Financial Year (Apr - Mar), 2016",Goa,30-35,2,1,0,0,8,17,0,0,20,20,24,0,6,0,5,1
+India,"Financial Year (Apr - Mar), 2016",Goa,35-40,3,0,0,0,0,0,0,0,0,0,3,0,0,0,2,0
+India,"Financial Year (Apr - Mar), 2016",Goa,40-45,1,0,0,0,8,17,0,0,0,0,0,0,0,0,1,0
+India,"Financial Year (Apr - Mar), 2016",Goa,45-50,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2016",Goa,>50,1,0,0,0,15,33,0,0,0,0,0,0,0,0,1,0
+India,"Financial Year (Apr - Mar), 2016",Gujarat,<=30,88,89,66,67,43,57,45,53,40,51,60,19,65,62,70,74
+India,"Financial Year (Apr - Mar), 2016",Gujarat,30-35,6,6,16,18,12,13,13,19,17,12,11,12,14,16,13,14
+India,"Financial Year (Apr - Mar), 2016",Gujarat,35-40,3,2,8,8,9,8,10,11,11,7,6,19,9,10,7,6
+India,"Financial Year (Apr - Mar), 2016",Gujarat,40-45,1,1,4,3,8,11,9,6,11,4,8,12,4,3,3,3
+India,"Financial Year (Apr - Mar), 2016",Gujarat,45-50,1,1,2,1,6,0,6,5,7,3,4,12,0,0,2,1
+India,"Financial Year (Apr - Mar), 2016",Gujarat,>50,1,1,4,2,22,11,16,6,14,24,11,27,8,9,4,2
+India,"Financial Year (Apr - Mar), 2016",Haryana,<=30,74,71,84,67,62,74,76,76,84,85,68,67,83,83,75,75
+India,"Financial Year (Apr - Mar), 2016",Haryana,30-35,11,13,6,33,10,11,5,5,7,7,11,0,7,7,9,10
+India,"Financial Year (Apr - Mar), 2016",Haryana,35-40,5,6,4,0,8,6,4,4,3,3,8,0,4,4,5,5
+India,"Financial Year (Apr - Mar), 2016",Haryana,40-45,3,3,2,0,5,3,2,2,2,2,5,33,2,2,3,3
+India,"Financial Year (Apr - Mar), 2016",Haryana,45-50,1,2,1,0,3,3,2,2,1,1,2,0,2,2,2,2
+India,"Financial Year (Apr - Mar), 2016",Haryana,>50,5,6,3,0,12,3,11,11,2,2,6,0,3,3,6,6
+India,"Financial Year (Apr - Mar), 2016",Himachal Pradesh,<=30,98,97,98,100,80,88,97,97,94,94,91,67,95,95,96,97
+India,"Financial Year (Apr - Mar), 2016",Himachal Pradesh,30-35,1,1,0,0,6,0,1,1,3,3,4,17,2,2,2,1
+India,"Financial Year (Apr - Mar), 2016",Himachal Pradesh,35-40,1,1,0,0,3,8,1,1,1,1,2,0,1,1,1,1
+India,"Financial Year (Apr - Mar), 2016",Himachal Pradesh,40-45,0,0,0,0,2,0,0,0,1,1,1,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2016",Himachal Pradesh,45-50,0,0,0,0,3,0,0,0,0,0,0,0,1,1,0,0
+India,"Financial Year (Apr - Mar), 2016",Himachal Pradesh,>50,0,0,0,0,6,4,0,0,1,1,2,17,1,1,1,0
+India,"Financial Year (Apr - Mar), 2016",Jammu And Kashmir,<=30,97,96,97,97,75,81,100,100,84,86,93,94,100,100,96,96
+India,"Financial Year (Apr - Mar), 2016",Jammu And Kashmir,30-35,2,2,1,1,8,9,0,0,5,5,3,3,0,0,2,2
+India,"Financial Year (Apr - Mar), 2016",Jammu And Kashmir,35-40,1,1,1,1,4,4,0,0,3,2,1,1,0,0,1,1
+India,"Financial Year (Apr - Mar), 2016",Jammu And Kashmir,40-45,0,0,0,0,3,1,0,0,4,4,1,1,0,0,1,0
+India,"Financial Year (Apr - Mar), 2016",Jammu And Kashmir,45-50,0,0,0,0,3,1,0,0,1,1,1,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2016",Jammu And Kashmir,>50,0,0,0,0,7,5,0,0,2,1,1,1,0,0,1,0
+India,"Financial Year (Apr - Mar), 2016",JharkhAnd,<=30,59,58,40,32,25,14,42,13,25,26,28,15,33,42,50,47
+India,"Financial Year (Apr - Mar), 2016",JharkhAnd,30-35,10,10,11,12,9,4,8,20,8,8,7,5,9,6,10,11
+India,"Financial Year (Apr - Mar), 2016",JharkhAnd,35-40,7,8,9,11,10,9,7,7,6,6,7,7,7,7,8,8
+India,"Financial Year (Apr - Mar), 2016",JharkhAnd,40-45,5,6,8,9,8,7,6,7,3,3,7,8,7,4,6,7
+India,"Financial Year (Apr - Mar), 2016",JharkhAnd,45-50,4,4,6,7,7,12,3,0,5,5,6,7,5,2,5,5
+India,"Financial Year (Apr - Mar), 2016",JharkhAnd,>50,14,14,27,30,41,54,34,53,53,52,44,59,39,38,21,21
+India,"Financial Year (Apr - Mar), 2016",Karnataka,<=30,89,91,69,74,49,39,64,59,75,77,53,50,63,64,76,82
+India,"Financial Year (Apr - Mar), 2016",Karnataka,30-35,3,3,9,9,11,18,10,9,5,7,10,12,11,11,7,6
+India,"Financial Year (Apr - Mar), 2016",Karnataka,35-40,2,2,6,5,8,7,6,8,8,9,8,9,7,7,5,4
+India,"Financial Year (Apr - Mar), 2016",Karnataka,40-45,1,1,4,3,6,4,2,2,2,2,6,6,6,6,3,2
+India,"Financial Year (Apr - Mar), 2016",Karnataka,45-50,1,1,3,2,4,4,5,7,2,2,5,7,5,5,2,2
+India,"Financial Year (Apr - Mar), 2016",Karnataka,>50,3,2,9,6,23,29,13,15,8,2,18,16,8,8,7,4
+India,"Financial Year (Apr - Mar), 2016",Kerala,<=30,95,95,92,90,78,85,96,88,84,81,86,75,91,96,91,92
+India,"Financial Year (Apr - Mar), 2016",Kerala,30-35,3,3,5,6,10,6,3,5,10,14,7,11,6,4,5,5
+India,"Financial Year (Apr - Mar), 2016",Kerala,35-40,1,1,1,2,5,6,1,2,4,4,4,6,2,0,2,2
+India,"Financial Year (Apr - Mar), 2016",Kerala,40-45,1,0,1,1,2,1,1,3,0,1,1,3,0,0,1,1
+India,"Financial Year (Apr - Mar), 2016",Kerala,45-50,0,0,0,0,2,1,0,2,0,0,1,3,0,0,0,0
+India,"Financial Year (Apr - Mar), 2016",Kerala,>50,0,0,0,1,3,1,0,0,1,1,2,3,1,0,1,1
+India,"Financial Year (Apr - Mar), 2016",Lakshadweep,<=30,100,100,100,100,100,100,100,100,100,100,100,100,0,0,100,100
+India,"Financial Year (Apr - Mar), 2016",Madhya Pradesh,<=30,78,78,85,65,39,18,46,46,51,56,65,24,74,100,71,70
+India,"Financial Year (Apr - Mar), 2016",Madhya Pradesh,30-35,7,7,4,9,9,7,9,9,11,15,8,12,15,0,7,8
+India,"Financial Year (Apr - Mar), 2016",Madhya Pradesh,35-40,4,4,2,0,7,18,8,8,5,2,6,18,4,0,5,5
+India,"Financial Year (Apr - Mar), 2016",Madhya Pradesh,40-45,3,3,1,0,5,5,6,6,7,6,4,6,2,0,3,4
+India,"Financial Year (Apr - Mar), 2016",Madhya Pradesh,45-50,2,2,1,4,5,10,5,5,5,13,3,0,0,0,3,3
+India,"Financial Year (Apr - Mar), 2016",Madhya Pradesh,>50,6,6,6,22,35,42,25,26,21,8,15,41,4,0,11,11
+India,"Financial Year (Apr - Mar), 2016",Maharashtra,<=30,87,93,72,82,29,31,89,63,38,67,53,53,68,67,75,88
+India,"Financial Year (Apr - Mar), 2016",Maharashtra,30-35,5,4,10,9,19,17,2,0,19,10,17,17,11,10,9,6
+India,"Financial Year (Apr - Mar), 2016",Maharashtra,35-40,2,2,6,4,18,14,5,13,13,6,12,10,8,7,6,3
+India,"Financial Year (Apr - Mar), 2016",Maharashtra,40-45,1,1,4,2,13,13,3,13,9,2,7,6,5,3,4,1
+India,"Financial Year (Apr - Mar), 2016",Maharashtra,45-50,1,0,2,1,8,6,0,0,7,10,4,3,3,6,2,1
+India,"Financial Year (Apr - Mar), 2016",Maharashtra,>50,3,1,5,2,13,20,1,13,13,6,7,10,5,8,5,1
+India,"Financial Year (Apr - Mar), 2016",Manipur,<=30,95,95,96,96,63,87,98,96,96,100,86,95,94,95,93,95
+India,"Financial Year (Apr - Mar), 2016",Manipur,30-35,2,2,1,1,10,4,2,4,0,0,5,1,2,3,2,2
+India,"Financial Year (Apr - Mar), 2016",Manipur,35-40,1,1,1,1,5,0,0,0,0,0,2,0,1,1,1,1
+India,"Financial Year (Apr - Mar), 2016",Manipur,40-45,1,1,1,1,6,4,0,0,4,0,2,1,1,0,1,1
+India,"Financial Year (Apr - Mar), 2016",Manipur,45-50,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2016",Manipur,>50,1,1,0,1,16,4,0,0,0,0,3,1,3,1,2,1
+India,"Financial Year (Apr - Mar), 2016",Meghalaya,<=30,84,83,84,100,80,75,95,97,85,90,85,90,89,83,87,87
+India,"Financial Year (Apr - Mar), 2016",Meghalaya,30-35,5,6,6,0,11,17,2,1,9,5,4,0,4,4,4,4
+India,"Financial Year (Apr - Mar), 2016",Meghalaya,35-40,3,3,1,0,3,8,1,1,3,5,3,0,3,4,3,3
+India,"Financial Year (Apr - Mar), 2016",Meghalaya,40-45,2,2,1,0,0,0,1,1,3,0,3,10,1,4,2,2
+India,"Financial Year (Apr - Mar), 2016",Meghalaya,45-50,1,1,2,0,3,0,1,0,0,0,1,0,2,0,1,1
+India,"Financial Year (Apr - Mar), 2016",Meghalaya,>50,4,4,6,0,3,0,1,0,0,0,3,0,2,4,4,3
+India,"Financial Year (Apr - Mar), 2016",Mizoram,<=30,91,91,94,80,0,0,98,99,0,0,0,0,0,0,94,94
+India,"Financial Year (Apr - Mar), 2016",Mizoram,30-35,3,3,3,20,0,0,1,0,0,0,0,0,0,0,2,2
+India,"Financial Year (Apr - Mar), 2016",Mizoram,35-40,2,2,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+India,"Financial Year (Apr - Mar), 2016",Mizoram,40-45,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+India,"Financial Year (Apr - Mar), 2016",Mizoram,45-50,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2016",Mizoram,>50,2,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+India,"Financial Year (Apr - Mar), 2016",NagalAnd,<=30,99,99,99,99,64,67,98,98,91,90,88,100,99,99,96,99
+India,"Financial Year (Apr - Mar), 2016",NagalAnd,30-35,0,0,0,1,7,0,0,0,7,7,5,0,1,1,1,1
+India,"Financial Year (Apr - Mar), 2016",NagalAnd,35-40,0,0,0,0,10,33,0,0,0,0,2,0,0,0,1,0
+India,"Financial Year (Apr - Mar), 2016",NagalAnd,40-45,0,0,1,0,5,0,3,3,0,0,2,0,0,0,1,0
+India,"Financial Year (Apr - Mar), 2016",NagalAnd,45-50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2016",NagalAnd,>50,0,0,0,0,14,0,0,0,2,2,3,0,0,0,1,0
+India,"Financial Year (Apr - Mar), 2016",Odisha,<=30,88,88,77,75,45,27,70,74,62,62,61,59,65,49,81,80
+India,"Financial Year (Apr - Mar), 2016",Odisha,30-35,6,6,9,10,16,22,11,11,18,19,12,14,11,15,8,8
+India,"Financial Year (Apr - Mar), 2016",Odisha,35-40,3,3,5,6,4,11,7,7,11,11,9,10,8,11,4,5
+India,"Financial Year (Apr - Mar), 2016",Odisha,40-45,1,1,3,3,4,2,3,3,2,2,5,6,6,8,2,2
+India,"Financial Year (Apr - Mar), 2016",Odisha,45-50,1,1,2,2,4,9,3,2,3,2,3,4,4,6,1,1
+India,"Financial Year (Apr - Mar), 2016",Odisha,>50,1,1,4,4,27,29,6,3,4,5,10,9,7,11,3,3
+India,"Financial Year (Apr - Mar), 2016",Puducherry,<=30,98,98,100,100,85,100,100,100,100,100,92,95,97,97,95,98
+India,"Financial Year (Apr - Mar), 2016",Puducherry,30-35,1,1,0,0,8,0,0,0,0,0,5,3,3,3,3,1
+India,"Financial Year (Apr - Mar), 2016",Puducherry,35-40,0,0,0,0,6,0,0,0,0,0,1,0,0,0,1,0
+India,"Financial Year (Apr - Mar), 2016",Puducherry,40-45,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0
+India,"Financial Year (Apr - Mar), 2016",Puducherry,45-50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2016",Puducherry,>50,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0
+India,"Financial Year (Apr - Mar), 2016",Punjab,<=30,87,86,97,96,75,70,88,88,79,82,88,83,82,83,86,86
+India,"Financial Year (Apr - Mar), 2016",Punjab,30-35,6,7,2,2,9,12,3,3,7,7,6,7,5,5,6,6
+India,"Financial Year (Apr - Mar), 2016",Punjab,35-40,3,3,1,0,5,6,3,3,5,4,2,3,3,3,3,3
+India,"Financial Year (Apr - Mar), 2016",Punjab,40-45,1,1,0,1,4,5,2,2,3,2,1,2,2,2,2,2
+India,"Financial Year (Apr - Mar), 2016",Punjab,45-50,1,1,0,0,2,2,1,1,1,1,1,1,2,2,1,1
+India,"Financial Year (Apr - Mar), 2016",Punjab,>50,2,2,0,0,6,5,4,4,5,3,1,3,6,5,3,2
+India,"Financial Year (Apr - Mar), 2016",Rajasthan,<=30,76,74,80,75,58,62,77,76,61,60,76,77,83,82,74,73
+India,"Financial Year (Apr - Mar), 2016",Rajasthan,30-35,7,8,7,8,12,14,5,5,10,15,9,10,8,10,8,9
+India,"Financial Year (Apr - Mar), 2016",Rajasthan,35-40,5,5,4,5,9,9,9,9,6,8,6,6,2,0,5,6
+India,"Financial Year (Apr - Mar), 2016",Rajasthan,40-45,3,3,3,3,6,5,1,2,4,4,3,3,3,6,3,4
+India,"Financial Year (Apr - Mar), 2016",Rajasthan,45-50,2,2,2,2,4,3,1,1,3,4,2,2,1,1,2,2
+India,"Financial Year (Apr - Mar), 2016",Rajasthan,>50,7,7,5,6,11,7,7,7,15,10,4,3,2,1,6,7
+India,"Financial Year (Apr - Mar), 2016",Sikkim,<=30,99,100,99,99,94,100,0,0,100,100,100,100,100,100,99,100
+India,"Financial Year (Apr - Mar), 2016",Sikkim,30-35,0,0,1,1,3,0,0,0,0,0,0,0,0,0,1,0
+India,"Financial Year (Apr - Mar), 2016",Sikkim,40-45,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2016",Sikkim,45-50,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2016",Sikkim,>50,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2016",Tamil Nadu,<=30,83,84,86,92,81,84,95,100,69,82,91,92,86,96,83,86
+India,"Financial Year (Apr - Mar), 2016",Tamil Nadu,30-35,9,9,7,5,8,4,2,0,12,12,4,3,4,2,8,8
+India,"Financial Year (Apr - Mar), 2016",Tamil Nadu,35-40,4,3,3,2,3,4,2,0,6,4,2,1,2,1,4,3
+India,"Financial Year (Apr - Mar), 2016",Tamil Nadu,40-45,2,1,2,1,2,2,1,0,4,1,1,1,2,0,2,1
+India,"Financial Year (Apr - Mar), 2016",Tamil Nadu,45-50,1,1,1,0,1,2,0,0,3,0,1,1,1,0,1,1
+India,"Financial Year (Apr - Mar), 2016",Tamil Nadu,>50,2,1,1,1,4,6,1,0,7,0,2,3,4,0,2,1
+India,"Financial Year (Apr - Mar), 2016",Telangana,<=30,84,86,80,84,51,49,0,0,29,29,45,64,87,92,78,86
+India,"Financial Year (Apr - Mar), 2016",Telangana,30-35,6,6,4,4,11,12,0,0,24,24,7,8,5,4,6,5
+India,"Financial Year (Apr - Mar), 2016",Telangana,35-40,3,3,3,3,6,5,0,0,26,26,6,5,3,2,3,3
+India,"Financial Year (Apr - Mar), 2016",Telangana,40-45,2,2,2,2,4,5,0,0,12,12,5,4,1,1,2,2
+India,"Financial Year (Apr - Mar), 2016",Telangana,45-50,1,1,2,1,5,6,0,0,3,3,5,3,1,0,2,1
+India,"Financial Year (Apr - Mar), 2016",Telangana,>50,4,3,10,6,24,23,0,0,5,5,31,16,4,1,9,3
+India,"Financial Year (Apr - Mar), 2016",Tripura,<=30,97,100,97,97,79,82,100,100,81,79,92,92,89,88,95,97
+India,"Financial Year (Apr - Mar), 2016",Tripura,30-35,1,0,1,2,10,9,0,0,12,13,5,5,11,13,2,2
+India,"Financial Year (Apr - Mar), 2016",Tripura,35-40,1,0,1,1,5,4,0,0,4,5,1,1,0,0,1,1
+India,"Financial Year (Apr - Mar), 2016",Tripura,40-45,0,0,0,0,2,2,0,0,3,3,1,1,0,0,1,0
+India,"Financial Year (Apr - Mar), 2016",Tripura,45-50,0,0,0,0,2,2,0,0,0,0,1,1,0,0,0,0
+India,"Financial Year (Apr - Mar), 2016",Tripura,>50,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2016",Uttar Pradesh,<=30,55,58,36,42,15,29,73,79,17,29,26,40,31,51,56,64
+India,"Financial Year (Apr - Mar), 2016",Uttar Pradesh,30-35,11,12,7,7,4,9,7,6,4,6,6,6,7,6,9,10
+India,"Financial Year (Apr - Mar), 2016",Uttar Pradesh,35-40,8,9,6,3,4,4,5,4,5,4,5,6,5,13,7,7
+India,"Financial Year (Apr - Mar), 2016",Uttar Pradesh,40-45,6,6,5,2,4,6,3,3,5,5,5,3,6,3,5,5
+India,"Financial Year (Apr - Mar), 2016",Uttar Pradesh,45-50,4,4,4,5,4,3,2,2,4,4,3,3,4,1,3,3
+India,"Financial Year (Apr - Mar), 2016",Uttar Pradesh,>50,17,12,41,40,68,48,11,6,65,51,55,43,47,26,20,11
+India,"Financial Year (Apr - Mar), 2016",UttarakhAnd,<=30,92,94,74,88,33,34,91,92,77,86,57,89,87,90,88,93
+India,"Financial Year (Apr - Mar), 2016",UttarakhAnd,30-35,3,2,6,13,7,9,3,3,6,5,12,0,4,4,3,3
+India,"Financial Year (Apr - Mar), 2016",UttarakhAnd,35-40,1,1,3,0,7,6,2,1,5,3,5,11,3,2,2,1
+India,"Financial Year (Apr - Mar), 2016",UttarakhAnd,40-45,1,1,3,0,4,4,1,1,2,2,7,0,1,0,1,1
+India,"Financial Year (Apr - Mar), 2016",UttarakhAnd,45-50,1,0,2,0,4,2,1,1,2,1,5,0,1,1,1,1
+India,"Financial Year (Apr - Mar), 2016",UttarakhAnd,>50,2,2,11,0,45,45,3,2,9,3,15,0,4,3,4,2
+India,"Financial Year (Apr - Mar), 2016",West Bengal,<=30,83,82,88,63,53,49,53,52,14,14,71,61,45,44,75,73
+India,"Financial Year (Apr - Mar), 2016",West Bengal,30-35,6,6,4,8,6,10,9,9,8,8,8,16,11,11,6,7
+India,"Financial Year (Apr - Mar), 2016",West Bengal,35-40,4,4,2,4,8,10,8,8,12,12,4,11,10,10,5,5
+India,"Financial Year (Apr - Mar), 2016",West Bengal,40-45,2,2,2,6,4,6,6,6,14,15,3,3,9,9,3,4
+India,"Financial Year (Apr - Mar), 2016",West Bengal,45-50,2,2,1,4,2,5,4,4,14,15,5,5,7,7,3,3
+India,"Financial Year (Apr - Mar), 2016",West Bengal,>50,4,4,4,15,26,20,20,20,37,37,9,5,18,18,8,8
+India,"Financial Year (Apr - Mar), 2015",All India,<=30,70,71,65,62,52,55,66,67,42,56,64,59,69,77,67,69
+India,"Financial Year (Apr - Mar), 2015",All India,30-35,7,7,8,9,11,12,7,7,9,9,8,8,9,7,8,8
+India,"Financial Year (Apr - Mar), 2015",All India,35-40,5,5,6,6,8,9,6,6,8,6,6,5,6,5,5,5
+India,"Financial Year (Apr - Mar), 2015",All India,40-45,3,3,4,4,6,6,4,4,7,6,4,4,4,3,4,4
+India,"Financial Year (Apr - Mar), 2015",All India,45-50,3,3,3,3,4,4,3,3,6,0,3,3,3,2,3,3
+India,"Financial Year (Apr - Mar), 2015",All India,>50,11,10,14,15,20,13,14,13,28,18,16,21,10,6,13,12
+India,"Financial Year (Apr - Mar), 2015",Andaman And Nicobar IslAnds,<=30,98,98,100,100,100,100,0,0,100,100,100,100,0,0,99,99
+India,"Financial Year (Apr - Mar), 2015",Andaman And Nicobar IslAnds,30-35,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+India,"Financial Year (Apr - Mar), 2015",Andaman And Nicobar IslAnds,35-40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2015",Andaman And Nicobar IslAnds,45-50,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2015",Andhra Pradesh,<=30,86,90,83,85,47,45,100,0,44,44,54,60,77,87,83,89
+India,"Financial Year (Apr - Mar), 2015",Andhra Pradesh,30-35,5,4,4,4,12,11,0,0,22,22,9,10,7,7,5,5
+India,"Financial Year (Apr - Mar), 2015",Andhra Pradesh,35-40,2,2,3,3,4,4,0,0,8,8,7,9,4,3,3,2
+India,"Financial Year (Apr - Mar), 2015",Andhra Pradesh,40-45,2,1,2,2,4,5,0,0,5,5,5,5,3,1,2,1
+India,"Financial Year (Apr - Mar), 2015",Andhra Pradesh,45-50,1,1,1,1,5,5,0,0,6,6,4,3,2,1,1,1
+India,"Financial Year (Apr - Mar), 2015",Andhra Pradesh,>50,4,2,7,5,28,30,0,0,15,14,22,13,8,2,5,2
+India,"Financial Year (Apr - Mar), 2015",Arunachal Pradesh,<=30,82,81,84,81,72,66,100,100,71,71,84,81,92,92,83,81
+India,"Financial Year (Apr - Mar), 2015",Arunachal Pradesh,30-35,5,5,4,5,6,8,0,0,10,10,6,6,5,5,5,5
+India,"Financial Year (Apr - Mar), 2015",Arunachal Pradesh,35-40,2,2,2,3,7,8,0,0,6,6,3,3,3,3,2,3
+India,"Financial Year (Apr - Mar), 2015",Arunachal Pradesh,40-45,2,3,2,2,0,0,0,0,4,4,1,2,0,0,2,2
+India,"Financial Year (Apr - Mar), 2015",Arunachal Pradesh,45-50,2,2,2,2,3,5,0,0,4,4,2,2,0,0,2,2
+India,"Financial Year (Apr - Mar), 2015",Arunachal Pradesh,>50,7,7,6,8,12,13,0,0,6,6,4,6,0,0,6,7
+India,"Financial Year (Apr - Mar), 2015",Assam,<=30,73,69,88,83,59,50,90,85,79,78,83,72,87,86,77,72
+India,"Financial Year (Apr - Mar), 2015",Assam,30-35,7,8,3,5,5,8,3,5,7,7,4,22,5,5,6,8
+India,"Financial Year (Apr - Mar), 2015",Assam,35-40,5,6,3,5,8,16,3,4,6,6,2,0,2,3,4,5
+India,"Financial Year (Apr - Mar), 2015",Assam,40-45,4,4,2,3,3,3,1,2,3,3,2,6,3,3,3,4
+India,"Financial Year (Apr - Mar), 2015",Assam,45-50,3,3,1,1,3,5,1,1,2,2,1,0,1,1,2,3
+India,"Financial Year (Apr - Mar), 2015",Assam,>50,8,10,4,4,22,19,2,3,4,4,8,0,2,2,7,8
+India,"Financial Year (Apr - Mar), 2015",Bihar,<=30,19,17,17,7,15,4,10,9,58,77,10,3,51,60,18,13
+India,"Financial Year (Apr - Mar), 2015",Bihar,30-35,9,9,6,6,5,4,7,7,2,2,4,3,4,3,8,8
+India,"Financial Year (Apr - Mar), 2015",Bihar,35-40,9,9,7,7,5,3,7,6,3,4,5,4,7,6,8,8
+India,"Financial Year (Apr - Mar), 2015",Bihar,40-45,9,9,8,8,6,7,7,7,2,0,5,5,3,3,8,9
+India,"Financial Year (Apr - Mar), 2015",Bihar,45-50,8,8,8,9,5,6,7,7,4,5,5,5,5,4,8,8
+India,"Financial Year (Apr - Mar), 2015",Bihar,>50,46,48,55,62,62,76,62,63,30,13,71,80,29,24,51,54
+India,"Financial Year (Apr - Mar), 2015",Chandigarh,<=30,100,100,90,83,74,67,0,0,100,100,79,71,0,0,80,73
+India,"Financial Year (Apr - Mar), 2015",Chandigarh,30-35,0,0,7,8,21,29,0,0,0,0,10,13,0,0,14,17
+India,"Financial Year (Apr - Mar), 2015",Chandigarh,35-40,0,0,3,8,4,5,0,0,0,0,9,12,0,0,5,8
+India,"Financial Year (Apr - Mar), 2015",Chandigarh,45-50,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1,1
+India,"Financial Year (Apr - Mar), 2015",Chandigarh,>50,0,0,0,0,1,0,0,0,0,0,1,2,0,0,1,1
+India,"Financial Year (Apr - Mar), 2015",Chhattisgarh,<=30,86,86,85,82,57,31,74,75,48,50,73,80,57,56,81,82
+India,"Financial Year (Apr - Mar), 2015",Chhattisgarh,30-35,6,6,5,6,9,19,8,8,13,15,9,20,12,12,7,7
+India,"Financial Year (Apr - Mar), 2015",Chhattisgarh,35-40,3,3,2,1,6,4,5,5,9,8,4,0,9,9,4,4
+India,"Financial Year (Apr - Mar), 2015",Chhattisgarh,40-45,2,2,2,0,5,19,4,4,4,5,2,0,6,6,2,2
+India,"Financial Year (Apr - Mar), 2015",Chhattisgarh,45-50,1,1,1,3,3,8,2,2,6,7,1,0,4,4,2,2
+India,"Financial Year (Apr - Mar), 2015",Chhattisgarh,>50,2,2,4,9,20,19,6,6,19,16,10,0,13,13,4,4
+India,"Financial Year (Apr - Mar), 2015",Dadra And Nagar Haveli,<=30,88,87,80,80,86,100,100,100,100,100,67,100,0,0,84,84
+India,"Financial Year (Apr - Mar), 2015",Dadra And Nagar Haveli,30-35,6,6,10,10,0,0,0,0,0,0,11,0,0,0,7,7
+India,"Financial Year (Apr - Mar), 2015",Dadra And Nagar Haveli,35-40,4,4,1,1,0,0,0,0,0,0,22,0,0,0,3,3
+India,"Financial Year (Apr - Mar), 2015",Dadra And Nagar Haveli,40-45,2,2,5,5,14,0,0,0,0,0,0,0,0,0,3,3
+India,"Financial Year (Apr - Mar), 2015",Dadra And Nagar Haveli,45-50,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,1
+India,"Financial Year (Apr - Mar), 2015",Dadra And Nagar Haveli,>50,1,1,3,4,0,0,0,0,0,0,0,0,0,0,2,2
+India,"Financial Year (Apr - Mar), 2015",Daman And Diu,<=30,81,79,100,0,38,0,95,95,100,100,60,100,0,0,83,86
+India,"Financial Year (Apr - Mar), 2015",Daman And Diu,30-35,2,2,0,0,0,0,3,3,0,0,20,0,0,0,3,2
+India,"Financial Year (Apr - Mar), 2015",Daman And Diu,40-45,5,6,0,0,0,0,3,3,0,0,20,0,0,0,4,4
+India,"Financial Year (Apr - Mar), 2015",Daman And Diu,45-50,2,2,0,0,38,0,0,0,0,0,0,0,0,0,3,1
+India,"Financial Year (Apr - Mar), 2015",Daman And Diu,>50,10,12,0,0,25,0,0,0,0,0,0,0,0,0,7,6
+India,"Financial Year (Apr - Mar), 2015",Delhi,<=30,28,14,57,100,67,68,69,61,58,58,63,83,47,46,45,33
+India,"Financial Year (Apr - Mar), 2015",Delhi,30-35,20,23,18,0,21,23,9,11,22,23,20,4,30,33,20,23
+India,"Financial Year (Apr - Mar), 2015",Delhi,35-40,22,29,11,0,7,7,6,11,11,11,8,0,14,13,15,21
+India,"Financial Year (Apr - Mar), 2015",Delhi,40-45,13,17,5,0,2,1,0,0,4,4,4,4,4,4,8,11
+India,"Financial Year (Apr - Mar), 2015",Delhi,45-50,8,9,5,0,1,0,6,6,1,2,2,0,0,0,5,6
+India,"Financial Year (Apr - Mar), 2015",Delhi,>50,9,9,5,0,2,0,11,11,3,3,3,8,5,3,6,6
+India,"Financial Year (Apr - Mar), 2015",Goa,<=30,92,99,99,100,67,33,85,0,80,80,69,0,91,100,89,99
+India,"Financial Year (Apr - Mar), 2015",Goa,30-35,3,1,1,0,13,17,0,0,20,20,25,0,6,0,6,1
+India,"Financial Year (Apr - Mar), 2015",Goa,35-40,3,0,0,0,7,17,15,0,0,0,6,0,3,0,3,0
+India,"Financial Year (Apr - Mar), 2015",Goa,40-45,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2015",Goa,45-50,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2015",Goa,>50,1,0,0,0,13,33,0,0,0,0,0,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2015",Gujarat,<=30,87,88,64,65,41,63,46,50,36,70,57,38,53,52,69,72
+India,"Financial Year (Apr - Mar), 2015",Gujarat,30-35,6,7,17,19,12,6,11,15,19,2,10,14,16,18,14,15
+India,"Financial Year (Apr - Mar), 2015",Gujarat,35-40,3,3,9,9,10,8,11,15,18,11,9,10,10,8,7,7
+India,"Financial Year (Apr - Mar), 2015",Gujarat,40-45,1,1,4,4,8,8,9,8,11,2,8,5,8,7,4,3
+India,"Financial Year (Apr - Mar), 2015",Gujarat,45-50,1,1,2,2,6,0,7,5,6,7,5,14,3,3,2,1
+India,"Financial Year (Apr - Mar), 2015",Gujarat,>50,1,1,4,2,23,15,16,8,11,9,11,19,11,12,4,2
+India,"Financial Year (Apr - Mar), 2015",Haryana,<=30,71,68,87,33,58,64,74,74,81,82,69,75,77,77,73,72
+India,"Financial Year (Apr - Mar), 2015",Haryana,30-35,12,13,6,33,12,18,5,5,6,6,13,25,9,9,10,10
+India,"Financial Year (Apr - Mar), 2015",Haryana,35-40,6,7,3,33,7,6,4,4,4,4,7,0,4,4,6,6
+India,"Financial Year (Apr - Mar), 2015",Haryana,40-45,4,4,2,0,6,3,3,3,3,3,4,0,3,3,4,4
+India,"Financial Year (Apr - Mar), 2015",Haryana,45-50,2,2,1,0,4,3,2,2,2,1,2,0,2,2,2,2
+India,"Financial Year (Apr - Mar), 2015",Haryana,>50,5,5,2,0,13,6,11,11,4,4,5,0,5,5,6,6
+India,"Financial Year (Apr - Mar), 2015",Himachal Pradesh,<=30,97,97,99,100,77,88,97,97,91,91,92,71,94,94,95,96
+India,"Financial Year (Apr - Mar), 2015",Himachal Pradesh,30-35,2,2,1,0,7,0,1,1,3,3,4,14,2,3,2,2
+India,"Financial Year (Apr - Mar), 2015",Himachal Pradesh,35-40,1,1,1,0,4,4,1,1,2,2,2,0,1,1,1,1
+India,"Financial Year (Apr - Mar), 2015",Himachal Pradesh,40-45,0,0,0,0,3,4,0,0,1,1,1,0,1,1,1,1
+India,"Financial Year (Apr - Mar), 2015",Himachal Pradesh,45-50,0,0,0,0,2,0,0,0,1,1,0,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2015",Himachal Pradesh,>50,0,0,0,0,7,4,1,1,2,2,1,14,1,1,1,1
+India,"Financial Year (Apr - Mar), 2015",Jammu And Kashmir,<=30,96,96,96,96,67,69,100,100,80,80,90,93,99,99,95,96
+India,"Financial Year (Apr - Mar), 2015",Jammu And Kashmir,30-35,2,2,2,1,13,13,0,0,2,2,3,2,1,1,2,2
+India,"Financial Year (Apr - Mar), 2015",Jammu And Kashmir,35-40,1,1,1,1,3,3,0,0,7,8,2,2,0,0,1,1
+India,"Financial Year (Apr - Mar), 2015",Jammu And Kashmir,40-45,1,1,0,0,4,6,0,0,2,2,1,1,0,0,1,1
+India,"Financial Year (Apr - Mar), 2015",Jammu And Kashmir,45-50,0,0,0,0,4,3,0,0,4,4,1,1,0,0,0,0
+India,"Financial Year (Apr - Mar), 2015",Jammu And Kashmir,>50,0,1,1,0,9,5,0,0,4,3,2,1,0,0,1,1
+India,"Financial Year (Apr - Mar), 2015",JharkhAnd,<=30,55,54,33,28,22,24,39,24,25,25,20,12,21,37,45,44
+India,"Financial Year (Apr - Mar), 2015",JharkhAnd,30-35,11,11,10,11,10,5,10,18,8,8,8,6,7,5,10,11
+India,"Financial Year (Apr - Mar), 2015",JharkhAnd,35-40,8,8,10,10,10,19,8,6,6,6,7,6,7,5,8,9
+India,"Financial Year (Apr - Mar), 2015",JharkhAnd,40-45,6,6,8,9,7,2,6,0,7,6,6,6,6,2,7,7
+India,"Financial Year (Apr - Mar), 2015",JharkhAnd,45-50,4,5,7,8,7,5,5,6,4,4,6,6,5,1,5,6
+India,"Financial Year (Apr - Mar), 2015",JharkhAnd,>50,17,17,32,34,44,45,33,47,51,50,53,64,54,50,24,24
+India,"Financial Year (Apr - Mar), 2015",Karnataka,<=30,90,92,68,74,50,19,66,61,68,71,57,54,64,64,77,82
+India,"Financial Year (Apr - Mar), 2015",Karnataka,30-35,3,3,9,9,10,12,10,9,3,2,11,13,11,11,7,6
+India,"Financial Year (Apr - Mar), 2015",Karnataka,35-40,2,2,6,5,7,15,6,8,8,7,8,8,8,8,4,4
+India,"Financial Year (Apr - Mar), 2015",Karnataka,40-45,1,1,5,3,6,4,4,1,5,7,5,7,6,6,3,2
+India,"Financial Year (Apr - Mar), 2015",Karnataka,45-50,1,1,3,2,4,0,4,9,0,0,4,5,4,4,2,2
+India,"Financial Year (Apr - Mar), 2015",Karnataka,>50,3,2,9,6,23,50,9,12,15,12,15,13,8,7,7,4
+India,"Financial Year (Apr - Mar), 2015",Kerala,<=30,93,94,91,88,76,81,94,83,81,80,84,71,88,94,90,89
+India,"Financial Year (Apr - Mar), 2015",Kerala,30-35,4,4,6,7,10,8,5,14,12,13,8,12,7,2,6,6
+India,"Financial Year (Apr - Mar), 2015",Kerala,35-40,1,1,2,4,6,7,1,2,4,5,4,8,3,4,2,3
+India,"Financial Year (Apr - Mar), 2015",Kerala,40-45,1,1,1,1,3,2,0,2,1,1,2,3,1,0,1,1
+India,"Financial Year (Apr - Mar), 2015",Kerala,45-50,0,0,0,0,2,1,0,0,1,1,1,2,0,0,0,0
+India,"Financial Year (Apr - Mar), 2015",Kerala,>50,0,1,0,0,3,0,0,0,1,1,2,3,1,0,1,1
+India,"Financial Year (Apr - Mar), 2015",Lakshadweep,<=30,100,100,100,100,100,100,100,100,100,100,100,100,0,0,100,100
+India,"Financial Year (Apr - Mar), 2015",Madhya Pradesh,<=30,77,76,82,75,37,22,42,42,51,56,61,32,80,100,69,67
+India,"Financial Year (Apr - Mar), 2015",Madhya Pradesh,30-35,7,7,4,4,8,10,9,9,9,14,9,21,7,0,7,8
+India,"Financial Year (Apr - Mar), 2015",Madhya Pradesh,35-40,4,5,2,4,8,18,8,8,8,4,6,5,2,0,5,6
+India,"Financial Year (Apr - Mar), 2015",Madhya Pradesh,40-45,3,3,2,4,6,4,7,7,7,14,4,11,4,0,4,4
+India,"Financial Year (Apr - Mar), 2015",Madhya Pradesh,45-50,2,2,1,0,5,6,5,5,3,4,3,5,4,0,3,3
+India,"Financial Year (Apr - Mar), 2015",Madhya Pradesh,>50,7,7,8,13,36,40,29,29,21,8,16,26,2,0,12,12
+India,"Financial Year (Apr - Mar), 2015",Maharashtra,<=30,85,91,70,79,45,35,85,70,28,45,55,47,56,70,75,86
+India,"Financial Year (Apr - Mar), 2015",Maharashtra,30-35,6,5,11,11,15,17,5,4,20,16,13,15,17,11,9,7
+India,"Financial Year (Apr - Mar), 2015",Maharashtra,35-40,3,2,7,5,13,16,1,0,18,14,11,12,11,9,6,3
+India,"Financial Year (Apr - Mar), 2015",Maharashtra,40-45,2,1,4,3,9,8,2,4,14,8,6,7,7,4,4,1
+India,"Financial Year (Apr - Mar), 2015",Maharashtra,45-50,1,0,3,1,4,5,2,9,8,7,4,5,4,3,2,1
+India,"Financial Year (Apr - Mar), 2015",Maharashtra,>50,3,1,5,2,14,19,4,13,12,10,11,13,5,3,5,1
+India,"Financial Year (Apr - Mar), 2015",Manipur,<=30,94,94,95,95,60,91,97,96,91,100,85,94,94,97,92,95
+India,"Financial Year (Apr - Mar), 2015",Manipur,30-35,2,2,2,3,9,0,3,4,5,0,6,3,1,1,3,2
+India,"Financial Year (Apr - Mar), 2015",Manipur,35-40,2,1,1,0,8,4,0,0,0,0,3,1,0,0,2,1
+India,"Financial Year (Apr - Mar), 2015",Manipur,40-45,1,1,1,1,5,4,0,0,0,0,2,1,1,1,1,1
+India,"Financial Year (Apr - Mar), 2015",Manipur,45-50,0,0,0,0,5,0,0,0,0,0,1,1,1,0,1,0
+India,"Financial Year (Apr - Mar), 2015",Manipur,>50,1,1,1,1,13,0,0,0,5,0,3,0,3,1,2,1
+India,"Financial Year (Apr - Mar), 2015",Meghalaya,<=30,80,81,86,100,79,75,94,97,81,89,76,80,77,78,84,85
+India,"Financial Year (Apr - Mar), 2015",Meghalaya,30-35,6,6,3,0,7,17,2,1,10,5,3,0,7,9,5,5
+India,"Financial Year (Apr - Mar), 2015",Meghalaya,35-40,4,4,3,0,10,8,1,1,0,0,7,10,5,4,3,3
+India,"Financial Year (Apr - Mar), 2015",Meghalaya,40-45,3,3,1,0,3,0,1,0,3,5,6,10,4,4,2,2
+India,"Financial Year (Apr - Mar), 2015",Meghalaya,45-50,2,2,1,0,0,0,1,0,0,0,2,0,4,0,1,1
+India,"Financial Year (Apr - Mar), 2015",Meghalaya,>50,5,4,5,0,0,0,1,0,6,0,7,0,2,4,4,3
+India,"Financial Year (Apr - Mar), 2015",Mizoram,<=30,89,88,92,75,0,0,98,99,0,0,0,0,0,0,93,92
+India,"Financial Year (Apr - Mar), 2015",Mizoram,30-35,3,4,2,25,0,0,0,0,0,0,0,0,0,0,2,2
+India,"Financial Year (Apr - Mar), 2015",Mizoram,35-40,2,3,3,0,0,0,0,0,0,0,0,0,0,0,2,2
+India,"Financial Year (Apr - Mar), 2015",Mizoram,40-45,2,2,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+India,"Financial Year (Apr - Mar), 2015",Mizoram,45-50,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+India,"Financial Year (Apr - Mar), 2015",Mizoram,>50,3,3,1,0,0,0,0,0,0,0,0,0,0,0,2,2
+India,"Financial Year (Apr - Mar), 2015",NagalAnd,<=30,97,97,98,98,59,83,95,95,89,88,85,100,98,98,94,97
+India,"Financial Year (Apr - Mar), 2015",NagalAnd,30-35,1,2,1,1,12,0,3,3,2,2,6,0,1,1,2,1
+India,"Financial Year (Apr - Mar), 2015",NagalAnd,35-40,0,0,0,0,6,17,3,3,4,5,4,0,1,1,1,0
+India,"Financial Year (Apr - Mar), 2015",NagalAnd,40-45,1,1,0,0,4,0,0,0,0,0,1,0,0,0,1,0
+India,"Financial Year (Apr - Mar), 2015",NagalAnd,45-50,0,0,0,0,2,0,0,0,2,2,1,0,1,1,1,0
+India,"Financial Year (Apr - Mar), 2015",NagalAnd,>50,1,1,0,0,17,0,0,0,2,2,3,0,0,0,1,0
+India,"Financial Year (Apr - Mar), 2015",Odisha,<=30,86,86,72,70,48,32,65,68,65,65,59,57,64,47,78,78
+India,"Financial Year (Apr - Mar), 2015",Odisha,30-35,6,7,11,12,10,19,13,14,12,13,12,13,11,14,9,9
+India,"Financial Year (Apr - Mar), 2015",Odisha,35-40,3,3,6,7,6,14,8,8,5,4,8,9,8,11,5,5
+India,"Financial Year (Apr - Mar), 2015",Odisha,40-45,2,2,4,4,5,3,4,5,2,2,7,8,6,8,3,3
+India,"Financial Year (Apr - Mar), 2015",Odisha,45-50,1,1,2,2,4,5,3,3,3,4,4,5,4,6,2,2
+India,"Financial Year (Apr - Mar), 2015",Odisha,>50,2,2,5,5,28,27,7,4,13,13,10,8,8,13,4,4
+India,"Financial Year (Apr - Mar), 2015",Puducherry,<=30,96,95,100,100,85,80,0,0,98,98,87,95,100,100,93,96
+India,"Financial Year (Apr - Mar), 2015",Puducherry,30-35,3,3,0,0,7,0,0,0,0,0,8,3,0,0,4,2
+India,"Financial Year (Apr - Mar), 2015",Puducherry,35-40,1,1,0,0,4,20,100,100,2,2,3,3,0,0,2,1
+India,"Financial Year (Apr - Mar), 2015",Puducherry,40-45,0,0,0,0,3,0,0,0,0,0,1,0,0,0,1,0
+India,"Financial Year (Apr - Mar), 2015",Puducherry,45-50,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2015",Puducherry,>50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2015",Punjab,<=30,79,77,97,96,74,70,87,87,76,80,87,82,84,85,82,80
+India,"Financial Year (Apr - Mar), 2015",Punjab,30-35,9,9,1,2,9,11,4,4,8,7,6,8,5,5,7,8
+India,"Financial Year (Apr - Mar), 2015",Punjab,35-40,4,5,0,0,5,6,2,2,5,5,3,5,3,3,4,4
+India,"Financial Year (Apr - Mar), 2015",Punjab,40-45,3,3,0,0,3,4,2,2,3,3,1,1,2,2,2,3
+India,"Financial Year (Apr - Mar), 2015",Punjab,45-50,1,1,0,1,2,3,1,1,2,2,1,1,1,1,1,1
+India,"Financial Year (Apr - Mar), 2015",Punjab,>50,4,4,0,1,7,6,4,4,5,3,2,2,4,4,4,4
+India,"Financial Year (Apr - Mar), 2015",Rajasthan,<=30,76,75,80,77,52,55,85,85,59,59,74,77,82,83,74,73
+India,"Financial Year (Apr - Mar), 2015",Rajasthan,30-35,8,8,7,8,12,13,7,7,10,11,9,9,7,5,8,9
+India,"Financial Year (Apr - Mar), 2015",Rajasthan,35-40,5,5,4,5,10,10,4,4,5,5,6,5,4,4,5,6
+India,"Financial Year (Apr - Mar), 2015",Rajasthan,40-45,3,3,3,3,7,7,1,0,4,5,4,3,3,5,4,4
+India,"Financial Year (Apr - Mar), 2015",Rajasthan,45-50,2,2,2,2,5,5,1,1,4,5,2,2,1,2,2,2
+India,"Financial Year (Apr - Mar), 2015",Rajasthan,>50,6,6,4,5,15,11,2,2,18,15,5,4,3,1,7,6
+India,"Financial Year (Apr - Mar), 2015",Sikkim,<=30,99,99,99,99,94,100,100,100,86,86,100,100,100,100,99,99
+India,"Financial Year (Apr - Mar), 2015",Sikkim,30-35,0,0,0,1,1,0,0,0,14,14,0,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2015",Sikkim,35-40,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2015",Sikkim,45-50,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2015",Sikkim,>50,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2015",Tamil Nadu,<=30,82,83,84,89,79,84,93,99,68,81,87,90,85,95,82,85
+India,"Financial Year (Apr - Mar), 2015",Tamil Nadu,30-35,8,9,8,6,8,4,2,0,12,12,6,5,5,3,8,8
+India,"Financial Year (Apr - Mar), 2015",Tamil Nadu,35-40,4,4,3,2,5,4,2,1,7,4,3,2,3,1,4,3
+India,"Financial Year (Apr - Mar), 2015",Tamil Nadu,40-45,2,2,2,1,3,2,4,0,4,1,1,1,2,0,2,1
+India,"Financial Year (Apr - Mar), 2015",Tamil Nadu,45-50,1,1,1,0,1,1,0,0,3,0,1,0,1,0,1,1
+India,"Financial Year (Apr - Mar), 2015",Tamil Nadu,>50,2,2,2,1,4,5,0,0,7,0,2,3,4,1,3,2
+India,"Financial Year (Apr - Mar), 2015",Telangana,<=30,82,85,77,81,34,31,0,0,71,72,43,59,85,92,77,85
+India,"Financial Year (Apr - Mar), 2015",Telangana,30-35,7,7,6,6,11,12,0,0,20,21,8,9,5,4,7,6
+India,"Financial Year (Apr - Mar), 2015",Telangana,35-40,3,3,3,2,11,14,0,0,4,4,7,7,3,2,4,3
+India,"Financial Year (Apr - Mar), 2015",Telangana,40-45,2,1,2,2,10,12,0,0,3,2,5,4,2,1,2,1
+India,"Financial Year (Apr - Mar), 2015",Telangana,45-50,1,1,2,2,5,6,0,0,1,1,5,3,1,0,2,1
+India,"Financial Year (Apr - Mar), 2015",Telangana,>50,5,3,10,8,28,25,0,0,2,1,32,17,4,1,9,3
+India,"Financial Year (Apr - Mar), 2015",Tripura,<=30,94,97,97,97,76,78,100,100,74,69,88,88,90,89,93,94
+India,"Financial Year (Apr - Mar), 2015",Tripura,30-35,2,1,2,1,9,8,0,0,12,14,7,8,10,11,3,3
+India,"Financial Year (Apr - Mar), 2015",Tripura,35-40,1,1,1,0,9,9,0,0,12,14,2,2,0,0,2,1
+India,"Financial Year (Apr - Mar), 2015",Tripura,40-45,1,0,0,0,3,3,0,0,3,3,1,1,0,0,1,1
+India,"Financial Year (Apr - Mar), 2015",Tripura,45-50,0,0,0,0,2,1,0,0,0,0,1,1,0,0,1,0
+India,"Financial Year (Apr - Mar), 2015",Tripura,>50,1,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0
+India,"Financial Year (Apr - Mar), 2015",Uttar Pradesh,<=30,42,44,30,40,12,25,67,74,14,28,21,39,26,42,47,52
+India,"Financial Year (Apr - Mar), 2015",Uttar Pradesh,30-35,10,10,7,7,4,12,7,7,4,7,6,17,8,10,9,9
+India,"Financial Year (Apr - Mar), 2015",Uttar Pradesh,35-40,8,9,6,4,4,5,6,5,4,4,5,0,6,7,7,8
+India,"Financial Year (Apr - Mar), 2015",Uttar Pradesh,40-45,6,7,6,7,4,6,4,3,5,4,4,0,5,4,6,6
+India,"Financial Year (Apr - Mar), 2015",Uttar Pradesh,45-50,5,5,5,3,4,7,3,2,4,6,4,6,5,0,4,4
+India,"Financial Year (Apr - Mar), 2015",Uttar Pradesh,>50,29,25,47,39,72,45,14,9,69,51,59,39,50,36,28,21
+India,"Financial Year (Apr - Mar), 2015",UttarakhAnd,<=30,91,92,72,94,28,28,91,92,76,84,50,78,87,90,87,92
+India,"Financial Year (Apr - Mar), 2015",UttarakhAnd,30-35,3,3,7,0,7,11,3,3,6,6,7,0,5,4,3,3
+India,"Financial Year (Apr - Mar), 2015",UttarakhAnd,35-40,2,2,4,6,8,2,2,1,4,3,12,22,2,2,2,2
+India,"Financial Year (Apr - Mar), 2015",UttarakhAnd,40-45,1,1,3,0,5,7,1,1,3,2,6,0,1,1,2,1
+India,"Financial Year (Apr - Mar), 2015",UttarakhAnd,45-50,1,1,2,0,4,0,1,1,2,2,1,0,1,1,1,1
+India,"Financial Year (Apr - Mar), 2015",UttarakhAnd,>50,3,2,13,0,48,52,2,2,10,3,24,0,3,2,5,2
+India,"Financial Year (Apr - Mar), 2015",West Bengal,<=30,81,81,80,68,48,54,52,50,10,10,65,71,40,39,73,72
+India,"Financial Year (Apr - Mar), 2015",West Bengal,30-35,6,7,6,10,10,15,9,9,8,8,9,3,11,12,7,7
+India,"Financial Year (Apr - Mar), 2015",West Bengal,35-40,4,4,4,3,5,7,8,8,10,10,4,12,11,11,5,5
+India,"Financial Year (Apr - Mar), 2015",West Bengal,40-45,2,3,3,6,4,7,6,6,14,15,5,6,11,11,4,4
+India,"Financial Year (Apr - Mar), 2015",West Bengal,45-50,2,2,2,3,4,4,5,5,15,15,5,0,7,8,3,3
+India,"Financial Year (Apr - Mar), 2015",West Bengal,>50,4,4,6,10,29,14,20,21,43,43,13,9,19,19,9,9

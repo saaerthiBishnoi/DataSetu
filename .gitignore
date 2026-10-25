@@ -1,0 +1,27 @@
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editors and operating systems
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+
+# Original scripts containing hardcoded credentials
+backup_before_env/
+
+# Local automation utility
+secure_db_connections.py
+
+WhatsApp Image 2026-09-20 at 10.26.56 PM.jpeg

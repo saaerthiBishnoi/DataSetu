@@ -1,0 +1,112 @@
+Country,Year,State/Ut Name,Additional Info,"Government Grade Xii Students Appeared (UOM:Number), Scaling Factor:1","Government Grade Xii Pass Percentage (UOM:%(Percentage)), Scaling Factor:1","Government-Aided Grade Xii Students Appeared (UOM:Number), Scaling Factor:1","Government-Aided Grade Xii Pass Percentage (UOM:%(Percentage)), Scaling Factor:1","Private Unaided Grade Xii Students Appeared (UOM:Number), Scaling Factor:1","Private Unaided Grade Xii Pass Percentage (UOM:%(Percentage)), Scaling Factor:1","Other Schools Grade Xii Students Appeared (UOM:Number), Scaling Factor:1","Other Schools Grade Xii Pass Percentage (UOM:%(Percentage)), Scaling Factor:1","Total Grade Xii Students Appeared (UOM:Number), Scaling Factor:1","Total Grade Xii Pass Percentage (UOM:%(Percentage)), Scaling Factor:1"
+India,"Financial Year (Apr - Mar), 2016",All India,,3318278,76,2156082,85,2682647,83,61501,74,8218508,81
+India,"Financial Year (Apr - Mar), 2016",Andaman And Nicobar Islands,,3695,79,248,90,419,96,0,0,4362,81
+India,"Financial Year (Apr - Mar), 2016",Andhra Pradesh,Data has not been submitted by state.,0,0,0,0,0,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2016",Arunachal Pradesh,,11980,56,212,91,226,75,0,0,12418,57
+India,"Financial Year (Apr - Mar), 2016",Assam,,89733,74,22055,73,30504,88,3574,80,145866,77
+India,"Financial Year (Apr - Mar), 2016",Bihar,,413316,43,5957,52,22969,40,10307,74,452549,43
+India,"Financial Year (Apr - Mar), 2016",Chandigarh,,10899,75,1798,56,5047,85,14,100,17758,76
+India,"Financial Year (Apr - Mar), 2016",Chhattisgarh,,95546,74,4850,81,35528,79,0,0,135924,75
+India,"Financial Year (Apr - Mar), 2016",Dadra And Nagar Haveli,,3153,57,0,0,574,84,0,0,3727,61
+India,"Financial Year (Apr - Mar), 2016",Daman And Diu,,588,58,702,49,163,75,0,0,1453,56
+India,"Financial Year (Apr - Mar), 2016",Delhi,,131633,90,13606,85,77515,94,0,0,222754,91
+India,"Financial Year (Apr - Mar), 2016",Goa,,2200,81,13838,90,390,98,0,0,16428,89
+India,"Financial Year (Apr - Mar), 2016",Gujarat,,18611,68,233093,75,164642,83,38,68,416384,78
+India,"Financial Year (Apr - Mar), 2016",Haryana,,98304,68,14471,73,165280,80,208,85,278263,75
+India,"Financial Year (Apr - Mar), 2016",Himachal Pradesh,,82949,79,0,0,19476,89,0,0,102425,81
+India,"Financial Year (Apr - Mar), 2016",Jammu And Kashmir,,80525,64,0,0,16685,82,0,0,97210,67
+India,"Financial Year (Apr - Mar), 2016",Jharkhand,,91015,66,8451,77,102002,75,1640,97,203108,71
+India,"Financial Year (Apr - Mar), 2016",Karnataka,Data has not been submitted by state.,0,0,0,0,0,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2016",Kerala,,124914,82,138886,88,45583,78,243,88,309626,84
+India,"Financial Year (Apr - Mar), 2016",Lakshadweep,,86,0,0,0,0,0,0,0,86,0
+India,"Financial Year (Apr - Mar), 2016",Madhya Pradesh,,300814,78,16277,73,222474,76,0,0,539565,77
+India,"Financial Year (Apr - Mar), 2016",Maharashtra,,35099,86,985092,89,240725,89,70,97,1260986,88
+India,"Financial Year (Apr - Mar), 2016",Manipur,,6857,62,1056,50,15445,84,0,0,23358,76
+India,"Financial Year (Apr - Mar), 2016",Meghalaya,,2932,81,10332,86,6057,81,106,99,19427,84
+India,"Financial Year (Apr - Mar), 2016",Mizoram,,2759,75,2003,86,4460,79,94,67,9316,79
+India,"Financial Year (Apr - Mar), 2016",Nagaland,,1105,78,0,0,5944,88,0,0,7049,86
+India,"Financial Year (Apr - Mar), 2016",Odisha,,17086,73,83077,69,30596,69,7749,73,138508,70
+India,"Financial Year (Apr - Mar), 2016",Puducherry,Data has not been submitted by state.,0,0,0,0,0,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2016",Punjab,,149459,77,33247,77,134247,85,7968,82,324921,81
+India,"Financial Year (Apr - Mar), 2016",Rajasthan,,284397,89,0,0,348439,89,338,33,633174,89
+India,"Financial Year (Apr - Mar), 2016",Sikkim,,6041,86,356,99,526,84,0,0,6923,87
+India,"Financial Year (Apr - Mar), 2016",Tamil Nadu,,406009,87,229615,95,266692,98,28,100,902344,92
+India,"Financial Year (Apr - Mar), 2016",Telangana,,59189,74,1689,43,115387,70,0,0,176265,71
+India,"Financial Year (Apr - Mar), 2016",Tripura,,18470,78,3060,83,1641,92,27,78,23198,79
+India,"Financial Year (Apr - Mar), 2016",Uttar Pradesh,,41457,85,303692,84,554601,80,2684,73,902434,81
+India,"Financial Year (Apr - Mar), 2016",Uttarakhand,,77809,80,23707,79,37065,79,167,119,138748,80
+India,"Financial Year (Apr - Mar), 2016",West Bengal,,649648,84,4712,79,11345,87,26246,71,691951,83
+India,"Financial Year (Apr - Mar), 2015",All India,,3489452,79,2395733,85,2966738,85,70324,76,8922247,83
+India,"Financial Year (Apr - Mar), 2015",Andaman And Nicobar Islands,,4180,73,203,81,363,96,0,0,4746,75
+India,"Financial Year (Apr - Mar), 2015",Andhra Pradesh,Data has not been submitted by state.,0,0,0,0,0,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2015",Arunachal Pradesh,,10191,65,248,91,163,77,0,0,10602,66
+India,"Financial Year (Apr - Mar), 2015",Assam,,115458,78,24341,83,31015,89,7543,83,178357,81
+India,"Financial Year (Apr - Mar), 2015",Bihar,,406717,62,7403,73,20975,62,10116,84,445211,63
+India,"Financial Year (Apr - Mar), 2015",Chandigarh,Data has not been submitted by state.,0,0,0,0,0,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2015",Chhattisgarh,,192218,77,8707,80,64659,80,0,0,265584,78
+India,"Financial Year (Apr - Mar), 2015",Dadra And Nagar Haveli,,1639,58,0,0,479,85,0,0,2118,64
+India,"Financial Year (Apr - Mar), 2015",Daman And Diu,,657,60,1145,70,121,85,0,0,1923,67
+India,"Financial Year (Apr - Mar), 2015",Delhi,,140534,90,13790,88,75285,94,0,0,229609,91
+India,"Financial Year (Apr - Mar), 2015",Goa,,2035,88,13223,90,346,93,0,0,15604,89
+India,"Financial Year (Apr - Mar), 2015",Gujarat,,23024,64,258777,67,162740,81,28,61,444569,72
+India,"Financial Year (Apr - Mar), 2015",Haryana,,117266,64,17029,73,168583,79,355,74,303233,73
+India,"Financial Year (Apr - Mar), 2015",Himachal Pradesh,,75207,85,0,0,15440,90,0,0,90647,86
+India,"Financial Year (Apr - Mar), 2015",Jammu And Kashmir,,67332,55,0,0,12237,78,0,0,79569,59
+India,"Financial Year (Apr - Mar), 2015",Jharkhand,,0,0,0,0,1490,71,0,0,1490,71
+India,"Financial Year (Apr - Mar), 2015",Karnataka,,91329,71,84751,72,99328,79,309,52,275717,74
+India,"Financial Year (Apr - Mar), 2015",Kerala,,142022,84,148216,84,46314,86,753,97,337305,84
+India,"Financial Year (Apr - Mar), 2015",Lakshadweep,,803,76,0,0,0,0,0,0,803,76
+India,"Financial Year (Apr - Mar), 2015",Madhya Pradesh,,324619,80,18968,76,234786,78,12,83,578385,79
+India,"Financial Year (Apr - Mar), 2015",Maharashtra,,33128,87,971078,87,203411,88,164,91,1207781,87
+India,"Financial Year (Apr - Mar), 2015",Manipur,,7410,59,991,45,16642,81,0,0,25043,73
+India,"Financial Year (Apr - Mar), 2015",Meghalaya,,262,74,296,80,269,64,0,0,827,73
+India,"Financial Year (Apr - Mar), 2015",Mizoram,Data has not been submitted by state.,0,0,0,0,0,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2015",Nagaland,,678,69,0,0,4630,79,0,0,5308,78
+India,"Financial Year (Apr - Mar), 2015",Odisha,,21924,81,85869,74,31033,78,5169,58,143995,75
+India,"Financial Year (Apr - Mar), 2015",Puducherry,,493,68,0,0,731,99,0,0,1224,87
+India,"Financial Year (Apr - Mar), 2015",Punjab,,172729,88,34664,88,112912,90,11627,87,331932,89
+India,"Financial Year (Apr - Mar), 2015",Rajasthan,,261434,87,0,0,425524,89,127,96,687085,88
+India,"Financial Year (Apr - Mar), 2015",Sikkim,Data has not been submitted by state.,0,0,0,0,0,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2015",Tamil Nadu,,382744,86,228679,94,220358,97,88,100,831869,91
+India,"Financial Year (Apr - Mar), 2015",Telangana,,51421,78,1586,45,107320,70,0,0,160327,72
+India,"Financial Year (Apr - Mar), 2015",Tripura,,19061,81,2939,83,1376,97,22,100,23398,82
+India,"Financial Year (Apr - Mar), 2015",Uttar Pradesh,,57616,95,445063,93,859457,84,5661,85,1367797,88
+India,"Financial Year (Apr - Mar), 2015",Uttarakhand,,76222,82,23759,77,38740,79,47,85,138768,81
+India,"Financial Year (Apr - Mar), 2015",West Bengal,,689099,83,4008,88,10011,83,28303,68,731421,83
+India,"Financial Year (Apr - Mar), 2014",All India,,3739660,80,2483314,86,3048738,86,75908,82,9347620,84
+India,"Financial Year (Apr - Mar), 2014",Andaman And Nicobar Islands,,4574,66,174,95,352,88,0,0,5100,68
+India,"Financial Year (Apr - Mar), 2014",Andhra Pradesh,Data has not been submitted by state.,0,0,0,0,0,0,0,0,0,0
+India,"Financial Year (Apr - Mar), 2014",Arunachal Pradesh,,13021,67,290,98,1494,88,0,0,14805,70
+India,"Financial Year (Apr - Mar), 2014",Assam,,120282,75,31710,79,30098,85,8034,79,190124,77
+India,"Financial Year (Apr - Mar), 2014",Bihar,,451948,88,12613,89,19769,80,10037,93,494367,88
+India,"Financial Year (Apr - Mar), 2014",Chandigarh,,11093,75,1679,78,5157,88,0,0,17929,79
+India,"Financial Year (Apr - Mar), 2014",Chhattisgarh,,198170,77,8991,82,68766,81,0,0,275927,78
+India,"Financial Year (Apr - Mar), 2014",Dadra And Nagar Haveli,,2145,72,0,0,409,98,0,0,2554,76
+India,"Financial Year (Apr - Mar), 2014",Daman And Diu,,1128,50,150,90,193,95,0,0,1471,60
+India,"Financial Year (Apr - Mar), 2014",Delhi,,146930,89,14361,89,74224,94,0,0,235515,91
+India,"Financial Year (Apr - Mar), 2014",Goa,,1684,84,13750,88,379,88,0,0,15813,88
+India,"Financial Year (Apr - Mar), 2014",Gujarat,,23565,61,284227,63,160604,84,51,59,468447,70
+India,"Financial Year (Apr - Mar), 2014",Haryana,,127285,54,18044,67,159416,77,496,70,305241,67
+India,"Financial Year (Apr - Mar), 2014",Himachal Pradesh,,80837,80,0,0,16782,91,0,0,97619,82
+India,"Financial Year (Apr - Mar), 2014",Jammu And Kashmir,,84081,54,0,0,15895,80,0,0,99976,58
+India,"Financial Year (Apr - Mar), 2014",Jharkhand,,97779,69,19982,88,85805,83,3985,99,207551,77
+India,"Financial Year (Apr - Mar), 2014",Karnataka,,91117,71,84627,72,99765,79,309,52,275818,74
+India,"Financial Year (Apr - Mar), 2014",Kerala,,136014,84,136031,86,50337,89,1289,92,323671,86
+India,"Financial Year (Apr - Mar), 2014",Lakshadweep,,938,63,0,0,0,0,0,0,938,63
+India,"Financial Year (Apr - Mar), 2014",Madhya Pradesh,,328224,76,21602,72,233906,79,0,0,583732,77
+India,"Financial Year (Apr - Mar), 2014",Maharashtra,,28513,90,903874,91,170014,89,48,83,1102449,90
+India,"Financial Year (Apr - Mar), 2014",Manipur,,8182,69,1930,46,17458,87,0,0,27570,79
+India,"Financial Year (Apr - Mar), 2014",Meghalaya,,4165,69,12838,83,6118,75,253,89,23374,79
+India,"Financial Year (Apr - Mar), 2014",Mizoram,,2768,81,1582,92,3319,86,0,0,7669,85
+India,"Financial Year (Apr - Mar), 2014",Nagaland,,2016,67,0,0,8069,81,0,0,10085,78
+India,"Financial Year (Apr - Mar), 2014",Odisha,,26728,89,80807,73,31338,81,5848,92,144721,78
+India,"Financial Year (Apr - Mar), 2014",Puducherry,,7503,77,1475,94,6579,98,0,0,15557,87
+India,"Financial Year (Apr - Mar), 2014",Punjab,,183880,88,36521,89,107082,90,15611,91,343094,89
+India,"Financial Year (Apr - Mar), 2014",Rajasthan,,264347,84,0,0,434311,89,344,81,699002,87
+India,"Financial Year (Apr - Mar), 2014",Sikkim,,6065,79,270,100,651,91,0,0,6986,81
+India,"Financial Year (Apr - Mar), 2014",Tamil Nadu,,382895,85,235093,93,211836,97,0,0,829824,90
+India,"Financial Year (Apr - Mar), 2014",Telangana,,55810,76,1342,47,112395,71,0,0,169547,72
+India,"Financial Year (Apr - Mar), 2014",Tripura,,19455,81,3091,82,1166,95,28,96,23740,82
+India,"Financial Year (Apr - Mar), 2014",Uttar Pradesh,,64866,94,522774,95,863835,89,1202,93,1452677,92
+India,"Financial Year (Apr - Mar), 2014",Uttarakhand,,83745,78,27962,75,38924,76,0,0,150631,77
+India,"Financial Year (Apr - Mar), 2014",West Bengal,,677907,82,5524,88,12292,86,28373,69,724096,81

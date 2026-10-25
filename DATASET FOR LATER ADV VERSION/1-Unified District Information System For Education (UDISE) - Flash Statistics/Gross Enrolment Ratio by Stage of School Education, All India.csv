@@ -1,0 +1,37 @@
+Country,Year,Gender,Social Category,"Primary (I-V) (UOM:Ratio), Scaling Factor:1","Upper Primary (Vi-Viii) (UOM:Ratio), Scaling Factor:1","Elementary (I-Viii) (UOM:Ratio), Scaling Factor:1","Secondary (Ix-X) (UOM:Ratio), Scaling Factor:1","Higher Secondary (Xi-Xii) (UOM:Ratio), Scaling Factor:1"
+India,"Financial Year (Apr - Mar), 2017",Boys,Scheduled Castes,113.51,95.4,106.58,81.81,48.04
+India,"Financial Year (Apr - Mar), 2017",Girls,Scheduled Castes,114.09,97.9,107.93,82.57,50.35
+India,"Financial Year (Apr - Mar), 2017",Total,Scheduled Castes,113.79,96.6,107.23,82.17,49.13
+India,"Financial Year (Apr - Mar), 2017",Boys, Scheduled Tribes,112.81,97.96,107.31,75.77,41.12
+India,"Financial Year (Apr - Mar), 2017",Girls, Scheduled Tribes,109.77,96.05,104.71,75.89,40.97
+India,"Financial Year (Apr - Mar), 2017",Total, Scheduled Tribes,111.32,97.03,106.03,75.83,41.05
+India,"Financial Year (Apr - Mar), 2017",Boys,all,102.58,87.29,96.71,76.67,47.95
+India,"Financial Year (Apr - Mar), 2017",Girls,all,103.03,89.34,97.78,76.23,48.32
+India,"Financial Year (Apr - Mar), 2017",Total,all,102.79,88.27,97.22,76.47,48.13
+India,"Financial Year (Apr - Mar), 2016",Boys,Scheduled Castes,103.38,93.78,99.9,82.49,54.48
+India,"Financial Year (Apr - Mar), 2016",Girls,Scheduled Castes,106.24,103.4,105.24,86.12,57.59
+India,"Financial Year (Apr - Mar), 2016",Total,Scheduled Castes,104.75,98.24,102.43,84.19,55.93
+India,"Financial Year (Apr - Mar), 2016",Boys, Scheduled Tribes,102.61,94.56,99.78,72.65,42.71
+India,"Financial Year (Apr - Mar), 2016",Girls, Scheduled Tribes,100.58,96.99,99.35,74.39,42.62
+India,"Financial Year (Apr - Mar), 2016",Total, Scheduled Tribes,101.62,95.72,99.57,73.48,42.67
+India,"Financial Year (Apr - Mar), 2016",Boys,all,94.02,86.9,91.42,78.51,54.93
+India,"Financial Year (Apr - Mar), 2016",Girls,all,96.35,95.19,95.94,80.29,55.91
+India,"Financial Year (Apr - Mar), 2016",Total,all,95.12,90.73,93.55,79.35,55.4
+India,"Financial Year (Apr - Mar), 2015",Boys,Scheduled Castes,109.47,97.42,105.09,83.3,55.28
+India,"Financial Year (Apr - Mar), 2015",Girls,Scheduled Castes,112.1,105.9,109.91,85.98,58.32
+India,"Financial Year (Apr - Mar), 2015",Total,Scheduled Castes,110.73,101.38,107.38,84.56,56.7
+India,"Financial Year (Apr - Mar), 2015",Boys, Scheduled Tribes,107.45,94.29,102.79,73.04,43.41
+India,"Financial Year (Apr - Mar), 2015",Girls, Scheduled Tribes,105.15,96.13,102.03,74.43,42.21
+India,"Financial Year (Apr - Mar), 2015",Total, Scheduled Tribes,106.33,95.18,102.42,73.71,42.83
+India,"Financial Year (Apr - Mar), 2015",Boys,all,97.78,88.27,94.3,78.6,55.42
+India,"Financial Year (Apr - Mar), 2015",Girls,all,100.39,95.9,98.79,80.1,56.07
+India,"Financial Year (Apr - Mar), 2015",Total,all,99.02,91.82,96.42,79.3,55.73
+India,"Financial Year (Apr - Mar), 2014",Boys,Scheduled Castes,110.65,96.75,105.59,81.03,52.91
+India,"Financial Year (Apr - Mar), 2014",Girls,Scheduled Castes,112.87,103.73,109.61,82.99,54.89
+India,"Financial Year (Apr - Mar), 2014",Total,Scheduled Castes,111.71,100.03,107.5,81.95,53.83
+India,"Financial Year (Apr - Mar), 2014",Boys, Scheduled Tribes,110.28,91.98,103.77,71.06,39.44
+India,"Financial Year (Apr - Mar), 2014",Girls, Scheduled Tribes,107.65,93.17,102.58,71.66,37.56
+India,"Financial Year (Apr - Mar), 2014",Total, Scheduled Tribes,108.99,92.56,103.19,71.35,38.53
+India,"Financial Year (Apr - Mar), 2014",Boys,all,98.76,87.26,94.55,76.42,52.52
+India,"Financial Year (Apr - Mar), 2014",Girls,all,101.13,93.66,98.45,77.45,52.55
+India,"Financial Year (Apr - Mar), 2014",Total,all,99.89,90.26,96.39,76.91,52.54

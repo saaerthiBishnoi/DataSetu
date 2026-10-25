@@ -1,0 +1,841 @@
+state,year,gender,management,teacher_pct
+Andaman And Nicobar Islands,2015,Female,Government,77
+Andaman And Nicobar Islands,2015,Total,Government,82
+Andaman And Nicobar Islands,2016,Female,Government,77
+Andaman And Nicobar Islands,2016,Total,Government,81
+Andaman And Nicobar Islands,2017,Female,Government,73
+Andaman And Nicobar Islands,2017,Total,Government,78
+Andhra Pradesh,2015,Female,Government,59
+Andhra Pradesh,2015,Total,Government,65
+Andhra Pradesh,2016,Female,Government,58
+Andhra Pradesh,2016,Total,Government,65
+Andhra Pradesh,2017,Female,Government,57
+Andhra Pradesh,2017,Total,Government,62
+Arunachal Pradesh,2015,Female,Government,64
+Arunachal Pradesh,2015,Total,Government,72
+Arunachal Pradesh,2016,Female,Government,64
+Arunachal Pradesh,2016,Total,Government,71
+Arunachal Pradesh,2017,Female,Government,64
+Arunachal Pradesh,2017,Total,Government,71
+Assam,2015,Female,Government,64
+Assam,2015,Total,Government,67
+Assam,2016,Female,Government,62
+Assam,2016,Total,Government,65
+Assam,2017,Female,Government,59
+Assam,2017,Total,Government,63
+Bihar,2015,Female,Government,94
+Bihar,2015,Total,Government,83
+Bihar,2016,Female,Government,92
+Bihar,2016,Total,Government,81
+Bihar,2017,Female,Government,72
+Bihar,2017,Total,Government,73
+Chandigarh,2015,Female,Government,53
+Chandigarh,2015,Total,Government,58
+Chandigarh,2016,Female,Government,53
+Chandigarh,2016,Total,Government,58
+Chandigarh,2017,Female,Government,47
+Chandigarh,2017,Total,Government,53
+Chhattisgarh,2015,Female,Government,60
+Chhattisgarh,2015,Total,Government,73
+Chhattisgarh,2016,Female,Government,59
+Chhattisgarh,2016,Total,Government,72
+Chhattisgarh,2017,Female,Government,60
+Chhattisgarh,2017,Total,Government,73
+Delhi,2015,Female,Government,46
+Delhi,2015,Total,Government,55
+Delhi,2016,Female,Government,45
+Delhi,2016,Total,Government,54
+Delhi,2017,Female,Government,45
+Delhi,2017,Total,Government,54
+Goa,2015,Female,Government,25
+Goa,2015,Total,Government,26
+Goa,2016,Female,Government,24
+Goa,2016,Total,Government,24
+Goa,2017,Female,Government,24
+Goa,2017,Total,Government,24
+Gujarat,2015,Female,Government,50
+Gujarat,2015,Total,Government,55
+Gujarat,2016,Female,Government,49
+Gujarat,2016,Total,Government,54
+Gujarat,2017,Female,Government,46
+Gujarat,2017,Total,Government,52
+Haryana,2015,Female,Government,34
+Haryana,2015,Total,Government,46
+Haryana,2016,Female,Government,31
+Haryana,2016,Total,Government,43
+Haryana,2017,Female,Government,30
+Haryana,2017,Total,Government,42
+Himachal Pradesh,2015,Female,Government,54
+Himachal Pradesh,2015,Total,Government,70
+Himachal Pradesh,2016,Female,Government,54
+Himachal Pradesh,2016,Total,Government,69
+Himachal Pradesh,2017,Female,Government,52
+Himachal Pradesh,2017,Total,Government,68
+Jammu And Kashmir,2015,Female,Government,54
+Jammu And Kashmir,2015,Total,Government,65
+Jammu And Kashmir,2016,Female,Government,54
+Jammu And Kashmir,2016,Total,Government,65
+Jammu And Kashmir,2017,Female,Government,52
+Jammu And Kashmir,2017,Total,Government,64
+Jharkhand,2015,Female,Government,55
+Jharkhand,2015,Total,Government,68
+Jharkhand,2016,Female,Government,52
+Jharkhand,2016,Total,Government,66
+Jharkhand,2017,Female,Government,41
+Jharkhand,2017,Total,Government,56
+Karnataka,2015,Female,Government,46
+Karnataka,2015,Total,Government,52
+Karnataka,2016,Female,Government,46
+Karnataka,2016,Total,Government,52
+Karnataka,2017,Female,Government,46
+Karnataka,2017,Total,Government,52
+Kerala,2015,Female,Government,23
+Kerala,2015,Total,Government,26
+Kerala,2016,Female,Government,23
+Kerala,2016,Total,Government,26
+Kerala,2017,Female,Government,24
+Kerala,2017,Total,Government,26
+Lakshadweep,2015,Female,Government,100
+Lakshadweep,2015,Total,Government,100
+Lakshadweep,2016,Female,Government,100
+Lakshadweep,2016,Total,Government,100
+Lakshadweep,2017,Female,Government,100
+Lakshadweep,2017,Total,Government,100
+Madhya Pradesh,2015,Female,Government,44
+Madhya Pradesh,2015,Total,Government,58
+Madhya Pradesh,2016,Female,Government,43
+Madhya Pradesh,2016,Total,Government,58
+Madhya Pradesh,2017,Female,Government,41
+Madhya Pradesh,2017,Total,Government,56
+Maharashtra,2015,Female,Government,33
+Maharashtra,2015,Total,Government,36
+Maharashtra,2016,Female,Government,32
+Maharashtra,2016,Total,Government,36
+Maharashtra,2017,Female,Government,31
+Maharashtra,2017,Total,Government,35
+Manipur,2015,Female,Government,51
+Manipur,2015,Total,Government,50
+Manipur,2016,Female,Government,50
+Manipur,2016,Total,Government,50
+Manipur,2017,Female,Government,39
+Manipur,2017,Total,Government,41
+Meghalaya,2015,Female,Government,41
+Meghalaya,2015,Total,Government,44
+Meghalaya,2016,Female,Government,41
+Meghalaya,2016,Total,Government,44
+Meghalaya,2017,Female,Government,40
+Meghalaya,2017,Total,Government,43
+Mizoram,2015,Female,Government,54
+Mizoram,2015,Total,Government,59
+Mizoram,2016,Female,Government,53
+Mizoram,2016,Total,Government,58
+Mizoram,2017,Female,Government,50
+Mizoram,2017,Total,Government,55
+Nagaland,2015,Female,Government,57
+Nagaland,2015,Total,Government,63
+Nagaland,2016,Female,Government,58
+Nagaland,2016,Total,Government,64
+Nagaland,2017,Female,Government,55
+Nagaland,2017,Total,Government,62
+Odisha,2015,Female,Government,68
+Odisha,2015,Total,Government,70
+Odisha,2016,Female,Government,65
+Odisha,2016,Total,Government,68
+Odisha,2017,Female,Government,61
+Odisha,2017,Total,Government,65
+Puducherry,2015,Female,Government,33
+Puducherry,2015,Total,Government,40
+Puducherry,2016,Female,Government,34
+Puducherry,2016,Total,Government,40
+Puducherry,2017,Female,Government,33
+Puducherry,2017,Total,Government,39
+Punjab,2015,Female,Government,44
+Punjab,2015,Total,Government,51
+Punjab,2016,Female,Government,45
+Punjab,2016,Total,Government,52
+Punjab,2017,Female,Government,35
+Punjab,2017,Total,Government,43
+Rajasthan,2015,Female,Government,42
+Rajasthan,2015,Total,Government,50
+Rajasthan,2016,Female,Government,41
+Rajasthan,2016,Total,Government,50
+Rajasthan,2017,Female,Government,41
+Rajasthan,2017,Total,Government,50
+Sikkim,2015,Female,Government,65
+Sikkim,2015,Total,Government,72
+Sikkim,2016,Female,Government,65
+Sikkim,2016,Total,Government,72
+Sikkim,2017,Female,Government,64
+Sikkim,2017,Total,Government,71
+Tamil Nadu,2015,Female,Government,44
+Tamil Nadu,2015,Total,Government,48
+Tamil Nadu,2016,Female,Government,43
+Tamil Nadu,2016,Total,Government,48
+Tamil Nadu,2017,Female,Government,36
+Tamil Nadu,2017,Total,Government,42
+Telangana,2015,Female,Government,47
+Telangana,2015,Total,Government,55
+Telangana,2016,Female,Government,47
+Telangana,2016,Total,Government,55
+Telangana,2017,Female,Government,47
+Telangana,2017,Total,Government,55
+The Dadra And Nagar Haveli And Daman And Diu,2015,Female,Government,117
+The Dadra And Nagar Haveli And Daman And Diu,2015,Total,Government,135
+The Dadra And Nagar Haveli And Daman And Diu,2016,Female,Government,116
+The Dadra And Nagar Haveli And Daman And Diu,2016,Total,Government,133
+The Dadra And Nagar Haveli And Daman And Diu,2017,Female,Government,116
+The Dadra And Nagar Haveli And Daman And Diu,2017,Total,Government,133
+Tripura,2015,Female,Government,80
+Tripura,2015,Total,Government,86
+Tripura,2016,Female,Government,79
+Tripura,2016,Total,Government,86
+Tripura,2017,Female,Government,77
+Tripura,2017,Total,Government,84
+Uttar Pradesh,2015,Female,Government,58
+Uttar Pradesh,2015,Total,Government,49
+Uttar Pradesh,2016,Female,Government,58
+Uttar Pradesh,2016,Total,Government,50
+Uttar Pradesh,2017,Female,Government,55
+Uttar Pradesh,2017,Total,Government,48
+Uttarakhand,2015,Female,Government,49
+Uttarakhand,2015,Total,Government,60
+Uttarakhand,2016,Female,Government,48
+Uttarakhand,2016,Total,Government,59
+Uttarakhand,2017,Female,Government,39
+Uttarakhand,2017,Total,Government,51
+West Bengal,2015,Female,Government,75
+West Bengal,2015,Total,Government,80
+West Bengal,2016,Female,Government,74
+West Bengal,2016,Total,Government,79
+West Bengal,2017,Female,Government,72
+West Bengal,2017,Total,Government,78
+Andaman And Nicobar Islands,2015,Female,Government Aided,2
+Andaman And Nicobar Islands,2015,Total,Government Aided,1
+Andaman And Nicobar Islands,2016,Female,Government Aided,2
+Andaman And Nicobar Islands,2016,Total,Government Aided,1
+Andaman And Nicobar Islands,2017,Female,Government Aided,2
+Andaman And Nicobar Islands,2017,Total,Government Aided,1
+Andhra Pradesh,2015,Female,Government Aided,3
+Andhra Pradesh,2015,Total,Government Aided,3
+Andhra Pradesh,2016,Female,Government Aided,3
+Andhra Pradesh,2016,Total,Government Aided,3
+Andhra Pradesh,2017,Female,Government Aided,3
+Andhra Pradesh,2017,Total,Government Aided,3
+Arunachal Pradesh,2015,Female,Government Aided,3
+Arunachal Pradesh,2015,Total,Government Aided,4
+Arunachal Pradesh,2016,Female,Government Aided,3
+Arunachal Pradesh,2016,Total,Government Aided,4
+Arunachal Pradesh,2017,Female,Government Aided,3
+Arunachal Pradesh,2017,Total,Government Aided,4
+Assam,2015,Female,Government Aided,8
+Assam,2015,Total,Government Aided,10
+Assam,2016,Female,Government Aided,8
+Assam,2016,Total,Government Aided,11
+Assam,2017,Female,Government Aided,7
+Assam,2017,Total,Government Aided,10
+Bihar,2015,Female,Government Aided,0
+Bihar,2015,Total,Government Aided,1
+Bihar,2016,Female,Government Aided,0
+Bihar,2016,Total,Government Aided,0
+Bihar,2017,Female,Government Aided,0
+Bihar,2017,Total,Government Aided,0
+Chandigarh,2015,Female,Government Aided,3
+Chandigarh,2015,Total,Government Aided,3
+Chandigarh,2016,Female,Government Aided,3
+Chandigarh,2016,Total,Government Aided,3
+Chandigarh,2017,Female,Government Aided,3
+Chandigarh,2017,Total,Government Aided,3
+Chhattisgarh,2015,Female,Government Aided,1
+Chhattisgarh,2015,Total,Government Aided,1
+Chhattisgarh,2016,Female,Government Aided,1
+Chhattisgarh,2016,Total,Government Aided,1
+Chhattisgarh,2017,Female,Government Aided,1
+Chhattisgarh,2017,Total,Government Aided,1
+Delhi,2015,Female,Government Aided,4
+Delhi,2015,Total,Government Aided,4
+Delhi,2016,Female,Government Aided,4
+Delhi,2016,Total,Government Aided,4
+Delhi,2017,Female,Government Aided,4
+Delhi,2017,Total,Government Aided,4
+Goa,2015,Female,Government Aided,61
+Goa,2015,Total,Government Aided,63
+Goa,2016,Female,Government Aided,63
+Goa,2016,Total,Government Aided,64
+Goa,2017,Female,Government Aided,62
+Goa,2017,Total,Government Aided,63
+Gujarat,2015,Female,Government Aided,8
+Gujarat,2015,Total,Government Aided,13
+Gujarat,2016,Female,Government Aided,7
+Gujarat,2016,Total,Government Aided,13
+Gujarat,2017,Female,Government Aided,8
+Gujarat,2017,Total,Government Aided,13
+Haryana,2015,Female,Government Aided,2
+Haryana,2015,Total,Government Aided,2
+Haryana,2016,Female,Government Aided,2
+Haryana,2016,Total,Government Aided,2
+Haryana,2017,Female,Government Aided,2
+Haryana,2017,Total,Government Aided,2
+Himachal Pradesh,2015,Female,Government Aided,0
+Himachal Pradesh,2015,Total,Government Aided,0
+Himachal Pradesh,2016,Female,Government Aided,0
+Himachal Pradesh,2016,Total,Government Aided,0
+Himachal Pradesh,2017,Female,Government Aided,0
+Himachal Pradesh,2017,Total,Government Aided,0
+Jammu And Kashmir,2015,Female,Government Aided,0
+Jammu And Kashmir,2015,Total,Government Aided,0
+Jammu And Kashmir,2016,Female,Government Aided,0
+Jammu And Kashmir,2016,Total,Government Aided,0
+Jammu And Kashmir,2017,Female,Government Aided,0
+Jammu And Kashmir,2017,Total,Government Aided,0
+Jharkhand,2015,Female,Government Aided,5
+Jharkhand,2015,Total,Government Aided,3
+Jharkhand,2016,Female,Government Aided,4
+Jharkhand,2016,Total,Government Aided,3
+Jharkhand,2017,Female,Government Aided,4
+Jharkhand,2017,Total,Government Aided,3
+Karnataka,2015,Female,Government Aided,7
+Karnataka,2015,Total,Government Aided,12
+Karnataka,2016,Female,Government Aided,7
+Karnataka,2016,Total,Government Aided,12
+Karnataka,2017,Female,Government Aided,7
+Karnataka,2017,Total,Government Aided,12
+Kerala,2015,Female,Government Aided,40
+Kerala,2015,Total,Government Aided,43
+Kerala,2016,Female,Government Aided,40
+Kerala,2016,Total,Government Aided,42
+Kerala,2017,Female,Government Aided,40
+Kerala,2017,Total,Government Aided,42
+Lakshadweep,2015,Female,Government Aided,0
+Lakshadweep,2015,Total,Government Aided,0
+Lakshadweep,2016,Female,Government Aided,0
+Lakshadweep,2016,Total,Government Aided,0
+Lakshadweep,2017,Female,Government Aided,0
+Lakshadweep,2017,Total,Government Aided,0
+Madhya Pradesh,2015,Female,Government Aided,1
+Madhya Pradesh,2015,Total,Government Aided,1
+Madhya Pradesh,2016,Female,Government Aided,1
+Madhya Pradesh,2016,Total,Government Aided,1
+Madhya Pradesh,2017,Female,Government Aided,1
+Madhya Pradesh,2017,Total,Government Aided,1
+Maharashtra,2015,Female,Government Aided,32
+Maharashtra,2015,Total,Government Aided,42
+Maharashtra,2016,Female,Government Aided,31
+Maharashtra,2016,Total,Government Aided,41
+Maharashtra,2017,Female,Government Aided,30
+Maharashtra,2017,Total,Government Aided,40
+Manipur,2015,Female,Government Aided,5
+Manipur,2015,Total,Government Aided,7
+Manipur,2016,Female,Government Aided,5
+Manipur,2016,Total,Government Aided,7
+Manipur,2017,Female,Government Aided,5
+Manipur,2017,Total,Government Aided,6
+Meghalaya,2015,Female,Government Aided,31
+Meghalaya,2015,Total,Government Aided,34
+Meghalaya,2016,Female,Government Aided,31
+Meghalaya,2016,Total,Government Aided,33
+Meghalaya,2017,Female,Government Aided,30
+Meghalaya,2017,Total,Government Aided,32
+Mizoram,2015,Female,Government Aided,7
+Mizoram,2015,Total,Government Aided,8
+Mizoram,2016,Female,Government Aided,7
+Mizoram,2016,Total,Government Aided,8
+Mizoram,2017,Female,Government Aided,6
+Mizoram,2017,Total,Government Aided,8
+Nagaland,2015,Female,Government Aided,0
+Nagaland,2015,Total,Government Aided,0
+Nagaland,2016,Female,Government Aided,0
+Nagaland,2016,Total,Government Aided,0
+Nagaland,2017,Female,Government Aided,0
+Nagaland,2017,Total,Government Aided,0
+Odisha,2015,Female,Government Aided,4
+Odisha,2015,Total,Government Aided,10
+Odisha,2016,Female,Government Aided,4
+Odisha,2016,Total,Government Aided,10
+Odisha,2017,Female,Government Aided,4
+Odisha,2017,Total,Government Aided,10
+Puducherry,2015,Female,Government Aided,9
+Puducherry,2015,Total,Government Aided,8
+Puducherry,2016,Female,Government Aided,9
+Puducherry,2016,Total,Government Aided,8
+Puducherry,2017,Female,Government Aided,9
+Puducherry,2017,Total,Government Aided,8
+Punjab,2015,Female,Government Aided,2
+Punjab,2015,Total,Government Aided,2
+Punjab,2016,Female,Government Aided,2
+Punjab,2016,Total,Government Aided,2
+Punjab,2017,Female,Government Aided,2
+Punjab,2017,Total,Government Aided,2
+Rajasthan,2015,Female,Government Aided,0
+Rajasthan,2015,Total,Government Aided,0
+Rajasthan,2016,Female,Government Aided,0
+Rajasthan,2016,Total,Government Aided,0
+Rajasthan,2017,Female,Government Aided,0
+Rajasthan,2017,Total,Government Aided,0
+Sikkim,2015,Female,Government Aided,1
+Sikkim,2015,Total,Government Aided,1
+Sikkim,2016,Female,Government Aided,1
+Sikkim,2016,Total,Government Aided,1
+Sikkim,2017,Female,Government Aided,2
+Sikkim,2017,Total,Government Aided,2
+Tamil Nadu,2015,Female,Government Aided,14
+Tamil Nadu,2015,Total,Government Aided,15
+Tamil Nadu,2016,Female,Government Aided,14
+Tamil Nadu,2016,Total,Government Aided,14
+Tamil Nadu,2017,Female,Government Aided,13
+Tamil Nadu,2017,Total,Government Aided,14
+Telangana,2015,Female,Government Aided,2
+Telangana,2015,Total,Government Aided,2
+Telangana,2016,Female,Government Aided,2
+Telangana,2016,Total,Government Aided,1
+Telangana,2017,Female,Government Aided,2
+Telangana,2017,Total,Government Aided,1
+The Dadra And Nagar Haveli And Daman And Diu,2015,Female,Government Aided,12
+The Dadra And Nagar Haveli And Daman And Diu,2015,Total,Government Aided,13
+The Dadra And Nagar Haveli And Daman And Diu,2016,Female,Government Aided,12
+The Dadra And Nagar Haveli And Daman And Diu,2016,Total,Government Aided,12
+The Dadra And Nagar Haveli And Daman And Diu,2017,Female,Government Aided,11
+The Dadra And Nagar Haveli And Daman And Diu,2017,Total,Government Aided,12
+Tripura,2015,Female,Government Aided,3
+Tripura,2015,Total,Government Aided,3
+Tripura,2016,Female,Government Aided,3
+Tripura,2016,Total,Government Aided,3
+Tripura,2017,Female,Government Aided,3
+Tripura,2017,Total,Government Aided,3
+Uttar Pradesh,2015,Female,Government Aided,4
+Uttar Pradesh,2015,Total,Government Aided,8
+Uttar Pradesh,2016,Female,Government Aided,3
+Uttar Pradesh,2016,Total,Government Aided,7
+Uttar Pradesh,2017,Female,Government Aided,3
+Uttar Pradesh,2017,Total,Government Aided,7
+Uttarakhand,2015,Female,Government Aided,3
+Uttarakhand,2015,Total,Government Aided,4
+Uttarakhand,2016,Female,Government Aided,3
+Uttarakhand,2016,Total,Government Aided,4
+Uttarakhand,2017,Female,Government Aided,3
+Uttarakhand,2017,Total,Government Aided,4
+West Bengal,2015,Female,Government Aided,1
+West Bengal,2015,Total,Government Aided,0
+West Bengal,2016,Female,Government Aided,1
+West Bengal,2016,Total,Government Aided,0
+West Bengal,2017,Female,Government Aided,0
+West Bengal,2017,Total,Government Aided,0
+Andaman And Nicobar Islands,2015,Female,Private Unaided,21
+Andaman And Nicobar Islands,2015,Total,Private Unaided,17
+Andaman And Nicobar Islands,2016,Female,Private Unaided,22
+Andaman And Nicobar Islands,2016,Total,Private Unaided,17
+Andaman And Nicobar Islands,2017,Female,Private Unaided,25
+Andaman And Nicobar Islands,2017,Total,Private Unaided,20
+Andhra Pradesh,2015,Female,Private Unaided,37
+Andhra Pradesh,2015,Total,Private Unaided,31
+Andhra Pradesh,2016,Female,Private Unaided,38
+Andhra Pradesh,2016,Total,Private Unaided,31
+Andhra Pradesh,2017,Female,Private Unaided,40
+Andhra Pradesh,2017,Total,Private Unaided,35
+Arunachal Pradesh,2015,Female,Private Unaided,32
+Arunachal Pradesh,2015,Total,Private Unaided,24
+Arunachal Pradesh,2016,Female,Private Unaided,31
+Arunachal Pradesh,2016,Total,Private Unaided,24
+Arunachal Pradesh,2017,Female,Private Unaided,31
+Arunachal Pradesh,2017,Total,Private Unaided,23
+Assam,2015,Female,Private Unaided,21
+Assam,2015,Total,Private Unaided,14
+Assam,2016,Female,Private Unaided,24
+Assam,2016,Total,Private Unaided,16
+Assam,2017,Female,Private Unaided,28
+Assam,2017,Total,Private Unaided,20
+Bihar,2015,Female,Private Unaided,3
+Bihar,2015,Total,Private Unaided,9
+Bihar,2016,Female,Private Unaided,5
+Bihar,2016,Total,Private Unaided,10
+Bihar,2017,Female,Private Unaided,13
+Bihar,2017,Total,Private Unaided,13
+Chandigarh,2015,Female,Private Unaided,43
+Chandigarh,2015,Total,Private Unaided,38
+Chandigarh,2016,Female,Private Unaided,43
+Chandigarh,2016,Total,Private Unaided,38
+Chandigarh,2017,Female,Private Unaided,45
+Chandigarh,2017,Total,Private Unaided,40
+Chhattisgarh,2015,Female,Private Unaided,38
+Chhattisgarh,2015,Total,Private Unaided,25
+Chhattisgarh,2016,Female,Private Unaided,40
+Chhattisgarh,2016,Total,Private Unaided,27
+Chhattisgarh,2017,Female,Private Unaided,39
+Chhattisgarh,2017,Total,Private Unaided,26
+Delhi,2015,Female,Private Unaided,50
+Delhi,2015,Total,Private Unaided,41
+Delhi,2016,Female,Private Unaided,51
+Delhi,2016,Total,Private Unaided,42
+Delhi,2017,Female,Private Unaided,52
+Delhi,2017,Total,Private Unaided,43
+Goa,2015,Female,Private Unaided,14
+Goa,2015,Total,Private Unaided,12
+Goa,2016,Female,Private Unaided,14
+Goa,2016,Total,Private Unaided,12
+Goa,2017,Female,Private Unaided,14
+Goa,2017,Total,Private Unaided,13
+Gujarat,2015,Female,Private Unaided,42
+Gujarat,2015,Total,Private Unaided,32
+Gujarat,2016,Female,Private Unaided,44
+Gujarat,2016,Total,Private Unaided,34
+Gujarat,2017,Female,Private Unaided,46
+Gujarat,2017,Total,Private Unaided,35
+Haryana,2015,Female,Private Unaided,60
+Haryana,2015,Total,Private Unaided,50
+Haryana,2016,Female,Private Unaided,63
+Haryana,2016,Total,Private Unaided,52
+Haryana,2017,Female,Private Unaided,63
+Haryana,2017,Total,Private Unaided,53
+Himachal Pradesh,2015,Female,Private Unaided,46
+Himachal Pradesh,2015,Total,Private Unaided,30
+Himachal Pradesh,2016,Female,Private Unaided,46
+Himachal Pradesh,2016,Total,Private Unaided,31
+Himachal Pradesh,2017,Female,Private Unaided,48
+Himachal Pradesh,2017,Total,Private Unaided,32
+Jammu And Kashmir,2015,Female,Private Unaided,46
+Jammu And Kashmir,2015,Total,Private Unaided,35
+Jammu And Kashmir,2016,Female,Private Unaided,46
+Jammu And Kashmir,2016,Total,Private Unaided,35
+Jammu And Kashmir,2017,Female,Private Unaided,48
+Jammu And Kashmir,2017,Total,Private Unaided,36
+Jharkhand,2015,Female,Private Unaided,17
+Jharkhand,2015,Total,Private Unaided,12
+Jharkhand,2016,Female,Private Unaided,16
+Jharkhand,2016,Total,Private Unaided,12
+Jharkhand,2017,Female,Private Unaided,15
+Jharkhand,2017,Total,Private Unaided,12
+Karnataka,2015,Female,Private Unaided,47
+Karnataka,2015,Total,Private Unaided,36
+Karnataka,2016,Female,Private Unaided,47
+Karnataka,2016,Total,Private Unaided,36
+Karnataka,2017,Female,Private Unaided,47
+Karnataka,2017,Total,Private Unaided,35
+Kerala,2015,Female,Private Unaided,30
+Kerala,2015,Total,Private Unaided,26
+Kerala,2016,Female,Private Unaided,30
+Kerala,2016,Total,Private Unaided,27
+Kerala,2017,Female,Private Unaided,30
+Kerala,2017,Total,Private Unaided,26
+Lakshadweep,2015,Female,Private Unaided,0
+Lakshadweep,2015,Total,Private Unaided,0
+Lakshadweep,2016,Female,Private Unaided,0
+Lakshadweep,2016,Total,Private Unaided,0
+Lakshadweep,2017,Female,Private Unaided,0
+Lakshadweep,2017,Total,Private Unaided,0
+Madhya Pradesh,2015,Female,Private Unaided,54
+Madhya Pradesh,2015,Total,Private Unaided,40
+Madhya Pradesh,2016,Female,Private Unaided,55
+Madhya Pradesh,2016,Total,Private Unaided,40
+Madhya Pradesh,2017,Female,Private Unaided,57
+Madhya Pradesh,2017,Total,Private Unaided,42
+Maharashtra,2015,Female,Private Unaided,34
+Maharashtra,2015,Total,Private Unaided,22
+Maharashtra,2016,Female,Private Unaided,37
+Maharashtra,2016,Total,Private Unaided,23
+Maharashtra,2017,Female,Private Unaided,38
+Maharashtra,2017,Total,Private Unaided,25
+Manipur,2015,Female,Private Unaided,41
+Manipur,2015,Total,Private Unaided,40
+Manipur,2016,Female,Private Unaided,42
+Manipur,2016,Total,Private Unaided,40
+Manipur,2017,Female,Private Unaided,50
+Manipur,2017,Total,Private Unaided,47
+Meghalaya,2015,Female,Private Unaided,26
+Meghalaya,2015,Total,Private Unaided,21
+Meghalaya,2016,Female,Private Unaided,26
+Meghalaya,2016,Total,Private Unaided,21
+Meghalaya,2017,Female,Private Unaided,27
+Meghalaya,2017,Total,Private Unaided,23
+Mizoram,2015,Female,Private Unaided,38
+Mizoram,2015,Total,Private Unaided,33
+Mizoram,2016,Female,Private Unaided,38
+Mizoram,2016,Total,Private Unaided,32
+Mizoram,2017,Female,Private Unaided,42
+Mizoram,2017,Total,Private Unaided,35
+Nagaland,2015,Female,Private Unaided,43
+Nagaland,2015,Total,Private Unaided,37
+Nagaland,2016,Female,Private Unaided,42
+Nagaland,2016,Total,Private Unaided,36
+Nagaland,2017,Female,Private Unaided,45
+Nagaland,2017,Total,Private Unaided,38
+Odisha,2015,Female,Private Unaided,19
+Odisha,2015,Total,Private Unaided,14
+Odisha,2016,Female,Private Unaided,20
+Odisha,2016,Total,Private Unaided,15
+Odisha,2017,Female,Private Unaided,21
+Odisha,2017,Total,Private Unaided,16
+Puducherry,2015,Female,Private Unaided,58
+Puducherry,2015,Total,Private Unaided,52
+Puducherry,2016,Female,Private Unaided,57
+Puducherry,2016,Total,Private Unaided,52
+Puducherry,2017,Female,Private Unaided,58
+Puducherry,2017,Total,Private Unaided,54
+Punjab,2015,Female,Private Unaided,46
+Punjab,2015,Total,Private Unaided,40
+Punjab,2016,Female,Private Unaided,48
+Punjab,2016,Total,Private Unaided,42
+Punjab,2017,Female,Private Unaided,59
+Punjab,2017,Total,Private Unaided,52
+Rajasthan,2015,Female,Private Unaided,57
+Rajasthan,2015,Total,Private Unaided,49
+Rajasthan,2016,Female,Private Unaided,58
+Rajasthan,2016,Total,Private Unaided,49
+Rajasthan,2017,Female,Private Unaided,58
+Rajasthan,2017,Total,Private Unaided,49
+Sikkim,2015,Female,Private Unaided,34
+Sikkim,2015,Total,Private Unaided,27
+Sikkim,2016,Female,Private Unaided,34
+Sikkim,2016,Total,Private Unaided,27
+Sikkim,2017,Female,Private Unaided,34
+Sikkim,2017,Total,Private Unaided,28
+Tamil Nadu,2015,Female,Private Unaided,42
+Tamil Nadu,2015,Total,Private Unaided,37
+Tamil Nadu,2016,Female,Private Unaided,42
+Tamil Nadu,2016,Total,Private Unaided,37
+Tamil Nadu,2017,Female,Private Unaided,49
+Tamil Nadu,2017,Total,Private Unaided,43
+Telangana,2015,Female,Private Unaided,50
+Telangana,2015,Total,Private Unaided,43
+Telangana,2016,Female,Private Unaided,50
+Telangana,2016,Total,Private Unaided,43
+Telangana,2017,Female,Private Unaided,51
+Telangana,2017,Total,Private Unaided,43
+The Dadra And Nagar Haveli And Daman And Diu,2015,Female,Private Unaided,69
+The Dadra And Nagar Haveli And Daman And Diu,2015,Total,Private Unaided,52
+The Dadra And Nagar Haveli And Daman And Diu,2016,Female,Private Unaided,72
+The Dadra And Nagar Haveli And Daman And Diu,2016,Total,Private Unaided,55
+The Dadra And Nagar Haveli And Daman And Diu,2017,Female,Private Unaided,72
+The Dadra And Nagar Haveli And Daman And Diu,2017,Total,Private Unaided,56
+Tripura,2015,Female,Private Unaided,16
+Tripura,2015,Total,Private Unaided,9
+Tripura,2016,Female,Private Unaided,17
+Tripura,2016,Total,Private Unaided,10
+Tripura,2017,Female,Private Unaided,19
+Tripura,2017,Total,Private Unaided,11
+Uttar Pradesh,2015,Female,Private Unaided,37
+Uttar Pradesh,2015,Total,Private Unaided,41
+Uttar Pradesh,2016,Female,Private Unaided,35
+Uttar Pradesh,2016,Total,Private Unaided,40
+Uttar Pradesh,2017,Female,Private Unaided,37
+Uttar Pradesh,2017,Total,Private Unaided,41
+Uttarakhand,2015,Female,Private Unaided,46
+Uttarakhand,2015,Total,Private Unaided,34
+Uttarakhand,2016,Female,Private Unaided,47
+Uttarakhand,2016,Total,Private Unaided,35
+Uttarakhand,2017,Female,Private Unaided,56
+Uttarakhand,2017,Total,Private Unaided,42
+West Bengal,2015,Female,Private Unaided,21
+West Bengal,2015,Total,Private Unaided,15
+West Bengal,2016,Female,Private Unaided,22
+West Bengal,2016,Total,Private Unaided,16
+West Bengal,2017,Female,Private Unaided,24
+West Bengal,2017,Total,Private Unaided,17
+Andaman And Nicobar Islands,2015,Female,Other,0
+Andaman And Nicobar Islands,2015,Total,Other,0
+Andaman And Nicobar Islands,2016,Female,Other,0
+Andaman And Nicobar Islands,2016,Total,Other,0
+Andaman And Nicobar Islands,2017,Female,Other,0
+Andaman And Nicobar Islands,2017,Total,Other,0
+Andhra Pradesh,2015,Female,Other,1
+Andhra Pradesh,2015,Total,Other,1
+Andhra Pradesh,2016,Female,Other,1
+Andhra Pradesh,2016,Total,Other,1
+Andhra Pradesh,2017,Female,Other,1
+Andhra Pradesh,2017,Total,Other,1
+Arunachal Pradesh,2015,Female,Other,1
+Arunachal Pradesh,2015,Total,Other,1
+Arunachal Pradesh,2016,Female,Other,2
+Arunachal Pradesh,2016,Total,Other,1
+Arunachal Pradesh,2017,Female,Other,2
+Arunachal Pradesh,2017,Total,Other,2
+Assam,2015,Female,Other,7
+Assam,2015,Total,Other,8
+Assam,2016,Female,Other,7
+Assam,2016,Total,Other,8
+Assam,2017,Female,Other,6
+Assam,2017,Total,Other,7
+Bihar,2015,Female,Other,3
+Bihar,2015,Total,Other,8
+Bihar,2016,Female,Other,3
+Bihar,2016,Total,Other,8
+Bihar,2017,Female,Other,14
+Bihar,2017,Total,Other,14
+Chandigarh,2015,Female,Other,1
+Chandigarh,2015,Total,Other,1
+Chandigarh,2016,Female,Other,1
+Chandigarh,2016,Total,Other,1
+Chandigarh,2017,Female,Other,4
+Chandigarh,2017,Total,Other,4
+Chhattisgarh,2015,Female,Other,0
+Chhattisgarh,2015,Total,Other,0
+Chhattisgarh,2016,Female,Other,0
+Chhattisgarh,2016,Total,Other,0
+Chhattisgarh,2017,Female,Other,0
+Chhattisgarh,2017,Total,Other,0
+Delhi,2015,Female,Other,0
+Delhi,2015,Total,Other,0
+Delhi,2016,Female,Other,0
+Delhi,2016,Total,Other,0
+Delhi,2017,Female,Other,0
+Delhi,2017,Total,Other,0
+Goa,2015,Female,Other,0
+Goa,2015,Total,Other,0
+Goa,2016,Female,Other,0
+Goa,2016,Total,Other,0
+Goa,2017,Female,Other,0
+Goa,2017,Total,Other,0
+Gujarat,2015,Female,Other,0
+Gujarat,2015,Total,Other,0
+Gujarat,2016,Female,Other,0
+Gujarat,2016,Total,Other,0
+Gujarat,2017,Female,Other,0
+Gujarat,2017,Total,Other,0
+Haryana,2015,Female,Other,4
+Haryana,2015,Total,Other,3
+Haryana,2016,Female,Other,4
+Haryana,2016,Total,Other,3
+Haryana,2017,Female,Other,4
+Haryana,2017,Total,Other,3
+Himachal Pradesh,2015,Female,Other,0
+Himachal Pradesh,2015,Total,Other,0
+Himachal Pradesh,2016,Female,Other,0
+Himachal Pradesh,2016,Total,Other,0
+Himachal Pradesh,2017,Female,Other,0
+Himachal Pradesh,2017,Total,Other,0
+Jammu And Kashmir,2015,Female,Other,0
+Jammu And Kashmir,2015,Total,Other,0
+Jammu And Kashmir,2016,Female,Other,0
+Jammu And Kashmir,2016,Total,Other,0
+Jammu And Kashmir,2017,Female,Other,0
+Jammu And Kashmir,2017,Total,Other,0
+Jharkhand,2015,Female,Other,24
+Jharkhand,2015,Total,Other,17
+Jharkhand,2016,Female,Other,27
+Jharkhand,2016,Total,Other,20
+Jharkhand,2017,Female,Other,40
+Jharkhand,2017,Total,Other,29
+Karnataka,2015,Female,Other,0
+Karnataka,2015,Total,Other,0
+Karnataka,2016,Female,Other,0
+Karnataka,2016,Total,Other,0
+Karnataka,2017,Female,Other,0
+Karnataka,2017,Total,Other,0
+Kerala,2015,Female,Other,7
+Kerala,2015,Total,Other,6
+Kerala,2016,Female,Other,7
+Kerala,2016,Total,Other,5
+Kerala,2017,Female,Other,6
+Kerala,2017,Total,Other,5
+Lakshadweep,2015,Female,Other,0
+Lakshadweep,2015,Total,Other,0
+Lakshadweep,2016,Female,Other,0
+Lakshadweep,2016,Total,Other,0
+Lakshadweep,2017,Female,Other,0
+Lakshadweep,2017,Total,Other,0
+Madhya Pradesh,2015,Female,Other,2
+Madhya Pradesh,2015,Total,Other,1
+Madhya Pradesh,2016,Female,Other,2
+Madhya Pradesh,2016,Total,Other,1
+Madhya Pradesh,2017,Female,Other,2
+Madhya Pradesh,2017,Total,Other,1
+Maharashtra,2015,Female,Other,1
+Maharashtra,2015,Total,Other,0
+Maharashtra,2016,Female,Other,1
+Maharashtra,2016,Total,Other,1
+Maharashtra,2017,Female,Other,2
+Maharashtra,2017,Total,Other,1
+Manipur,2015,Female,Other,3
+Manipur,2015,Total,Other,3
+Manipur,2016,Female,Other,3
+Manipur,2016,Total,Other,3
+Manipur,2017,Female,Other,6
+Manipur,2017,Total,Other,6
+Meghalaya,2015,Female,Other,2
+Meghalaya,2015,Total,Other,2
+Meghalaya,2016,Female,Other,3
+Meghalaya,2016,Total,Other,2
+Meghalaya,2017,Female,Other,3
+Meghalaya,2017,Total,Other,2
+Mizoram,2015,Female,Other,0
+Mizoram,2015,Total,Other,0
+Mizoram,2016,Female,Other,1
+Mizoram,2016,Total,Other,1
+Mizoram,2017,Female,Other,2
+Mizoram,2017,Total,Other,2
+Nagaland,2015,Female,Other,0
+Nagaland,2015,Total,Other,0
+Nagaland,2016,Female,Other,0
+Nagaland,2016,Total,Other,0
+Nagaland,2017,Female,Other,0
+Nagaland,2017,Total,Other,0
+Odisha,2015,Female,Other,9
+Odisha,2015,Total,Other,6
+Odisha,2016,Female,Other,10
+Odisha,2016,Total,Other,7
+Odisha,2017,Female,Other,13
+Odisha,2017,Total,Other,9
+Puducherry,2015,Female,Other,0
+Puducherry,2015,Total,Other,0
+Puducherry,2016,Female,Other,0
+Puducherry,2016,Total,Other,0
+Puducherry,2017,Female,Other,0
+Puducherry,2017,Total,Other,0
+Punjab,2015,Female,Other,8
+Punjab,2015,Total,Other,7
+Punjab,2016,Female,Other,5
+Punjab,2016,Total,Other,4
+Punjab,2017,Female,Other,3
+Punjab,2017,Total,Other,3
+Rajasthan,2015,Female,Other,1
+Rajasthan,2015,Total,Other,1
+Rajasthan,2016,Female,Other,1
+Rajasthan,2016,Total,Other,1
+Rajasthan,2017,Female,Other,1
+Rajasthan,2017,Total,Other,1
+Sikkim,2015,Female,Other,0
+Sikkim,2015,Total,Other,0
+Sikkim,2016,Female,Other,0
+Sikkim,2016,Total,Other,0
+Sikkim,2017,Female,Other,0
+Sikkim,2017,Total,Other,0
+Tamil Nadu,2015,Female,Other,0
+Tamil Nadu,2015,Total,Other,0
+Tamil Nadu,2016,Female,Other,1
+Tamil Nadu,2016,Total,Other,1
+Tamil Nadu,2017,Female,Other,1
+Tamil Nadu,2017,Total,Other,1
+Telangana,2015,Female,Other,1
+Telangana,2015,Total,Other,1
+Telangana,2016,Female,Other,1
+Telangana,2016,Total,Other,1
+Telangana,2017,Female,Other,0
+Telangana,2017,Total,Other,0
+The Dadra And Nagar Haveli And Daman And Diu,2015,Female,Other,1
+The Dadra And Nagar Haveli And Daman And Diu,2015,Total,Other,1
+The Dadra And Nagar Haveli And Daman And Diu,2016,Female,Other,1
+The Dadra And Nagar Haveli And Daman And Diu,2016,Total,Other,1
+The Dadra And Nagar Haveli And Daman And Diu,2017,Female,Other,0
+The Dadra And Nagar Haveli And Daman And Diu,2017,Total,Other,0
+Tripura,2015,Female,Other,1
+Tripura,2015,Total,Other,1
+Tripura,2016,Female,Other,1
+Tripura,2016,Total,Other,1
+Tripura,2017,Female,Other,1
+Tripura,2017,Total,Other,2
+Uttar Pradesh,2015,Female,Other,1
+Uttar Pradesh,2015,Total,Other,2
+Uttar Pradesh,2016,Female,Other,3
+Uttar Pradesh,2016,Total,Other,4
+Uttar Pradesh,2017,Female,Other,4
+Uttar Pradesh,2017,Total,Other,5
+Uttarakhand,2015,Female,Other,2
+Uttarakhand,2015,Total,Other,2
+Uttarakhand,2016,Female,Other,2
+Uttarakhand,2016,Total,Other,2
+Uttarakhand,2017,Female,Other,2
+Uttarakhand,2017,Total,Other,2
+West Bengal,2015,Female,Other,4
+West Bengal,2015,Total,Other,5
+West Bengal,2016,Female,Other,4
+West Bengal,2016,Total,Other,4
+West Bengal,2017,Female,Other,4
+West Bengal,2017,Total,Other,4

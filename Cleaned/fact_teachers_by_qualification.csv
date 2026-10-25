@@ -1,0 +1,946 @@
+state,year,qualification,teacher_pct
+Andaman And Nicobar Islands,2015,Below Secondary,0
+Andaman And Nicobar Islands,2016,Below Secondary,0
+Andaman And Nicobar Islands,2017,Below Secondary,0
+Andhra Pradesh,2015,Below Secondary,0
+Andhra Pradesh,2016,Below Secondary,1
+Andhra Pradesh,2017,Below Secondary,1
+Arunachal Pradesh,2015,Below Secondary,1
+Arunachal Pradesh,2016,Below Secondary,1
+Arunachal Pradesh,2017,Below Secondary,0
+Assam,2015,Below Secondary,1
+Assam,2016,Below Secondary,1
+Assam,2017,Below Secondary,1
+Bihar,2015,Below Secondary,1
+Bihar,2016,Below Secondary,1
+Bihar,2017,Below Secondary,0
+Chandigarh,2015,Below Secondary,0
+Chandigarh,2016,Below Secondary,0
+Chandigarh,2017,Below Secondary,0
+Chhattisgarh,2015,Below Secondary,0
+Chhattisgarh,2016,Below Secondary,0
+Chhattisgarh,2017,Below Secondary,0
+Delhi,2015,Below Secondary,0
+Delhi,2016,Below Secondary,0
+Delhi,2017,Below Secondary,0
+Goa,2015,Below Secondary,0
+Goa,2016,Below Secondary,0
+Goa,2017,Below Secondary,0
+Gujarat,2015,Below Secondary,1
+Gujarat,2016,Below Secondary,1
+Gujarat,2017,Below Secondary,1
+Haryana,2015,Below Secondary,0
+Haryana,2016,Below Secondary,0
+Haryana,2017,Below Secondary,0
+Himachal Pradesh,2015,Below Secondary,0
+Himachal Pradesh,2016,Below Secondary,0
+Himachal Pradesh,2017,Below Secondary,0
+Jammu And Kashmir,2015,Below Secondary,0
+Jammu And Kashmir,2016,Below Secondary,0
+Jammu And Kashmir,2017,Below Secondary,0
+Jharkhand,2015,Below Secondary,1
+Jharkhand,2016,Below Secondary,1
+Jharkhand,2017,Below Secondary,0
+Karnataka,2015,Below Secondary,11
+Karnataka,2016,Below Secondary,1
+Karnataka,2017,Below Secondary,1
+Kerala,2015,Below Secondary,0
+Kerala,2016,Below Secondary,0
+Kerala,2017,Below Secondary,0
+Lakshadweep,2015,Below Secondary,1
+Lakshadweep,2016,Below Secondary,0
+Lakshadweep,2017,Below Secondary,1
+Madhya Pradesh,2015,Below Secondary,0
+Madhya Pradesh,2016,Below Secondary,0
+Madhya Pradesh,2017,Below Secondary,0
+Maharashtra,2015,Below Secondary,0
+Maharashtra,2016,Below Secondary,0
+Maharashtra,2017,Below Secondary,0
+Manipur,2015,Below Secondary,0
+Manipur,2016,Below Secondary,0
+Manipur,2017,Below Secondary,0
+Meghalaya,2015,Below Secondary,3
+Meghalaya,2016,Below Secondary,2
+Meghalaya,2017,Below Secondary,2
+Mizoram,2015,Below Secondary,3
+Mizoram,2016,Below Secondary,2
+Mizoram,2017,Below Secondary,2
+Nagaland,2015,Below Secondary,4
+Nagaland,2016,Below Secondary,4
+Nagaland,2017,Below Secondary,3
+Odisha,2015,Below Secondary,0
+Odisha,2016,Below Secondary,0
+Odisha,2017,Below Secondary,0
+Puducherry,2015,Below Secondary,0
+Puducherry,2016,Below Secondary,0
+Puducherry,2017,Below Secondary,2
+Punjab,2015,Below Secondary,0
+Punjab,2016,Below Secondary,0
+Punjab,2017,Below Secondary,0
+Rajasthan,2015,Below Secondary,1
+Rajasthan,2016,Below Secondary,0
+Rajasthan,2017,Below Secondary,0
+Sikkim,2015,Below Secondary,2
+Sikkim,2016,Below Secondary,2
+Sikkim,2017,Below Secondary,2
+Tamil Nadu,2015,Below Secondary,0
+Tamil Nadu,2016,Below Secondary,0
+Tamil Nadu,2017,Below Secondary,0
+Telangana,2015,Below Secondary,0
+Telangana,2016,Below Secondary,0
+Telangana,2017,Below Secondary,0
+The Dadra And Nagar Haveli And Daman And Diu,2015,Below Secondary,0
+The Dadra And Nagar Haveli And Daman And Diu,2016,Below Secondary,1
+The Dadra And Nagar Haveli And Daman And Diu,2017,Below Secondary,0
+Tripura,2015,Below Secondary,9
+Tripura,2016,Below Secondary,9
+Tripura,2017,Below Secondary,8
+Uttar Pradesh,2015,Below Secondary,1
+Uttar Pradesh,2016,Below Secondary,1
+Uttar Pradesh,2017,Below Secondary,1
+Uttarakhand,2015,Below Secondary,1
+Uttarakhand,2016,Below Secondary,1
+Uttarakhand,2017,Below Secondary,1
+West Bengal,2015,Below Secondary,1
+West Bengal,2016,Below Secondary,1
+West Bengal,2017,Below Secondary,1
+Andaman And Nicobar Islands,2015,Secondary,2
+Andaman And Nicobar Islands,2016,Secondary,1
+Andaman And Nicobar Islands,2017,Secondary,1
+Andhra Pradesh,2015,Secondary,2
+Andhra Pradesh,2016,Secondary,3
+Andhra Pradesh,2017,Secondary,3
+Arunachal Pradesh,2015,Secondary,2
+Arunachal Pradesh,2016,Secondary,2
+Arunachal Pradesh,2017,Secondary,2
+Assam,2015,Secondary,16
+Assam,2016,Secondary,15
+Assam,2017,Secondary,13
+Bihar,2015,Secondary,6
+Bihar,2016,Secondary,5
+Bihar,2017,Secondary,11
+Chandigarh,2015,Secondary,1
+Chandigarh,2016,Secondary,1
+Chandigarh,2017,Secondary,1
+Chhattisgarh,2015,Secondary,0
+Chhattisgarh,2016,Secondary,0
+Chhattisgarh,2017,Secondary,0
+Delhi,2015,Secondary,1
+Delhi,2016,Secondary,1
+Delhi,2017,Secondary,1
+Goa,2015,Secondary,8
+Goa,2016,Secondary,7
+Goa,2017,Secondary,6
+Gujarat,2015,Secondary,21
+Gujarat,2016,Secondary,19
+Gujarat,2017,Secondary,17
+Haryana,2015,Secondary,2
+Haryana,2016,Secondary,2
+Haryana,2017,Secondary,2
+Himachal Pradesh,2015,Secondary,12
+Himachal Pradesh,2016,Secondary,11
+Himachal Pradesh,2017,Secondary,10
+Jammu And Kashmir,2015,Secondary,3
+Jammu And Kashmir,2016,Secondary,2
+Jammu And Kashmir,2017,Secondary,2
+Jharkhand,2015,Secondary,5
+Jharkhand,2016,Secondary,4
+Jharkhand,2017,Secondary,4
+Karnataka,2015,Secondary,15
+Karnataka,2016,Secondary,15
+Karnataka,2017,Secondary,15
+Kerala,2015,Secondary,8
+Kerala,2016,Secondary,8
+Kerala,2017,Secondary,7
+Lakshadweep,2015,Secondary,34
+Lakshadweep,2016,Secondary,29
+Lakshadweep,2017,Secondary,26
+Madhya Pradesh,2015,Secondary,1
+Madhya Pradesh,2016,Secondary,1
+Madhya Pradesh,2017,Secondary,1
+Maharashtra,2015,Secondary,11
+Maharashtra,2016,Secondary,10
+Maharashtra,2017,Secondary,8
+Manipur,2015,Secondary,5
+Manipur,2016,Secondary,5
+Manipur,2017,Secondary,4
+Meghalaya,2015,Secondary,12
+Meghalaya,2016,Secondary,12
+Meghalaya,2017,Secondary,11
+Mizoram,2015,Secondary,12
+Mizoram,2016,Secondary,11
+Mizoram,2017,Secondary,11
+Nagaland,2015,Secondary,12
+Nagaland,2016,Secondary,12
+Nagaland,2017,Secondary,11
+Odisha,2015,Secondary,11
+Odisha,2016,Secondary,10
+Odisha,2017,Secondary,9
+Puducherry,2015,Secondary,1
+Puducherry,2016,Secondary,0
+Puducherry,2017,Secondary,1
+Punjab,2015,Secondary,4
+Punjab,2016,Secondary,3
+Punjab,2017,Secondary,2
+Rajasthan,2015,Secondary,2
+Rajasthan,2016,Secondary,1
+Rajasthan,2017,Secondary,1
+Sikkim,2015,Secondary,14
+Sikkim,2016,Secondary,14
+Sikkim,2017,Secondary,12
+Tamil Nadu,2015,Secondary,3
+Tamil Nadu,2016,Secondary,2
+Tamil Nadu,2017,Secondary,2
+Telangana,2015,Secondary,2
+Telangana,2016,Secondary,1
+Telangana,2017,Secondary,0
+The Dadra And Nagar Haveli And Daman And Diu,2015,Secondary,20
+The Dadra And Nagar Haveli And Daman And Diu,2016,Secondary,17
+The Dadra And Nagar Haveli And Daman And Diu,2017,Secondary,16
+Tripura,2015,Secondary,25
+Tripura,2016,Secondary,25
+Tripura,2017,Secondary,25
+Uttar Pradesh,2015,Secondary,2
+Uttar Pradesh,2016,Secondary,2
+Uttar Pradesh,2017,Secondary,2
+Uttarakhand,2015,Secondary,1
+Uttarakhand,2016,Secondary,1
+Uttarakhand,2017,Secondary,1
+West Bengal,2015,Secondary,14
+West Bengal,2016,Secondary,13
+West Bengal,2017,Secondary,10
+Andaman And Nicobar Islands,2015,Higher Secondary (I-XII),29
+Andaman And Nicobar Islands,2016,Higher Secondary (I-XII),27
+Andaman And Nicobar Islands,2017,Higher Secondary (I-XII),27
+Andhra Pradesh,2015,Higher Secondary (I-XII),7
+Andhra Pradesh,2016,Higher Secondary (I-XII),9
+Andhra Pradesh,2017,Higher Secondary (I-XII),8
+Arunachal Pradesh,2015,Higher Secondary (I-XII),27
+Arunachal Pradesh,2016,Higher Secondary (I-XII),26
+Arunachal Pradesh,2017,Higher Secondary (I-XII),24
+Assam,2015,Higher Secondary (I-XII),26
+Assam,2016,Higher Secondary (I-XII),25
+Assam,2017,Higher Secondary (I-XII),24
+Bihar,2015,Higher Secondary (I-XII),31
+Bihar,2016,Higher Secondary (I-XII),28
+Bihar,2017,Higher Secondary (I-XII),30
+Chandigarh,2015,Higher Secondary (I-XII),2
+Chandigarh,2016,Higher Secondary (I-XII),2
+Chandigarh,2017,Higher Secondary (I-XII),2
+Chhattisgarh,2015,Higher Secondary (I-XII),21
+Chhattisgarh,2016,Higher Secondary (I-XII),19
+Chhattisgarh,2017,Higher Secondary (I-XII),19
+Delhi,2015,Higher Secondary (I-XII),8
+Delhi,2016,Higher Secondary (I-XII),7
+Delhi,2017,Higher Secondary (I-XII),7
+Goa,2015,Higher Secondary (I-XII),9
+Goa,2016,Higher Secondary (I-XII),9
+Goa,2017,Higher Secondary (I-XII),9
+Gujarat,2015,Higher Secondary (I-XII),19
+Gujarat,2016,Higher Secondary (I-XII),17
+Gujarat,2017,Higher Secondary (I-XII),16
+Haryana,2015,Higher Secondary (I-XII),7
+Haryana,2016,Higher Secondary (I-XII),7
+Haryana,2017,Higher Secondary (I-XII),7
+Himachal Pradesh,2015,Higher Secondary (I-XII),10
+Himachal Pradesh,2016,Higher Secondary (I-XII),9
+Himachal Pradesh,2017,Higher Secondary (I-XII),9
+Jammu And Kashmir,2015,Higher Secondary (I-XII),17
+Jammu And Kashmir,2016,Higher Secondary (I-XII),17
+Jammu And Kashmir,2017,Higher Secondary (I-XII),14
+Jharkhand,2015,Higher Secondary (I-XII),23
+Jharkhand,2016,Higher Secondary (I-XII),23
+Jharkhand,2017,Higher Secondary (I-XII),23
+Karnataka,2015,Higher Secondary (I-XII),36
+Karnataka,2016,Higher Secondary (I-XII),33
+Karnataka,2017,Higher Secondary (I-XII),33
+Kerala,2015,Higher Secondary (I-XII),17
+Kerala,2016,Higher Secondary (I-XII),16
+Kerala,2017,Higher Secondary (I-XII),16
+Lakshadweep,2015,Higher Secondary (I-XII),9
+Lakshadweep,2016,Higher Secondary (I-XII),10
+Lakshadweep,2017,Higher Secondary (I-XII),12
+Madhya Pradesh,2015,Higher Secondary (I-XII),20
+Madhya Pradesh,2016,Higher Secondary (I-XII),18
+Madhya Pradesh,2017,Higher Secondary (I-XII),18
+Maharashtra,2015,Higher Secondary (I-XII),22
+Maharashtra,2016,Higher Secondary (I-XII),22
+Maharashtra,2017,Higher Secondary (I-XII),24
+Manipur,2015,Higher Secondary (I-XII),18
+Manipur,2016,Higher Secondary (I-XII),17
+Manipur,2017,Higher Secondary (I-XII),17
+Meghalaya,2015,Higher Secondary (I-XII),37
+Meghalaya,2016,Higher Secondary (I-XII),36
+Meghalaya,2017,Higher Secondary (I-XII),35
+Mizoram,2015,Higher Secondary (I-XII),21
+Mizoram,2016,Higher Secondary (I-XII),21
+Mizoram,2017,Higher Secondary (I-XII),19
+Nagaland,2015,Higher Secondary (I-XII),27
+Nagaland,2016,Higher Secondary (I-XII),26
+Nagaland,2017,Higher Secondary (I-XII),25
+Odisha,2015,Higher Secondary (I-XII),25
+Odisha,2016,Higher Secondary (I-XII),25
+Odisha,2017,Higher Secondary (I-XII),24
+Puducherry,2015,Higher Secondary (I-XII),9
+Puducherry,2016,Higher Secondary (I-XII),10
+Puducherry,2017,Higher Secondary (I-XII),9
+Punjab,2015,Higher Secondary (I-XII),7
+Punjab,2016,Higher Secondary (I-XII),7
+Punjab,2017,Higher Secondary (I-XII),8
+Rajasthan,2015,Higher Secondary (I-XII),11
+Rajasthan,2016,Higher Secondary (I-XII),10
+Rajasthan,2017,Higher Secondary (I-XII),9
+Sikkim,2015,Higher Secondary (I-XII),27
+Sikkim,2016,Higher Secondary (I-XII),27
+Sikkim,2017,Higher Secondary (I-XII),26
+Tamil Nadu,2015,Higher Secondary (I-XII),13
+Tamil Nadu,2016,Higher Secondary (I-XII),12
+Tamil Nadu,2017,Higher Secondary (I-XII),9
+Telangana,2015,Higher Secondary (I-XII),6
+Telangana,2016,Higher Secondary (I-XII),5
+Telangana,2017,Higher Secondary (I-XII),6
+The Dadra And Nagar Haveli And Daman And Diu,2015,Higher Secondary (I-XII),36
+The Dadra And Nagar Haveli And Daman And Diu,2016,Higher Secondary (I-XII),34
+The Dadra And Nagar Haveli And Daman And Diu,2017,Higher Secondary (I-XII),31
+Tripura,2015,Higher Secondary (I-XII),10
+Tripura,2016,Higher Secondary (I-XII),10
+Tripura,2017,Higher Secondary (I-XII),10
+Uttar Pradesh,2015,Higher Secondary (I-XII),9
+Uttar Pradesh,2016,Higher Secondary (I-XII),8
+Uttar Pradesh,2017,Higher Secondary (I-XII),7
+Uttarakhand,2015,Higher Secondary (I-XII),7
+Uttarakhand,2016,Higher Secondary (I-XII),6
+Uttarakhand,2017,Higher Secondary (I-XII),5
+West Bengal,2015,Higher Secondary (I-XII),15
+West Bengal,2016,Higher Secondary (I-XII),15
+West Bengal,2017,Higher Secondary (I-XII),17
+Andaman And Nicobar Islands,2015,Graduate,34
+Andaman And Nicobar Islands,2016,Graduate,34
+Andaman And Nicobar Islands,2017,Graduate,34
+Andhra Pradesh,2015,Graduate,54
+Andhra Pradesh,2016,Graduate,53
+Andhra Pradesh,2017,Graduate,50
+Arunachal Pradesh,2015,Graduate,52
+Arunachal Pradesh,2016,Graduate,52
+Arunachal Pradesh,2017,Graduate,53
+Assam,2015,Graduate,45
+Assam,2016,Graduate,46
+Assam,2017,Graduate,49
+Bihar,2015,Graduate,31
+Bihar,2016,Graduate,33
+Bihar,2017,Graduate,38
+Chandigarh,2015,Graduate,28
+Chandigarh,2016,Graduate,26
+Chandigarh,2017,Graduate,27
+Chhattisgarh,2015,Graduate,29
+Chhattisgarh,2016,Graduate,29
+Chhattisgarh,2017,Graduate,29
+Delhi,2015,Graduate,36
+Delhi,2016,Graduate,36
+Delhi,2017,Graduate,35
+Goa,2015,Graduate,49
+Goa,2016,Graduate,50
+Goa,2017,Graduate,50
+Gujarat,2015,Graduate,33
+Gujarat,2016,Graduate,37
+Gujarat,2017,Graduate,37
+Haryana,2015,Graduate,38
+Haryana,2016,Graduate,38
+Haryana,2017,Graduate,39
+Himachal Pradesh,2015,Graduate,32
+Himachal Pradesh,2016,Graduate,32
+Himachal Pradesh,2017,Graduate,32
+Jammu And Kashmir,2015,Graduate,44
+Jammu And Kashmir,2016,Graduate,44
+Jammu And Kashmir,2017,Graduate,42
+Jharkhand,2015,Graduate,51
+Jharkhand,2016,Graduate,51
+Jharkhand,2017,Graduate,52
+Karnataka,2015,Graduate,22
+Karnataka,2016,Graduate,32
+Karnataka,2017,Graduate,32
+Kerala,2015,Graduate,43
+Kerala,2016,Graduate,43
+Kerala,2017,Graduate,43
+Lakshadweep,2015,Graduate,25
+Lakshadweep,2016,Graduate,26
+Lakshadweep,2017,Graduate,27
+Madhya Pradesh,2015,Graduate,45
+Madhya Pradesh,2016,Graduate,45
+Madhya Pradesh,2017,Graduate,46
+Maharashtra,2015,Graduate,45
+Maharashtra,2016,Graduate,47
+Maharashtra,2017,Graduate,47
+Manipur,2015,Graduate,55
+Manipur,2016,Graduate,55
+Manipur,2017,Graduate,56
+Meghalaya,2015,Graduate,37
+Meghalaya,2016,Graduate,38
+Meghalaya,2017,Graduate,40
+Mizoram,2015,Graduate,49
+Mizoram,2016,Graduate,50
+Mizoram,2017,Graduate,50
+Nagaland,2015,Graduate,44
+Nagaland,2016,Graduate,45
+Nagaland,2017,Graduate,46
+Odisha,2015,Graduate,52
+Odisha,2016,Graduate,52
+Odisha,2017,Graduate,53
+Puducherry,2015,Graduate,40
+Puducherry,2016,Graduate,39
+Puducherry,2017,Graduate,38
+Punjab,2015,Graduate,35
+Punjab,2016,Graduate,35
+Punjab,2017,Graduate,35
+Rajasthan,2015,Graduate,50
+Rajasthan,2016,Graduate,50
+Rajasthan,2017,Graduate,49
+Sikkim,2015,Graduate,40
+Sikkim,2016,Graduate,40
+Sikkim,2017,Graduate,40
+Tamil Nadu,2015,Graduate,39
+Tamil Nadu,2016,Graduate,39
+Tamil Nadu,2017,Graduate,38
+Telangana,2015,Graduate,52
+Telangana,2016,Graduate,52
+Telangana,2017,Graduate,54
+The Dadra And Nagar Haveli And Daman And Diu,2015,Graduate,79
+The Dadra And Nagar Haveli And Daman And Diu,2016,Graduate,78
+The Dadra And Nagar Haveli And Daman And Diu,2017,Graduate,78
+Tripura,2015,Graduate,38
+Tripura,2016,Graduate,38
+Tripura,2017,Graduate,38
+Uttar Pradesh,2015,Graduate,44
+Uttar Pradesh,2016,Graduate,44
+Uttar Pradesh,2017,Graduate,45
+Uttarakhand,2015,Graduate,26
+Uttarakhand,2016,Graduate,25
+Uttarakhand,2017,Graduate,27
+West Bengal,2015,Graduate,45
+West Bengal,2016,Graduate,45
+West Bengal,2017,Graduate,46
+Andaman And Nicobar Islands,2015,Post Graduate,32
+Andaman And Nicobar Islands,2016,Post Graduate,34
+Andaman And Nicobar Islands,2017,Post Graduate,34
+Andhra Pradesh,2015,Post Graduate,36
+Andhra Pradesh,2016,Post Graduate,34
+Andhra Pradesh,2017,Post Graduate,37
+Arunachal Pradesh,2015,Post Graduate,18
+Arunachal Pradesh,2016,Post Graduate,18
+Arunachal Pradesh,2017,Post Graduate,19
+Assam,2015,Post Graduate,11
+Assam,2016,Post Graduate,11
+Assam,2017,Post Graduate,12
+Bihar,2015,Post Graduate,19
+Bihar,2016,Post Graduate,21
+Bihar,2017,Post Graduate,20
+Chandigarh,2015,Post Graduate,63
+Chandigarh,2016,Post Graduate,64
+Chandigarh,2017,Post Graduate,64
+Chhattisgarh,2015,Post Graduate,50
+Chhattisgarh,2016,Post Graduate,51
+Chhattisgarh,2017,Post Graduate,52
+Delhi,2015,Post Graduate,53
+Delhi,2016,Post Graduate,53
+Delhi,2017,Post Graduate,53
+Goa,2015,Post Graduate,33
+Goa,2016,Post Graduate,33
+Goa,2017,Post Graduate,34
+Gujarat,2015,Post Graduate,25
+Gujarat,2016,Post Graduate,25
+Gujarat,2017,Post Graduate,28
+Haryana,2015,Post Graduate,49
+Haryana,2016,Post Graduate,50
+Haryana,2017,Post Graduate,49
+Himachal Pradesh,2015,Post Graduate,43
+Himachal Pradesh,2016,Post Graduate,45
+Himachal Pradesh,2017,Post Graduate,47
+Jammu And Kashmir,2015,Post Graduate,35
+Jammu And Kashmir,2016,Post Graduate,36
+Jammu And Kashmir,2017,Post Graduate,40
+Jharkhand,2015,Post Graduate,20
+Jharkhand,2016,Post Graduate,20
+Jharkhand,2017,Post Graduate,20
+Karnataka,2015,Post Graduate,13
+Karnataka,2016,Post Graduate,16
+Karnataka,2017,Post Graduate,17
+Kerala,2015,Post Graduate,30
+Kerala,2016,Post Graduate,31
+Kerala,2017,Post Graduate,32
+Lakshadweep,2015,Post Graduate,31
+Lakshadweep,2016,Post Graduate,34
+Lakshadweep,2017,Post Graduate,33
+Madhya Pradesh,2015,Post Graduate,33
+Madhya Pradesh,2016,Post Graduate,34
+Madhya Pradesh,2017,Post Graduate,34
+Maharashtra,2015,Post Graduate,21
+Maharashtra,2016,Post Graduate,21
+Maharashtra,2017,Post Graduate,21
+Manipur,2015,Post Graduate,21
+Manipur,2016,Post Graduate,22
+Manipur,2017,Post Graduate,21
+Meghalaya,2015,Post Graduate,11
+Meghalaya,2016,Post Graduate,11
+Meghalaya,2017,Post Graduate,12
+Mizoram,2015,Post Graduate,15
+Mizoram,2016,Post Graduate,16
+Mizoram,2017,Post Graduate,17
+Nagaland,2015,Post Graduate,13
+Nagaland,2016,Post Graduate,13
+Nagaland,2017,Post Graduate,15
+Odisha,2015,Post Graduate,11
+Odisha,2016,Post Graduate,12
+Odisha,2017,Post Graduate,13
+Puducherry,2015,Post Graduate,42
+Puducherry,2016,Post Graduate,43
+Puducherry,2017,Post Graduate,41
+Punjab,2015,Post Graduate,51
+Punjab,2016,Post Graduate,52
+Punjab,2017,Post Graduate,52
+Rajasthan,2015,Post Graduate,37
+Rajasthan,2016,Post Graduate,38
+Rajasthan,2017,Post Graduate,40
+Sikkim,2015,Post Graduate,17
+Sikkim,2016,Post Graduate,17
+Sikkim,2017,Post Graduate,20
+Tamil Nadu,2015,Post Graduate,37
+Tamil Nadu,2016,Post Graduate,39
+Tamil Nadu,2017,Post Graduate,43
+Telangana,2015,Post Graduate,40
+Telangana,2016,Post Graduate,40
+Telangana,2017,Post Graduate,39
+The Dadra And Nagar Haveli And Daman And Diu,2015,Post Graduate,62
+The Dadra And Nagar Haveli And Daman And Diu,2016,Post Graduate,64
+The Dadra And Nagar Haveli And Daman And Diu,2017,Post Graduate,70
+Tripura,2015,Post Graduate,17
+Tripura,2016,Post Graduate,17
+Tripura,2017,Post Graduate,19
+Uttar Pradesh,2015,Post Graduate,42
+Uttar Pradesh,2016,Post Graduate,44
+Uttar Pradesh,2017,Post Graduate,44
+Uttarakhand,2015,Post Graduate,64
+Uttarakhand,2016,Post Graduate,66
+Uttarakhand,2017,Post Graduate,66
+West Bengal,2015,Post Graduate,25
+West Bengal,2016,Post Graduate,25
+West Bengal,2017,Post Graduate,26
+Andaman And Nicobar Islands,2015,M.Phil,3
+Andaman And Nicobar Islands,2016,M.Phil,3
+Andaman And Nicobar Islands,2017,M.Phil,3
+Andhra Pradesh,2015,M.Phil,1
+Andhra Pradesh,2016,M.Phil,1
+Andhra Pradesh,2017,M.Phil,1
+Arunachal Pradesh,2015,M.Phil,0
+Arunachal Pradesh,2016,M.Phil,0
+Arunachal Pradesh,2017,M.Phil,0
+Assam,2015,M.Phil,1
+Assam,2016,M.Phil,1
+Assam,2017,M.Phil,1
+Bihar,2015,M.Phil,0
+Bihar,2016,M.Phil,0
+Bihar,2017,M.Phil,0
+Chandigarh,2015,M.Phil,5
+Chandigarh,2016,M.Phil,5
+Chandigarh,2017,M.Phil,4
+Chhattisgarh,2015,M.Phil,0
+Chhattisgarh,2016,M.Phil,0
+Chhattisgarh,2017,M.Phil,0
+Delhi,2015,M.Phil,3
+Delhi,2016,M.Phil,2
+Delhi,2017,M.Phil,2
+Goa,2015,M.Phil,0
+Goa,2016,M.Phil,0
+Goa,2017,M.Phil,0
+Gujarat,2015,M.Phil,0
+Gujarat,2016,M.Phil,1
+Gujarat,2017,M.Phil,1
+Haryana,2015,M.Phil,3
+Haryana,2016,M.Phil,2
+Haryana,2017,M.Phil,2
+Himachal Pradesh,2015,M.Phil,3
+Himachal Pradesh,2016,M.Phil,3
+Himachal Pradesh,2017,M.Phil,3
+Jammu And Kashmir,2015,M.Phil,1
+Jammu And Kashmir,2016,M.Phil,1
+Jammu And Kashmir,2017,M.Phil,1
+Jharkhand,2015,M.Phil,0
+Jharkhand,2016,M.Phil,0
+Jharkhand,2017,M.Phil,0
+Karnataka,2015,M.Phil,1
+Karnataka,2016,M.Phil,1
+Karnataka,2017,M.Phil,1
+Kerala,2015,M.Phil,1
+Kerala,2016,M.Phil,1
+Kerala,2017,M.Phil,1
+Lakshadweep,2015,M.Phil,1
+Lakshadweep,2016,M.Phil,1
+Lakshadweep,2017,M.Phil,1
+Madhya Pradesh,2015,M.Phil,0
+Madhya Pradesh,2016,M.Phil,0
+Madhya Pradesh,2017,M.Phil,0
+Maharashtra,2015,M.Phil,0
+Maharashtra,2016,M.Phil,0
+Maharashtra,2017,M.Phil,0
+Manipur,2015,M.Phil,1
+Manipur,2016,M.Phil,1
+Manipur,2017,M.Phil,1
+Meghalaya,2015,M.Phil,0
+Meghalaya,2016,M.Phil,0
+Meghalaya,2017,M.Phil,0
+Mizoram,2015,M.Phil,0
+Mizoram,2016,M.Phil,0
+Mizoram,2017,M.Phil,0
+Nagaland,2015,M.Phil,0
+Nagaland,2016,M.Phil,0
+Nagaland,2017,M.Phil,0
+Odisha,2015,M.Phil,0
+Odisha,2016,M.Phil,0
+Odisha,2017,M.Phil,0
+Puducherry,2015,M.Phil,8
+Puducherry,2016,M.Phil,8
+Puducherry,2017,M.Phil,7
+Punjab,2015,M.Phil,2
+Punjab,2016,M.Phil,2
+Punjab,2017,M.Phil,2
+Rajasthan,2015,M.Phil,0
+Rajasthan,2016,M.Phil,0
+Rajasthan,2017,M.Phil,0
+Sikkim,2015,M.Phil,0
+Sikkim,2016,M.Phil,0
+Sikkim,2017,M.Phil,0
+Tamil Nadu,2015,M.Phil,8
+Tamil Nadu,2016,M.Phil,8
+Tamil Nadu,2017,M.Phil,8
+Telangana,2015,M.Phil,1
+Telangana,2016,M.Phil,1
+Telangana,2017,M.Phil,0
+The Dadra And Nagar Haveli And Daman And Diu,2015,M.Phil,2
+The Dadra And Nagar Haveli And Daman And Diu,2016,M.Phil,2
+The Dadra And Nagar Haveli And Daman And Diu,2017,M.Phil,1
+Tripura,2015,M.Phil,0
+Tripura,2016,M.Phil,0
+Tripura,2017,M.Phil,0
+Uttar Pradesh,2015,M.Phil,0
+Uttar Pradesh,2016,M.Phil,0
+Uttar Pradesh,2017,M.Phil,0
+Uttarakhand,2015,M.Phil,1
+Uttarakhand,2016,M.Phil,1
+Uttarakhand,2017,M.Phil,0
+West Bengal,2015,M.Phil,0
+West Bengal,2016,M.Phil,0
+West Bengal,2017,M.Phil,0
+Andaman And Nicobar Islands,2015,PhD/Post Doctoral,0
+Andaman And Nicobar Islands,2016,PhD/Post Doctoral,0
+Andaman And Nicobar Islands,2017,PhD/Post Doctoral,0
+Andhra Pradesh,2015,PhD/Post Doctoral,0
+Andhra Pradesh,2016,PhD/Post Doctoral,0
+Andhra Pradesh,2017,PhD/Post Doctoral,0
+Arunachal Pradesh,2015,PhD/Post Doctoral,0
+Arunachal Pradesh,2016,PhD/Post Doctoral,0
+Arunachal Pradesh,2017,PhD/Post Doctoral,0
+Assam,2015,PhD/Post Doctoral,0
+Assam,2016,PhD/Post Doctoral,0
+Assam,2017,PhD/Post Doctoral,0
+Bihar,2015,PhD/Post Doctoral,1
+Bihar,2016,PhD/Post Doctoral,1
+Bihar,2017,PhD/Post Doctoral,1
+Chandigarh,2015,PhD/Post Doctoral,1
+Chandigarh,2016,PhD/Post Doctoral,1
+Chandigarh,2017,PhD/Post Doctoral,1
+Chhattisgarh,2015,PhD/Post Doctoral,0
+Chhattisgarh,2016,PhD/Post Doctoral,0
+Chhattisgarh,2017,PhD/Post Doctoral,0
+Delhi,2015,PhD/Post Doctoral,1
+Delhi,2016,PhD/Post Doctoral,1
+Delhi,2017,PhD/Post Doctoral,1
+Goa,2015,PhD/Post Doctoral,0
+Goa,2016,PhD/Post Doctoral,0
+Goa,2017,PhD/Post Doctoral,0
+Gujarat,2015,PhD/Post Doctoral,0
+Gujarat,2016,PhD/Post Doctoral,0
+Gujarat,2017,PhD/Post Doctoral,0
+Haryana,2015,PhD/Post Doctoral,1
+Haryana,2016,PhD/Post Doctoral,1
+Haryana,2017,PhD/Post Doctoral,1
+Himachal Pradesh,2015,PhD/Post Doctoral,0
+Himachal Pradesh,2016,PhD/Post Doctoral,0
+Himachal Pradesh,2017,PhD/Post Doctoral,1
+Jammu And Kashmir,2015,PhD/Post Doctoral,0
+Jammu And Kashmir,2016,PhD/Post Doctoral,0
+Jammu And Kashmir,2017,PhD/Post Doctoral,0
+Jharkhand,2015,PhD/Post Doctoral,1
+Jharkhand,2016,PhD/Post Doctoral,1
+Jharkhand,2017,PhD/Post Doctoral,1
+Karnataka,2015,PhD/Post Doctoral,1
+Karnataka,2016,PhD/Post Doctoral,1
+Karnataka,2017,PhD/Post Doctoral,1
+Kerala,2015,PhD/Post Doctoral,1
+Kerala,2016,PhD/Post Doctoral,0
+Kerala,2017,PhD/Post Doctoral,0
+Lakshadweep,2015,PhD/Post Doctoral,0
+Lakshadweep,2016,PhD/Post Doctoral,0
+Lakshadweep,2017,PhD/Post Doctoral,0
+Madhya Pradesh,2015,PhD/Post Doctoral,0
+Madhya Pradesh,2016,PhD/Post Doctoral,0
+Madhya Pradesh,2017,PhD/Post Doctoral,0
+Maharashtra,2015,PhD/Post Doctoral,0
+Maharashtra,2016,PhD/Post Doctoral,0
+Maharashtra,2017,PhD/Post Doctoral,0
+Manipur,2015,PhD/Post Doctoral,1
+Manipur,2016,PhD/Post Doctoral,1
+Manipur,2017,PhD/Post Doctoral,1
+Meghalaya,2015,PhD/Post Doctoral,0
+Meghalaya,2016,PhD/Post Doctoral,0
+Meghalaya,2017,PhD/Post Doctoral,0
+Mizoram,2015,PhD/Post Doctoral,0
+Mizoram,2016,PhD/Post Doctoral,0
+Mizoram,2017,PhD/Post Doctoral,0
+Nagaland,2015,PhD/Post Doctoral,0
+Nagaland,2016,PhD/Post Doctoral,0
+Nagaland,2017,PhD/Post Doctoral,0
+Odisha,2015,PhD/Post Doctoral,0
+Odisha,2016,PhD/Post Doctoral,0
+Odisha,2017,PhD/Post Doctoral,0
+Puducherry,2015,PhD/Post Doctoral,0
+Puducherry,2016,PhD/Post Doctoral,0
+Puducherry,2017,PhD/Post Doctoral,1
+Punjab,2015,PhD/Post Doctoral,0
+Punjab,2016,PhD/Post Doctoral,0
+Punjab,2017,PhD/Post Doctoral,0
+Rajasthan,2015,PhD/Post Doctoral,0
+Rajasthan,2016,PhD/Post Doctoral,0
+Rajasthan,2017,PhD/Post Doctoral,0
+Sikkim,2015,PhD/Post Doctoral,0
+Sikkim,2016,PhD/Post Doctoral,0
+Sikkim,2017,PhD/Post Doctoral,0
+Tamil Nadu,2015,PhD/Post Doctoral,0
+Tamil Nadu,2016,PhD/Post Doctoral,0
+Tamil Nadu,2017,PhD/Post Doctoral,0
+Telangana,2015,PhD/Post Doctoral,1
+Telangana,2016,PhD/Post Doctoral,1
+Telangana,2017,PhD/Post Doctoral,0
+The Dadra And Nagar Haveli And Daman And Diu,2015,PhD/Post Doctoral,2
+The Dadra And Nagar Haveli And Daman And Diu,2016,PhD/Post Doctoral,3
+The Dadra And Nagar Haveli And Daman And Diu,2017,PhD/Post Doctoral,1
+Tripura,2015,PhD/Post Doctoral,0
+Tripura,2016,PhD/Post Doctoral,0
+Tripura,2017,PhD/Post Doctoral,0
+Uttar Pradesh,2015,PhD/Post Doctoral,1
+Uttar Pradesh,2016,PhD/Post Doctoral,1
+Uttar Pradesh,2017,PhD/Post Doctoral,1
+Uttarakhand,2015,PhD/Post Doctoral,1
+Uttarakhand,2016,PhD/Post Doctoral,1
+Uttarakhand,2017,PhD/Post Doctoral,1
+West Bengal,2015,PhD/Post Doctoral,0
+West Bengal,2016,PhD/Post Doctoral,0
+West Bengal,2017,PhD/Post Doctoral,0
+Andaman And Nicobar Islands,2015,State Defined,0
+Andaman And Nicobar Islands,2016,State Defined,0
+Andaman And Nicobar Islands,2017,State Defined,0
+Andhra Pradesh,2015,State Defined,0
+Andhra Pradesh,2016,State Defined,0
+Andhra Pradesh,2017,State Defined,0
+Arunachal Pradesh,2015,State Defined,0
+Arunachal Pradesh,2016,State Defined,0
+Arunachal Pradesh,2017,State Defined,0
+Assam,2015,State Defined,0
+Assam,2016,State Defined,0
+Assam,2017,State Defined,0
+Bihar,2015,State Defined,0
+Bihar,2016,State Defined,0
+Bihar,2017,State Defined,0
+Chandigarh,2015,State Defined,0
+Chandigarh,2016,State Defined,0
+Chandigarh,2017,State Defined,0
+Chhattisgarh,2015,State Defined,0
+Chhattisgarh,2016,State Defined,0
+Chhattisgarh,2017,State Defined,0
+Delhi,2015,State Defined,0
+Delhi,2016,State Defined,0
+Delhi,2017,State Defined,0
+Goa,2015,State Defined,0
+Goa,2016,State Defined,0
+Goa,2017,State Defined,0
+Gujarat,2015,State Defined,0
+Gujarat,2016,State Defined,0
+Gujarat,2017,State Defined,0
+Haryana,2015,State Defined,0
+Haryana,2016,State Defined,0
+Haryana,2017,State Defined,0
+Himachal Pradesh,2015,State Defined,0
+Himachal Pradesh,2016,State Defined,0
+Himachal Pradesh,2017,State Defined,0
+Jammu And Kashmir,2015,State Defined,0
+Jammu And Kashmir,2016,State Defined,0
+Jammu And Kashmir,2017,State Defined,0
+Jharkhand,2015,State Defined,0
+Jharkhand,2016,State Defined,0
+Jharkhand,2017,State Defined,0
+Karnataka,2015,State Defined,0
+Karnataka,2016,State Defined,0
+Karnataka,2017,State Defined,0
+Kerala,2015,State Defined,0
+Kerala,2016,State Defined,0
+Kerala,2017,State Defined,0
+Lakshadweep,2015,State Defined,0
+Lakshadweep,2016,State Defined,0
+Lakshadweep,2017,State Defined,0
+Madhya Pradesh,2015,State Defined,0
+Madhya Pradesh,2016,State Defined,0
+Madhya Pradesh,2017,State Defined,0
+Maharashtra,2015,State Defined,0
+Maharashtra,2016,State Defined,0
+Maharashtra,2017,State Defined,0
+Manipur,2015,State Defined,0
+Manipur,2016,State Defined,0
+Manipur,2017,State Defined,0
+Meghalaya,2015,State Defined,0
+Meghalaya,2016,State Defined,0
+Meghalaya,2017,State Defined,0
+Mizoram,2015,State Defined,0
+Mizoram,2016,State Defined,0
+Mizoram,2017,State Defined,0
+Nagaland,2015,State Defined,0
+Nagaland,2016,State Defined,0
+Nagaland,2017,State Defined,0
+Odisha,2015,State Defined,0
+Odisha,2016,State Defined,0
+Odisha,2017,State Defined,0
+Puducherry,2015,State Defined,0
+Puducherry,2016,State Defined,0
+Puducherry,2017,State Defined,0
+Punjab,2015,State Defined,0
+Punjab,2016,State Defined,0
+Punjab,2017,State Defined,0
+Rajasthan,2015,State Defined,0
+Rajasthan,2016,State Defined,0
+Rajasthan,2017,State Defined,0
+Sikkim,2015,State Defined,0
+Sikkim,2016,State Defined,0
+Sikkim,2017,State Defined,0
+Tamil Nadu,2015,State Defined,0
+Tamil Nadu,2016,State Defined,0
+Tamil Nadu,2017,State Defined,0
+Telangana,2015,State Defined,0
+Telangana,2016,State Defined,0
+Telangana,2017,State Defined,0
+The Dadra And Nagar Haveli And Daman And Diu,2015,State Defined,0
+The Dadra And Nagar Haveli And Daman And Diu,2016,State Defined,0
+The Dadra And Nagar Haveli And Daman And Diu,2017,State Defined,0
+Tripura,2015,State Defined,0
+Tripura,2016,State Defined,0
+Tripura,2017,State Defined,0
+Uttar Pradesh,2015,State Defined,0
+Uttar Pradesh,2016,State Defined,0
+Uttar Pradesh,2017,State Defined,0
+Uttarakhand,2015,State Defined,0
+Uttarakhand,2016,State Defined,0
+Uttarakhand,2017,State Defined,0
+West Bengal,2015,State Defined,0
+West Bengal,2016,State Defined,0
+West Bengal,2017,State Defined,0
+Andaman And Nicobar Islands,2015,No Response,0
+Andaman And Nicobar Islands,2016,No Response,0
+Andaman And Nicobar Islands,2017,No Response,0
+Andhra Pradesh,2015,No Response,0
+Andhra Pradesh,2016,No Response,0
+Andhra Pradesh,2017,No Response,0
+Arunachal Pradesh,2015,No Response,0
+Arunachal Pradesh,2016,No Response,0
+Arunachal Pradesh,2017,No Response,0
+Assam,2015,No Response,0
+Assam,2016,No Response,0
+Assam,2017,No Response,0
+Bihar,2015,No Response,11
+Bihar,2016,No Response,11
+Bihar,2017,No Response,0
+Chandigarh,2015,No Response,0
+Chandigarh,2016,No Response,0
+Chandigarh,2017,No Response,0
+Chhattisgarh,2015,No Response,0
+Chhattisgarh,2016,No Response,0
+Chhattisgarh,2017,No Response,0
+Delhi,2015,No Response,0
+Delhi,2016,No Response,0
+Delhi,2017,No Response,0
+Goa,2015,No Response,0
+Goa,2016,No Response,0
+Goa,2017,No Response,0
+Gujarat,2015,No Response,0
+Gujarat,2016,No Response,0
+Gujarat,2017,No Response,0
+Haryana,2015,No Response,0
+Haryana,2016,No Response,0
+Haryana,2017,No Response,0
+Himachal Pradesh,2015,No Response,0
+Himachal Pradesh,2016,No Response,0
+Himachal Pradesh,2017,No Response,0
+Jammu And Kashmir,2015,No Response,0
+Jammu And Kashmir,2016,No Response,0
+Jammu And Kashmir,2017,No Response,0
+Jharkhand,2015,No Response,0
+Jharkhand,2016,No Response,0
+Jharkhand,2017,No Response,0
+Karnataka,2015,No Response,0
+Karnataka,2016,No Response,0
+Karnataka,2017,No Response,0
+Kerala,2015,No Response,0
+Kerala,2016,No Response,0
+Kerala,2017,No Response,0
+Lakshadweep,2015,No Response,0
+Lakshadweep,2016,No Response,0
+Lakshadweep,2017,No Response,0
+Madhya Pradesh,2015,No Response,0
+Madhya Pradesh,2016,No Response,0
+Madhya Pradesh,2017,No Response,0
+Maharashtra,2015,No Response,0
+Maharashtra,2016,No Response,0
+Maharashtra,2017,No Response,0
+Manipur,2015,No Response,0
+Manipur,2016,No Response,0
+Manipur,2017,No Response,0
+Meghalaya,2015,No Response,0
+Meghalaya,2016,No Response,0
+Meghalaya,2017,No Response,0
+Mizoram,2015,No Response,0
+Mizoram,2016,No Response,0
+Mizoram,2017,No Response,0
+Nagaland,2015,No Response,0
+Nagaland,2016,No Response,0
+Nagaland,2017,No Response,0
+Odisha,2015,No Response,0
+Odisha,2016,No Response,0
+Odisha,2017,No Response,0
+Puducherry,2015,No Response,0
+Puducherry,2016,No Response,0
+Puducherry,2017,No Response,0
+Punjab,2015,No Response,0
+Punjab,2016,No Response,0
+Punjab,2017,No Response,0
+Rajasthan,2015,No Response,0
+Rajasthan,2016,No Response,0
+Rajasthan,2017,No Response,0
+Sikkim,2015,No Response,0
+Sikkim,2016,No Response,0
+Sikkim,2017,No Response,0
+Tamil Nadu,2015,No Response,0
+Tamil Nadu,2016,No Response,0
+Tamil Nadu,2017,No Response,0
+Telangana,2015,No Response,0
+Telangana,2016,No Response,0
+Telangana,2017,No Response,0
+The Dadra And Nagar Haveli And Daman And Diu,2015,No Response,1
+The Dadra And Nagar Haveli And Daman And Diu,2016,No Response,2
+The Dadra And Nagar Haveli And Daman And Diu,2017,No Response,1
+Tripura,2015,No Response,0
+Tripura,2016,No Response,0
+Tripura,2017,No Response,0
+Uttar Pradesh,2015,No Response,0
+Uttar Pradesh,2016,No Response,1
+Uttar Pradesh,2017,No Response,0
+Uttarakhand,2015,No Response,0
+Uttarakhand,2016,No Response,0
+Uttarakhand,2017,No Response,0
+West Bengal,2015,No Response,0
+West Bengal,2016,No Response,0
+West Bengal,2017,No Response,0

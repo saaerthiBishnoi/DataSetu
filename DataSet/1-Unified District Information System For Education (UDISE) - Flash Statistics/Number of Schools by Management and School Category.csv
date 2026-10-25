@@ -1,0 +1,261 @@
+Country,State/Ut Name,Year,Type Of Management,"Primary School (I -V) (UOM:Number), Scaling Factor:1","Upper Primary School (I - Viii) (UOM:Number), Scaling Factor:1","Higher Secondary School (I - Xii) (UOM:Number), Scaling Factor:1","Upper Primary School (Vi - Viii) (UOM:Number), Scaling Factor:1","Higher Secondary School (Vi - Xiii) (UOM:Number), Scaling Factor:1","Secondary School (I - X) (UOM:Number), Scaling Factor:1","Secondary School (Vi - X) (UOM:Number), Scaling Factor:1","Secondary School (Ix - X) (UOM:Number), Scaling Factor:1","Higher Secondary School (Ix - Xii) (UOM:Number), Scaling Factor:1","Higher Secondary School (Xi - Xii) (UOM:Number), Scaling Factor:1","Total Number Of Schools By Management (UOM:Number), Scaling Factor:1"
+India,Andaman And Nicobar Islands,"Financial Year (Apr - Mar), 2017",Government,182,58,33,1,16,42,3,0,4,0,339
+India,Andaman And Nicobar Islands,"Financial Year (Apr - Mar), 2017",Government Aided,0,0,2,0,0,0,0,0,0,0,2
+India,Andaman And Nicobar Islands,"Financial Year (Apr - Mar), 2017",Private unaided,37,23,10,0,0,6,0,0,0,0,76
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2017",Government,33695,4287,188,0,181,540,5574,0,2,429,44896
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2017",Government Aided,1492,284,0,2,2,9,459,0,0,151,2399
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2017",Private unaided,4145,4718,38,4,3,1394,4113,21,0,1351,15787
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2017",Others,187,276,1,0,0,65,21,0,0,1,551
+India,Arunachal Pradesh,"Financial Year (Apr - Mar), 2017",Government,2108,972,39,52,49,148,44,1,34,0,3447
+India,Arunachal Pradesh,"Financial Year (Apr - Mar), 2017",Government Aided,11,19,10,0,0,23,0,0,0,0,63
+India,Arunachal Pradesh,"Financial Year (Apr - Mar), 2017",Private unaided,146,243,18,0,0,87,0,0,4,1,499
+India,Arunachal Pradesh,"Financial Year (Apr - Mar), 2017",Others,24,22,2,0,0,0,0,0,3,1,52
+India,Assam,"Financial Year (Apr - Mar), 2017",Government,39789,885,138,5628,648,626,1732,1140,133,246,50965
+India,Assam,"Financial Year (Apr - Mar), 2017",Government Aided,0,3,5,3935,27,7,110,773,6,227,5093
+India,Assam,"Financial Year (Apr - Mar), 2017",Private unaided,1131,1536,215,85,16,1958,63,232,66,291,5593
+India,Assam,"Financial Year (Apr - Mar), 2017",Others,6937,51,5,591,6,53,77,537,68,102,8427
+India,Bihar,"Financial Year (Apr - Mar), 2017",Government,40652,26198,1135,239,55,1833,140,507,2428,341,73528
+India,Bihar,"Financial Year (Apr - Mar), 2017",Government Aided,4,64,2,17,18,1,5,11,35,0,157
+India,Bihar,"Financial Year (Apr - Mar), 2017",Private unaided,586,3833,262,9,7,228,58,593,71,0,5647
+India,Bihar,"Financial Year (Apr - Mar), 2017",Others,1482,6729,396,2,4,251,8,15,14,0,8901
+India,Chandigarh,"Financial Year (Apr - Mar), 2017",Government,8,13,43,0,1,55,0,0,1,0,121
+India,Chandigarh,"Financial Year (Apr - Mar), 2017",Government Aided,0,0,6,0,1,0,0,0,0,0,7
+India,Chandigarh,"Financial Year (Apr - Mar), 2017",Private unaided,4,14,41,0,1,14,0,0,0,0,74
+India,Chandigarh,"Financial Year (Apr - Mar), 2017",Others,5,15,1,0,0,2,0,0,0,0,23
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2017",Government,30936,125,100,13166,36,52,7,1897,2521,8,48848
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2017",Government Aided,215,34,19,69,43,3,2,1,34,0,420
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2017",Private unaided,1860,2711,1117,117,64,554,24,51,166,3,6667
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2017",Others,162,49,0,38,0,0,0,0,0,0,249
+India,Delhi,"Financial Year (Apr - Mar), 2017",Government,1678,5,499,17,475,24,87,0,2,0,2787
+India,Delhi,"Financial Year (Apr - Mar), 2017",Government Aided,47,10,94,12,65,11,14,0,1,0,254
+India,Delhi,"Financial Year (Apr - Mar), 2017",Private unaided,983,857,593,4,7,232,6,0,0,0,2682
+India,Goa,"Financial Year (Apr - Mar), 2017",Government,710,42,6,1,5,0,74,2,0,6,846
+India,Goa,"Financial Year (Apr - Mar), 2017",Government Aided,109,20,2,6,0,165,144,0,0,87,533
+India,Goa,"Financial Year (Apr - Mar), 2017",Private unaided,109,6,6,3,0,14,2,0,0,6,146
+India,Gujarat,"Financial Year (Apr - Mar), 2017",Government,10472,22806,45,236,141,29,59,970,253,141,35152
+India,Gujarat,"Financial Year (Apr - Mar), 2017",Government Aided,71,176,59,266,93,9,14,1955,3027,62,5732
+India,Gujarat,"Financial Year (Apr - Mar), 2017",Private unaided,1399,6464,1528,293,61,816,15,826,1253,598,13253
+India,Gujarat,"Financial Year (Apr - Mar), 2017",Others,0,0,2,0,0,1,0,0,1,0,4
+India,Haryana,"Financial Year (Apr - Mar), 2017",Government,8713,3,33,2396,1988,2,1278,0,37,0,14450
+India,Haryana,"Financial Year (Apr - Mar), 2017",Government Aided,21,1,107,0,47,37,11,0,0,0,224
+India,Haryana,"Financial Year (Apr - Mar), 2017",Private unaided,802,2324,2517,7,25,1857,30,1,3,5,7571
+India,Haryana,"Financial Year (Apr - Mar), 2017",Others,438,506,19,0,0,26,1,0,0,0,990
+India,Himachal Pradesh,"Financial Year (Apr - Mar), 2017",Government,10665,5,30,1996,1834,3,932,0,0,0,15465
+India,Himachal Pradesh,"Financial Year (Apr - Mar), 2017",Private unaided,655,859,603,1,6,684,1,2,9,9,2829
+India,Himachal Pradesh,"Financial Year (Apr - Mar), 2017",Others,1,0,0,0,0,0,0,0,0,0,1
+India,Jammu And Kashmir,"Financial Year (Apr - Mar), 2017",Government,12924,7864,104,134,86,1337,432,38,459,3,23381
+India,Jammu And Kashmir,"Financial Year (Apr - Mar), 2017",Private unaided,1471,2110,386,0,2,1323,1,1,11,1,5306
+India,Jammu And Kashmir,"Financial Year (Apr - Mar), 2017",Others,4,1,0,0,0,1,0,0,0,0,6
+India,Jharkhand,"Financial Year (Apr - Mar), 2017",Government,24340,12461,166,17,439,1440,94,365,322,59,39703
+India,Jharkhand,"Financial Year (Apr - Mar), 2017",Government Aided,497,485,16,15,9,12,106,17,3,16,1176
+India,Jharkhand,"Financial Year (Apr - Mar), 2017",Private unaided,24,164,263,18,8,303,316,94,3,200,1393
+India,Jharkhand,"Financial Year (Apr - Mar), 2017",Others,2604,3914,39,31,2,526,80,46,3,13,7258
+India,Karnataka,"Financial Year (Apr - Mar), 2017",Government,21615,21923,25,244,51,492,906,3552,647,611,50066
+India,Karnataka,"Financial Year (Apr - Mar), 2017",Government Aided,237,2635,6,72,11,64,48,3519,180,558,7330
+India,Karnataka,"Financial Year (Apr - Mar), 2017",Private unaided,4437,6065,680,242,9,2889,114,2992,80,2137,19645
+India,Karnataka,"Financial Year (Apr - Mar), 2017",Others,17,11,0,0,0,2,4,0,0,1,35
+India,Kerala,"Financial Year (Apr - Mar), 2017",Government,2623,812,438,55,387,201,54,35,165,13,4783
+India,Kerala,"Financial Year (Apr - Mar), 2017",Government Aided,3901,1305,141,571,567,103,285,102,234,5,7214
+India,Kerala,"Financial Year (Apr - Mar), 2017",Private unaided,921,696,891,19,40,855,22,20,24,45,3533
+India,Kerala,"Financial Year (Apr - Mar), 2017",Others,787,545,31,7,1,105,1,2,1,3,1483
+India,Ladakh,"Financial Year (Apr - Mar), 2017",Government,289,176,2,3,2,30,10,1,10,0,523
+India,Ladakh,"Financial Year (Apr - Mar), 2017",Private unaided,33,47,9,0,0,30,0,0,0,0,119
+India,Ladakh,"Financial Year (Apr - Mar), 2017",Others,0,0,0,0,0,0,0,0,0,0,0
+India,Lakshadweep,"Financial Year (Apr - Mar), 2017",Government,15,16,4,0,5,1,0,0,4,0,45
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2017",Government,83442,12,89,30433,47,17,1,4758,3854,0,122653
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2017",Government Aided,424,159,69,56,78,11,6,26,94,1,924
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2017",Private unaided,3117,17204,3959,64,99,3058,39,191,359,13,28103
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2017",Others,787,1104,0,22,0,0,0,0,0,0,1913
+India,Maharashtra,"Financial Year (Apr - Mar), 2017",Government,44205,20666,367,13,65,881,322,187,4,40,66750
+India,Maharashtra,"Financial Year (Apr - Mar), 2017",Government Aided,3181,4094,4344,0,858,6265,3749,96,54,666,23307
+India,Maharashtra,"Financial Year (Apr - Mar), 2017",Private unaided,5562,4713,1030,129,336,2522,2197,772,114,1791,19166
+India,Maharashtra,"Financial Year (Apr - Mar), 2017",Others,505,382,21,8,0,93,38,42,1,2,1092
+India,Manipur,"Financial Year (Apr - Mar), 2017",Government,2032,557,26,22,30,259,94,0,15,2,3037
+India,Manipur,"Financial Year (Apr - Mar), 2017",Government Aided,401,69,1,27,0,33,38,19,0,7,595
+India,Manipur,"Financial Year (Apr - Mar), 2017",Private unaided,42,284,88,7,4,447,5,13,5,59,954
+India,Manipur,"Financial Year (Apr - Mar), 2017",Others,99,121,0,1,0,5,0,0,0,0,226
+India,Meghalaya,"Financial Year (Apr - Mar), 2017",Government,5453,7,12,2228,23,11,63,1,2,5,7805
+India,Meghalaya,"Financial Year (Apr - Mar), 2017",Government Aided,2498,22,4,926,12,6,122,493,43,64,4190
+India,Meghalaya,"Financial Year (Apr - Mar), 2017",Private unaided,1359,173,20,204,4,103,31,456,28,98,2476
+India,Meghalaya,"Financial Year (Apr - Mar), 2017",Others,99,20,3,28,0,8,5,81,1,20,265
+India,Mizoram,"Financial Year (Apr - Mar), 2017",Government,1297,4,0,956,0,0,0,300,0,25,2582
+India,Mizoram,"Financial Year (Apr - Mar), 2017",Government Aided,5,0,0,74,0,0,0,138,0,20,237
+India,Mizoram,"Financial Year (Apr - Mar), 2017",Private unaided,222,427,0,64,0,0,0,206,0,116,1035
+India,Mizoram,"Financial Year (Apr - Mar), 2017",Others,11,18,0,0,0,0,0,22,0,14,65
+India,Nagaland,"Financial Year (Apr - Mar), 2017",Government,1134,606,6,29,44,109,146,3,2,1,2080
+India,Nagaland,"Financial Year (Apr - Mar), 2017",Private unaided,125,180,110,0,4,323,1,0,0,16,759
+India,Odisha,"Financial Year (Apr - Mar), 2017",Government,33450,15623,52,1573,214,2189,1665,1414,0,133,56313
+India,Odisha,"Financial Year (Apr - Mar), 2017",Government Aided,310,36,0,1569,3,16,2181,1120,0,627,5862
+India,Odisha,"Financial Year (Apr - Mar), 2017",Private unaided,864,1808,117,104,4,376,193,123,0,370,3959
+India,Odisha,"Financial Year (Apr - Mar), 2017",Others,1446,1245,18,61,1,105,57,25,0,117,3075
+India,Puducherry,"Financial Year (Apr - Mar), 2017",Government,234,48,6,1,51,39,35,0,7,3,424
+India,Puducherry,"Financial Year (Apr - Mar), 2017",Government Aided,3,1,11,0,0,18,0,0,0,0,33
+India,Puducherry,"Financial Year (Apr - Mar), 2017",Private unaided,45,28,96,0,1,103,1,0,0,2,276
+India,Punjab,"Financial Year (Apr - Mar), 2017",Government,13059,8,101,2670,1954,25,1685,0,3,10,19515
+India,Punjab,"Financial Year (Apr - Mar), 2017",Government Aided,58,35,189,5,101,50,27,1,0,0,466
+India,Punjab,"Financial Year (Apr - Mar), 2017",Private unaided,914,2391,2362,0,27,2623,8,2,52,142,8521
+India,Punjab,"Financial Year (Apr - Mar), 2017",Others,96,95,104,1,0,89,1,3,8,27,424
+India,Rajasthan,"Financial Year (Apr - Mar), 2017",Government,32597,19940,9729,199,367,3971,69,0,71,0,66943
+India,Rajasthan,"Financial Year (Apr - Mar), 2017",Private unaided,4056,16500,7701,20,396,6992,129,0,142,0,35936
+India,Rajasthan,"Financial Year (Apr - Mar), 2017",Others,2255,337,13,0,3,24,2,0,1,0,2635
+India,Sikkim,"Financial Year (Apr - Mar), 2017",Government,478,173,77,0,4,120,1,0,0,0,853
+India,Sikkim,"Financial Year (Apr - Mar), 2017",Government Aided,7,2,4,0,4,1,3,0,0,0,21
+India,Sikkim,"Financial Year (Apr - Mar), 2017",Private unaided,240,151,13,0,0,22,0,0,0,0,426
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2017",Government,24270,7067,136,71,2920,61,3100,3,5,1,37634
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2017",Government Aided,5047,1493,88,31,1108,32,576,4,7,0,8386
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2017",Private unaided,5867,734,2921,12,288,1835,181,3,6,16,11863
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2017",Others,421,144,2,4,1,11,8,0,0,0,591
+India,Telangana,"Financial Year (Apr - Mar), 2017",Government,19769,3318,245,0,206,734,5119,0,0,454,29845
+India,Telangana,"Financial Year (Apr - Mar), 2017",Government Aided,297,127,0,0,0,42,225,0,0,34,725
+India,Telangana,"Financial Year (Apr - Mar), 2017",Private unaided,686,3851,31,0,0,5618,340,0,0,1505,12031
+India,Telangana,"Financial Year (Apr - Mar), 2017",Others,129,92,0,0,0,12,0,0,0,0,233
+India,The Dadra And Nagar Haveli And Daman And Diu,"Financial Year (Apr - Mar), 2017",Government,205,115,1,39,3,2,0,25,22,3,415
+India,The Dadra And Nagar Haveli And Daman And Diu,"Financial Year (Apr - Mar), 2017",Government Aided,6,0,1,0,2,5,0,0,0,0,14
+India,The Dadra And Nagar Haveli And Daman And Diu,"Financial Year (Apr - Mar), 2017",Private unaided,12,21,14,0,0,11,0,1,0,0,59
+India,The Dadra And Nagar Haveli And Daman And Diu,"Financial Year (Apr - Mar), 2017",Others,1,0,0,0,0,0,0,0,0,0,1
+India,Tripura,"Financial Year (Apr - Mar), 2017",Government,2207,1126,323,1,65,587,5,0,0,0,4314
+India,Tripura,"Financial Year (Apr - Mar), 2017",Government Aided,10,2,21,0,8,4,0,1,0,0,46
+India,Tripura,"Financial Year (Apr - Mar), 2017",Private unaided,129,115,27,0,0,63,1,0,0,0,335
+India,Tripura,"Financial Year (Apr - Mar), 2017",Others,218,8,3,0,0,4,0,0,0,0,233
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2017",Government,114000,225,299,46430,516,25,49,1419,146,5,163114
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2017",Government Aided,367,419,579,2550,3540,62,381,40,306,1,8245
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2017",Private unaided,40048,12580,2328,14891,5237,1023,3315,3746,5381,22,88571
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2017",Others,9904,3127,532,360,22,1281,52,48,29,1,15356
+India,Uttarakhand,"Financial Year (Apr - Mar), 2017",Government,12432,27,53,2754,1333,13,729,208,73,7,17629
+India,Uttarakhand,"Financial Year (Apr - Mar), 2017",Government Aided,13,15,39,193,263,5,50,9,31,1,619
+India,Uttarakhand,"Financial Year (Apr - Mar), 2017",Private unaided,2338,1962,482,343,105,172,60,39,35,6,5542
+India,Uttarakhand,"Financial Year (Apr - Mar), 2017",Others,298,79,1,73,0,1,1,21,3,6,483
+India,West Bengal,"Financial Year (Apr - Mar), 2017",Government,67179,162,172,7020,6117,46,2584,0,0,12,83292
+India,West Bengal,"Financial Year (Apr - Mar), 2017",Government Aided,80,5,12,5,27,5,12,0,0,0,146
+India,West Bengal,"Financial Year (Apr - Mar), 2017",Private unaided,8891,1215,494,265,58,344,96,1,1,4,11369
+India,West Bengal,"Financial Year (Apr - Mar), 2017",Others,1949,336,117,254,265,77,169,0,0,0,3167
+India,Andaman And Nicobar Islands,"Financial Year (Apr - Mar), 2016",Government,185,62,34,0,16,40,3,0,4,0,344
+India,Andaman And Nicobar Islands,"Financial Year (Apr - Mar), 2016",Government Aided,0,0,2,0,0,0,0,0,0,0,2
+India,Andaman And Nicobar Islands,"Financial Year (Apr - Mar), 2016",Private unaided,33,22,7,0,0,7,0,0,0,0,69
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2016",Government,33363,5122,145,0,178,489,5400,0,3,0,44700
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2016",Government Aided,1517,281,0,1,2,7,464,0,0,0,2272
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2016",Private unaided,4091,4630,27,0,1,1187,4058,11,0,0,14005
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2016",Others,222,238,2,0,0,64,25,0,0,0,551
+India,Arunachal Pradesh,"Financial Year (Apr - Mar), 2016",Government,2119,976,38,52,51,152,40,0,31,0,3459
+India,Arunachal Pradesh,"Financial Year (Apr - Mar), 2016",Government Aided,9,20,9,0,0,22,0,0,0,0,60
+India,Arunachal Pradesh,"Financial Year (Apr - Mar), 2016",Private unaided,149,241,20,0,1,79,0,0,4,1,495
+India,Arunachal Pradesh,"Financial Year (Apr - Mar), 2016",Others,27,14,2,0,0,0,0,0,0,1,44
+India,Assam,"Financial Year (Apr - Mar), 2016",Government,40471,965,69,6933,641,19,1067,2419,204,254,53042
+India,Assam,"Financial Year (Apr - Mar), 2016",Government Aided,0,4,5,3905,28,11,102,768,6,219,5048
+India,Assam,"Financial Year (Apr - Mar), 2016",Private unaided,972,1141,186,80,13,1721,60,236,53,283,4745
+India,Assam,"Financial Year (Apr - Mar), 2016",Others,7124,56,5,576,6,52,74,560,64,108,8625
+India,Bihar,"Financial Year (Apr - Mar), 2016",Government,42021,26302,648,253,59,2186,146,509,2427,357,74908
+India,Bihar,"Financial Year (Apr - Mar), 2016",Government Aided,13,75,3,18,18,1,11,69,36,3,247
+India,Bihar,"Financial Year (Apr - Mar), 2016",Private unaided,525,2690,230,7,7,210,66,576,62,8,4381
+India,Bihar,"Financial Year (Apr - Mar), 2016",Others,1019,3922,243,1,5,214,4,5,13,0,5426
+India,Chandigarh,"Financial Year (Apr - Mar), 2016",Government,8,12,43,0,2,51,0,0,0,0,116
+India,Chandigarh,"Financial Year (Apr - Mar), 2016",Government Aided,0,0,6,0,1,0,0,0,0,0,7
+India,Chandigarh,"Financial Year (Apr - Mar), 2016",Private unaided,4,13,40,0,2,14,0,0,0,0,73
+India,Chandigarh,"Financial Year (Apr - Mar), 2016",Others,0,5,0,0,0,0,0,0,0,0,5
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2016",Government,30938,149,98,11662,216,33,1325,565,2219,11,47216
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2016",Government Aided,212,37,18,68,44,3,2,1,34,0,419
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2016",Private unaided,1664,2622,1109,117,66,546,23,53,169,3,6372
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2016",Others,155,41,0,37,0,0,0,0,0,0,233
+India,Delhi,"Financial Year (Apr - Mar), 2016",Government,1683,8,491,18,471,24,94,0,2,0,2791
+India,Delhi,"Financial Year (Apr - Mar), 2016",Government Aided,48,11,93,12,68,10,14,0,1,1,258
+India,Delhi,"Financial Year (Apr - Mar), 2016",Private unaided,993,866,583,5,9,220,6,0,0,0,2682
+India,Goa,"Financial Year (Apr - Mar), 2016",Government,737,43,6,0,5,0,74,2,0,6,873
+India,Goa,"Financial Year (Apr - Mar), 2016",Government Aided,109,17,2,8,0,161,145,0,0,84,526
+India,Goa,"Financial Year (Apr - Mar), 2016",Private unaided,112,8,5,3,0,15,2,0,0,7,152
+India,Gujarat,"Financial Year (Apr - Mar), 2016",Government,10536,22716,54,307,106,26,89,898,258,132,35122
+India,Gujarat,"Financial Year (Apr - Mar), 2016",Government Aided,69,200,87,233,108,12,15,1986,2894,59,5663
+India,Gujarat,"Financial Year (Apr - Mar), 2016",Private unaided,1260,6207,1448,285,79,686,19,749,1205,564,12502
+India,Gujarat,"Financial Year (Apr - Mar), 2016",Others,0,0,2,0,0,1,0,0,1,0,4
+India,Haryana,"Financial Year (Apr - Mar), 2016",Government,8740,3,36,2420,1864,3,1380,0,37,0,14483
+India,Haryana,"Financial Year (Apr - Mar), 2016",Government Aided,22,2,107,0,48,37,11,0,0,0,227
+India,Haryana,"Financial Year (Apr - Mar), 2016",Private unaided,776,2097,2336,6,25,1859,33,1,4,1,7138
+India,Haryana,"Financial Year (Apr - Mar), 2016",Others,430,458,19,0,0,31,0,0,0,1,939
+India,Himachal Pradesh,"Financial Year (Apr - Mar), 2016",Government,10730,5,26,2065,1733,6,924,0,0,0,15489
+India,Himachal Pradesh,"Financial Year (Apr - Mar), 2016",Private unaided,598,839,586,0,10,672,1,0,4,8,2718
+India,Himachal Pradesh,"Financial Year (Apr - Mar), 2016",Others,1,0,0,0,0,0,0,0,0,0,1
+India,Jammu And Kashmir,"Financial Year (Apr - Mar), 2016",Government,12893,7851,104,131,90,1376,392,36,458,2,23333
+India,Jammu And Kashmir,"Financial Year (Apr - Mar), 2016",Private unaided,1498,2068,380,0,3,1296,1,1,9,1,5256
+India,Jammu And Kashmir,"Financial Year (Apr - Mar), 2016",Others,3,0,0,0,0,0,0,0,0,0,3
+India,Jharkhand,"Financial Year (Apr - Mar), 2016",Government,24656,12461,165,15,440,1441,97,358,320,61,40014
+India,Jharkhand,"Financial Year (Apr - Mar), 2016",Government Aided,500,480,17,15,7,12,92,33,4,22,1182
+India,Jharkhand,"Financial Year (Apr - Mar), 2016",Private unaided,59,175,245,31,12,296,328,97,3,171,1417
+India,Jharkhand,"Financial Year (Apr - Mar), 2016",Others,1715,2711,37,25,4,512,81,38,0,12,5135
+India,Karnataka,"Financial Year (Apr - Mar), 2016",Government,21782,21897,30,142,47,497,608,3540,660,680,49883
+India,Karnataka,"Financial Year (Apr - Mar), 2016",Government Aided,247,2661,8,74,10,64,50,3529,180,554,7377
+India,Karnataka,"Financial Year (Apr - Mar), 2016",Private unaided,4522,5681,672,251,9,2595,104,3012,88,1826,18760
+India,Karnataka,"Financial Year (Apr - Mar), 2016",Others,32,16,1,0,0,0,2,2,0,1,54
+India,Kerala,"Financial Year (Apr - Mar), 2016",Government,2906,818,416,58,401,198,54,39,172,11,5073
+India,Kerala,"Financial Year (Apr - Mar), 2016",Government Aided,3909,1300,115,574,583,95,287,105,248,5,7221
+India,Kerala,"Financial Year (Apr - Mar), 2016",Private unaided,664,698,877,18,41,850,22,19,26,45,3260
+India,Kerala,"Financial Year (Apr - Mar), 2016",Others,868,552,34,9,1,116,2,3,1,4,1590
+India,Ladakh,"Financial Year (Apr - Mar), 2016",Government,288,176,2,3,2,31,9,1,10,0,522
+India,Ladakh,"Financial Year (Apr - Mar), 2016",Private unaided,34,46,8,0,0,29,0,0,0,0,118
+India,Ladakh,"Financial Year (Apr - Mar), 2016",Others,0,0,0,0,0,0,0,0,0,0,0
+India,Lakshadweep,"Financial Year (Apr - Mar), 2016",Government,17,12,4,1,5,2,0,0,4,0,45
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2016",Government,83753,23,83,30401,48,17,1,4726,3827,1,122880
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2016",Government Aided,470,171,76,65,83,15,5,26,90,1,1002
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2016",Private unaided,3300,16530,3860,90,107,2749,41,177,330,6,27190
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2016",Others,778,896,1,20,0,1,0,1,0,0,1697
+India,Maharashtra,"Financial Year (Apr - Mar), 2016",Government,44516,20851,339,8,63,841,328,176,3,29,67154
+India,Maharashtra,"Financial Year (Apr - Mar), 2016",Government Aided,3162,4070,4067,2,993,5918,3430,317,100,713,22772
+India,Maharashtra,"Financial Year (Apr - Mar), 2016",Private unaided,5182,4502,818,100,353,2342,2421,775,90,1508,18091
+India,Maharashtra,"Financial Year (Apr - Mar), 2016",Others,355,222,10,6,0,42,30,28,0,3,696
+India,Manipur,"Financial Year (Apr - Mar), 2016",Government,2426,488,24,23,23,220,101,0,15,3,3323
+India,Manipur,"Financial Year (Apr - Mar), 2016",Government Aided,400,69,0,28,0,36,40,29,0,5,607
+India,Manipur,"Financial Year (Apr - Mar), 2016",Private unaided,42,262,81,6,4,453,7,11,5,56,927
+India,Manipur,"Financial Year (Apr - Mar), 2016",Others,41,72,0,3,0,5,0,0,0,0,121
+India,Meghalaya,"Financial Year (Apr - Mar), 2016",Government,5454,7,12,2257,21,10,24,1,2,5,7793
+India,Meghalaya,"Financial Year (Apr - Mar), 2016",Government Aided,2500,16,4,932,10,9,114,504,45,65,4199
+India,Meghalaya,"Financial Year (Apr - Mar), 2016",Private unaided,1273,151,17,197,3,93,25,454,15,90,2318
+India,Meghalaya,"Financial Year (Apr - Mar), 2016",Others,77,16,2,22,0,8,4,72,0,20,221
+India,Mizoram,"Financial Year (Apr - Mar), 2016",Government,1309,5,0,960,0,0,0,296,0,25,2595
+India,Mizoram,"Financial Year (Apr - Mar), 2016",Government Aided,2,1,0,74,0,0,0,132,0,20,229
+India,Mizoram,"Financial Year (Apr - Mar), 2016",Private unaided,211,416,0,73,0,0,0,196,0,113,1009
+India,Mizoram,"Financial Year (Apr - Mar), 2016",Others,14,11,0,1,0,0,0,24,0,6,56
+India,Nagaland,"Financial Year (Apr - Mar), 2016",Government,1146,587,6,40,43,89,178,3,2,3,2097
+India,Nagaland,"Financial Year (Apr - Mar), 2016",Private unaided,128,187,98,0,3,300,1,0,1,16,734
+India,Odisha,"Financial Year (Apr - Mar), 2016",Government,33860,16316,45,2254,156,1479,3650,163,0,129,58052
+India,Odisha,"Financial Year (Apr - Mar), 2016",Government Aided,312,34,0,1557,0,9,3151,111,0,568,5742
+India,Odisha,"Financial Year (Apr - Mar), 2016",Private unaided,897,1794,109,119,4,411,381,29,0,394,4138
+India,Odisha,"Financial Year (Apr - Mar), 2016",Others,1249,969,21,53,1,99,47,7,0,92,2538
+India,Puducherry,"Financial Year (Apr - Mar), 2016",Government,234,48,5,1,51,40,35,0,7,3,424
+India,Puducherry,"Financial Year (Apr - Mar), 2016",Government Aided,3,0,11,0,0,19,0,0,0,0,33
+India,Puducherry,"Financial Year (Apr - Mar), 2016",Private unaided,44,31,93,0,1,108,1,0,0,2,280
+India,Punjab,"Financial Year (Apr - Mar), 2016",Government,13226,345,338,2678,1956,293,1688,0,11,33,20568
+India,Punjab,"Financial Year (Apr - Mar), 2016",Government Aided,61,31,185,5,102,51,30,1,0,0,466
+India,Punjab,"Financial Year (Apr - Mar), 2016",Private unaided,799,1925,1981,2,20,2142,5,2,42,120,7038
+India,Punjab,"Financial Year (Apr - Mar), 2016",Others,156,260,173,0,0,262,3,3,10,23,890
+India,Rajasthan,"Financial Year (Apr - Mar), 2016",Government,33433,20251,9419,194,364,4186,83,0,109,0,68039
+India,Rajasthan,"Financial Year (Apr - Mar), 2016",Private unaided,4462,16231,6755,13,445,6779,161,0,195,0,35041
+India,Rajasthan,"Financial Year (Apr - Mar), 2016",Others,2298,325,11,0,1,23,2,0,1,0,2661
+India,Sikkim,"Financial Year (Apr - Mar), 2016",Government,491,188,67,0,7,116,5,0,0,0,874
+India,Sikkim,"Financial Year (Apr - Mar), 2016",Government Aided,1,0,2,0,0,1,0,0,0,0,4
+India,Sikkim,"Financial Year (Apr - Mar), 2016",Private unaided,245,162,11,0,0,21,0,0,0,0,439
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2016",Government,24195,7403,398,73,2827,356,3047,2,5,1,38307
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2016",Government Aided,5055,1497,86,32,1103,33,586,4,7,0,8403
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2016",Private unaided,5892,522,2464,14,290,1480,178,2,3,17,10862
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2016",Others,272,161,4,6,1,12,5,0,0,0,461
+India,Telangana,"Financial Year (Apr - Mar), 2016",Government,19702,3361,210,0,206,483,5015,0,0,450,29427
+India,Telangana,"Financial Year (Apr - Mar), 2016",Government Aided,302,135,0,0,0,49,234,0,0,36,756
+India,Telangana,"Financial Year (Apr - Mar), 2016",Private unaided,1401,3810,34,0,1,4918,1098,0,0,1311,12573
+India,Telangana,"Financial Year (Apr - Mar), 2016",Others,209,137,1,0,0,25,6,0,0,0,378
+India,The Dadra And Nagar Haveli And Daman And Diu,"Financial Year (Apr - Mar), 2016",Government,209,115,1,39,3,2,0,26,22,3,420
+India,The Dadra And Nagar Haveli And Daman And Diu,"Financial Year (Apr - Mar), 2016",Government Aided,6,0,2,0,1,5,0,0,0,0,14
+India,The Dadra And Nagar Haveli And Daman And Diu,"Financial Year (Apr - Mar), 2016",Private unaided,13,19,12,0,1,10,0,0,0,0,55
+India,The Dadra And Nagar Haveli And Daman And Diu,"Financial Year (Apr - Mar), 2016",Others,3,0,0,0,0,0,0,0,0,0,3
+India,Tripura,"Financial Year (Apr - Mar), 2016",Government,2240,1158,301,1,61,551,8,0,0,0,4320
+India,Tripura,"Financial Year (Apr - Mar), 2016",Government Aided,10,2,21,0,8,4,0,1,0,0,46
+India,Tripura,"Financial Year (Apr - Mar), 2016",Private unaided,114,102,26,0,0,55,1,0,0,0,298
+India,Tripura,"Financial Year (Apr - Mar), 2016",Others,183,9,3,0,0,3,0,0,0,0,198
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2016",Government,113938,195,256,46405,511,38,71,1352,159,2,162927
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2016",Government Aided,477,407,570,2574,3469,72,386,34,266,1,8256
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2016",Private unaided,38401,11140,1960,14540,4681,846,2676,3706,5143,23,83116
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2016",Others,6780,2610,304,298,21,551,27,73,17,3,10684
+India,Uttarakhand,"Financial Year (Apr - Mar), 2016",Government,12595,17,47,2800,1250,9,796,176,57,6,17753
+India,Uttarakhand,"Financial Year (Apr - Mar), 2016",Government Aided,10,9,35,195,258,5,51,10,29,2,604
+India,Uttarakhand,"Financial Year (Apr - Mar), 2016",Private unaided,2441,1635,438,373,100,156,61,38,33,6,5281
+India,Uttarakhand,"Financial Year (Apr - Mar), 2016",Others,251,93,0,49,0,1,0,25,0,4,423
+India,West Bengal,"Financial Year (Apr - Mar), 2016",Government,66952,137,167,7049,6044,44,2600,0,0,12,83005
+India,West Bengal,"Financial Year (Apr - Mar), 2016",Government Aided,132,19,20,1,27,8,7,0,0,0,214
+India,West Bengal,"Financial Year (Apr - Mar), 2016",Private unaided,8053,1085,359,256,57,282,98,0,1,1,10192
+India,West Bengal,"Financial Year (Apr - Mar), 2016",Others,1817,301,115,271,266,83,168,0,0,0,3021

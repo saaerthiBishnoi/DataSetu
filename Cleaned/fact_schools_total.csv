@@ -1,0 +1,577 @@
+state,year,management,school_count
+Andaman And Nicobar Islands,2014,Government,344
+Andaman And Nicobar Islands,2014,Government Aided,2
+Andaman And Nicobar Islands,2014,Other,0
+Andaman And Nicobar Islands,2014,Private Unaided,68
+Andaman And Nicobar Islands,2015,Government,344
+Andaman And Nicobar Islands,2015,Government Aided,2
+Andaman And Nicobar Islands,2015,Other,0
+Andaman And Nicobar Islands,2015,Private Unaided,68
+Andaman And Nicobar Islands,2016,Government,344
+Andaman And Nicobar Islands,2016,Government Aided,2
+Andaman And Nicobar Islands,2016,Other,0
+Andaman And Nicobar Islands,2016,Private Unaided,69
+Andaman And Nicobar Islands,2017,Government,339
+Andaman And Nicobar Islands,2017,Government Aided,2
+Andaman And Nicobar Islands,2017,Other,0
+Andaman And Nicobar Islands,2017,Private Unaided,76
+Andhra Pradesh,2014,Government,46666
+Andhra Pradesh,2014,Government Aided,2430
+Andhra Pradesh,2014,Other,796
+Andhra Pradesh,2014,Private Unaided,14269
+Andhra Pradesh,2015,Government,44907
+Andhra Pradesh,2015,Government Aided,2426
+Andhra Pradesh,2015,Other,523
+Andhra Pradesh,2015,Private Unaided,14846
+Andhra Pradesh,2016,Government,44700
+Andhra Pradesh,2016,Government Aided,2272
+Andhra Pradesh,2016,Other,551
+Andhra Pradesh,2016,Private Unaided,14005
+Andhra Pradesh,2017,Government,44896
+Andhra Pradesh,2017,Government Aided,2399
+Andhra Pradesh,2017,Other,551
+Andhra Pradesh,2017,Private Unaided,15787
+Arunachal Pradesh,2014,Government,3408
+Arunachal Pradesh,2014,Government Aided,56
+Arunachal Pradesh,2014,Other,19
+Arunachal Pradesh,2014,Private Unaided,447
+Arunachal Pradesh,2015,Government,3492
+Arunachal Pradesh,2015,Government Aided,60
+Arunachal Pradesh,2015,Other,30
+Arunachal Pradesh,2015,Private Unaided,465
+Arunachal Pradesh,2016,Government,3459
+Arunachal Pradesh,2016,Government Aided,60
+Arunachal Pradesh,2016,Other,44
+Arunachal Pradesh,2016,Private Unaided,495
+Arunachal Pradesh,2017,Government,3447
+Arunachal Pradesh,2017,Government Aided,63
+Arunachal Pradesh,2017,Other,52
+Arunachal Pradesh,2017,Private Unaided,499
+Assam,2014,Government,52927
+Assam,2014,Government Aided,4810
+Assam,2014,Other,8763
+Assam,2014,Private Unaided,3554
+Assam,2015,Government,53020
+Assam,2015,Government Aided,4945
+Assam,2015,Other,8656
+Assam,2015,Private Unaided,4421
+Assam,2016,Government,53042
+Assam,2016,Government Aided,5048
+Assam,2016,Other,8625
+Assam,2016,Private Unaided,4745
+Assam,2017,Government,50965
+Assam,2017,Government Aided,5093
+Assam,2017,Other,8427
+Assam,2017,Private Unaided,5593
+Bihar,2014,Government,74291
+Bihar,2014,Government Aided,433
+Bihar,2014,Other,5184
+Bihar,2014,Private Unaided,3284
+Bihar,2015,Government,74689
+Bihar,2015,Government Aided,301
+Bihar,2015,Other,5302
+Bihar,2015,Private Unaided,3944
+Bihar,2016,Government,74908
+Bihar,2016,Government Aided,247
+Bihar,2016,Other,5426
+Bihar,2016,Private Unaided,4381
+Bihar,2017,Government,73528
+Bihar,2017,Government Aided,157
+Bihar,2017,Other,8901
+Bihar,2017,Private Unaided,5647
+Chandigarh,2014,Government,113
+Chandigarh,2014,Government Aided,7
+Chandigarh,2014,Other,4
+Chandigarh,2014,Private Unaided,73
+Chandigarh,2015,Government,115
+Chandigarh,2015,Government Aided,7
+Chandigarh,2015,Other,6
+Chandigarh,2015,Private Unaided,73
+Chandigarh,2016,Government,116
+Chandigarh,2016,Government Aided,7
+Chandigarh,2016,Other,5
+Chandigarh,2016,Private Unaided,73
+Chandigarh,2017,Government,121
+Chandigarh,2017,Government Aided,7
+Chandigarh,2017,Other,23
+Chandigarh,2017,Private Unaided,74
+Chhattisgarh,2014,Government,50061
+Chhattisgarh,2014,Government Aided,429
+Chhattisgarh,2014,Other,203
+Chhattisgarh,2014,Private Unaided,5701
+Chhattisgarh,2015,Government,47181
+Chhattisgarh,2015,Government Aided,436
+Chhattisgarh,2015,Other,218
+Chhattisgarh,2015,Private Unaided,5946
+Chhattisgarh,2016,Government,47216
+Chhattisgarh,2016,Government Aided,419
+Chhattisgarh,2016,Other,233
+Chhattisgarh,2016,Private Unaided,6372
+Chhattisgarh,2017,Government,48848
+Chhattisgarh,2017,Government Aided,420
+Chhattisgarh,2017,Other,249
+Chhattisgarh,2017,Private Unaided,6667
+Delhi,2014,Government,2844
+Delhi,2014,Government Aided,258
+Delhi,2014,Other,0
+Delhi,2014,Private Unaided,2641
+Delhi,2015,Government,2828
+Delhi,2015,Government Aided,258
+Delhi,2015,Other,0
+Delhi,2015,Private Unaided,2669
+Delhi,2016,Government,2791
+Delhi,2016,Government Aided,258
+Delhi,2016,Other,0
+Delhi,2016,Private Unaided,2682
+Delhi,2017,Government,2787
+Delhi,2017,Government Aided,254
+Delhi,2017,Other,0
+Delhi,2017,Private Unaided,2682
+Goa,2014,Government,906
+Goa,2014,Government Aided,422
+Goa,2014,Other,95
+Goa,2014,Private Unaided,140
+Goa,2015,Government,894
+Goa,2015,Government Aided,510
+Goa,2015,Other,0
+Goa,2015,Private Unaided,150
+Goa,2016,Government,873
+Goa,2016,Government Aided,526
+Goa,2016,Other,0
+Goa,2016,Private Unaided,152
+Goa,2017,Government,846
+Goa,2017,Government Aided,533
+Goa,2017,Other,0
+Goa,2017,Private Unaided,146
+Gujarat,2014,Government,34817
+Gujarat,2014,Government Aided,5412
+Gujarat,2014,Other,180
+Gujarat,2014,Private Unaided,11555
+Gujarat,2015,Government,34891
+Gujarat,2015,Government Aided,5783
+Gujarat,2015,Other,5
+Gujarat,2015,Private Unaided,11745
+Gujarat,2016,Government,35122
+Gujarat,2016,Government Aided,5663
+Gujarat,2016,Other,4
+Gujarat,2016,Private Unaided,12502
+Gujarat,2017,Government,35152
+Gujarat,2017,Government Aided,5732
+Gujarat,2017,Other,4
+Gujarat,2017,Private Unaided,13253
+Haryana,2014,Government,14630
+Haryana,2014,Government Aided,229
+Haryana,2014,Other,566
+Haryana,2014,Private Unaided,6415
+Haryana,2015,Government,14640
+Haryana,2015,Government Aided,227
+Haryana,2015,Other,836
+Haryana,2015,Private Unaided,6612
+Haryana,2016,Government,14483
+Haryana,2016,Government Aided,227
+Haryana,2016,Other,939
+Haryana,2016,Private Unaided,7138
+Haryana,2017,Government,14450
+Haryana,2017,Government Aided,224
+Haryana,2017,Other,990
+Haryana,2017,Private Unaided,7571
+Himachal Pradesh,2014,Government,15355
+Himachal Pradesh,2014,Government Aided,0
+Himachal Pradesh,2014,Other,2
+Himachal Pradesh,2014,Private Unaided,2614
+Himachal Pradesh,2015,Government,15386
+Himachal Pradesh,2015,Government Aided,0
+Himachal Pradesh,2015,Other,1
+Himachal Pradesh,2015,Private Unaided,2652
+Himachal Pradesh,2016,Government,15489
+Himachal Pradesh,2016,Government Aided,0
+Himachal Pradesh,2016,Other,1
+Himachal Pradesh,2016,Private Unaided,2718
+Himachal Pradesh,2017,Government,15465
+Himachal Pradesh,2017,Government Aided,0
+Himachal Pradesh,2017,Other,1
+Himachal Pradesh,2017,Private Unaided,2829
+Jammu And Kashmir,2014,Government,23351
+Jammu And Kashmir,2014,Government Aided,0
+Jammu And Kashmir,2014,Other,0
+Jammu And Kashmir,2014,Private Unaided,5060
+Jammu And Kashmir,2015,Government,23312
+Jammu And Kashmir,2015,Government Aided,0
+Jammu And Kashmir,2015,Other,2
+Jammu And Kashmir,2015,Private Unaided,5141
+Jammu And Kashmir,2016,Government,23334
+Jammu And Kashmir,2016,Government Aided,0
+Jammu And Kashmir,2016,Other,3
+Jammu And Kashmir,2016,Private Unaided,5256
+Jammu And Kashmir,2017,Government,23381
+Jammu And Kashmir,2017,Government Aided,0
+Jammu And Kashmir,2017,Other,6
+Jammu And Kashmir,2017,Private Unaided,5306
+Jharkhand,2014,Government,41322
+Jharkhand,2014,Government Aided,1257
+Jharkhand,2014,Other,3867
+Jharkhand,2014,Private Unaided,1431
+Jharkhand,2015,Government,41159
+Jharkhand,2015,Government Aided,1192
+Jharkhand,2015,Other,4477
+Jharkhand,2015,Private Unaided,1700
+Jharkhand,2016,Government,40014
+Jharkhand,2016,Government Aided,1182
+Jharkhand,2016,Other,5135
+Jharkhand,2016,Private Unaided,1417
+Jharkhand,2017,Government,39703
+Jharkhand,2017,Government Aided,1176
+Jharkhand,2017,Other,7258
+Jharkhand,2017,Private Unaided,1393
+Karnataka,2014,Government,50486
+Karnataka,2014,Government Aided,7154
+Karnataka,2014,Other,57
+Karnataka,2014,Private Unaided,17331
+Karnataka,2015,Government,50424
+Karnataka,2015,Government Aided,7360
+Karnataka,2015,Other,27
+Karnataka,2015,Private Unaided,17678
+Karnataka,2016,Government,49883
+Karnataka,2016,Government Aided,7377
+Karnataka,2016,Other,54
+Karnataka,2016,Private Unaided,18760
+Karnataka,2017,Government,50066
+Karnataka,2017,Government Aided,7330
+Karnataka,2017,Other,35
+Karnataka,2017,Private Unaided,19645
+Kerala,2014,Government,5104
+Kerala,2014,Government Aided,7223
+Kerala,2014,Other,1752
+Kerala,2014,Private Unaided,2999
+Kerala,2015,Government,4792
+Kerala,2015,Government Aided,7222
+Kerala,2015,Other,1667
+Kerala,2015,Private Unaided,3449
+Kerala,2016,Government,5073
+Kerala,2016,Government Aided,7221
+Kerala,2016,Other,1590
+Kerala,2016,Private Unaided,3260
+Kerala,2017,Government,4783
+Kerala,2017,Government Aided,7214
+Kerala,2017,Other,1483
+Kerala,2017,Private Unaided,3533
+Ladakh,2014,Government,523
+Ladakh,2014,Government Aided,0
+Ladakh,2014,Other,0
+Ladakh,2014,Private Unaided,113
+Ladakh,2015,Government,522
+Ladakh,2015,Government Aided,0
+Ladakh,2015,Other,0
+Ladakh,2015,Private Unaided,115
+Ladakh,2016,Government,521
+Ladakh,2016,Government Aided,0
+Ladakh,2016,Other,0
+Ladakh,2016,Private Unaided,118
+Ladakh,2017,Government,523
+Ladakh,2017,Government Aided,0
+Ladakh,2017,Other,0
+Ladakh,2017,Private Unaided,119
+Lakshadweep,2014,Government,45
+Lakshadweep,2014,Government Aided,0
+Lakshadweep,2014,Other,0
+Lakshadweep,2014,Private Unaided,0
+Lakshadweep,2015,Government,45
+Lakshadweep,2015,Government Aided,0
+Lakshadweep,2015,Other,0
+Lakshadweep,2015,Private Unaided,0
+Lakshadweep,2016,Government,45
+Lakshadweep,2016,Government Aided,0
+Lakshadweep,2016,Other,0
+Lakshadweep,2016,Private Unaided,0
+Lakshadweep,2017,Government,45
+Lakshadweep,2017,Government Aided,0
+Lakshadweep,2017,Other,0
+Lakshadweep,2017,Private Unaided,0
+Madhya Pradesh,2014,Government,121849
+Madhya Pradesh,2014,Government Aided,1106
+Madhya Pradesh,2014,Other,1725
+Madhya Pradesh,2014,Private Unaided,25962
+Madhya Pradesh,2015,Government,121976
+Madhya Pradesh,2015,Government Aided,1042
+Madhya Pradesh,2015,Other,1671
+Madhya Pradesh,2015,Private Unaided,26073
+Madhya Pradesh,2016,Government,122880
+Madhya Pradesh,2016,Government Aided,1002
+Madhya Pradesh,2016,Other,1697
+Madhya Pradesh,2016,Private Unaided,27190
+Madhya Pradesh,2017,Government,122653
+Madhya Pradesh,2017,Government Aided,924
+Madhya Pradesh,2017,Other,1913
+Madhya Pradesh,2017,Private Unaided,28103
+Maharashtra,2014,Government,67717
+Maharashtra,2014,Government Aided,22115
+Maharashtra,2014,Other,651
+Maharashtra,2014,Private Unaided,16012
+Maharashtra,2015,Government,67629
+Maharashtra,2015,Government Aided,22567
+Maharashtra,2015,Other,583
+Maharashtra,2015,Private Unaided,16845
+Maharashtra,2016,Government,67154
+Maharashtra,2016,Government Aided,22772
+Maharashtra,2016,Other,696
+Maharashtra,2016,Private Unaided,18091
+Maharashtra,2017,Government,66750
+Maharashtra,2017,Government Aided,23307
+Maharashtra,2017,Other,1092
+Maharashtra,2017,Private Unaided,19166
+Manipur,2014,Government,2372
+Manipur,2014,Government Aided,597
+Manipur,2014,Other,1111
+Manipur,2014,Private Unaided,894
+Manipur,2015,Government,3332
+Manipur,2015,Government Aided,609
+Manipur,2015,Other,125
+Manipur,2015,Private Unaided,927
+Manipur,2016,Government,3323
+Manipur,2016,Government Aided,607
+Manipur,2016,Other,121
+Manipur,2016,Private Unaided,927
+Manipur,2017,Government,3037
+Manipur,2017,Government Aided,595
+Manipur,2017,Other,226
+Manipur,2017,Private Unaided,954
+Meghalaya,2014,Government,7763
+Meghalaya,2014,Government Aided,4056
+Meghalaya,2014,Other,189
+Meghalaya,2014,Private Unaided,2274
+Meghalaya,2015,Government,7775
+Meghalaya,2015,Government Aided,4193
+Meghalaya,2015,Other,192
+Meghalaya,2015,Private Unaided,2354
+Meghalaya,2016,Government,7793
+Meghalaya,2016,Government Aided,4199
+Meghalaya,2016,Other,221
+Meghalaya,2016,Private Unaided,2318
+Meghalaya,2017,Government,7805
+Meghalaya,2017,Government Aided,4190
+Meghalaya,2017,Other,265
+Meghalaya,2017,Private Unaided,2476
+Mizoram,2014,Government,2592
+Mizoram,2014,Government Aided,241
+Mizoram,2014,Other,5
+Mizoram,2014,Private Unaided,971
+Mizoram,2015,Government,2591
+Mizoram,2015,Government Aided,229
+Mizoram,2015,Other,4
+Mizoram,2015,Private Unaided,1001
+Mizoram,2016,Government,2595
+Mizoram,2016,Government Aided,229
+Mizoram,2016,Other,56
+Mizoram,2016,Private Unaided,1009
+Mizoram,2017,Government,2582
+Mizoram,2017,Government Aided,237
+Mizoram,2017,Other,65
+Mizoram,2017,Private Unaided,1035
+Nagaland,2014,Government,2279
+Nagaland,2014,Government Aided,0
+Nagaland,2014,Other,0
+Nagaland,2014,Private Unaided,723
+Nagaland,2015,Government,2101
+Nagaland,2015,Government Aided,0
+Nagaland,2015,Other,0
+Nagaland,2015,Private Unaided,725
+Nagaland,2016,Government,2097
+Nagaland,2016,Government Aided,0
+Nagaland,2016,Other,0
+Nagaland,2016,Private Unaided,734
+Nagaland,2017,Government,2080
+Nagaland,2017,Government Aided,0
+Nagaland,2017,Other,0
+Nagaland,2017,Private Unaided,759
+Odisha,2014,Government,58697
+Odisha,2014,Government Aided,4749
+Odisha,2014,Other,1742
+Odisha,2014,Private Unaided,3350
+Odisha,2015,Government,58740
+Odisha,2015,Government Aided,5480
+Odisha,2015,Other,2037
+Odisha,2015,Private Unaided,4043
+Odisha,2016,Government,58052
+Odisha,2016,Government Aided,5742
+Odisha,2016,Other,2538
+Odisha,2016,Private Unaided,4138
+Odisha,2017,Government,56313
+Odisha,2017,Government Aided,5862
+Odisha,2017,Other,3075
+Odisha,2017,Private Unaided,3959
+Puducherry,2014,Government,436
+Puducherry,2014,Government Aided,33
+Puducherry,2014,Other,0
+Puducherry,2014,Private Unaided,263
+Puducherry,2015,Government,430
+Puducherry,2015,Government Aided,33
+Puducherry,2015,Other,0
+Puducherry,2015,Private Unaided,268
+Puducherry,2016,Government,424
+Puducherry,2016,Government Aided,33
+Puducherry,2016,Other,0
+Puducherry,2016,Private Unaided,280
+Puducherry,2017,Government,424
+Puducherry,2017,Government Aided,33
+Puducherry,2017,Other,0
+Puducherry,2017,Private Unaided,276
+Punjab,2014,Government,20772
+Punjab,2014,Government Aided,470
+Punjab,2014,Other,545
+Punjab,2014,Private Unaided,7395
+Punjab,2015,Government,20529
+Punjab,2015,Government Aided,469
+Punjab,2015,Other,1165
+Punjab,2015,Private Unaided,6825
+Punjab,2016,Government,20568
+Punjab,2016,Government Aided,466
+Punjab,2016,Other,890
+Punjab,2016,Private Unaided,7038
+Punjab,2017,Government,19515
+Punjab,2017,Government Aided,466
+Punjab,2017,Other,424
+Punjab,2017,Private Unaided,8521
+Rajasthan,2014,Government,70210
+Rajasthan,2014,Government Aided,0
+Rajasthan,2014,Other,2516
+Rajasthan,2014,Private Unaided,34066
+Rajasthan,2015,Government,70961
+Rajasthan,2015,Government Aided,0
+Rajasthan,2015,Other,2396
+Rajasthan,2015,Private Unaided,35071
+Rajasthan,2016,Government,68039
+Rajasthan,2016,Government Aided,0
+Rajasthan,2016,Other,2661
+Rajasthan,2016,Private Unaided,35041
+Rajasthan,2017,Government,66943
+Rajasthan,2017,Government Aided,0
+Rajasthan,2017,Other,2635
+Rajasthan,2017,Private Unaided,35936
+Sikkim,2014,Government,868
+Sikkim,2014,Government Aided,3
+Sikkim,2014,Other,0
+Sikkim,2014,Private Unaided,403
+Sikkim,2015,Government,870
+Sikkim,2015,Government Aided,3
+Sikkim,2015,Other,0
+Sikkim,2015,Private Unaided,406
+Sikkim,2016,Government,874
+Sikkim,2016,Government Aided,4
+Sikkim,2016,Other,0
+Sikkim,2016,Private Unaided,439
+Sikkim,2017,Government,853
+Sikkim,2017,Government Aided,21
+Sikkim,2017,Other,0
+Sikkim,2017,Private Unaided,426
+Tamil Nadu,2014,Government,37911
+Tamil Nadu,2014,Government Aided,8409
+Tamil Nadu,2014,Other,90
+Tamil Nadu,2014,Private Unaided,10782
+Tamil Nadu,2015,Government,38209
+Tamil Nadu,2015,Government Aided,8402
+Tamil Nadu,2015,Other,176
+Tamil Nadu,2015,Private Unaided,10796
+Tamil Nadu,2016,Government,38307
+Tamil Nadu,2016,Government Aided,8403
+Tamil Nadu,2016,Other,461
+Tamil Nadu,2016,Private Unaided,10862
+Tamil Nadu,2017,Government,37634
+Tamil Nadu,2017,Government Aided,8386
+Tamil Nadu,2017,Other,591
+Tamil Nadu,2017,Private Unaided,11863
+Telangana,2014,Government,29268
+Telangana,2014,Government Aided,814
+Telangana,2014,Other,584
+Telangana,2014,Private Unaided,15069
+Telangana,2015,Government,29127
+Telangana,2015,Government Aided,778
+Telangana,2015,Other,598
+Telangana,2015,Private Unaided,12129
+Telangana,2016,Government,29427
+Telangana,2016,Government Aided,756
+Telangana,2016,Other,378
+Telangana,2016,Private Unaided,12573
+Telangana,2017,Government,29845
+Telangana,2017,Government Aided,725
+Telangana,2017,Other,233
+Telangana,2017,Private Unaided,12031
+The Dadra And Nagar Haveli And Daman And Diu,2014,Government,413
+The Dadra And Nagar Haveli And Daman And Diu,2014,Government Aided,16
+The Dadra And Nagar Haveli And Daman And Diu,2014,Other,6
+The Dadra And Nagar Haveli And Daman And Diu,2014,Private Unaided,54
+The Dadra And Nagar Haveli And Daman And Diu,2015,Government,418
+The Dadra And Nagar Haveli And Daman And Diu,2015,Government Aided,16
+The Dadra And Nagar Haveli And Daman And Diu,2015,Other,4
+The Dadra And Nagar Haveli And Daman And Diu,2015,Private Unaided,54
+The Dadra And Nagar Haveli And Daman And Diu,2016,Government,420
+The Dadra And Nagar Haveli And Daman And Diu,2016,Government Aided,14
+The Dadra And Nagar Haveli And Daman And Diu,2016,Other,3
+The Dadra And Nagar Haveli And Daman And Diu,2016,Private Unaided,55
+The Dadra And Nagar Haveli And Daman And Diu,2017,Government,415
+The Dadra And Nagar Haveli And Daman And Diu,2017,Government Aided,14
+The Dadra And Nagar Haveli And Daman And Diu,2017,Other,1
+The Dadra And Nagar Haveli And Daman And Diu,2017,Private Unaided,59
+Tripura,2014,Government,4326
+Tripura,2014,Government Aided,48
+Tripura,2014,Other,192
+Tripura,2014,Private Unaided,252
+Tripura,2015,Government,4322
+Tripura,2015,Government Aided,48
+Tripura,2015,Other,187
+Tripura,2015,Private Unaided,287
+Tripura,2016,Government,4320
+Tripura,2016,Government Aided,46
+Tripura,2016,Other,198
+Tripura,2016,Private Unaided,298
+Tripura,2017,Government,4314
+Tripura,2017,Government Aided,46
+Tripura,2017,Other,233
+Tripura,2017,Private Unaided,335
+Uttar Pradesh,2014,Government,162228
+Uttar Pradesh,2014,Government Aided,9280
+Uttar Pradesh,2014,Other,3985
+Uttar Pradesh,2014,Private Unaided,77330
+Uttar Pradesh,2015,Government,162645
+Uttar Pradesh,2015,Government Aided,8362
+Uttar Pradesh,2015,Other,4214
+Uttar Pradesh,2015,Private Unaided,80748
+Uttar Pradesh,2016,Government,162927
+Uttar Pradesh,2016,Government Aided,8256
+Uttar Pradesh,2016,Other,10684
+Uttar Pradesh,2016,Private Unaided,83116
+Uttar Pradesh,2017,Government,163114
+Uttar Pradesh,2017,Government Aided,8245
+Uttar Pradesh,2017,Other,15356
+Uttar Pradesh,2017,Private Unaided,88571
+Uttarakhand,2014,Government,17753
+Uttarakhand,2014,Government Aided,574
+Uttarakhand,2014,Other,349
+Uttarakhand,2014,Private Unaided,5353
+Uttarakhand,2015,Government,17752
+Uttarakhand,2015,Government Aided,574
+Uttarakhand,2015,Other,369
+Uttarakhand,2015,Private Unaided,5331
+Uttarakhand,2016,Government,17753
+Uttarakhand,2016,Government Aided,604
+Uttarakhand,2016,Other,423
+Uttarakhand,2016,Private Unaided,5281
+Uttarakhand,2017,Government,17629
+Uttarakhand,2017,Government Aided,619
+Uttarakhand,2017,Other,483
+Uttarakhand,2017,Private Unaided,5542
+West Bengal,2014,Government,82454
+West Bengal,2014,Government Aided,409
+West Bengal,2014,Other,3407
+West Bengal,2014,Private Unaided,9316
+West Bengal,2015,Government,82748
+West Bengal,2015,Government Aided,253
+West Bengal,2015,Other,3233
+West Bengal,2015,Private Unaided,9502
+West Bengal,2016,Government,83005
+West Bengal,2016,Government Aided,214
+West Bengal,2016,Other,3021
+West Bengal,2016,Private Unaided,10192
+West Bengal,2017,Government,83292
+West Bengal,2017,Government Aided,146
+West Bengal,2017,Other,3167
+West Bengal,2017,Private Unaided,11369

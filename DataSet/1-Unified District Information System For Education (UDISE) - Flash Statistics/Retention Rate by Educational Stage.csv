@@ -1,0 +1,109 @@
+Country,Year,Gender,State/Ut Name,"Primary (I-V) (UOM:Ratio), Scaling Factor:1","Elementary (I-Viii) (UOM:Ratio), Scaling Factor:1","Secondary (I-X) (UOM:Ratio), Scaling Factor:1"
+India,"Financial Year (Apr - Mar), 2017",Boys,All India,85,70,59
+India,"Financial Year (Apr - Mar), 2017",Girls ,All India,87,72,57
+India,"Financial Year (Apr - Mar), 2017",Total,All India,86,71,58
+India,"Financial Year (Apr - Mar), 2017",Boys,Andaman And Nicobar IslAnds,94,94,76
+India,"Financial Year (Apr - Mar), 2017",Girls ,Andaman And Nicobar IslAnds,96,99,86
+India,"Financial Year (Apr - Mar), 2017",Total,Andaman And Nicobar IslAnds,95,97,81
+India,"Financial Year (Apr - Mar), 2017",Boys,Andhra Pradesh,47,42,39
+India,"Financial Year (Apr - Mar), 2017",Girls ,Andhra Pradesh,46,42,39
+India,"Financial Year (Apr - Mar), 2017",Total,Andhra Pradesh,47,42,39
+India,"Financial Year (Apr - Mar), 2017",Boys,Arunachal Pradesh,50,34,27
+India,"Financial Year (Apr - Mar), 2017",Girls ,Arunachal Pradesh,50,37,29
+India,"Financial Year (Apr - Mar), 2017",Total,Arunachal Pradesh,50,35,28
+India,"Financial Year (Apr - Mar), 2017",Boys,Assam,66,50,32
+India,"Financial Year (Apr - Mar), 2017",Girls ,Assam,69,56,36
+India,"Financial Year (Apr - Mar), 2017",Total,Assam,68,53,34
+India,"Financial Year (Apr - Mar), 2017",Boys,Bihar,92,59,37
+India,"Financial Year (Apr - Mar), 2017",Girls ,Bihar,96,64,39
+India,"Financial Year (Apr - Mar), 2017",Total,Bihar,94,61,38
+India,"Financial Year (Apr - Mar), 2017",Boys,Chandigarh,100,100,100
+India,"Financial Year (Apr - Mar), 2017",Girls ,Chandigarh,100,100,100
+India,"Financial Year (Apr - Mar), 2017",Total,Chandigarh,100,100,100
+India,"Financial Year (Apr - Mar), 2017",Boys,Chhattisgarh,93,76,47
+India,"Financial Year (Apr - Mar), 2017",Girls ,Chhattisgarh,94,79,55
+India,"Financial Year (Apr - Mar), 2017",Total,Chhattisgarh,94,77,51
+India,"Financial Year (Apr - Mar), 2017",Boys,Dadra And Nagar Haveli And Daman And Diu,100,94,84
+India,"Financial Year (Apr - Mar), 2017",Girls ,Dadra And Nagar Haveli And Daman And Diu,100,93,84
+India,"Financial Year (Apr - Mar), 2017",Total,Dadra And Nagar Haveli And Daman And Diu,100,93,84
+India,"Financial Year (Apr - Mar), 2017",Boys,Delhi,100,100,72
+India,"Financial Year (Apr - Mar), 2017",Girls ,Delhi,100,100,71
+India,"Financial Year (Apr - Mar), 2017",Total,Delhi,100,100,72
+India,"Financial Year (Apr - Mar), 2017",Boys,Goa,98,100,92
+India,"Financial Year (Apr - Mar), 2017",Girls ,Goa,97,100,96
+India,"Financial Year (Apr - Mar), 2017",Total,Goa,98,100,94
+India,"Financial Year (Apr - Mar), 2017",Boys,Gujarat,96,89,75
+India,"Financial Year (Apr - Mar), 2017",Girls ,Gujarat,95,85,62
+India,"Financial Year (Apr - Mar), 2017",Total,Gujarat,96,87,69
+India,"Financial Year (Apr - Mar), 2017",Boys,Haryana,100,100,99
+India,"Financial Year (Apr - Mar), 2017",Girls ,Haryana,99,100,87
+India,"Financial Year (Apr - Mar), 2017",Total,Haryana,100,100,93
+India,"Financial Year (Apr - Mar), 2017",Boys,Himachal Pradesh,99,96,86
+India,"Financial Year (Apr - Mar), 2017",Girls ,Himachal Pradesh,99,96,88
+India,"Financial Year (Apr - Mar), 2017",Total,Himachal Pradesh,99,96,87
+India,"Financial Year (Apr - Mar), 2017",Boys,Jammu And Kashmir,74,63,57
+India,"Financial Year (Apr - Mar), 2017",Girls ,Jammu And Kashmir,75,64,56
+India,"Financial Year (Apr - Mar), 2017",Total,Jammu And Kashmir,74,64,56
+India,"Financial Year (Apr - Mar), 2017",Boys,JharkhAnd,76,52,32
+India,"Financial Year (Apr - Mar), 2017",Girls ,JharkhAnd,77,55,32
+India,"Financial Year (Apr - Mar), 2017",Total,JharkhAnd,77,53,32
+India,"Financial Year (Apr - Mar), 2017",Boys,Karnataka,93,84,74
+India,"Financial Year (Apr - Mar), 2017",Girls ,Karnataka,92,84,74
+India,"Financial Year (Apr - Mar), 2017",Total,Karnataka,93,84,74
+India,"Financial Year (Apr - Mar), 2017",Boys,Kerala,99,100,100
+India,"Financial Year (Apr - Mar), 2017",Girls ,Kerala,99,100,100
+India,"Financial Year (Apr - Mar), 2017",Total,Kerala,99,100,100
+India,"Financial Year (Apr - Mar), 2017",Boys,Lakshadweep,100,79,73
+India,"Financial Year (Apr - Mar), 2017",Girls ,Lakshadweep,100,88,83
+India,"Financial Year (Apr - Mar), 2017",Total,Lakshadweep,100,83,78
+India,"Financial Year (Apr - Mar), 2017",Boys,Madhya Pradesh,77,62,40
+India,"Financial Year (Apr - Mar), 2017",Girls ,Madhya Pradesh,77,62,35
+India,"Financial Year (Apr - Mar), 2017",Total,Madhya Pradesh,77,62,38
+India,"Financial Year (Apr - Mar), 2017",Boys,Maharashtra,97,95,83
+India,"Financial Year (Apr - Mar), 2017",Girls ,Maharashtra,97,93,78
+India,"Financial Year (Apr - Mar), 2017",Total,Maharashtra,97,94,81
+India,"Financial Year (Apr - Mar), 2017",Boys,Manipur,59,51,44
+India,"Financial Year (Apr - Mar), 2017",Girls ,Manipur,56,50,41
+India,"Financial Year (Apr - Mar), 2017",Total,Manipur,57,51,43
+India,"Financial Year (Apr - Mar), 2017",Boys,Meghalaya,58,44,33
+India,"Financial Year (Apr - Mar), 2017",Girls ,Meghalaya,62,51,39
+India,"Financial Year (Apr - Mar), 2017",Total,Meghalaya,60,47,36
+India,"Financial Year (Apr - Mar), 2017",Boys,Mizoram,59,45,35
+India,"Financial Year (Apr - Mar), 2017",Girls ,Mizoram,59,47,41
+India,"Financial Year (Apr - Mar), 2017",Total,Mizoram,59,46,38
+India,"Financial Year (Apr - Mar), 2017",Boys,NagalAnd,56,47,41
+India,"Financial Year (Apr - Mar), 2017",Girls ,NagalAnd,57,48,44
+India,"Financial Year (Apr - Mar), 2017",Total,NagalAnd,57,47,43
+India,"Financial Year (Apr - Mar), 2017",Boys,Odisha,89,73,60
+India,"Financial Year (Apr - Mar), 2017",Girls ,Odisha,89,73,63
+India,"Financial Year (Apr - Mar), 2017",Total,Odisha,89,73,61
+India,"Financial Year (Apr - Mar), 2017",Boys,Puducherry,98,96,89
+India,"Financial Year (Apr - Mar), 2017",Girls ,Puducherry,98,96,93
+India,"Financial Year (Apr - Mar), 2017",Total,Puducherry,98,96,91
+India,"Financial Year (Apr - Mar), 2017",Boys,Punjab,89,81,100
+India,"Financial Year (Apr - Mar), 2017",Girls ,Punjab,90,82,100
+India,"Financial Year (Apr - Mar), 2017",Total,Punjab,89,81,100
+India,"Financial Year (Apr - Mar), 2017",Boys,Rajasthan,80,65,50
+India,"Financial Year (Apr - Mar), 2017",Girls ,Rajasthan,81,62,44
+India,"Financial Year (Apr - Mar), 2017",Total,Rajasthan,81,64,48
+India,"Financial Year (Apr - Mar), 2017",Boys,Sikkim,93,59,55
+India,"Financial Year (Apr - Mar), 2017",Girls ,Sikkim,100,70,68
+India,"Financial Year (Apr - Mar), 2017",Total,Sikkim,97,64,61
+India,"Financial Year (Apr - Mar), 2017",Boys,Tamil Nadu,93,88,81
+India,"Financial Year (Apr - Mar), 2017",Girls ,Tamil Nadu,92,88,85
+India,"Financial Year (Apr - Mar), 2017",Total,Tamil Nadu,92,88,83
+India,"Financial Year (Apr - Mar), 2017",Boys,Telangana,81,68,64
+India,"Financial Year (Apr - Mar), 2017",Girls ,Telangana,82,70,65
+India,"Financial Year (Apr - Mar), 2017",Total,Telangana,81,69,65
+India,"Financial Year (Apr - Mar), 2017",Boys,Tripura,95,78,48
+India,"Financial Year (Apr - Mar), 2017",Girls ,Tripura,95,81,52
+India,"Financial Year (Apr - Mar), 2017",Total,Tripura,95,79,50
+India,"Financial Year (Apr - Mar), 2017",Boys,Uttar Pradesh,76,66,66
+India,"Financial Year (Apr - Mar), 2017",Girls ,Uttar Pradesh,79,67,57
+India,"Financial Year (Apr - Mar), 2017",Total,Uttar Pradesh,78,67,61
+India,"Financial Year (Apr - Mar), 2017",Boys,UttarakhAnd,86,78,69
+India,"Financial Year (Apr - Mar), 2017",Girls ,UttarakhAnd,87,80,71
+India,"Financial Year (Apr - Mar), 2017",Total,UttarakhAnd,87,79,70
+India,"Financial Year (Apr - Mar), 2017",Boys,West Bengal,92,53,46
+India,"Financial Year (Apr - Mar), 2017",Girls ,West Bengal,96,62,62
+India,"Financial Year (Apr - Mar), 2017",Total,West Bengal,94,57,54

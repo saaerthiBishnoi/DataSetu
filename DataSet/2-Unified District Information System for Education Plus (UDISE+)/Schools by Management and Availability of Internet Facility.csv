@@ -1,0 +1,262 @@
+Country,Year,State/Ut Name,"Total Schools All Management (UOM:Number), Scaling Factor:1","Total Government Schools (UOM:Number), Scaling Factor:1","Total Government-Aided Schools (UOM:Number), Scaling Factor:1","Total Private Unaided Schools (UOM:Number), Scaling Factor:1","Total Other Schools (UOM:Number), Scaling Factor:1","Number Of All Management Schools With Internet Facility Available (UOM:Number), Scaling Factor:1","Number Of Government Schools With Internet Facility Available (UOM:Number), Scaling Factor:1","Number Of Government Aided Schools With Internet Facility Available (UOM:Number), Scaling Factor:1","Number Of Private Unaided Schools With Internet Facility Available (UOM:Number), Scaling Factor:1","Number Of Other Schools With Internet Facility Available (UOM:Number), Scaling Factor:1","Percentage Of All Management Schools  (UOM:%(Percentage)), Scaling Factor:1","Percentage Of Government Schools (UOM:%(Percentage)), Scaling Factor:1","Percentage Of Government Aided Schools  (UOM:%(Percentage)), Scaling Factor:1","Percentage Of Private Unaided Schools  (UOM:%(Percentage)), Scaling Factor:1","Percentage Of Other Schools (UOM:%(Percentage)), Scaling Factor:1"
+India,"Financial Year (Apr - Mar), 2024",Andaman And Nicobar IslAnds,408,335,2,71,0,264,198,2,64,0,65,59,100,90,0
+India,"Financial Year (Apr - Mar), 2024",Andhra Pradesh,61317,44886,838,15473,120,60731,44311,834,15466,120,99,99,100,100,100
+India,"Financial Year (Apr - Mar), 2024",Arunachal Pradesh,3229,2558,72,571,28,1086,620,49,405,12,34,24,68,71,43
+India,"Financial Year (Apr - Mar), 2024",Assam,55283,44741,1587,6480,2475,48201,43874,377,3545,405,87,98,24,55,16
+India,"Financial Year (Apr - Mar), 2024",Bihar,94339,76320,712,11274,6033,80035,64658,542,10100,4735,85,85,76,90,79
+India,"Financial Year (Apr - Mar), 2024",Chandigarh,207,118,7,82,0,207,118,7,82,0,100,100,100,100,0
+India,"Financial Year (Apr - Mar), 2024",Chhattisgarh,56802,48827,413,7382,180,36511,30439,280,5707,85,64,62,68,77,47
+India,"Financial Year (Apr - Mar), 2024",Dadra And Nagar Haveli And Daman And Diu,433,361,8,63,1,431,360,8,62,1,100,100,100,98,100
+India,"Financial Year (Apr - Mar), 2024",Delhi,5556,2681,238,2637,0,5556,2681,238,2637,0,100,100,100,100,0
+India,"Financial Year (Apr - Mar), 2024",Goa,1479,780,558,141,0,1379,695,546,138,0,93,89,98,98,0
+India,"Financial Year (Apr - Mar), 2024",Gujarat,53355,34638,5522,13190,5,51514,33726,5100,12683,5,97,97,92,96,100
+India,"Financial Year (Apr - Mar), 2024",Haryana,23494,14338,4,8499,653,18539,9930,3,8032,574,79,69,75,95,88
+India,"Financial Year (Apr - Mar), 2024",Himachal Pradesh,17330,14725,0,2603,2,11011,8707,0,2303,1,64,59,0,89,50
+India,"Financial Year (Apr - Mar), 2024",India,1471473,1013322,79349,339583,39219,933987,593615,58233,261882,20257,64,59,73,77,52
+India,"Financial Year (Apr - Mar), 2024",Jammu And Kashmir,24192,18785,1,5359,47,11883,7999,1,3850,33,49,43,100,72,70
+India,"Financial Year (Apr - Mar), 2024",JharkhAnd,44376,35788,1155,1707,5726,25715,19956,558,1444,3757,58,56,48,85,66
+India,"Financial Year (Apr - Mar), 2024",Karnataka,74859,48844,6905,19105,5,37921,17712,4264,15942,3,51,36,62,83,60
+India,"Financial Year (Apr - Mar), 2024",Kerala,15757,4808,7164,3018,767,14442,4287,6468,2983,704,92,89,90,99,92
+India,"Financial Year (Apr - Mar), 2024",Ladakh,961,812,38,111,0,488,391,24,73,0,51,48,63,66,0
+India,"Financial Year (Apr - Mar), 2024",Lakshadweep,36,36,0,0,0,36,36,0,0,0,100,100,0,0,0
+India,"Financial Year (Apr - Mar), 2024",Madhya Pradesh,122120,92250,550,28212,1108,55865,32568,276,22465,556,46,35,50,80,50
+India,"Financial Year (Apr - Mar), 2024",Maharashtra,108250,64884,24406,18746,214,78084,39265,21093,17533,193,72,61,86,94,90
+India,"Financial Year (Apr - Mar), 2024",Manipur,4666,2952,585,1030,99,1709,764,119,784,42,37,26,20,76,42
+India,"Financial Year (Apr - Mar), 2024",Meghalaya,14587,7789,4172,2135,491,3858,1937,1151,657,113,26,25,28,31,23
+India,"Financial Year (Apr - Mar), 2024",Mizoram,3974,2617,232,1068,57,2580,1647,151,735,47,65,63,65,69,83
+India,"Financial Year (Apr - Mar), 2024",NagalAnd,2750,1936,0,814,0,1622,980,0,642,0,59,51,0,79,0
+India,"Financial Year (Apr - Mar), 2024",Odisha,61565,48625,5868,6107,965,51588,40335,5025,5412,816,84,83,86,89,85
+India,"Financial Year (Apr - Mar), 2024",Puducherry,763,419,33,311,0,760,419,33,308,0,100,100,100,99,0
+India,"Financial Year (Apr - Mar), 2024",Punjab,27281,19243,437,7589,12,24249,16711,400,7131,7,89,87,92,94,58
+India,"Financial Year (Apr - Mar), 2024",Rajasthan,106302,70155,0,33548,2599,74358,45263,0,28187,908,70,65,0,84,35
+India,"Financial Year (Apr - Mar), 2024",Sikkim,1245,857,16,372,0,643,383,5,255,0,52,45,31,69,0
+India,"Financial Year (Apr - Mar), 2024",Tamil Nadu,57935,37626,8254,11890,165,49211,32297,5297,11457,160,85,86,64,96,97
+India,"Financial Year (Apr - Mar), 2024",Telangana,43154,30057,579,12474,44,27309,15902,257,11138,12,63,53,44,89,27
+India,"Financial Year (Apr - Mar), 2024",Tripura,4943,4187,42,485,229,2059,1702,18,319,20,42,41,43,66,9
+India,"Financial Year (Apr - Mar), 2024",Uttar Pradesh,262358,137172,8262,104508,12416,120465,48897,4592,61827,5149,46,36,56,59,42
+India,"Financial Year (Apr - Mar), 2024",UttarakhAnd,22452,16018,615,5352,467,16236,10700,463,4660,413,72,67,75,87,88
+India,"Financial Year (Apr - Mar), 2024",West Bengal,93715,82154,74,7176,4311,17441,13147,52,2856,1386,19,16,70,40,32
+India,"Financial Year (Apr - Mar), 2023",Andaman And Nicobar IslAnds,412,340,2,70,0,239,174,2,63,0,58,51,100,90,0
+India,"Financial Year (Apr - Mar), 2023",Andhra Pradesh,61373,45000,991,15232,150,57652,41390,924,15188,150,94,92,93,100,100
+India,"Financial Year (Apr - Mar), 2023",Arunachal Pradesh,3490,2847,72,529,42,1065,642,46,362,15,31,23,64,68,36
+India,"Financial Year (Apr - Mar), 2023",Assam,56630,45008,2267,5725,3630,25490,22290,287,2557,356,45,50,13,45,10
+India,"Financial Year (Apr - Mar), 2023",Bihar,94686,78120,723,9167,6676,17492,9247,102,5524,2619,19,12,14,60,39
+India,"Financial Year (Apr - Mar), 2023",Chandigarh,230,119,7,77,27,229,119,7,77,26,100,100,100,100,96
+India,"Financial Year (Apr - Mar), 2023",Chhattisgarh,56615,48803,414,7153,245,34722,29210,262,5156,94,61,60,63,72,38
+India,"Financial Year (Apr - Mar), 2023",Dadra And Nagar Haveli And Daman And Diu,432,360,8,63,1,429,358,8,62,1,99,99,100,98,100
+India,"Financial Year (Apr - Mar), 2023",Delhi,5497,2693,239,2565,0,5497,2693,239,2565,0,100,100,100,100,0
+India,"Financial Year (Apr - Mar), 2023",Goa,1487,789,557,141,0,1302,627,538,137,0,88,80,97,97,0
+India,"Financial Year (Apr - Mar), 2023",Gujarat,53626,34597,5535,13490,4,50351,33009,4671,12667,4,94,95,84,94,100
+India,"Financial Year (Apr - Mar), 2023",Haryana,23517,14374,5,8415,723,15926,7549,4,7777,596,68,53,80,92,82
+India,"Financial Year (Apr - Mar), 2023",Himachal Pradesh,17826,15217,0,2607,2,8683,6503,0,2180,0,49,43,0,84,0
+India,"Financial Year (Apr - Mar), 2023",India,1471891,1017660,80313,331108,42810,792992,470188,58872,245880,18052,54,46,73,74,42
+India,"Financial Year (Apr - Mar), 2023",Jammu And Kashmir,24296,18785,1,5452,58,11016,7256,0,3722,38,45,39,0,68,66
+India,"Financial Year (Apr - Mar), 2023",JharkhAnd,44475,35795,1146,1634,5900,23435,17977,505,1334,3619,53,50,44,82,61
+India,"Financial Year (Apr - Mar), 2023",Karnataka,75869,49306,7013,19542,8,37327,17245,4209,15869,4,49,35,60,81,50
+India,"Financial Year (Apr - Mar), 2023",Kerala,15864,4809,7162,3082,811,14616,4320,6513,3036,747,92,90,91,99,92
+India,"Financial Year (Apr - Mar), 2023",Ladakh,995,841,40,114,0,455,365,24,66,0,46,43,60,58,0
+India,"Financial Year (Apr - Mar), 2023",Lakshadweep,37,37,0,0,0,37,37,0,0,0,100,100,0,0,0
+India,"Financial Year (Apr - Mar), 2023",Madhya Pradesh,123412,92439,581,28910,1482,53376,29900,280,22523,673,43,32,48,78,45
+India,"Financial Year (Apr - Mar), 2023",Maharashtra,108237,65157,24173,18642,265,73073,35442,20172,17219,240,68,54,83,92,91
+India,"Financial Year (Apr - Mar), 2023",Manipur,4646,2934,584,1010,118,1499,613,100,737,49,32,21,17,73,42
+India,"Financial Year (Apr - Mar), 2023",Meghalaya,14601,7779,4168,2152,502,3580,1784,1081,617,98,25,23,26,29,20
+India,"Financial Year (Apr - Mar), 2023",Mizoram,3941,2587,230,1064,60,982,526,77,360,19,25,20,34,34,32
+India,"Financial Year (Apr - Mar), 2023",NagalAnd,2725,1952,0,772,1,1535,933,0,601,1,56,48,0,78,100
+India,"Financial Year (Apr - Mar), 2023",Odisha,61693,48671,5907,6042,1073,50582,39594,4902,5209,877,82,81,83,86,82
+India,"Financial Year (Apr - Mar), 2023",Puducherry,735,420,33,282,0,735,420,33,282,0,100,100,100,100,0
+India,"Financial Year (Apr - Mar), 2023",Punjab,27404,19242,444,7704,14,20274,12713,404,7147,10,74,66,91,93,71
+India,"Financial Year (Apr - Mar), 2023",Rajasthan,107757,70233,0,34729,2795,73634,44231,0,28489,914,68,63,0,82,33
+India,"Financial Year (Apr - Mar), 2023",Sikkim,1254,864,16,374,0,587,347,5,235,0,47,40,31,63,0
+India,"Financial Year (Apr - Mar), 2023",Tamil Nadu,58722,37672,8314,12481,255,58106,37648,8278,11956,224,99,100,100,96,88
+India,"Financial Year (Apr - Mar), 2023",Telangana,42901,30022,662,12126,91,17114,6578,245,10279,12,40,22,37,85,13
+India,"Financial Year (Apr - Mar), 2023",Tripura,4923,4238,42,395,248,1736,1442,19,245,30,35,34,45,62,12
+India,"Financial Year (Apr - Mar), 2023",Uttar Pradesh,255087,137102,8291,96635,13059,98346,34394,4439,54479,5034,39,25,54,56,39
+India,"Financial Year (Apr - Mar), 2023",UttarakhAnd,22551,16201,614,5252,484,15456,10200,447,4438,371,69,63,73,85,77
+India,"Financial Year (Apr - Mar), 2023",West Bengal,93945,82307,72,7480,4086,16414,12412,49,2722,1231,18,15,68,36,30
+India,"Financial Year (Apr - Mar), 2022",Andaman And Nicobar IslAnds,414,342,2,70,0,209,149,2,58,0,51,44,100,83,0
+India,"Financial Year (Apr - Mar), 2022",Andhra Pradesh,61680,45167,1202,15127,184,61422,44920,1197,15122,183,100,100,100,100,100
+India,"Financial Year (Apr - Mar), 2022",Arunachal Pradesh,3543,2922,71,503,47,935,558,43,318,16,26,19,61,63,34
+India,"Financial Year (Apr - Mar), 2022",Assam,58876,44925,3386,5677,4888,9415,6649,311,2181,274,16,15,9,38,6
+India,"Financial Year (Apr - Mar), 2022",Bihar,91447,75550,724,8053,7120,15381,7973,100,4603,2705,17,11,14,57,38
+India,"Financial Year (Apr - Mar), 2022",Chandigarh,230,119,7,77,27,228,119,7,77,25,99,100,100,100,93
+India,"Financial Year (Apr - Mar), 2022",Chhattisgarh,56333,48728,415,6931,259,34356,29317,251,4711,77,61,60,61,68,30
+India,"Financial Year (Apr - Mar), 2022",Dadra And Nagar Haveli And Daman And Diu,459,387,8,63,1,400,329,8,62,1,87,85,100,98,100
+India,"Financial Year (Apr - Mar), 2022",Delhi,5488,2673,245,2570,0,5488,2673,245,2570,0,100,100,100,100,0
+India,"Financial Year (Apr - Mar), 2022",Goa,1504,806,558,140,0,1428,741,548,139,0,95,92,98,99,0
+India,"Financial Year (Apr - Mar), 2022",Gujarat,53603,34651,5562,13387,3,50606,33364,4682,12557,3,94,96,84,94,100
+India,"Financial Year (Apr - Mar), 2022",Haryana,23561,14443,6,8315,797,13461,5342,6,7496,617,57,37,100,90,77
+India,"Financial Year (Apr - Mar), 2022",Himachal Pradesh,18062,15447,0,2613,2,6432,4362,0,2070,0,36,28,0,79,0
+India,"Financial Year (Apr - Mar), 2022",India,1466109,1016010,81486,323430,45183,728042,423571,57321,230002,17148,50,42,70,71,38
+India,"Financial Year (Apr - Mar), 2022",Jammu And Kashmir,24278,18785,1,5407,85,9815,6268,0,3500,47,40,33,0,65,55
+India,"Financial Year (Apr - Mar), 2022",JharkhAnd,44596,35764,1149,1583,6100,21330,16071,472,1246,3541,48,45,41,79,58
+India,"Financial Year (Apr - Mar), 2022",Karnataka,76090,49520,7029,19531,10,31355,12504,3800,15048,3,41,25,54,77,30
+India,"Financial Year (Apr - Mar), 2022",Kerala,15934,4811,7178,3095,850,15525,4683,7004,3045,793,97,97,98,98,93
+India,"Financial Year (Apr - Mar), 2022",Ladakh,979,841,27,111,0,430,356,11,63,0,44,42,41,57,0
+India,"Financial Year (Apr - Mar), 2022",Lakshadweep,37,37,0,0,0,35,35,0,0,0,95,95,0,0,0
+India,"Financial Year (Apr - Mar), 2022",Madhya Pradesh,122937,92741,615,28047,1534,48873,26584,292,21333,664,40,29,48,76,43
+India,"Financial Year (Apr - Mar), 2022",Maharashtra,108451,65431,23964,18723,333,67839,31495,19109,16936,299,63,48,80,91,90
+India,"Financial Year (Apr - Mar), 2022",Manipur,4627,2922,583,996,126,1292,470,84,690,48,28,16,14,69,38
+India,"Financial Year (Apr - Mar), 2022",Meghalaya,14588,7778,4173,2121,516,3282,1612,1012,566,92,23,21,24,27,18
+India,"Financial Year (Apr - Mar), 2022",Mizoram,3891,2567,230,1023,71,498,240,45,197,16,13,9,20,19,23
+India,"Financial Year (Apr - Mar), 2022",NagalAnd,2717,1954,0,762,1,1507,922,0,584,1,56,47,0,77,100
+India,"Financial Year (Apr - Mar), 2022",Odisha,61891,48767,5920,6062,1142,45607,35554,4524,4745,784,74,73,76,78,69
+India,"Financial Year (Apr - Mar), 2022",Puducherry,729,422,33,274,0,729,422,33,274,0,100,100,100,100,0
+India,"Financial Year (Apr - Mar), 2022",Punjab,27592,19245,447,7886,14,18395,10817,401,7170,7,67,56,90,91,50
+India,"Financial Year (Apr - Mar), 2022",Rajasthan,106670,69538,0,34497,2635,70074,41653,0,27644,777,66,60,0,80,30
+India,"Financial Year (Apr - Mar), 2022",Sikkim,1250,864,18,368,0,570,344,8,218,0,46,40,44,59,0
+India,"Financial Year (Apr - Mar), 2022",Tamil Nadu,58150,37658,8279,11969,244,58150,37658,8279,11969,244,100,100,100,100,100
+India,"Financial Year (Apr - Mar), 2022",Telangana,42476,29997,670,11707,102,13125,3640,214,9259,12,31,12,32,79,12
+India,"Financial Year (Apr - Mar), 2022",Tripura,4912,4245,43,367,257,1475,1218,15,214,28,30,29,35,58,11
+India,"Financial Year (Apr - Mar), 2022",Uttar Pradesh,251094,137003,8249,92348,13494,87186,32065,4122,46563,4436,35,23,50,50,33
+India,"Financial Year (Apr - Mar), 2022",UttarakhAnd,22618,16381,613,5140,484,16192,11130,446,4241,375,72,68,73,83,78
+India,"Financial Year (Apr - Mar), 2022",West Bengal,94402,82579,79,7887,3857,14997,11334,50,2533,1080,16,14,63,32,28
+India,"Financial Year (Apr - Mar), 2021",Andaman And Nicobar IslAnds,416,342,2,72,0,187,133,2,52,0,45,39,100,72,0
+India,"Financial Year (Apr - Mar), 2021",Andhra Pradesh,61948,45137,1542,15058,211,34744,20313,756,13560,115,56,45,49,90,55
+India,"Financial Year (Apr - Mar), 2021",Arunachal Pradesh,3603,2985,68,503,47,794,458,38,284,14,22,15,56,57,30
+India,"Financial Year (Apr - Mar), 2021",Assam,60859,45490,3841,5852,5676,7126,4680,265,1945,236,12,10,7,33,4
+India,"Financial Year (Apr - Mar), 2021",Bihar,93165,75558,742,8097,8768,10381,4421,65,3493,2402,11,6,9,43,27
+India,"Financial Year (Apr - Mar), 2021",Chandigarh,233,123,7,76,27,230,123,7,76,24,99,100,100,100,89
+India,"Financial Year (Apr - Mar), 2021",Chhattisgarh,56512,48743,417,7063,289,20735,16469,153,4066,47,37,34,37,58,16
+India,"Financial Year (Apr - Mar), 2021",Dadra And Nagar Haveli And Daman And Diu,460,388,8,63,1,264,194,8,61,1,57,50,100,97,100
+India,"Financial Year (Apr - Mar), 2021",Delhi,5619,2762,247,2610,0,5619,2762,247,2610,0,100,100,100,100,0
+India,"Financial Year (Apr - Mar), 2021",Goa,1510,814,557,139,0,879,299,459,121,0,58,37,82,87,0
+India,"Financial Year (Apr - Mar), 2021",Gujarat,53851,34699,5590,13559,3,49522,32681,4685,12153,3,92,94,84,90,100
+India,"Financial Year (Apr - Mar), 2021",Haryana,23726,14562,16,8261,887,12158,4345,14,7160,639,51,30,88,87,72
+India,"Financial Year (Apr - Mar), 2021",Himachal Pradesh,18028,15380,0,2646,2,6215,4175,0,2040,0,35,27,0,77,0
+India,"Financial Year (Apr - Mar), 2021",India,1489115,1022386,82480,335844,48405,504989,247000,43795,200274,13920,34,24,53,60,29
+India,"Financial Year (Apr - Mar), 2021",Jammu And Kashmir,28805,23173,1,5526,105,8566,5169,1,3345,51,30,22,100,61,49
+India,"Financial Year (Apr - Mar), 2021",JharkhAnd,44855,35840,1175,1559,6281,16726,12052,390,1153,3131,37,34,33,74,50
+India,"Financial Year (Apr - Mar), 2021",Karnataka,76450,49679,7110,19650,11,22590,5308,3133,14145,4,30,11,44,72,36
+India,"Financial Year (Apr - Mar), 2021",Kerala,16240,5010,7183,3164,883,15459,4738,6938,3010,773,95,95,97,95,88
+India,"Financial Year (Apr - Mar), 2021",Ladakh,978,838,28,112,0,418,342,13,63,0,43,41,46,56,0
+India,"Financial Year (Apr - Mar), 2021",Lakshadweep,38,38,0,0,0,37,37,0,0,0,97,97,0,0,0
+India,"Financial Year (Apr - Mar), 2021",Madhya Pradesh,125582,92695,740,30345,1802,34562,16469,254,17339,500,28,18,34,57,28
+India,"Financial Year (Apr - Mar), 2021",Maharashtra,109605,65639,24037,19268,661,52553,18540,16985,16542,486,48,28,71,86,74
+India,"Financial Year (Apr - Mar), 2021",Manipur,4617,2889,583,1010,135,1065,340,64,617,44,23,12,11,61,33
+India,"Financial Year (Apr - Mar), 2021",Meghalaya,14600,7783,4172,2120,525,2460,1111,782,488,79,17,14,19,23,15
+India,"Financial Year (Apr - Mar), 2021",Mizoram,3911,2563,230,1034,84,307,153,31,114,9,8,6,14,11,11
+India,"Financial Year (Apr - Mar), 2021",NagalAnd,2718,1960,0,757,1,1383,850,0,532,1,51,43,0,70,100
+India,"Financial Year (Apr - Mar), 2021",Odisha,62291,49072,5807,6104,1308,9284,3970,1012,3717,585,15,8,17,61,45
+India,"Financial Year (Apr - Mar), 2021",Puducherry,736,422,33,281,0,724,422,31,271,0,98,100,94,96,0
+India,"Financial Year (Apr - Mar), 2021",Punjab,27701,19259,450,7978,14,16429,9013,386,7026,4,59,47,86,88,29
+India,"Financial Year (Apr - Mar), 2021",Rajasthan,106373,68948,0,34826,2599,63674,36889,0,26170,615,60,54,0,75,24
+India,"Financial Year (Apr - Mar), 2021",Sikkim,1259,864,19,376,0,434,231,8,195,0,35,27,42,52,0
+India,"Financial Year (Apr - Mar), 2021",Tamil Nadu,58801,37636,8323,12396,446,22086,9292,3207,9323,264,38,25,39,75,59
+India,"Financial Year (Apr - Mar), 2021",Telangana,43083,30023,700,12193,167,9887,2772,188,6917,10,23,9,27,57,6
+India,"Financial Year (Apr - Mar), 2021",Tripura,4929,4262,43,363,261,896,682,14,175,25,18,16,33,48,10
+India,"Financial Year (Apr - Mar), 2021",Uttar Pradesh,258054,137024,8113,97808,15109,54554,12074,3366,35701,3413,21,9,42,37,23
+India,"Financial Year (Apr - Mar), 2021",UttarakhAnd,22815,16484,608,5225,498,6245,2575,246,3245,179,27,16,41,62,36
+India,"Financial Year (Apr - Mar), 2021",West Bengal,94744,83302,88,9750,1604,15796,12918,47,2565,266,17,16,53,26,17
+India,"Financial Year (Apr - Mar), 2020",Andaman And Nicobar IslAnds,417,342,2,73,0,140,91,2,47,0,34,27,100,64,0
+India,"Financial Year (Apr - Mar), 2020",Andhra Pradesh,63343,45145,2121,15792,285,14975,3987,323,10601,64,24,9,15,67,22
+India,"Financial Year (Apr - Mar), 2020",Arunachal Pradesh,3675,3061,67,496,51,350,116,28,198,8,10,4,42,40,16
+India,"Financial Year (Apr - Mar), 2020",Assam,65203,46749,4983,6045,7426,4206,2260,137,1735,74,6,5,3,29,1
+India,"Financial Year (Apr - Mar), 2020",Bihar,93459,75555,735,7923,9246,8359,1664,42,3767,2886,9,2,6,48,31
+India,"Financial Year (Apr - Mar), 2020",Chandigarh,230,121,7,75,27,224,121,7,75,21,97,100,100,100,78
+India,"Financial Year (Apr - Mar), 2020",Chhattisgarh,56494,48619,430,7131,314,7922,4116,104,3671,31,14,8,24,51,10
+India,"Financial Year (Apr - Mar), 2020",Dadra And Nagar Haveli And Daman And Diu,479,407,8,63,1,176,110,7,58,1,37,27,88,92,100
+India,"Financial Year (Apr - Mar), 2020",Delhi,5642,2751,250,2641,0,4917,2470,204,2243,0,87,90,82,85,0
+India,"Financial Year (Apr - Mar), 2020",Goa,1481,821,522,138,0,577,70,398,109,0,39,9,76,79,0
+India,"Financial Year (Apr - Mar), 2020",Gujarat,54444,34967,5640,13834,3,40956,25301,3936,11717,2,75,72,70,85,67
+India,"Financial Year (Apr - Mar), 2020",Haryana,23764,14563,17,8235,949,10545,3093,13,6857,582,44,21,76,83,61
+India,"Financial Year (Apr - Mar), 2020",Himachal Pradesh,18145,15391,0,2753,1,4216,2186,0,2030,0,23,14,0,74,0
+India,"Financial Year (Apr - Mar), 2020",India,1509136,1032049,84295,340753,52039,369909,140745,36927,180446,11791,25,14,44,53,23
+India,"Financial Year (Apr - Mar), 2020",Jammu And Kashmir,28930,23167,1,5649,113,3740,1237,0,2474,29,13,5,0,44,26
+India,"Financial Year (Apr - Mar), 2020",JharkhAnd,45319,35888,1175,1542,6714,14723,10334,211,1082,3096,32,29,18,70,46
+India,"Financial Year (Apr - Mar), 2020",Karnataka,76905,49791,7182,19915,17,19105,3031,2691,13378,5,25,6,37,67,29
+India,"Financial Year (Apr - Mar), 2020",Kerala,16481,5020,7191,3241,1029,14670,4378,6568,2991,733,89,87,91,92,71
+India,"Financial Year (Apr - Mar), 2020",Ladakh,1056,915,29,112,0,590,519,7,64,0,56,57,24,57,0
+India,"Financial Year (Apr - Mar), 2020",Lakshadweep,45,45,0,0,0,42,42,0,0,0,93,93,0,0,0
+India,"Financial Year (Apr - Mar), 2020",Madhya Pradesh,133271,99152,773,31512,1834,20115,4020,230,15601,264,15,4,30,50,14
+India,"Financial Year (Apr - Mar), 2020",Maharashtra,110114,65734,23924,19632,824,40259,7770,15478,16413,598,37,12,65,84,73
+India,"Financial Year (Apr - Mar), 2020",Manipur,4653,2878,585,1027,163,767,82,11,618,56,16,3,2,60,34
+India,"Financial Year (Apr - Mar), 2020",Meghalaya,14694,7795,4176,2179,544,645,104,297,203,41,4,1,7,9,8
+India,"Financial Year (Apr - Mar), 2020",Mizoram,3925,2558,231,1050,86,359,110,42,188,19,9,4,18,18,22
+India,"Financial Year (Apr - Mar), 2020",NagalAnd,2719,1975,0,743,1,454,70,0,383,1,17,4,0,52,100
+India,"Financial Year (Apr - Mar), 2020",Odisha,64185,50256,5844,6393,1692,4660,1428,380,2464,388,7,3,7,39,23
+India,"Financial Year (Apr - Mar), 2020",Puducherry,741,422,33,286,0,719,400,33,286,0,97,95,100,100,0
+India,"Financial Year (Apr - Mar), 2020",Punjab,28695,19330,455,8893,17,27047,19260,455,7329,3,94,100,100,82,18
+India,"Financial Year (Apr - Mar), 2020",Rajasthan,107376,68813,0,36023,2540,42365,19255,0,22910,200,39,28,0,64,8
+India,"Financial Year (Apr - Mar), 2020",Sikkim,1263,851,19,393,0,267,116,6,145,0,21,14,32,37,0
+India,"Financial Year (Apr - Mar), 2020",Tamil Nadu,58904,37589,8326,12402,587,18865,6767,2370,9378,350,32,18,28,76,60
+India,"Financial Year (Apr - Mar), 2020",Telangana,42917,30015,700,12023,179,9665,2460,173,7018,14,23,8,25,58,8
+India,"Financial Year (Apr - Mar), 2020",Tripura,4934,4265,43,360,266,274,119,13,122,20,6,3,30,34,8
+India,"Financial Year (Apr - Mar), 2020",Uttar Pradesh,256911,137068,8125,96741,14977,38388,4062,2524,29793,2009,15,3,31,31,13
+India,"Financial Year (Apr - Mar), 2020",UttarakhAnd,23169,16651,614,5396,508,4185,1046,206,2810,123,18,6,34,52,24
+India,"Financial Year (Apr - Mar), 2020",West Bengal,95153,83379,87,10042,1645,10442,8550,31,1688,173,11,10,36,17,11
+India,"Financial Year (Apr - Mar), 2019",Andaman And Nicobar IslAnds,418,342,2,73,1,113,68,2,43,0,27,20,100,59,0
+India,"Financial Year (Apr - Mar), 2019",Andhra Pradesh,63824,45115,2234,16173,302,14514,4104,320,10036,54,23,9,14,62,18
+India,"Financial Year (Apr - Mar), 2019",Arunachal Pradesh,3666,3056,65,493,52,307,105,26,173,3,8,3,40,35,6
+India,"Financial Year (Apr - Mar), 2019",Assam,65907,47157,5024,6074,7652,3836,2037,128,1607,64,6,4,3,26,1
+India,"Financial Year (Apr - Mar), 2019",Bihar,90275,72610,721,7630,9314,7671,1492,37,3390,2752,9,2,5,44,30
+India,"Financial Year (Apr - Mar), 2019",Chandigarh,229,121,7,74,27,223,121,7,74,21,97,100,100,100,78
+India,"Financial Year (Apr - Mar), 2019",Chhattisgarh,56303,48547,431,7008,317,4891,1627,96,3138,30,9,3,22,45,9
+India,"Financial Year (Apr - Mar), 2019",Dadra And Nagar Haveli And Daman And Diu,346,300,4,42,0,86,44,4,38,0,25,15,100,90,0
+India,"Financial Year (Apr - Mar), 2019",Daman And Diu,137,109,4,23,1,102,77,3,21,1,74,71,75,91,100
+India,"Financial Year (Apr - Mar), 2019",Delhi,5669,2767,250,2652,0,4858,2440,204,2214,0,86,88,82,83,0
+India,"Financial Year (Apr - Mar), 2019",Goa,1482,827,517,138,0,575,70,395,110,0,39,8,76,80,0
+India,"Financial Year (Apr - Mar), 2019",Gujarat,54629,35040,5688,13898,3,38658,23434,3873,11349,2,71,67,68,82,67
+India,"Financial Year (Apr - Mar), 2019",Haryana,23699,14484,17,8195,1003,10172,2879,13,6698,582,43,20,76,82,58
+India,"Financial Year (Apr - Mar), 2019",Himachal Pradesh,18185,15398,0,2786,1,4146,2153,0,1993,0,23,14,0,72,0
+India,"Financial Year (Apr - Mar), 2019",India,1507708,1032570,84362,337499,53277,335882,119581,35583,169304,11414,22,12,42,50,21
+India,"Financial Year (Apr - Mar), 2019",Jammu And Kashmir,28863,23165,1,5585,112,3460,1201,0,2238,21,12,5,0,40,19
+India,"Financial Year (Apr - Mar), 2019",JharkhAnd,45596,35931,1173,1522,6970,15001,10891,194,999,2917,33,30,17,66,42
+India,"Financial Year (Apr - Mar), 2019",Karnataka,77166,49834,7244,20069,19,19020,3862,2623,12530,5,25,8,36,62,26
+India,"Financial Year (Apr - Mar), 2019",Kerala,16665,5014,7193,3282,1176,14638,4393,6527,2952,766,88,88,91,90,65
+India,"Financial Year (Apr - Mar), 2019",Ladakh,1054,913,29,112,0,57,17,2,38,0,5,2,7,34,0
+India,"Financial Year (Apr - Mar), 2019",Lakshadweep,45,45,0,0,0,42,42,0,0,0,93,93,0,0,0
+India,"Financial Year (Apr - Mar), 2019",Madhya Pradesh,133379,99411,790,31201,1977,18805,3792,225,14499,289,14,4,28,46,15
+India,"Financial Year (Apr - Mar), 2019",Maharashtra,110229,65886,23791,19654,898,39014,7149,15126,16115,624,35,11,64,82,69
+India,"Financial Year (Apr - Mar), 2019",Manipur,4663,2876,585,1015,187,719,68,10,576,65,15,2,2,57,35
+India,"Financial Year (Apr - Mar), 2019",Meghalaya,14730,7799,4180,2198,553,572,99,246,190,37,4,1,6,9,7
+India,"Financial Year (Apr - Mar), 2019",Mizoram,3924,2552,231,1046,95,282,60,36,166,20,7,2,16,16,21
+India,"Financial Year (Apr - Mar), 2019",NagalAnd,2758,2011,0,746,1,434,61,0,372,1,16,3,0,50,100
+India,"Financial Year (Apr - Mar), 2019",Odisha,67020,53260,5839,6375,1546,4328,1450,335,2231,312,6,3,6,35,20
+India,"Financial Year (Apr - Mar), 2019",Puducherry,741,422,33,286,0,484,180,33,271,0,65,43,100,95,0
+India,"Financial Year (Apr - Mar), 2019",Punjab,28775,19377,457,8623,318,14087,6830,12,7010,235,49,35,3,81,74
+India,"Financial Year (Apr - Mar), 2019",Rajasthan,106240,67660,0,36056,2524,38561,16332,0,22051,178,36,24,0,61,7
+India,"Financial Year (Apr - Mar), 2019",Sikkim,1277,851,19,407,0,247,112,5,130,0,19,13,26,32,0
+India,"Financial Year (Apr - Mar), 2019",Tamil Nadu,58897,37579,8328,12382,608,18819,6746,2370,9341,362,32,18,28,75,60
+India,"Financial Year (Apr - Mar), 2019",Telangana,42575,30001,702,11688,184,8859,2408,163,6277,11,21,8,23,54,6
+India,"Financial Year (Apr - Mar), 2019",Tripura,4940,4275,45,352,268,190,69,13,89,19,4,2,29,25,7
+India,"Financial Year (Apr - Mar), 2019",Uttar Pradesh,254352,137638,8048,93750,14916,34638,4042,2323,26492,1781,14,3,29,28,12
+India,"Financial Year (Apr - Mar), 2019",UttarakhAnd,23295,16741,617,5467,470,3883,1071,204,2498,110,17,6,33,46,23
+India,"Financial Year (Apr - Mar), 2019",West Bengal,95755,83456,93,10424,1782,9590,8055,28,1355,152,10,10,30,13,9
+India,"Financial Year (Apr - Mar), 2018",Andaman And Nicobar IslAnds,414,339,2,72,1,107,65,2,40,0,26,19,100,56,0
+India,"Financial Year (Apr - Mar), 2018",Andhra Pradesh,63621,45013,2346,15862,400,10954,3676,200,7023,55,17,8,9,44,14
+India,"Financial Year (Apr - Mar), 2018",Arunachal Pradesh,3793,3179,64,503,47,272,110,23,131,8,7,3,36,26,17
+India,"Financial Year (Apr - Mar), 2018",Assam,66324,47223,5065,6084,7952,3662,1995,130,1459,78,6,4,3,24,1
+India,"Financial Year (Apr - Mar), 2018",Bihar,89224,72630,698,6249,9647,5991,1487,29,2111,2364,7,2,4,34,25
+India,"Financial Year (Apr - Mar), 2018",Chandigarh,229,121,7,74,27,222,121,7,74,20,97,100,100,100,74
+India,"Financial Year (Apr - Mar), 2018",Chhattisgarh,56274,48671,434,6842,327,3078,834,66,2158,20,5,2,15,32,6
+India,"Financial Year (Apr - Mar), 2018",Dadra And Nagar Haveli And Daman And Diu,346,300,10,35,1,75,40,4,30,1,22,13,40,86,100
+India,"Financial Year (Apr - Mar), 2018",Daman And Diu,140,112,4,23,1,102,77,3,21,1,73,69,75,91,100
+India,"Financial Year (Apr - Mar), 2018",Delhi,5703,2784,253,2666,0,4694,2355,201,2138,0,82,85,79,80,0
+India,"Financial Year (Apr - Mar), 2018",Goa,1486,833,514,139,0,601,85,407,109,0,40,10,79,78,0
+India,"Financial Year (Apr - Mar), 2018",Gujarat,54581,35202,5734,13641,4,36351,21788,3907,10653,3,67,62,68,78,75
+India,"Financial Year (Apr - Mar), 2018",Haryana,23534,14516,26,7913,1079,9705,2953,19,6163,570,41,20,73,78,53
+India,"Financial Year (Apr - Mar), 2018",Himachal Pradesh,18212,15433,0,2778,1,3938,2059,0,1879,0,22,13,0,68,0
+India,"Financial Year (Apr - Mar), 2018",India,1551000,1083747,84623,326228,56402,290447,105959,32648,141619,10221,19,10,39,43,18
+India,"Financial Year (Apr - Mar), 2018",Jammu And Kashmir,28654,23167,1,5439,47,3513,1421,0,2086,6,12,6,0,38,13
+India,"Financial Year (Apr - Mar), 2018",JharkhAnd,45908,35954,1177,1400,7377,13579,9990,171,825,2593,30,28,15,59,35
+India,"Financial Year (Apr - Mar), 2018",Karnataka,78233,50184,7417,20604,28,9246,1104,1022,7116,4,12,2,14,35,14
+India,"Financial Year (Apr - Mar), 2018",Kerala,16701,5011,7195,3156,1339,14633,4436,6551,2772,874,88,89,91,88,65
+India,"Financial Year (Apr - Mar), 2018",Ladakh,1054,913,28,113,0,57,22,1,34,0,5,2,4,30,0
+India,"Financial Year (Apr - Mar), 2018",Lakshadweep,45,45,0,0,0,38,38,0,0,0,84,84,0,0,0
+India,"Financial Year (Apr - Mar), 2018",Madhya Pradesh,154064,122056,874,29182,1952,17386,4042,218,12844,282,11,3,25,44,14
+India,"Financial Year (Apr - Mar), 2018",Maharashtra,109942,66033,23554,19400,955,37870,6933,14723,15579,635,34,11,63,80,66
+India,"Financial Year (Apr - Mar), 2018",Manipur,4844,3073,587,1003,181,647,70,8,510,59,13,2,1,51,33
+India,"Financial Year (Apr - Mar), 2018",Meghalaya,14669,7802,4181,2220,466,550,114,234,173,29,4,1,6,8,6
+India,"Financial Year (Apr - Mar), 2018",Mizoram,3913,2564,231,1025,93,272,63,36,159,14,7,2,16,16,15
+India,"Financial Year (Apr - Mar), 2018",NagalAnd,2752,2007,0,745,0,414,61,0,353,0,15,3,0,47,0
+India,"Financial Year (Apr - Mar), 2018",Odisha,68717,55483,5770,4957,2507,4300,4185,102,13,0,6,8,2,0,0
+India,"Financial Year (Apr - Mar), 2018",Puducherry,739,423,33,283,0,492,198,31,263,0,67,47,94,93,0
+India,"Financial Year (Apr - Mar), 2018",Punjab,28637,19404,458,8495,280,13303,6157,339,6608,199,46,32,74,78,71
+India,"Financial Year (Apr - Mar), 2018",Rajasthan,105883,67607,0,35776,2500,31978,11206,0,20643,129,30,17,0,58,5
+India,"Financial Year (Apr - Mar), 2018",Sikkim,1290,854,19,417,0,241,107,5,129,0,19,13,26,31,0
+India,"Financial Year (Apr - Mar), 2018",Tamil Nadu,59152,37728,8355,12439,630,14083,3812,1831,8164,276,24,10,22,66,44
+India,"Financial Year (Apr - Mar), 2018",Telangana,42355,29822,707,11621,205,7756,2127,162,5452,15,18,7,23,47,7
+India,"Financial Year (Apr - Mar), 2018",Tripura,4945,4309,46,343,247,169,68,12,75,14,3,2,26,22,6
+India,"Financial Year (Apr - Mar), 2018",Uttar Pradesh,273235,163142,8090,87433,14570,29751,5405,1980,20841,1525,11,3,24,24,10
+India,"Financial Year (Apr - Mar), 2018",UttarakhAnd,23559,16934,616,5519,490,3663,984,193,2370,116,16,6,31,43,24
+India,"Financial Year (Apr - Mar), 2018",West Bengal,97828,82876,127,11777,3048,6754,5771,31,621,331,7,7,24,5,11

@@ -1,0 +1,316 @@
+state,year,gender,stage,retention_rate
+Andaman And Nicobar Islands,2017,Boys,Primary (I-V),94
+Andaman And Nicobar Islands,2017,Girls,Primary (I-V),96
+Andaman And Nicobar Islands,2017,Total,Primary (I-V),95
+Andhra Pradesh,2017,Boys,Primary (I-V),47
+Andhra Pradesh,2017,Girls,Primary (I-V),46
+Andhra Pradesh,2017,Total,Primary (I-V),47
+Arunachal Pradesh,2017,Boys,Primary (I-V),50
+Arunachal Pradesh,2017,Girls,Primary (I-V),50
+Arunachal Pradesh,2017,Total,Primary (I-V),50
+Assam,2017,Boys,Primary (I-V),66
+Assam,2017,Girls,Primary (I-V),69
+Assam,2017,Total,Primary (I-V),68
+Bihar,2017,Boys,Primary (I-V),92
+Bihar,2017,Girls,Primary (I-V),96
+Bihar,2017,Total,Primary (I-V),94
+Chandigarh,2017,Boys,Primary (I-V),100
+Chandigarh,2017,Girls,Primary (I-V),100
+Chandigarh,2017,Total,Primary (I-V),100
+Chhattisgarh,2017,Boys,Primary (I-V),93
+Chhattisgarh,2017,Girls,Primary (I-V),94
+Chhattisgarh,2017,Total,Primary (I-V),94
+The Dadra And Nagar Haveli And Daman And Diu,2017,Boys,Primary (I-V),100
+The Dadra And Nagar Haveli And Daman And Diu,2017,Girls,Primary (I-V),100
+The Dadra And Nagar Haveli And Daman And Diu,2017,Total,Primary (I-V),100
+Delhi,2017,Boys,Primary (I-V),100
+Delhi,2017,Girls,Primary (I-V),100
+Delhi,2017,Total,Primary (I-V),100
+Goa,2017,Boys,Primary (I-V),98
+Goa,2017,Girls,Primary (I-V),97
+Goa,2017,Total,Primary (I-V),98
+Gujarat,2017,Boys,Primary (I-V),96
+Gujarat,2017,Girls,Primary (I-V),95
+Gujarat,2017,Total,Primary (I-V),96
+Haryana,2017,Boys,Primary (I-V),100
+Haryana,2017,Girls,Primary (I-V),99
+Haryana,2017,Total,Primary (I-V),100
+Himachal Pradesh,2017,Boys,Primary (I-V),99
+Himachal Pradesh,2017,Girls,Primary (I-V),99
+Himachal Pradesh,2017,Total,Primary (I-V),99
+Jammu And Kashmir,2017,Boys,Primary (I-V),74
+Jammu And Kashmir,2017,Girls,Primary (I-V),75
+Jammu And Kashmir,2017,Total,Primary (I-V),74
+Jharkhand,2017,Boys,Primary (I-V),76
+Jharkhand,2017,Girls,Primary (I-V),77
+Jharkhand,2017,Total,Primary (I-V),77
+Karnataka,2017,Boys,Primary (I-V),93
+Karnataka,2017,Girls,Primary (I-V),92
+Karnataka,2017,Total,Primary (I-V),93
+Kerala,2017,Boys,Primary (I-V),99
+Kerala,2017,Girls,Primary (I-V),99
+Kerala,2017,Total,Primary (I-V),99
+Lakshadweep,2017,Boys,Primary (I-V),100
+Lakshadweep,2017,Girls,Primary (I-V),100
+Lakshadweep,2017,Total,Primary (I-V),100
+Madhya Pradesh,2017,Boys,Primary (I-V),77
+Madhya Pradesh,2017,Girls,Primary (I-V),77
+Madhya Pradesh,2017,Total,Primary (I-V),77
+Maharashtra,2017,Boys,Primary (I-V),97
+Maharashtra,2017,Girls,Primary (I-V),97
+Maharashtra,2017,Total,Primary (I-V),97
+Manipur,2017,Boys,Primary (I-V),59
+Manipur,2017,Girls,Primary (I-V),56
+Manipur,2017,Total,Primary (I-V),57
+Meghalaya,2017,Boys,Primary (I-V),58
+Meghalaya,2017,Girls,Primary (I-V),62
+Meghalaya,2017,Total,Primary (I-V),60
+Mizoram,2017,Boys,Primary (I-V),59
+Mizoram,2017,Girls,Primary (I-V),59
+Mizoram,2017,Total,Primary (I-V),59
+Nagaland,2017,Boys,Primary (I-V),56
+Nagaland,2017,Girls,Primary (I-V),57
+Nagaland,2017,Total,Primary (I-V),57
+Odisha,2017,Boys,Primary (I-V),89
+Odisha,2017,Girls,Primary (I-V),89
+Odisha,2017,Total,Primary (I-V),89
+Puducherry,2017,Boys,Primary (I-V),98
+Puducherry,2017,Girls,Primary (I-V),98
+Puducherry,2017,Total,Primary (I-V),98
+Punjab,2017,Boys,Primary (I-V),89
+Punjab,2017,Girls,Primary (I-V),90
+Punjab,2017,Total,Primary (I-V),89
+Rajasthan,2017,Boys,Primary (I-V),80
+Rajasthan,2017,Girls,Primary (I-V),81
+Rajasthan,2017,Total,Primary (I-V),81
+Sikkim,2017,Boys,Primary (I-V),93
+Sikkim,2017,Girls,Primary (I-V),100
+Sikkim,2017,Total,Primary (I-V),97
+Tamil Nadu,2017,Boys,Primary (I-V),93
+Tamil Nadu,2017,Girls,Primary (I-V),92
+Tamil Nadu,2017,Total,Primary (I-V),92
+Telangana,2017,Boys,Primary (I-V),81
+Telangana,2017,Girls,Primary (I-V),82
+Telangana,2017,Total,Primary (I-V),81
+Tripura,2017,Boys,Primary (I-V),95
+Tripura,2017,Girls,Primary (I-V),95
+Tripura,2017,Total,Primary (I-V),95
+Uttar Pradesh,2017,Boys,Primary (I-V),76
+Uttar Pradesh,2017,Girls,Primary (I-V),79
+Uttar Pradesh,2017,Total,Primary (I-V),78
+Uttarakhand,2017,Boys,Primary (I-V),86
+Uttarakhand,2017,Girls,Primary (I-V),87
+Uttarakhand,2017,Total,Primary (I-V),87
+West Bengal,2017,Boys,Primary (I-V),92
+West Bengal,2017,Girls,Primary (I-V),96
+West Bengal,2017,Total,Primary (I-V),94
+Andaman And Nicobar Islands,2017,Boys,Elementary (I-VIII),94
+Andaman And Nicobar Islands,2017,Girls,Elementary (I-VIII),99
+Andaman And Nicobar Islands,2017,Total,Elementary (I-VIII),97
+Andhra Pradesh,2017,Boys,Elementary (I-VIII),42
+Andhra Pradesh,2017,Girls,Elementary (I-VIII),42
+Andhra Pradesh,2017,Total,Elementary (I-VIII),42
+Arunachal Pradesh,2017,Boys,Elementary (I-VIII),34
+Arunachal Pradesh,2017,Girls,Elementary (I-VIII),37
+Arunachal Pradesh,2017,Total,Elementary (I-VIII),35
+Assam,2017,Boys,Elementary (I-VIII),50
+Assam,2017,Girls,Elementary (I-VIII),56
+Assam,2017,Total,Elementary (I-VIII),53
+Bihar,2017,Boys,Elementary (I-VIII),59
+Bihar,2017,Girls,Elementary (I-VIII),64
+Bihar,2017,Total,Elementary (I-VIII),61
+Chandigarh,2017,Boys,Elementary (I-VIII),100
+Chandigarh,2017,Girls,Elementary (I-VIII),100
+Chandigarh,2017,Total,Elementary (I-VIII),100
+Chhattisgarh,2017,Boys,Elementary (I-VIII),76
+Chhattisgarh,2017,Girls,Elementary (I-VIII),79
+Chhattisgarh,2017,Total,Elementary (I-VIII),77
+The Dadra And Nagar Haveli And Daman And Diu,2017,Boys,Elementary (I-VIII),94
+The Dadra And Nagar Haveli And Daman And Diu,2017,Girls,Elementary (I-VIII),93
+The Dadra And Nagar Haveli And Daman And Diu,2017,Total,Elementary (I-VIII),93
+Delhi,2017,Boys,Elementary (I-VIII),100
+Delhi,2017,Girls,Elementary (I-VIII),100
+Delhi,2017,Total,Elementary (I-VIII),100
+Goa,2017,Boys,Elementary (I-VIII),100
+Goa,2017,Girls,Elementary (I-VIII),100
+Goa,2017,Total,Elementary (I-VIII),100
+Gujarat,2017,Boys,Elementary (I-VIII),89
+Gujarat,2017,Girls,Elementary (I-VIII),85
+Gujarat,2017,Total,Elementary (I-VIII),87
+Haryana,2017,Boys,Elementary (I-VIII),100
+Haryana,2017,Girls,Elementary (I-VIII),100
+Haryana,2017,Total,Elementary (I-VIII),100
+Himachal Pradesh,2017,Boys,Elementary (I-VIII),96
+Himachal Pradesh,2017,Girls,Elementary (I-VIII),96
+Himachal Pradesh,2017,Total,Elementary (I-VIII),96
+Jammu And Kashmir,2017,Boys,Elementary (I-VIII),63
+Jammu And Kashmir,2017,Girls,Elementary (I-VIII),64
+Jammu And Kashmir,2017,Total,Elementary (I-VIII),64
+Jharkhand,2017,Boys,Elementary (I-VIII),52
+Jharkhand,2017,Girls,Elementary (I-VIII),55
+Jharkhand,2017,Total,Elementary (I-VIII),53
+Karnataka,2017,Boys,Elementary (I-VIII),84
+Karnataka,2017,Girls,Elementary (I-VIII),84
+Karnataka,2017,Total,Elementary (I-VIII),84
+Kerala,2017,Boys,Elementary (I-VIII),100
+Kerala,2017,Girls,Elementary (I-VIII),100
+Kerala,2017,Total,Elementary (I-VIII),100
+Lakshadweep,2017,Boys,Elementary (I-VIII),79
+Lakshadweep,2017,Girls,Elementary (I-VIII),88
+Lakshadweep,2017,Total,Elementary (I-VIII),83
+Madhya Pradesh,2017,Boys,Elementary (I-VIII),62
+Madhya Pradesh,2017,Girls,Elementary (I-VIII),62
+Madhya Pradesh,2017,Total,Elementary (I-VIII),62
+Maharashtra,2017,Boys,Elementary (I-VIII),95
+Maharashtra,2017,Girls,Elementary (I-VIII),93
+Maharashtra,2017,Total,Elementary (I-VIII),94
+Manipur,2017,Boys,Elementary (I-VIII),51
+Manipur,2017,Girls,Elementary (I-VIII),50
+Manipur,2017,Total,Elementary (I-VIII),51
+Meghalaya,2017,Boys,Elementary (I-VIII),44
+Meghalaya,2017,Girls,Elementary (I-VIII),51
+Meghalaya,2017,Total,Elementary (I-VIII),47
+Mizoram,2017,Boys,Elementary (I-VIII),45
+Mizoram,2017,Girls,Elementary (I-VIII),47
+Mizoram,2017,Total,Elementary (I-VIII),46
+Nagaland,2017,Boys,Elementary (I-VIII),47
+Nagaland,2017,Girls,Elementary (I-VIII),48
+Nagaland,2017,Total,Elementary (I-VIII),47
+Odisha,2017,Boys,Elementary (I-VIII),73
+Odisha,2017,Girls,Elementary (I-VIII),73
+Odisha,2017,Total,Elementary (I-VIII),73
+Puducherry,2017,Boys,Elementary (I-VIII),96
+Puducherry,2017,Girls,Elementary (I-VIII),96
+Puducherry,2017,Total,Elementary (I-VIII),96
+Punjab,2017,Boys,Elementary (I-VIII),81
+Punjab,2017,Girls,Elementary (I-VIII),82
+Punjab,2017,Total,Elementary (I-VIII),81
+Rajasthan,2017,Boys,Elementary (I-VIII),65
+Rajasthan,2017,Girls,Elementary (I-VIII),62
+Rajasthan,2017,Total,Elementary (I-VIII),64
+Sikkim,2017,Boys,Elementary (I-VIII),59
+Sikkim,2017,Girls,Elementary (I-VIII),70
+Sikkim,2017,Total,Elementary (I-VIII),64
+Tamil Nadu,2017,Boys,Elementary (I-VIII),88
+Tamil Nadu,2017,Girls,Elementary (I-VIII),88
+Tamil Nadu,2017,Total,Elementary (I-VIII),88
+Telangana,2017,Boys,Elementary (I-VIII),68
+Telangana,2017,Girls,Elementary (I-VIII),70
+Telangana,2017,Total,Elementary (I-VIII),69
+Tripura,2017,Boys,Elementary (I-VIII),78
+Tripura,2017,Girls,Elementary (I-VIII),81
+Tripura,2017,Total,Elementary (I-VIII),79
+Uttar Pradesh,2017,Boys,Elementary (I-VIII),66
+Uttar Pradesh,2017,Girls,Elementary (I-VIII),67
+Uttar Pradesh,2017,Total,Elementary (I-VIII),67
+Uttarakhand,2017,Boys,Elementary (I-VIII),78
+Uttarakhand,2017,Girls,Elementary (I-VIII),80
+Uttarakhand,2017,Total,Elementary (I-VIII),79
+West Bengal,2017,Boys,Elementary (I-VIII),53
+West Bengal,2017,Girls,Elementary (I-VIII),62
+West Bengal,2017,Total,Elementary (I-VIII),57
+Andaman And Nicobar Islands,2017,Boys,Secondary (I-X),76
+Andaman And Nicobar Islands,2017,Girls,Secondary (I-X),86
+Andaman And Nicobar Islands,2017,Total,Secondary (I-X),81
+Andhra Pradesh,2017,Boys,Secondary (I-X),39
+Andhra Pradesh,2017,Girls,Secondary (I-X),39
+Andhra Pradesh,2017,Total,Secondary (I-X),39
+Arunachal Pradesh,2017,Boys,Secondary (I-X),27
+Arunachal Pradesh,2017,Girls,Secondary (I-X),29
+Arunachal Pradesh,2017,Total,Secondary (I-X),28
+Assam,2017,Boys,Secondary (I-X),32
+Assam,2017,Girls,Secondary (I-X),36
+Assam,2017,Total,Secondary (I-X),34
+Bihar,2017,Boys,Secondary (I-X),37
+Bihar,2017,Girls,Secondary (I-X),39
+Bihar,2017,Total,Secondary (I-X),38
+Chandigarh,2017,Boys,Secondary (I-X),100
+Chandigarh,2017,Girls,Secondary (I-X),100
+Chandigarh,2017,Total,Secondary (I-X),100
+Chhattisgarh,2017,Boys,Secondary (I-X),47
+Chhattisgarh,2017,Girls,Secondary (I-X),55
+Chhattisgarh,2017,Total,Secondary (I-X),51
+The Dadra And Nagar Haveli And Daman And Diu,2017,Boys,Secondary (I-X),84
+The Dadra And Nagar Haveli And Daman And Diu,2017,Girls,Secondary (I-X),84
+The Dadra And Nagar Haveli And Daman And Diu,2017,Total,Secondary (I-X),84
+Delhi,2017,Boys,Secondary (I-X),72
+Delhi,2017,Girls,Secondary (I-X),71
+Delhi,2017,Total,Secondary (I-X),72
+Goa,2017,Boys,Secondary (I-X),92
+Goa,2017,Girls,Secondary (I-X),96
+Goa,2017,Total,Secondary (I-X),94
+Gujarat,2017,Boys,Secondary (I-X),75
+Gujarat,2017,Girls,Secondary (I-X),62
+Gujarat,2017,Total,Secondary (I-X),69
+Haryana,2017,Boys,Secondary (I-X),99
+Haryana,2017,Girls,Secondary (I-X),87
+Haryana,2017,Total,Secondary (I-X),93
+Himachal Pradesh,2017,Boys,Secondary (I-X),86
+Himachal Pradesh,2017,Girls,Secondary (I-X),88
+Himachal Pradesh,2017,Total,Secondary (I-X),87
+Jammu And Kashmir,2017,Boys,Secondary (I-X),57
+Jammu And Kashmir,2017,Girls,Secondary (I-X),56
+Jammu And Kashmir,2017,Total,Secondary (I-X),56
+Jharkhand,2017,Boys,Secondary (I-X),32
+Jharkhand,2017,Girls,Secondary (I-X),32
+Jharkhand,2017,Total,Secondary (I-X),32
+Karnataka,2017,Boys,Secondary (I-X),74
+Karnataka,2017,Girls,Secondary (I-X),74
+Karnataka,2017,Total,Secondary (I-X),74
+Kerala,2017,Boys,Secondary (I-X),100
+Kerala,2017,Girls,Secondary (I-X),100
+Kerala,2017,Total,Secondary (I-X),100
+Lakshadweep,2017,Boys,Secondary (I-X),73
+Lakshadweep,2017,Girls,Secondary (I-X),83
+Lakshadweep,2017,Total,Secondary (I-X),78
+Madhya Pradesh,2017,Boys,Secondary (I-X),40
+Madhya Pradesh,2017,Girls,Secondary (I-X),35
+Madhya Pradesh,2017,Total,Secondary (I-X),38
+Maharashtra,2017,Boys,Secondary (I-X),83
+Maharashtra,2017,Girls,Secondary (I-X),78
+Maharashtra,2017,Total,Secondary (I-X),81
+Manipur,2017,Boys,Secondary (I-X),44
+Manipur,2017,Girls,Secondary (I-X),41
+Manipur,2017,Total,Secondary (I-X),43
+Meghalaya,2017,Boys,Secondary (I-X),33
+Meghalaya,2017,Girls,Secondary (I-X),39
+Meghalaya,2017,Total,Secondary (I-X),36
+Mizoram,2017,Boys,Secondary (I-X),35
+Mizoram,2017,Girls,Secondary (I-X),41
+Mizoram,2017,Total,Secondary (I-X),38
+Nagaland,2017,Boys,Secondary (I-X),41
+Nagaland,2017,Girls,Secondary (I-X),44
+Nagaland,2017,Total,Secondary (I-X),43
+Odisha,2017,Boys,Secondary (I-X),60
+Odisha,2017,Girls,Secondary (I-X),63
+Odisha,2017,Total,Secondary (I-X),61
+Puducherry,2017,Boys,Secondary (I-X),89
+Puducherry,2017,Girls,Secondary (I-X),93
+Puducherry,2017,Total,Secondary (I-X),91
+Punjab,2017,Boys,Secondary (I-X),100
+Punjab,2017,Girls,Secondary (I-X),100
+Punjab,2017,Total,Secondary (I-X),100
+Rajasthan,2017,Boys,Secondary (I-X),50
+Rajasthan,2017,Girls,Secondary (I-X),44
+Rajasthan,2017,Total,Secondary (I-X),48
+Sikkim,2017,Boys,Secondary (I-X),55
+Sikkim,2017,Girls,Secondary (I-X),68
+Sikkim,2017,Total,Secondary (I-X),61
+Tamil Nadu,2017,Boys,Secondary (I-X),81
+Tamil Nadu,2017,Girls,Secondary (I-X),85
+Tamil Nadu,2017,Total,Secondary (I-X),83
+Telangana,2017,Boys,Secondary (I-X),64
+Telangana,2017,Girls,Secondary (I-X),65
+Telangana,2017,Total,Secondary (I-X),65
+Tripura,2017,Boys,Secondary (I-X),48
+Tripura,2017,Girls,Secondary (I-X),52
+Tripura,2017,Total,Secondary (I-X),50
+Uttar Pradesh,2017,Boys,Secondary (I-X),66
+Uttar Pradesh,2017,Girls,Secondary (I-X),57
+Uttar Pradesh,2017,Total,Secondary (I-X),61
+Uttarakhand,2017,Boys,Secondary (I-X),69
+Uttarakhand,2017,Girls,Secondary (I-X),71
+Uttarakhand,2017,Total,Secondary (I-X),70
+West Bengal,2017,Boys,Secondary (I-X),46
+West Bengal,2017,Girls,Secondary (I-X),62
+West Bengal,2017,Total,Secondary (I-X),54

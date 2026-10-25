@@ -1,0 +1,13 @@
+Country,Year,Gender,"Primary Schools (UOM:%(Percentage)), Scaling Factor:1","Upper Primary Schools (UOM:%(Percentage)), Scaling Factor:1","Elementary Schools (UOM:%(Percentage)), Scaling Factor:1","Secondary Schools (UOM:%(Percentage)), Scaling Factor:1","Higher Secondary Schools (Xi- Xii) (UOM:%(Percentage)), Scaling Factor:1","Government Primary Schools (UOM:%(Percentage)), Scaling Factor:1","Government Upper Primary Schools (UOM:%(Percentage)), Scaling Factor:1","Government Elementary Schools (UOM:%(Percentage)), Scaling Factor:1","Government Secondary Schools (UOM:%(Percentage)), Scaling Factor:1","Government Higher Secondary Schools (Xi- Xii) (UOM:%(Percentage)), Scaling Factor:1"
+India,"Financial Year (Apr - Mar), 2017",Boys,3.68,4.49,3.96,18.62,2.97,7.82,12.93,9.53,24.45,7.51
+India,"Financial Year (Apr - Mar), 2017",Girls,3.32,5.57,4.11,18.39,2.54,6.49,12.73,8.62,23.63,4.47
+India,"Financial Year (Apr - Mar), 2017",Total,3.51,5.02,4.03,18.51,2.77,7.14,12.82,9.07,24.03,5.98
+India,"Financial Year (Apr - Mar), 2016",Boys,6.4,4.97,5.91,19.971490240833987,6.372635165617339,7.73,12.97,9.46,27.07045476058417,10.741632756241444
+India,"Financial Year (Apr - Mar), 2016",Girls,6.3,6.42,6.34,19.806404038520455,5.489151682466613,7.12,12.99,9.1,26.84458020723946,8.357025508886792
+India,"Financial Year (Apr - Mar), 2016",Total,6.35,5.67,6.12,19.893058259317172,5.950977428275934,7.43,12.98,9.27,26.955367750656606,9.547800848100593
+India,"Financial Year (Apr - Mar), 2015",Boys,4.36,3.49,4.07,17.21,0.25,5.52,11.54,7.47,23.64,4.69
+India,"Financial Year (Apr - Mar), 2015",Girls,3.88,4.6,4.13,16.88,,4.75,11.9,7.12,23.56,2.33
+India,"Financial Year (Apr - Mar), 2015",Total,4.13,4.03,4.1,17.06,,5.13,11.72,7.29,23.6,3.55
+India,"Financial Year (Apr - Mar), 2014",Boys,4.53,3.09,4.05,17.93,1.48,6.78,11.28,8.19,,
+India,"Financial Year (Apr - Mar), 2014",Girls,4.14,4.49,4.26,17.79,1.61,5.91,11.77,7.8,,
+India,"Financial Year (Apr - Mar), 2014",Total,4.34,3.77,4.15,17.86,1.54,6.34,11.53,7.99,,

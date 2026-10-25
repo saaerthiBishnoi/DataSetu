@@ -1,0 +1,1022 @@
+Country,State,Year,City,Name Of The University,Institute Identifier Number,Rank Of The University,"Score Of The University (UOM:Number), Scaling Factor:1"
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2025",Guntur,Acharya Nagarjuna University,IR-O-U-0003,84,49.08
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2025",Guntur,"Vignan's Foundation for Science, Technology and Research",IR-O-U-0043,70,50.06
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2025",Vaddeswaram,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),IR-O-U-0020,26,58.87
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2025",Visakhapatnam,Andhra University,IR-O-U-0006,23,59.2
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2025",Visakhapatnam,Gandhi Institute of Technology and Management,IR-O-U-0011,88,48.79
+India,Assam,"Calendar Year (Jan - Dec), 2025",Guwahati,Gauhati University,IR-O-U-0052,33,57.37
+India,Assam,"Calendar Year (Jan - Dec), 2025",Silchar,Assam University,IR-O-U-0050,97,47.28
+India,Assam,"Calendar Year (Jan - Dec), 2025",Tezpur,Tezpur University,IR-O-U-0056,79,49.31
+India,Chandigarh,"Calendar Year (Jan - Dec), 2025",Chandigarh,Panjab University,IR-O-U-0078,35,56.88
+India,Delhi,"Calendar Year (Jan - Dec), 2025",Delhi,Delhi Technological University,IR-O-U-0098,42,54.88
+India,Delhi,"Calendar Year (Jan - Dec), 2025",Delhi,Guru Gobind Singh Indraprastha University,IR-O-U-0099,93,48.01
+India,Delhi,"Calendar Year (Jan - Dec), 2025",Delhi,Indian Agricultural Research Institute,IR-O-U-0101,16,62.89
+India,Delhi,"Calendar Year (Jan - Dec), 2025",Delhi,Indraprastha Institute of Information Technology,IR-O-U-0105,100,47.07
+India,Delhi,"Calendar Year (Jan - Dec), 2025",Delhi,Jamia Hamdard,IR-O-U-0107,47,54.1
+India,Delhi,"Calendar Year (Jan - Dec), 2025",Delhi,Jamia Millia Islamia,IR-O-U-0108,4,69.1
+India,Delhi,"Calendar Year (Jan - Dec), 2025",Delhi,Jawaharlal Nehru University,IR-O-U-0109,2,71
+India,Delhi,"Calendar Year (Jan - Dec), 2025",Delhi,University of Delhi,IR-O-U-0120,5,67.38
+India,Gujarat,"Calendar Year (Jan - Dec), 2025",Ahmedabad,Gujarat University,IR-O-U-0136,74,49.74
+India,Haryana,"Calendar Year (Jan - Dec), 2025",Ambala,Maharishi Markandeshwar,IR-O-U-0168,85,49.07
+India,Haryana,"Calendar Year (Jan - Dec), 2025",Faridabad,Manav Rachna International Institute of Research and Studies,IR-O-U-0169,96,47.3
+India,Himachal Pradesh,"Calendar Year (Jan - Dec), 2025",Solan,Shoolini University of Biotechnology and Management Sciences,IR-O-U-0190,69,50.16
+India,Jammu and Kashmir,"Calendar Year (Jan - Dec), 2025",Jammu,University of Jammu,IR-O-U-0195,51,51.85050485
+India,Jammu and Kashmir,"Calendar Year (Jan - Dec), 2025",Srinagar,Sher-e-Kashmir University of Agricultural Sciences and Technology,IR-O-U-0200,75,48.61290494
+India,Jammu and Kashmir,"Calendar Year (Jan - Dec), 2025",Srinagar,University of Kashmir,IR-O-U-0196,34,55.88038751
+India,Jharkhand,"Calendar Year (Jan - Dec), 2025",Ranchi,Birla Institute of Technology,IR-O-U-0202,92,48.25
+India,Karnataka,"Calendar Year (Jan - Dec), 2025",Bengaluru,Bangalore University,IR-O-U-0215,65,50.72
+India,Karnataka,"Calendar Year (Jan - Dec), 2025",Bengaluru,Christ University,IR-O-U-0217,63,50.92
+India,Karnataka,"Calendar Year (Jan - Dec), 2025",Bengaluru,Indian Institute of Science,IR-O-U-0220,1,85.05
+India,Karnataka,"Calendar Year (Jan - Dec), 2025",Bengaluru,Jain University,IR-O-U-0223,62,50.95
+India,Karnataka,"Calendar Year (Jan - Dec), 2025",Bengaluru,University of Agricultural Sciences,IR-O-U-0248,95,47.95
+India,Karnataka,"Calendar Year (Jan - Dec), 2025",Mangaluru,Nitte (Deemed to be University),IR-O-U-0239,80,49.26
+India,Karnataka,"Calendar Year (Jan - Dec), 2025",Manipal,Manipal Academy of Higher Education,IR-O-U-0234,3,69.25
+India,Karnataka,"Calendar Year (Jan - Dec), 2025",Mysuru,JSS Academy of Higher Education and Research,IR-O-U-0222,21,60
+India,Karnataka,"Calendar Year (Jan - Dec), 2025",Mysuru,Mysore University,IR-O-U-0235,71,49.98
+India,Kerala,"Calendar Year (Jan - Dec), 2025",Kochi,Cochin University of Science and Technology,IR-O-U-0253,32,57.55
+India,Kerala,"Calendar Year (Jan - Dec), 2025",Kottayam,Mahatma Gandhi University,IR-O-U-0262,43,54.61
+India,Kerala,"Calendar Year (Jan - Dec), 2025",Thiruvananthapuram,Kerala University,IR-O-U-0260,25,59.05
+India,Ladakh,"Calendar Year (Jan - Dec), 2025",Jammu,University of Jammu,IR-O-U-0195,51,1.159495149
+India,Ladakh,"Calendar Year (Jan - Dec), 2025",Srinagar,Sher-e-Kashmir University of Agricultural Sciences and Technology,IR-O-U-0200,75,1.087095056
+India,Ladakh,"Calendar Year (Jan - Dec), 2025",Srinagar,University of Kashmir,IR-O-U-0196,34,1.249612485
+India,Maharashtra,"Calendar Year (Jan - Dec), 2025",Mumbai,Homi Bhabha National Institute,IR-O-U-0304,12,65.08
+India,Maharashtra,"Calendar Year (Jan - Dec), 2025",Mumbai,Institute of Chemical Technology,IR-O-U-0308,40,55.13
+India,Maharashtra,"Calendar Year (Jan - Dec), 2025",Mumbai,Mumbai University,IR-O-U-0318,54,52.48
+India,Maharashtra,"Calendar Year (Jan - Dec), 2025",Mumbai,Padmashree Dr. D. Y. Patil Vidyapeeth,IR-O-U-0321,91,48.41
+India,Maharashtra,"Calendar Year (Jan - Dec), 2025",Mumbai,SVKM's Narsee Monjee Institute of Management Studies,IR-O-N-10,52,52.54
+India,Maharashtra,"Calendar Year (Jan - Dec), 2025",Mumbai,Tata Institute of Social Sciences,IR-O-U-0331,72,49.89
+India,Maharashtra,"Calendar Year (Jan - Dec), 2025",Pune,Bharati Vidyapeeth,IR-O-I-1361,59,51.37
+India,Maharashtra,"Calendar Year (Jan - Dec), 2025",Pune,Dr. D. Y. Patil Vidyapeeth,IR-O-I-1110,41,54.9
+India,Maharashtra,"Calendar Year (Jan - Dec), 2025",Pune,Savitribai Phule Pune University,IR-O-U-0323,56,52.33
+India,Maharashtra,"Calendar Year (Jan - Dec), 2025",Pune,Symbiosis International,IR-O-U-0329,24,59.16
+India,Maharashtra,"Calendar Year (Jan - Dec), 2025",Wardha,Datta Meghe Institute of Higher Education and Research,IR-O-U-0295,49,53.91
+India,Mizoram,"Calendar Year (Jan - Dec), 2025",Aizawl,Mizoram University,IR-O-U-0345,82,49.21
+India,Odisha,"Calendar Year (Jan - Dec), 2025",Bhubaneswar,Kalinga Institute of Industrial Technology,IR-O-U-0356,17,62.87
+India,Odisha,"Calendar Year (Jan - Dec), 2025",Bhubaneswar,Siksha 'O' Anusandhan,IR-O-U-0363,15,63.14
+India,Puducherry,"Calendar Year (Jan - Dec), 2025",Puducherry,Sri Balaji Vidyapeeth Mahatma Gandhi Medical College Campus,IR-O-U-0370,67,50.46
+India,Punjab,"Calendar Year (Jan - Dec), 2025",Bathinda,Central University of Punjab,IR-O-U-0372,77,49.53
+India,Punjab,"Calendar Year (Jan - Dec), 2025",Longowal,Sant Longowal Institute of Engineering and Technology,IR-O-U-0384,90,48.43
+India,Punjab,"Calendar Year (Jan - Dec), 2025",Ludhiana,Punjab Agricultural University,IR-O-U-0381,64,50.84
+India,Punjab,"Calendar Year (Jan - Dec), 2025",Mohali,Chandigarh University,IR-O-U-0747,19,61.27
+India,Punjab,"Calendar Year (Jan - Dec), 2025",Patiala,Thapar Institute of Engineering and Technology,IR-O-I-1480,26,58.87
+India,Punjab,"Calendar Year (Jan - Dec), 2025",Phagwara,Lovely Professional University,IR-O-U-0379,31,57.77
+India,Punjab,"Calendar Year (Jan - Dec), 2025",Rajpura,Chitkara University,IR-O-U-0373,78,49.32
+India,Rajasthan,"Calendar Year (Jan - Dec), 2025",Banasthali,Banasthali Vidyapith,IR-O-U-0389,66,50.65
+India,Rajasthan,"Calendar Year (Jan - Dec), 2025",Jaipur,Manipal University Jaipur,IR-O-U-0749,58,51.57
+India,Rajasthan,"Calendar Year (Jan - Dec), 2025",Kishangarh,Central University of Rajasthan,IR-O-U-0392,89,48.47
+India,Rajasthan,"Calendar Year (Jan - Dec), 2025",Pilani,Birla Institute of Technology and Science,IR-O-U-0391,7,67.24
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2025",Chennai,Anna University,IR-O-U-0439,20,61.22
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2025",Chennai,Bharath Institute of Higher Education and Research,IR-O-U-0446,76,49.59
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2025",Chennai,SRM Institute of Science and Technology,IR-O-U-0473,11,65.26
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2025",Chennai,Sathyabama Institute of Science and Technology,IR-O-U-0474,53,52.52
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2025",Chennai,Saveetha Institute of Medical and Technical Sciences,IR-O-I-1441,13,65.04
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2025",Chennai,Sri Ramachandra Institute of Higher Education and Research,IR-O-I-1486,60,51.35
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2025",Chennai,University of Madras,IR-O-I-1357,38,55.23
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2025",Coimbatore,Amrita Vishwa Vidyapeetham,IR-O-U-0436,8,67.05
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2025",Coimbatore,Avinashilingam Institute for Home Science and Higher Education for Women,IR-O-U-0444,99,47.09
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2025",Coimbatore,Bharathiar University,IR-O-U-0447,46,54.42
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2025",Coimbatore,Tamil Nadu Agricultural University,IR-O-U-0485,73,49.8
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2025",Karaikudi,Alagappa University,IR-O-U-0435,44,54.45
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2025","Kelambakkam, Chengalpattu District",Chettinad Academy of Research and Education,IR-O-U-0451,61,51.06
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2025",Krishnan Koil,Kalasalingam Academy of Research and Education,IR-O-U-0458,28,58.37
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2025",Madurai,Madurai Kamaraj University,IR-O-U-0463,85,49.07
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2025",Salem,Periyar University,IR-O-U-0470,94,47.98
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2025",Thanjavur,Shanmugha Arts Science Technology and Research Academy,IR-O-U-0476,29,58.06
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2025",Tiruchirappalli,Bharathidasan University,IR-O-U-0448,36,55.85
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2025",Tiruvarur,Central University of Tamil Nadu,IR-O-U-0449,83,49.13
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2025",Vellore,Vellore Institute of Technology,IR-O-U-0490,14,64.64
+India,Telangana,"Calendar Year (Jan - Dec), 2025",Hyderabad,International Institute of Information Technology Hyderabad,IR-O-U-0014,55,52.34
+India,Telangana,"Calendar Year (Jan - Dec), 2025",Hyderabad,Jawaharlal Nehru Technological University,IR-O-U-0017,81,49.22
+India,Telangana,"Calendar Year (Jan - Dec), 2025",Hyderabad,Osmania University,IR-O-U-0027,30,57.94
+India,Telangana,"Calendar Year (Jan - Dec), 2025",Hyderabad,University of Hyderabad,IR-O-U-0042,18,61.83
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2025",Aligarh,Aligarh Muslim University,IR-O-U-0496,10,65.35
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2025",Gautam Budh Nagar,Amity University,IR-O-U-0497,22,59.68
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2025",Gautam Budh Nagar,Shiv Nadar University,IR-O-U-0642,57,52.18
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2025",Gorakhpur,Madan Mohan Malaviya University of Technology,IR-O-U-0739,68,50.35
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2025",Greater Noida,Sharda University,IR-O-U-0541,87,49
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2025",Lucknow,Babasaheb Bhimrao Ambedkar University,IR-O-U-0498,37,55.55
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2025",Lucknow,King George's Medical University,IR-O-U-0523,50,53.13
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2025",Lucknow,University of Lucknow,IR-O-U-0524,98,47.26
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2025",Varanasi,Banaras Hindu University,IR-O-U-0500,6,67.28
+India,Uttarakhand,"Calendar Year (Jan - Dec), 2025",Dehradun,Graphic Era University,IR-O-U-0555,48,53.92
+India,Uttarakhand,"Calendar Year (Jan - Dec), 2025",Dehradun,University of Petroleum and Energy Studies,IR-O-U-0564,45,54.44
+India,West Bengal,"Calendar Year (Jan - Dec), 2025",Kolkata,Calcutta University,IR-O-U-0570,39,55.17
+India,West Bengal,"Calendar Year (Jan - Dec), 2025",Kolkata,Jadavpur University,IR-O-U-0575,9,65.42
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2024",Guntur,Acharya Nagarjuna University,IR-O-U-0003,59,50.06
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2024",Guntur,"Vignan's Foundation for Science, Technology and Research",IR-O-U-0043,72,48.45
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2024",Tirupati,Sri Venkateswara University,IR-O-U-0037,87,46.65
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2024",Vaddeswaram,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),IR-O-U-0020,22,57.98
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2024",Visakhapatnam,Andhra University,IR-O-U-0006,25,57.67
+India,Assam,"Calendar Year (Jan - Dec), 2024",Guwahati,Gauhati University,IR-O-U-0052,40,54.86
+India,Assam,"Calendar Year (Jan - Dec), 2024",Tezpur,Tezpur University,IR-O-U-0056,69,49.01
+India,Chandigarh,"Calendar Year (Jan - Dec), 2024",Chandigarh,Panjab University,IR-O-U-0078,38,55.11
+India,Delhi,"Calendar Year (Jan - Dec), 2024",Delhi,Delhi Technological University,IR-O-U-0098,48,53.31
+India,Delhi,"Calendar Year (Jan - Dec), 2024",Delhi,Guru Gobind Singh Indraprastha University,IR-O-U-0099,80,47.66
+India,Delhi,"Calendar Year (Jan - Dec), 2024",Delhi,Jamia Hamdard,IR-O-U-0107,40,54.86
+India,Delhi,"Calendar Year (Jan - Dec), 2024",Delhi,Jamia Millia Islamia,IR-O-U-0108,3,68.11
+India,Delhi,"Calendar Year (Jan - Dec), 2024",Delhi,Jawaharlal Nehru University,IR-O-U-0109,2,69.8
+India,Delhi,"Calendar Year (Jan - Dec), 2024",Delhi,Netaji Subhas University of Technology (NSUT),IR-O-C-6379,100,45.51
+India,Delhi,"Calendar Year (Jan - Dec), 2024",Delhi,University of Delhi,IR-O-U-0120,6,65.9
+India,Gujarat,"Calendar Year (Jan - Dec), 2024",Ahmedabad,Gujarat University,IR-O-U-0136,76,48.04
+India,Haryana,"Calendar Year (Jan - Dec), 2024",Ambala,Maharishi Markandeshwar (Deemed to be University),IR-O-U-0168,71,48.67
+India,Haryana,"Calendar Year (Jan - Dec), 2024",Faridabad,Manav Rachna International Institute of Research and Studies,IR-O-U-0169,92,46.46
+India,Himachal Pradesh,"Calendar Year (Jan - Dec), 2024",Solan,Shoolini University of Biotechnology and Management Sciences,IR-O-U-0190,70,48.82
+India,Jammu and Kashmir,"Calendar Year (Jan - Dec), 2024",Jammu,University of Jammu,IR-O-U-0195,50,51.18537859
+India,Jammu and Kashmir,"Calendar Year (Jan - Dec), 2024",Srinagar,University of Kashmir,IR-O-U-0196,45,53.23944499
+India,Jharkhand,"Calendar Year (Jan - Dec), 2024",Ranchi,Birla Institute of Technology,IR-O-U-0202,82,47.31
+India,Karnataka,"Calendar Year (Jan - Dec), 2024",Belagavi,Visvesvaraya Technological University,IR-O-U-0249,75,48.1
+India,Karnataka,"Calendar Year (Jan - Dec), 2024",Bengaluru,Bangalore University,IR-O-U-0215,81,47.45
+India,Karnataka,"Calendar Year (Jan - Dec), 2024",Bengaluru,Christ University,IR-O-U-0217,60,49.87
+India,Karnataka,"Calendar Year (Jan - Dec), 2024",Bengaluru,Indian Institute of Science,IR-O-U-0220,1,83.29
+India,Karnataka,"Calendar Year (Jan - Dec), 2024",Bengaluru,Jain University,IR-O-U-0223,65,49.47
+India,Karnataka,"Calendar Year (Jan - Dec), 2024",Bengaluru,University of Agricultural Sciences,IR-O-U-0248,90,46.47
+India,Karnataka,"Calendar Year (Jan - Dec), 2024",Mangaluru,Nitte (Deemed to be University),IR-O-U-0239,66,49.45
+India,Karnataka,"Calendar Year (Jan - Dec), 2024",Mangaluru,Yenepoya University,IR-O-U-0250,95,46.31
+India,Karnataka,"Calendar Year (Jan - Dec), 2024",Manipal,Manipal Academy of Higher Education,IR-O-U-0234,4,67.18
+India,Karnataka,"Calendar Year (Jan - Dec), 2024",Mysuru,JSS Academy of Higher Education and Research,IR-O-U-0222,24,57.74
+India,Karnataka,"Calendar Year (Jan - Dec), 2024",Mysuru,Mysore University,IR-O-U-0235,54,51.04
+India,Kerala,"Calendar Year (Jan - Dec), 2024",Kochi,Cochin University of Science and Technology,IR-O-U-0253,34,55.95
+India,Kerala,"Calendar Year (Jan - Dec), 2024",Kottayam,Mahatma Gandhi University,IR-O-U-0262,37,55.18
+India,Kerala,"Calendar Year (Jan - Dec), 2024",Malappuram,Calcutta University,IR-O-U-0251,89,46.63
+India,Kerala,"Calendar Year (Jan - Dec), 2024",Thiruvananthapuram,Kerala University,IR-O-U-0260,21,58.48
+India,Ladakh,"Calendar Year (Jan - Dec), 2024",Jammu,University of Jammu,IR-O-U-0195,50,1.144621414
+India,Ladakh,"Calendar Year (Jan - Dec), 2024",Srinagar,University of Kashmir,IR-O-U-0196,45,1.190555008
+India,Maharashtra,"Calendar Year (Jan - Dec), 2024",Mumbai,Homi Bhabha National Institute,IR-O-U-0304,16,62.31
+India,Maharashtra,"Calendar Year (Jan - Dec), 2024",Mumbai,Institute of Chemical Technology,IR-O-U-0308,35,55.67
+India,Maharashtra,"Calendar Year (Jan - Dec), 2024",Mumbai,Mumbai University,IR-O-U-0318,61,49.86
+India,Maharashtra,"Calendar Year (Jan - Dec), 2024",Mumbai,SVKM's Narsee Monjee Institute of Management Studies,IR-O-N-10,49,52.43
+India,Maharashtra,"Calendar Year (Jan - Dec), 2024",Mumbai,Tata Institute of Social Sciences,IR-O-U-0331,58,50.2
+India,Maharashtra,"Calendar Year (Jan - Dec), 2024",Pune,Bharati Vidyapeeth,IR-O-I-1361,78,47.94
+India,Maharashtra,"Calendar Year (Jan - Dec), 2024",Pune,Dr. D. Y. Patil Vidyapeeth,IR-O-I-1110,44,54.59
+India,Maharashtra,"Calendar Year (Jan - Dec), 2024",Pune,Savitribai Phule Pune University,IR-O-U-0323,23,57.96
+India,Maharashtra,"Calendar Year (Jan - Dec), 2024",Pune,Symbiosis International,IR-O-U-0329,31,56.41
+India,Maharashtra,"Calendar Year (Jan - Dec), 2024",Wardha,Datta Meghe Institute of Higher Education and Research,IR-O-U-0295,42,54.71
+India,Mizoram,"Calendar Year (Jan - Dec), 2024",Aizawl,Mizoram University,IR-O-U-0345,77,48.03
+India,Odisha,"Calendar Year (Jan - Dec), 2024",Bhubaneswar,Kalinga Institute of Industrial Technology,IR-O-U-0356,15,62.53
+India,Odisha,"Calendar Year (Jan - Dec), 2024",Bhubaneswar,Siksha 'O' Anusandhan,IR-O-U-0363,14,62.61
+India,Puducherry,"Calendar Year (Jan - Dec), 2024",Puducherry,Sri Balaji Vidyapeeth Mahatma Gandhi Medical College Campus,IR-O-U-0370,68,49.14
+India,Punjab,"Calendar Year (Jan - Dec), 2024",Bathinda,Central University of Punjab,IR-O-U-0372,83,47.11
+India,Punjab,"Calendar Year (Jan - Dec), 2024",Longowal,Sant Longowal Institute of Engineering and Technology,IR-O-U-0384,85,46.9
+India,Punjab,"Calendar Year (Jan - Dec), 2024",Ludhiana,Punjab Agricultural University,IR-O-U-0381,57,50.32
+India,Punjab,"Calendar Year (Jan - Dec), 2024",Mohali,Chandigarh University,IR-O-U-0747,20,59.96
+India,Punjab,"Calendar Year (Jan - Dec), 2024",Patiala,Thapar Institute of Engineering and Technology,IR-O-I-1480,29,56.72
+India,Punjab,"Calendar Year (Jan - Dec), 2024",Phagwara,Lovely Professional University,IR-O-U-0379,27,56.92
+India,Punjab,"Calendar Year (Jan - Dec), 2024",Rajpura,Chitkara University,IR-O-U-0373,90,46.47
+India,Rajasthan,"Calendar Year (Jan - Dec), 2024",Banasthali,Banasthali Vidyapith,IR-O-U-0389,67,49.38
+India,Rajasthan,"Calendar Year (Jan - Dec), 2024",Jaipur,Manipal University Jaipur,IR-O-U-0749,64,49.5
+India,Rajasthan,"Calendar Year (Jan - Dec), 2024",Pilani,Birla Institute of Technology and Science,IR-O-U-0391,19,60.03
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2024",Chennai,Anna University,IR-O-U-0439,13,63.85
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2024",Chennai,Bharath Institute of Higher Education and Research,IR-O-U-0446,73,48.36
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2024",Chennai,SRM Institute of Science and Technology,IR-O-U-0473,12,64.56
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2024",Chennai,Sathyabama Institute of Science and Technology,IR-O-U-0474,51,52.16
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2024",Chennai,Saveetha Institute of Medical and Technical Sciences,IR-O-I-1441,11,64.62
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2024",Chennai,Sri Ramachandra Institute of Higher Education and Research,IR-O-I-1486,55,50.86
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2024",Chennai,University of Madras,IR-O-I-1357,39,55.03
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2024",Chennai,Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology,IR-O-U-0489,96,46.22
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2024",Coimbatore,Amrita Vishwa Vidyapeetham,IR-O-U-0436,7,65.73
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2024",Coimbatore,Avinashilingam Institute for Home Science and Higher Education for Women,IR-O-U-0444,98,45.78
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2024",Coimbatore,Bharathiar University,IR-O-U-0447,26,57.26
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2024",Coimbatore,Tamil Nadu Agricultural University,IR-O-U-0485,84,47.03
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2024",Karaikudi,Alagappa University,IR-O-U-0435,47,53.84
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2024","Kelambakkam, Chengalpattu District",Chettinad Academy of Research and Education,IR-O-U-0451,79,47.8
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2024",Madurai,Madurai Kamaraj University,IR-O-U-0463,63,49.72
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2024",Salem,Periyar University,IR-O-U-0470,56,50.36
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2024",Srivilliputtur,Kalasalingam Academy of Research and Education,IR-O-U-0458,30,56.71
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2024",Thanjavur,Shanmugha Arts Science Technology and Research Academy,IR-O-U-0476,28,56.81
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2024",Tiruchirappalli,Bharathidasan University,IR-O-U-0448,36,55.6
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2024",Tirunelveli,Manonmaniam Sundaranar University,IR-O-U-0464,93,46.34
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2024",Tiruvarur,Central University of Tamil Nadu,IR-O-U-0449,99,45.73
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2024",Vellore,Vellore Institute of Technology,IR-O-U-0490,10,64.79
+India,Telangana,"Calendar Year (Jan - Dec), 2024",Hyderabad,International Institute of Information Technology Hyderabad,IR-O-U-0014,74,48.32
+India,Telangana,"Calendar Year (Jan - Dec), 2024",Hyderabad,Osmania University,IR-O-U-0027,43,54.69
+India,Telangana,"Calendar Year (Jan - Dec), 2024",Hyderabad,University of Hyderabad,IR-O-U-0042,17,62.18
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2024",Aligarh,Aligarh Muslim University,IR-O-U-0496,8,65.57
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2024",Gautam Budh Nagar,Amity University,IR-O-U-0497,32,56.14
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2024",Gautam Budh Nagar,Shiv Nadar University,IR-O-U-0642,62,49.8
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2024",Gorakhpur,Madan Mohan Malaviya University of Technology,IR-O-U-0739,94,46.33
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2024",Greater Noida,Sharda University,IR-O-U-0541,86,46.88
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2024",Lucknow,Babasaheb Bhimrao Ambedkar University,IR-O-U-0498,33,56.03
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2024",Lucknow,King George's Medical University,IR-O-U-0523,53,51.1
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2024",Lucknow,University of Lucknow,IR-O-U-0524,97,45.89
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2024",Varanasi,Banaras Hindu University,IR-O-U-0500,5,66.05
+India,Uttarakhand,"Calendar Year (Jan - Dec), 2024",Dehradun,Graphic Era University,IR-O-U-0555,52,52.01
+India,Uttarakhand,"Calendar Year (Jan - Dec), 2024",Dehradun,University of Petroleum and Energy Studies,IR-O-U-0564,46,54.02
+India,Uttarakhand,"Calendar Year (Jan - Dec), 2024",Pantnagar,G. B. Pant University of Agriculture and Technology,IR-O-U-0554,88,46.64
+India,West Bengal,"Calendar Year (Jan - Dec), 2024",Kolkata,Calcutta University,IR-O-U-0570,18,61.1
+India,West Bengal,"Calendar Year (Jan - Dec), 2024",Kolkata,Jadavpur University,IR-O-U-0575,9,65.39
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2023",Guntur,"Vignan's Foundation for Science, Technology and Research",IR-O-U-0043,75,45.4
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2023",Tirupati,Sri Venkateswara University,IR-O-U-0037,60,48.18
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2023",Vaddeswaram,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),IR-O-U-0020,28,54.52
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2023",Visakhapatnam,Andhra University,IR-O-U-0006,43,51.04
+India,Assam,"Calendar Year (Jan - Dec), 2023",Guwahati,Gauhati University,IR-O-U-0052,88,44.1
+India,Assam,"Calendar Year (Jan - Dec), 2023",Tezpur,Tezpur University,IR-O-U-0056,69,46.7
+India,Chandigarh,"Calendar Year (Jan - Dec), 2023",Chandigarh,Panjab University,IR-O-U-0078,25,54.86
+India,Delhi,"Calendar Year (Jan - Dec), 2023",Delhi,Delhi Technological University,IR-O-U-0098,40,51.49
+India,Delhi,"Calendar Year (Jan - Dec), 2023",Delhi,Guru Gobind Singh Indraprastha University,IR-O-U-0099,74,45.45
+India,Delhi,"Calendar Year (Jan - Dec), 2023",Delhi,Jamia Hamdard,IR-O-U-0107,49,49.85
+India,Delhi,"Calendar Year (Jan - Dec), 2023",Delhi,Jamia Millia Islamia,IR-O-U-0108,3,67.73
+India,Delhi,"Calendar Year (Jan - Dec), 2023",Delhi,Jawaharlal Nehru University,IR-O-U-0109,2,68.92
+India,Delhi,"Calendar Year (Jan - Dec), 2023",Delhi,University of Delhi,IR-O-U-0120,11,61.45
+India,Delhi,"Calendar Year (Jan - Dec), 2023",South West,Netaji Subhas University of Technology (NSUT),IR-O-C-6379,95,43.15
+India,Gujarat,"Calendar Year (Jan - Dec), 2023",Ahmedabad,Gujarat University,IR-O-U-0136,61,47.82
+India,Haryana,"Calendar Year (Jan - Dec), 2023",Ambala,Maharishi Markandeshwar,IR-O-U-0168,78,45.09
+India,Haryana,"Calendar Year (Jan - Dec), 2023",Gurugram,Amity University Haryana,IR-O-U-0155,94,43.35
+India,Haryana,"Calendar Year (Jan - Dec), 2023",Hisar,Chaudhary Charan Singh Haryana Agricultural University,IR-O-U-0159,99,42.99
+India,Haryana,"Calendar Year (Jan - Dec), 2023",Rohtak,Maharshi Dayanand University,IR-O-I-1280,96,43.13
+India,Himachal Pradesh,"Calendar Year (Jan - Dec), 2023",Solan,Shoolini University of Biotechnology and Management Sciences,IR-O-U-0190,73,45.76
+India,Jammu and Kashmir,"Calendar Year (Jan - Dec), 2023",Jammu,University of Jammu,IR-O-U-0195,63,46.539276
+India,Jammu and Kashmir,"Calendar Year (Jan - Dec), 2023",Srinagar,University of Kashmir,IR-O-U-0196,33,51.91897373
+India,Jharkhand,"Calendar Year (Jan - Dec), 2023",Ranchi,Birla Institute of Technology,IR-O-U-0202,71,46.12
+India,Karnataka,"Calendar Year (Jan - Dec), 2023",Belagavi,Visvesvaraya Technological University,IR-O-U-0249,63,47.58
+India,Karnataka,"Calendar Year (Jan - Dec), 2023",Bengaluru,Christ University,IR-O-U-0217,67,46.88
+India,Karnataka,"Calendar Year (Jan - Dec), 2023",Bengaluru,Indian Institute of Science,IR-O-U-0220,1,83.16
+India,Karnataka,"Calendar Year (Jan - Dec), 2023",Bengaluru,Jain University,IR-O-U-0223,68,46.85
+India,Karnataka,"Calendar Year (Jan - Dec), 2023",Bengaluru,University of Agricultural Sciences,IR-O-U-0248,90,44.07
+India,Karnataka,"Calendar Year (Jan - Dec), 2023",Mangaluru,Nitte (Deemed to be University),IR-O-U-0239,65,47.07
+India,Karnataka,"Calendar Year (Jan - Dec), 2023",Mangaluru,Yenepoya University,IR-O-U-0250,85,44.2
+India,Karnataka,"Calendar Year (Jan - Dec), 2023",Manipal,Manipal Academy of Higher Education,IR-O-U-0234,6,64.98
+India,Karnataka,"Calendar Year (Jan - Dec), 2023",Mysuru,JSS Academy of Higher Education and Research,IR-O-U-0222,34,52.88
+India,Karnataka,"Calendar Year (Jan - Dec), 2023",Mysuru,Mysore University,IR-O-U-0235,44,50.82
+India,Kerala,"Calendar Year (Jan - Dec), 2023",Kochi,Cochin University of Science and Technology,IR-O-U-0253,37,52.33
+India,Kerala,"Calendar Year (Jan - Dec), 2023",Kottayam,Mahatma Gandhi University,IR-O-U-0262,31,53.44
+India,Kerala,"Calendar Year (Jan - Dec), 2023",Malappuram,Calicut University,IR-O-U-0251,70,46.56
+India,Kerala,"Calendar Year (Jan - Dec), 2023",Thiruvananthapuram,Kerala University,IR-O-U-0260,24,55.5
+India,Ladakh,"Calendar Year (Jan - Dec), 2023",Jammu,University of Jammu,IR-O-U-0195,63,1.040723999
+India,Ladakh,"Calendar Year (Jan - Dec), 2023",Srinagar,University of Kashmir,IR-O-U-0196,33,1.161026269
+India,Maharashtra,"Calendar Year (Jan - Dec), 2023",Mumbai,Homi Bhabha National Institute,IR-O-U-0304,17,59.31
+India,Maharashtra,"Calendar Year (Jan - Dec), 2023",Mumbai,Institute of Chemical Technology,IR-O-U-0308,23,57.06
+India,Maharashtra,"Calendar Year (Jan - Dec), 2023",Mumbai,Mumbai University,IR-O-U-0318,56,48.63
+India,Maharashtra,"Calendar Year (Jan - Dec), 2023",Mumbai,SVKM's Narsee Monjee Institute of Management Studies,IR-O-N-10,47,50.31
+India,Maharashtra,"Calendar Year (Jan - Dec), 2023",Mumbai,Tata Institute of Social Sciences,IR-O-U-0331,98,43.03
+India,Maharashtra,"Calendar Year (Jan - Dec), 2023",Pune,Bharati Vidyapeeth,IR-O-I-1361,91,43.63
+India,Maharashtra,"Calendar Year (Jan - Dec), 2023",Pune,Dr. D. Y. Patil Vidyapeeth,IR-O-I-1110,46,50.62
+India,Maharashtra,"Calendar Year (Jan - Dec), 2023",Pune,Savitribai Phule Pune University,IR-O-U-0323,19,58.31
+India,Maharashtra,"Calendar Year (Jan - Dec), 2023",Pune,Symbiosis International,IR-O-U-0329,32,53.13
+India,Maharashtra,"Calendar Year (Jan - Dec), 2023",Wardha,Datta Meghe Institute of Higher Education and Research,IR-O-U-0295,39,51.92
+India,Meghalaya,"Calendar Year (Jan - Dec), 2023",Shillong,North Eastern Hill University,IR-O-U-0341,80,44.95
+India,Mizoram,"Calendar Year (Jan - Dec), 2023",Aizawl,Mizoram University,IR-O-U-0345,76,45.18
+India,Odisha,"Calendar Year (Jan - Dec), 2023",Bhubaneswar,Kalinga Institute of Industrial Technology,IR-O-U-0356,16,60.09
+India,Odisha,"Calendar Year (Jan - Dec), 2023",Bhubaneswar,Siksha 'O' Anusandhan,IR-O-U-0363,15,60.33
+India,Odisha,"Calendar Year (Jan - Dec), 2023",Bhubaneswar,Utkal University,IR-O-U-0366,93,43.45
+India,Puducherry,"Calendar Year (Jan - Dec), 2023",Puducherry,Sri Balaji Vidyapeeth Mahatma Gandhi Medical College Campus,IR-O-U-0370,77,45.14
+India,Punjab,"Calendar Year (Jan - Dec), 2023",Amritsar,Guru Nanak Dev University,IR-O-U-0376,48,50.19
+India,Punjab,"Calendar Year (Jan - Dec), 2023",Bathinda,Central University of Punjab,IR-O-U-0372,100,42.93
+India,Punjab,"Calendar Year (Jan - Dec), 2023",Ludhiana,Punjab Agricultural University,IR-O-U-0381,54,48.74
+India,Punjab,"Calendar Year (Jan - Dec), 2023",Mohali,Chandigarh University,IR-O-U-0747,27,54.63
+India,Punjab,"Calendar Year (Jan - Dec), 2023",Patiala,Thapar Institute of Engineering and Technology,IR-O-I-1480,22,57.32
+India,Punjab,"Calendar Year (Jan - Dec), 2023",Phagwara,Lovely Professional University,IR-O-U-0379,38,52.3
+India,Rajasthan,"Calendar Year (Jan - Dec), 2023",Banasthali,Banasthali Vidyapith,IR-O-U-0389,58,48.6
+India,Rajasthan,"Calendar Year (Jan - Dec), 2023",Pilani,Birla Institute of Technology and Science,IR-O-U-0391,20,58
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2023",Chennai,Anna University,IR-O-U-0439,14,60.48
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2023",Chennai,Bharath Institute of Higher Education and Research,IR-O-U-0446,66,46.91
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2023",Chennai,Dr. M. G. R. Educational and Research Institute,IR-O-U-0461,92,43.62
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2023",Chennai,SRM Institute of Science and Technology,IR-O-U-0473,18,58.73
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2023",Chennai,Sathyabama Institute of Science and Technology,IR-O-U-0474,51,49.26
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2023",Chennai,Saveetha Institute of Medical and Technical Sciences,IR-O-I-1441,13,60.98
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2023",Chennai,Sri Ramachandra Institute of Higher Education and Research,IR-O-I-1486,57,48.61
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2023",Chennai,University of Madras,IR-O-I-1357,50,49.5
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2023",Coimbatore,Amrita Vishwa Vidyapeetham,IR-O-U-0436,7,64.67
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2023",Coimbatore,Avinashilingam Institute for Home Science and Higher Education for Women,IR-O-U-0444,81,44.92
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2023",Coimbatore,Bharathiar University,IR-O-U-0447,21,57.82
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2023",Coimbatore,Tamil Nadu Agricultural University,IR-O-U-0485,72,46.02
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2023",Karaikudi,Alagappa University,IR-O-U-0435,30,53.53
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2023","Kelambakkam, Chengalpattu District",Chettinad Academy of Research and Education,IR-O-U-0451,82,44.88
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2023",Madurai,Madurai Kamaraj University,IR-O-U-0463,53,48.95
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2023",Salem,Periyar University,IR-O-U-0470,59,48.3
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2023",Srivilliputtur,Kalasalingam Academy of Research and Education,IR-O-U-0458,29,53.76
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2023",Thanjavur,Shanmugha Arts Science Technology and Research Academy,IR-O-U-0476,26,54.71
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2023",Tiruchirappalli,Bharathidasan University,IR-O-U-0448,41,51.48
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2023",Tirunelveli,Manonmaniam Sundaranar University,IR-O-U-0464,83,44.85
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2023",Tiruvarur,Central University of Tamil Nadu,IR-O-U-0449,89,44.09
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2023",Vellore,Vellore Institute of Technology,IR-O-U-0490,8,64.33
+India,Telangana,"Calendar Year (Jan - Dec), 2023",Hyderabad,International Institute of Information Technology Hyderabad,IR-O-U-0014,84,44.52
+India,Telangana,"Calendar Year (Jan - Dec), 2023",Hyderabad,Osmania University,IR-O-U-0027,36,52.67
+India,Telangana,"Calendar Year (Jan - Dec), 2023",Hyderabad,University of Hyderabad,IR-O-U-0042,10,62.09
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2023",Aligarh,Aligarh Muslim University,IR-O-U-0496,9,63.88
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2023",Gautam Budh Nagar,Amity University,IR-O-U-0497,35,52.78
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2023",Gautam Budh Nagar,Shiv Nadar University,IR-O-U-0642,62,47.69
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2023",Greater Noida,Sharda University,IR-O-U-0541,87,44.11
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2023",Lucknow,Babasaheb Bhimrao Ambedkar University,IR-O-U-0498,42,51.27
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2023",Lucknow,King George's Medical University,IR-O-U-0523,45,50.63
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2023",Varanasi,Banaras Hindu University,IR-O-U-0500,5,65.85
+India,Uttarakhand,"Calendar Year (Jan - Dec), 2023",Dehradun,Graphic Era University,IR-O-U-0555,55,48.69
+India,Uttarakhand,"Calendar Year (Jan - Dec), 2023",Dehradun,University of Petroleum and Energy Studies,IR-O-U-0564,52,49.1
+India,Uttarakhand,"Calendar Year (Jan - Dec), 2023",Pantnagar,G. B. Pant University of Agriculture and Technology,IR-O-U-0554,79,45.02
+India,West Bengal,"Calendar Year (Jan - Dec), 2023",Bardhaman,The University of Burdwan,IR-O-U-0569,86,44.16
+India,West Bengal,"Calendar Year (Jan - Dec), 2023",Kolkata,Calcutta University,IR-O-U-0570,12,61.14
+India,West Bengal,"Calendar Year (Jan - Dec), 2023",Kolkata,Jadavpur University,IR-O-U-0575,4,66.07
+India,West Bengal,"Calendar Year (Jan - Dec), 2023",Santiniketan,Visva Bharati,IR-O-U-0589,97,43.11
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2022",Guntur,"Vignan's Foundation for Science, Technology and Research",IR-O-U-0043,95,41.79
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2022",Tirupati,Sri Venkateswara University,IR-O-U-0037,67,45.07
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2022",Vaddeswaram,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),IR-O-U-0020,27,52.33
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2022",Visakhapatnam,Andhra University,IR-O-U-0006,36,50.52
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2022",Visakhapatnam,Gandhi Institute of Technology and Management,IR-O-U-0011,92,42.14
+India,Assam,"Calendar Year (Jan - Dec), 2022",Guwahati,Gauhati University,IR-O-U-0052,36,50.52
+India,Assam,"Calendar Year (Jan - Dec), 2022",Tezpur,Tezpur University,IR-O-U-0056,59,47.48
+India,Chandigarh,"Calendar Year (Jan - Dec), 2022",Chandigarh,Panjab University,IR-O-U-0078,25,52.8
+India,Delhi,"Calendar Year (Jan - Dec), 2022",Delhi,Delhi Technological University,IR-O-U-0098,38,49.97
+India,Delhi,"Calendar Year (Jan - Dec), 2022",Delhi,Guru Gobind Singh Indraprastha University,IR-O-U-0099,77,43.39
+India,Delhi,"Calendar Year (Jan - Dec), 2022",Delhi,Jamia Hamdard,IR-O-U-0107,45,48.93
+India,Delhi,"Calendar Year (Jan - Dec), 2022",Delhi,Jamia Millia Islamia,IR-O-U-0108,3,65.91
+India,Delhi,"Calendar Year (Jan - Dec), 2022",Delhi,Jawaharlal Nehru University,IR-O-U-0109,2,68.47
+India,Delhi,"Calendar Year (Jan - Dec), 2022",Delhi,University of Delhi,IR-O-U-0120,13,58.66
+India,Gujarat,"Calendar Year (Jan - Dec), 2022",Ahmedabad,Gujarat University,IR-O-U-0136,58,47.61
+India,Haryana,"Calendar Year (Jan - Dec), 2022",Ambala,Maharishi Markandeshwar,IR-O-U-0168,91,42.26
+India,Haryana,"Calendar Year (Jan - Dec), 2022",Rohtak,Maharshi Dayanand University,IR-O-I-1280,94,41.88
+India,Haryana,"Calendar Year (Jan - Dec), 2022",Sonepat,Ashoka University,IR-O-U-0744,88,42.27
+India,Himachal Pradesh,"Calendar Year (Jan - Dec), 2022",Solan,Shoolini University of Biotechnology and Management Sciences,IR-O-U-0190,96,41.19
+India,Jammu and Kashmir,"Calendar Year (Jan - Dec), 2022",Jammu,University of Jammu,IR-O-U-0195,56,46.97943309
+India,Jammu and Kashmir,"Calendar Year (Jan - Dec), 2022",Srinagar,University of Kashmir,IR-O-U-0196,53,47.21418353
+India,Jharkhand,"Calendar Year (Jan - Dec), 2022",Ranchi,Birla Institute of Technology,IR-O-U-0202,99,40.69
+India,Karnataka,"Calendar Year (Jan - Dec), 2022",Belagavi,KLE Academy of Higher Education and Research,IR-O-U-0225,88,42.27
+India,Karnataka,"Calendar Year (Jan - Dec), 2022",Belagavi,Visvesvaraya Technological University,IR-O-U-0249,72,44.22
+India,Karnataka,"Calendar Year (Jan - Dec), 2022",Bengaluru,Bangalore University,IR-O-U-0215,64,46.01
+India,Karnataka,"Calendar Year (Jan - Dec), 2022",Bengaluru,Christ University,IR-O-U-0217,71,44.31
+India,Karnataka,"Calendar Year (Jan - Dec), 2022",Bengaluru,Indian Institute of Science,IR-O-U-0220,1,83.57
+India,Karnataka,"Calendar Year (Jan - Dec), 2022",Bengaluru,Jain University,IR-O-U-0223,79,43.21
+India,Karnataka,"Calendar Year (Jan - Dec), 2022",Mangaluru,Nitte (Deemed to be University),IR-O-U-0239,75,43.64
+India,Karnataka,"Calendar Year (Jan - Dec), 2022",Mangaluru,Yenepoya University,IR-O-U-0250,97,41.03
+India,Karnataka,"Calendar Year (Jan - Dec), 2022",Manipal,Manipal Academy of Higher Education,IR-O-U-0234,7,62.84
+India,Karnataka,"Calendar Year (Jan - Dec), 2022",Mysuru,JSS Academy of Higher Education and Research,IR-O-U-0222,34,51.2
+India,Karnataka,"Calendar Year (Jan - Dec), 2022",Mysuru,Mysore University,IR-O-U-0235,33,51.37
+India,Karnataka,"Calendar Year (Jan - Dec), 2022",Shivamogga,Kuvempu University,IR-O-U-0232,86,42.44
+India,Kerala,"Calendar Year (Jan - Dec), 2022",Kochi,Cochin University of Science and Technology,IR-O-U-0253,41,49.43
+India,Kerala,"Calendar Year (Jan - Dec), 2022",Kottayam,Mahatma Gandhi University,IR-O-U-0262,30,51.61
+India,Kerala,"Calendar Year (Jan - Dec), 2022",Malappuram,Calicut University,IR-O-U-0251,69,44.93
+India,Kerala,"Calendar Year (Jan - Dec), 2022",Thiruvananthapuram,Kerala University,IR-O-U-0260,40,49.8
+India,Ladakh,"Calendar Year (Jan - Dec), 2022",Jammu,University of Jammu,IR-O-U-0195,56,1.050566912
+India,Ladakh,"Calendar Year (Jan - Dec), 2022",Srinagar,University of Kashmir,IR-O-U-0196,53,1.055816465
+India,Maharashtra,"Calendar Year (Jan - Dec), 2022",Aurangabad,Dr. Babasaheb Ambedkar Marathwada University,IR-O-U-0298,83,42.59
+India,Maharashtra,"Calendar Year (Jan - Dec), 2022",Karad,Krishna Institute of Medical Sciences Deemed University,IR-O-U-0311,73,44.14
+India,Maharashtra,"Calendar Year (Jan - Dec), 2022",Mumbai,Homi Bhabha National Institute,IR-O-U-0304,17,57.09
+India,Maharashtra,"Calendar Year (Jan - Dec), 2022",Mumbai,Institute of Chemical Technology,IR-O-U-0308,14,58.61
+India,Maharashtra,"Calendar Year (Jan - Dec), 2022",Mumbai,Mumbai University,IR-O-U-0318,45,48.93
+India,Maharashtra,"Calendar Year (Jan - Dec), 2022",Mumbai,Padmashree Dr. D. Y. Patil Vidyapeeth,IR-O-U-0321,81,42.64
+India,Maharashtra,"Calendar Year (Jan - Dec), 2022",Mumbai,SVKM's Narsee Monjee Institute of Management Studies,IR-O-N-10,51,48.46
+India,Maharashtra,"Calendar Year (Jan - Dec), 2022",Mumbai,Tata Institute of Social Sciences,IR-O-U-0331,60,47.16
+India,Maharashtra,"Calendar Year (Jan - Dec), 2022",Pune,Bharati Vidyapeeth,IR-O-I-1361,76,43.54
+India,Maharashtra,"Calendar Year (Jan - Dec), 2022",Pune,Dr. D. Y. Patil Vidyapeeth,IR-O-I-1110,41,49.43
+India,Maharashtra,"Calendar Year (Jan - Dec), 2022",Pune,Savitribai Phule Pune University,IR-O-U-0323,12,59.48
+India,Maharashtra,"Calendar Year (Jan - Dec), 2022",Pune,Symbiosis International,IR-O-U-0329,32,51.45
+India,Maharashtra,"Calendar Year (Jan - Dec), 2022",Wardha,Datta Meghe Institute of Medical Sciences,IR-O-U-0295,54,48.18
+India,Meghalaya,"Calendar Year (Jan - Dec), 2022",Shillong,North Eastern Hill University,IR-O-U-0341,66,45.44
+India,Mizoram,"Calendar Year (Jan - Dec), 2022",Aizawl,Mizoram University,IR-O-U-0345,78,43.24
+India,Odisha,"Calendar Year (Jan - Dec), 2022",Bhubaneswar,Kalinga Institute of Industrial Technology,IR-O-U-0356,20,56.22
+India,Odisha,"Calendar Year (Jan - Dec), 2022",Bhubaneswar,Siksha 'O' Anusandhan,IR-O-U-0363,16,57.6
+India,Odisha,"Calendar Year (Jan - Dec), 2022",Bhubaneswar,Utkal University,IR-O-U-0366,88,42.27
+India,Puducherry,"Calendar Year (Jan - Dec), 2022",Puducherry,Pondicherry University,IR-O-U-0369,68,44.95
+India,Puducherry,"Calendar Year (Jan - Dec), 2022",Puducherry,Sri Balaji Vidyapeeth Mahatma Gandhi Medical College Campus,IR-O-U-0370,70,44.72
+India,Punjab,"Calendar Year (Jan - Dec), 2022",Amritsar,Guru Nanak Dev University,IR-O-U-0376,44,49.01
+India,Punjab,"Calendar Year (Jan - Dec), 2022",Bathinda,Central University of Punjab,IR-O-U-0372,81,42.64
+India,Punjab,"Calendar Year (Jan - Dec), 2022",Mohali,Chandigarh University,IR-O-U-0747,29,51.85
+India,Punjab,"Calendar Year (Jan - Dec), 2022",Patiala,Thapar Institute of Engineering and Technology,IR-O-I-1480,31,51.56
+India,Punjab,"Calendar Year (Jan - Dec), 2022",Phagwara,Lovely Professional University,IR-O-U-0379,47,48.92
+India,Rajasthan,"Calendar Year (Jan - Dec), 2022",Banasthali,Banasthali Vidyapith,IR-O-U-0389,49,48.64
+India,Rajasthan,"Calendar Year (Jan - Dec), 2022",Pilani,Birla Institute of Technology and Science,IR-O-U-0391,18,56.68
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2022",Chennai,Anna University,IR-O-U-0439,20,56.22
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2022",Chennai,Bharath Institute of Higher Education and Research,IR-O-U-0446,62,46.4
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2022",Chennai,Dr. M. G. R. Educational and Research Institute,IR-O-U-0461,100,40.39
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2022",Chennai,SRM Institute of Science and Technology,IR-O-U-0473,19,56.24
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2022",Chennai,Sathyabama Institute of Science and Technology,IR-O-U-0474,43,49.18
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2022",Chennai,Saveetha Institute of Medical and Technical Sciences,IR-O-I-1441,26,52.45
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2022",Chennai,Sri Ramachandra Institute of Higher Education and Research,IR-O-I-1486,48,48.87
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2022",Chennai,University of Madras,IR-O-I-1357,39,49.86
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2022",Coimbatore,Amrita Vishwa Vidyapeetham,IR-O-U-0436,5,63.4
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2022",Coimbatore,Avinashilingam Institute for Home Science and Higher Education for Women,IR-O-U-0444,84,42.53
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2022",Coimbatore,Bharathiar University,IR-O-U-0447,15,58.25
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2022",Karaikudi,Alagappa University,IR-O-U-0435,28,52.18
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2022","Kelambakkam, Chengalpattu District",Chettinad Academy of Research and Education,IR-O-U-0451,93,42.04
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2022",Madurai,Madurai Kamaraj University,IR-O-U-0463,52,48.39
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2022",Salem,Periyar University,IR-O-U-0470,63,46.06
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2022",Srivilliputtur,Kalasalingam Academy of Research and Education,IR-O-U-0458,35,51.09
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2022",Thanjavur,Shanmugha Arts Science Technology and Research Academy,IR-O-U-0476,24,53.04
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2022",Tiruchirappalli,Bharathidasan University,IR-O-U-0448,57,47.98
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2022",Tirunelveli,Manonmaniam Sundaranar University,IR-O-U-0464,80,42.92
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2022",Tiruvarur,Central University of Tamil Nadu,IR-O-U-0449,85,42.47
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2022",Vellore,Vellore Institute of Technology,IR-O-U-0490,9,61.77
+India,Telangana,"Calendar Year (Jan - Dec), 2022",Hyderabad,Osmania University,IR-O-U-0027,22,53.07
+India,Telangana,"Calendar Year (Jan - Dec), 2022",Hyderabad,University of Hyderabad,IR-O-U-0042,10,61.71
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2022",Aligarh,Aligarh Muslim University,IR-O-U-0496,11,61.43
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2022",Dadri,Shiv Nadar University,IR-O-U-0642,61,46.57
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2022",Gautam Budh Nagar,Amity University,IR-O-U-0497,22,53.07
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2022",Lucknow,Babasaheb Bhimrao Ambedkar University,IR-O-U-0498,55,48.05
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2022",Lucknow,King George's Medical University,IR-O-U-0523,50,48.51
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2022",Varanasi,Banaras Hindu University,IR-O-U-0500,6,63.2
+India,Uttarakhand,"Calendar Year (Jan - Dec), 2022",Dehradun,Graphic Era University,IR-O-U-0555,74,43.82
+India,Uttarakhand,"Calendar Year (Jan - Dec), 2022",Dehradun,University of Petroleum and Energy Studies,IR-O-U-0564,65,45.49
+India,West Bengal,"Calendar Year (Jan - Dec), 2022",Bardhaman,The University of Burdwan,IR-O-U-0569,87,42.42
+India,West Bengal,"Calendar Year (Jan - Dec), 2022",Kolkata,Calcutta University,IR-O-U-0570,8,62.23
+India,West Bengal,"Calendar Year (Jan - Dec), 2022",Kolkata,Jadavpur University,IR-O-U-0575,4,65.37
+India,West Bengal,"Calendar Year (Jan - Dec), 2022",Santiniketan,Visva Bharati,IR-O-U-0589,98,40.96
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2021",Guntur,"Vignan's Foundation for Science, Technology and Research",IR-O-U-0043,97,38.92
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2021",Tirupati,Sri Venkateswara University,IR-O-U-0037,54,45.61
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2021",Vaddeswaram,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),IR-O-U-0020,35,48.57
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2021",Visakhapatnam,Andhra University,IR-O-U-0006,24,51.1
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2021",Visakhapatnam,Gandhi Institute of Technology and Management,IR-O-U-0011,67,42.13
+India,Assam,"Calendar Year (Jan - Dec), 2021",Guwahati,Gauhati University,IR-O-U-0052,45,47.35
+India,Assam,"Calendar Year (Jan - Dec), 2021",Silchar,Assam University,IR-O-U-0050,93,39.21
+India,Assam,"Calendar Year (Jan - Dec), 2021",Tezpur,Tezpur University,IR-O-U-0056,46,47.27
+India,Chandigarh,"Calendar Year (Jan - Dec), 2021",Chandigarh,Panjab University,IR-O-U-0078,23,51.59
+India,Delhi,"Calendar Year (Jan - Dec), 2021",Delhi,Delhi Technological University,IR-O-U-0098,42,48.01
+India,Delhi,"Calendar Year (Jan - Dec), 2021",Delhi,Guru Gobind Singh Indraprastha University,IR-O-U-0099,79,40.79
+India,Delhi,"Calendar Year (Jan - Dec), 2021",Delhi,Jamia Hamdard,IR-O-U-0107,41,48.02
+India,Delhi,"Calendar Year (Jan - Dec), 2021",Delhi,Jamia Millia Islamia,IR-O-U-0108,6,60.74
+India,Delhi,"Calendar Year (Jan - Dec), 2021",Delhi,Jawaharlal Nehru University,IR-O-U-0109,2,67.99
+India,Delhi,"Calendar Year (Jan - Dec), 2021",Delhi,University of Delhi,IR-O-U-0120,12,57.09
+India,Goa,"Calendar Year (Jan - Dec), 2021",Goa,Goa University,IR-O-U-0121,96,38.96
+India,Gujarat,"Calendar Year (Jan - Dec), 2021",Ahmedabad,Gujarat University,IR-O-U-0136,43,47.6
+India,Gujarat,"Calendar Year (Jan - Dec), 2021",Gandhinagar,Pandit Deendayal Petroleum University,IR-O-U-0147,73,41.38
+India,Gujarat,"Calendar Year (Jan - Dec), 2021",Vadodara,Maharaja Sayajirao University of Baroda,IR-O-U-0143,90,39.48
+India,Haryana,"Calendar Year (Jan - Dec), 2021",Hisar,Guru Jambheshwar University of Science and Technology,IR-O-U-0162,88,39.66
+India,Haryana,"Calendar Year (Jan - Dec), 2021",Rohtak,Maharshi Dayanand University,IR-O-I-1280,78,41.03
+India,Haryana,"Calendar Year (Jan - Dec), 2021",Sonepat,Ashoka University,IR-O-U-0744,95,39.02
+India,Himachal Pradesh,"Calendar Year (Jan - Dec), 2021",Solan,Shoolini University of Biotechnology and Management Sciences,IR-O-U-0190,89,39.53
+India,Jammu and Kashmir,"Calendar Year (Jan - Dec), 2021",Jammu,University of Jammu,IR-O-U-0195,66,41.58995409
+India,Jammu and Kashmir,"Calendar Year (Jan - Dec), 2021",Srinagar,University of Kashmir,IR-O-U-0196,48,45.94261862
+India,Jharkhand,"Calendar Year (Jan - Dec), 2021",Ranchi,Birla Institute of Technology,IR-O-U-0202,86,39.86
+India,Karnataka,"Calendar Year (Jan - Dec), 2021",Belagavi,KLE Academy of Higher Education and Research,IR-O-U-0225,91,39.44
+India,Karnataka,"Calendar Year (Jan - Dec), 2021",Belagavi,Visvesvaraya Technological University,IR-O-U-0249,82,40.37
+India,Karnataka,"Calendar Year (Jan - Dec), 2021",Bengaluru,Bangalore University,IR-O-U-0215,69,41.98
+India,Karnataka,"Calendar Year (Jan - Dec), 2021",Bengaluru,Indian Institute of Science,IR-O-U-0220,1,82.67
+India,Karnataka,"Calendar Year (Jan - Dec), 2021",Bengaluru,Jain University,IR-O-U-0223,99,38.89
+India,Karnataka,"Calendar Year (Jan - Dec), 2021",Mangaluru,Nitte (Deemed to be University),IR-O-U-0239,77,41.04
+India,Karnataka,"Calendar Year (Jan - Dec), 2021",Manipal,Manipal Academy of Higher Education,IR-O-U-0234,7,60.58
+India,Karnataka,"Calendar Year (Jan - Dec), 2021",Mysuru,JSS Academy of Higher Education and Research,IR-O-U-0222,34,48.79
+India,Karnataka,"Calendar Year (Jan - Dec), 2021",Mysuru,Mysore University,IR-O-U-0235,19,52.68
+India,Karnataka,"Calendar Year (Jan - Dec), 2021",Shivamogga,Kuvempu University,IR-O-U-0232,81,40.4
+India,Kerala,"Calendar Year (Jan - Dec), 2021",Kochi,Cochin University of Science and Technology,IR-O-U-0253,44,47.37
+India,Kerala,"Calendar Year (Jan - Dec), 2021",Kottayam,Mahatma Gandhi University,IR-O-U-0262,31,49.3
+India,Kerala,"Calendar Year (Jan - Dec), 2021",Malappuram,Calcutta University,IR-O-U-0251,60,44.13
+India,Kerala,"Calendar Year (Jan - Dec), 2021",Thiruvananthapuram,Kerala University,IR-O-U-0260,27,50.52
+India,Ladakh,"Calendar Year (Jan - Dec), 2021",Jammu,University of Jammu,IR-O-U-0195,66,0.930045911
+India,Ladakh,"Calendar Year (Jan - Dec), 2021",Srinagar,University of Kashmir,IR-O-U-0196,48,1.027381383
+India,Maharashtra,"Calendar Year (Jan - Dec), 2021",Aurangabad,Dr. Babasaheb Ambedkar Marathwada University,IR-O-U-0298,76,41.14
+India,Maharashtra,"Calendar Year (Jan - Dec), 2021",Mumbai,Homi Bhabha National Institute,IR-O-U-0304,18,53.24
+India,Maharashtra,"Calendar Year (Jan - Dec), 2021",Mumbai,Institute of Chemical Technology,IR-O-U-0308,15,56.1
+India,Maharashtra,"Calendar Year (Jan - Dec), 2021",Mumbai,Mumbai University,IR-O-U-0318,71,41.56
+India,Maharashtra,"Calendar Year (Jan - Dec), 2021",Mumbai,Padmashree Dr. D. Y. Patil Vidyapeeth,IR-O-U-0321,72,41.47
+India,Maharashtra,"Calendar Year (Jan - Dec), 2021",Mumbai,SVKM's Narsee Monjee Institute of Management Studies,IR-O-N-10,55,45.44
+India,Maharashtra,"Calendar Year (Jan - Dec), 2021",Mumbai,Tata Institute of Social Sciences,IR-O-U-0331,37,48.37
+India,Maharashtra,"Calendar Year (Jan - Dec), 2021",Pune,Bharati Vidyapeeth,IR-O-I-1361,68,42.1
+India,Maharashtra,"Calendar Year (Jan - Dec), 2021",Pune,Dr. D. Y. Patil Vidyapeeth,IR-O-I-1110,49,46.74
+India,Maharashtra,"Calendar Year (Jan - Dec), 2021",Pune,Savitribai Phule Pune University,IR-O-U-0323,11,58.34
+India,Maharashtra,"Calendar Year (Jan - Dec), 2021",Pune,Symbiosis International,IR-O-U-0329,38,48.22
+India,Maharashtra,"Calendar Year (Jan - Dec), 2021",Wardha,Datta Meghe Institute of Medical Sciences,IR-O-U-0295,61,44.05
+India,Meghalaya,"Calendar Year (Jan - Dec), 2021",Shillong,North Eastern Hill University,IR-O-U-0341,59,44.24
+India,Odisha,"Calendar Year (Jan - Dec), 2021",Bhubaneswar,Kalinga Institute of Industrial Technology,IR-O-U-0356,21,52.06
+India,Odisha,"Calendar Year (Jan - Dec), 2021",Bhubaneswar,Siksha 'O' Anusandhan,IR-O-U-0363,20,52.34
+India,Odisha,"Calendar Year (Jan - Dec), 2021",Bhubaneswar,Utkal University,IR-O-U-0366,87,39.8
+India,Puducherry,"Calendar Year (Jan - Dec), 2021",Puducherry,Pondicherry University,IR-O-U-0369,58,44.36
+India,Puducherry,"Calendar Year (Jan - Dec), 2021",Puducherry,Sri Balaji Vidyapeeth Mahatma Gandhi Medical College Campus,IR-O-U-0370,80,40.42
+India,Punjab,"Calendar Year (Jan - Dec), 2021",Amritsar,Guru Nanak Dev University,IR-O-U-0376,53,45.67
+India,Punjab,"Calendar Year (Jan - Dec), 2021",Bathinda,Central University of Punjab,IR-O-U-0372,84,39.99
+India,Punjab,"Calendar Year (Jan - Dec), 2021",Mohali,Chandigarh University,IR-O-U-0747,52,46.15
+India,Punjab,"Calendar Year (Jan - Dec), 2021",Patiala,Thapar Institute of Engineering and Technology,IR-O-I-1480,26,50.65
+India,Punjab,"Calendar Year (Jan - Dec), 2021",Phagwara,Lovely Professional University,IR-O-U-0379,62,43.33
+India,Rajasthan,"Calendar Year (Jan - Dec), 2021",Banasthali,Banasthali Vidyapith,IR-O-U-0389,35,48.57
+India,Rajasthan,"Calendar Year (Jan - Dec), 2021",Pilani,Birla Institute of Technology and Science,IR-O-U-0391,17,54.74
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2021",Chennai,Anna University,IR-O-U-0439,16,54.97
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2021",Chennai,Bharath Institute of Higher Education and Research,IR-O-U-0446,51,46.44
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2021",Chennai,SRM Institute of Science and Technology,IR-O-U-0473,30,49.98
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2021",Chennai,Sathyabama Institute of Science and Technology,IR-O-U-0474,40,48.17
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2021",Chennai,Saveetha Institute of Medical and Technical Sciences,IR-O-I-1441,29,50.36
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2021",Chennai,Sri Ramachandra Institute of Higher Education and Research,IR-O-I-1486,47,47.17
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2021",Chennai,University of Madras,IR-O-I-1357,28,50.46
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2021",Coimbatore,Amrita Vishwa Vidyapeetham,IR-O-U-0436,5,61.23
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2021",Coimbatore,Avinashilingam Institute for Home Science and Higher Education for Women,IR-O-U-0444,75,41.24
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2021",Coimbatore,Bharathiar University,IR-O-U-0447,14,56.44
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2021",Karaikudi,Alagappa University,IR-O-U-0435,33,49.09
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2021","Kelambakkam, Chengalpattu District",Chettinad Academy of Research and Education,IR-O-U-0451,92,39.26
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2021",Madurai,Madurai Kamaraj University,IR-O-U-0463,63,43.32
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2021",Salem,Periyar University,IR-O-U-0470,73,41.38
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2021",Srivilliputtur,Kalasalingam Academy of Research and Education,IR-O-U-0458,50,46.52
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2021",Thanjavur,Shanmugha Arts Science Technology and Research Academy,IR-O-U-0476,22,51.83
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2021",Tiruchirappalli,Bharathidasan University,IR-O-U-0448,57,44.63
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2021",Tirunelveli,Manonmaniam Sundaranar University,IR-O-U-0464,70,41.67
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2021",Vellore,Vellore Institute of Technology,IR-O-U-0490,13,56.63
+India,Telangana,"Calendar Year (Jan - Dec), 2021",Hyderabad,International Institute of Information Technology Hyderabad,IR-O-U-0014,83,40.2
+India,Telangana,"Calendar Year (Jan - Dec), 2021",Hyderabad,Osmania University,IR-O-U-0027,32,49.16
+India,Telangana,"Calendar Year (Jan - Dec), 2021",Hyderabad,University of Hyderabad,IR-O-U-0042,9,59.71
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2021",Agra,Dayalbagh Educational Institute,IR-O-U-0507,94,39.06
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2021",Aligarh,Aligarh Muslim University,IR-O-U-0496,10,58.97
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2021",Dadri,Shiv Nadar University,IR-O-U-0642,56,45
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2021",Gautam Budh Nagar,Amity University,IR-O-U-0497,25,50.9
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2021",Lucknow,Babasaheb Bhimrao Ambedkar University,IR-O-U-0498,65,42.63
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2021",Lucknow,King George's Medical University,IR-O-U-0523,39,48.21
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2021",Varanasi,Banaras Hindu University,IR-O-U-0500,3,64.02
+India,Uttarakhand,"Calendar Year (Jan - Dec), 2021",Dehradun,Graphic Era University,IR-O-U-0555,98,38.91
+India,Uttarakhand,"Calendar Year (Jan - Dec), 2021",Dehradun,University of Petroleum and Energy Studies,IR-O-U-0564,100,38.88
+India,West Bengal,"Calendar Year (Jan - Dec), 2021",Bardhaman,The University of Burdwan,IR-O-U-0569,85,39.98
+India,West Bengal,"Calendar Year (Jan - Dec), 2021",Kolkata,Calcutta University,IR-O-U-0570,4,62.06
+India,West Bengal,"Calendar Year (Jan - Dec), 2021",Kolkata,Jadavpur University,IR-O-U-0575,8,60.33
+India,West Bengal,"Calendar Year (Jan - Dec), 2021",Santiniketan,Visva Bharati,IR-O-U-0589,64,42.76
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2020",Anantapur,Sri Sathya Sai Institute of Higher Learning,IR-O-U-0035,75,42.08
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2020",Guntur,"Vignan's Foundation for Science, Technology and Research",IR-O-U-0043,100,39.71
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2020",Tirupati,Sri Venkateswara University,IR-O-U-0037,38,48.84
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2020",Vaddeswaram,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),IR-O-U-0020,41,48.73
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2020",Visakhapatnam,Andhra University,IR-O-U-0006,19,53.82
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2020",Visakhapatnam,Gandhi Institute of Technology and Management,IR-O-U-0011,71,42.79
+India,Assam,"Calendar Year (Jan - Dec), 2020",Dibrugarh,Dibrugarh University,IR-O-U-0051,84,41.05
+India,Assam,"Calendar Year (Jan - Dec), 2020",Guwahati,Gauhati University,IR-O-U-0052,47,47.1
+India,Assam,"Calendar Year (Jan - Dec), 2020",Tezpur,Tezpur University,IR-O-U-0056,39,48.77
+India,Chandigarh,"Calendar Year (Jan - Dec), 2020",Chandigarh,Panjab University,IR-O-U-0078,26,51.85
+India,Delhi,"Calendar Year (Jan - Dec), 2020",Delhi,Delhi Technological University,IR-O-U-0098,45,48.06
+India,Delhi,"Calendar Year (Jan - Dec), 2020",Delhi,Guru Gobind Singh Indraprastha University,IR-O-U-0099,95,40.24
+India,Delhi,"Calendar Year (Jan - Dec), 2020",Delhi,Jamia Hamdard,IR-O-U-0107,21,52.6
+India,Delhi,"Calendar Year (Jan - Dec), 2020",Delhi,Jamia Millia Islamia,IR-O-U-0108,10,61.07
+India,Delhi,"Calendar Year (Jan - Dec), 2020",Delhi,Jawaharlal Nehru University,IR-O-U-0109,2,70.16
+India,Delhi,"Calendar Year (Jan - Dec), 2020",Delhi,University of Delhi,IR-O-U-0120,11,60.1
+India,Goa,"Calendar Year (Jan - Dec), 2020",Goa,Goa University,IR-O-U-0121,81,41.37
+India,Gujarat,"Calendar Year (Jan - Dec), 2020",Ahmedabad,Gujarat University,IR-O-U-0136,44,48.21
+India,Haryana,"Calendar Year (Jan - Dec), 2020",Ambala,Maharishi Markandeshwar,IR-O-U-0168,93,40.49
+India,Haryana,"Calendar Year (Jan - Dec), 2020",Hisar,Guru Jambheshwar University of Science and Technology,IR-O-U-0162,94,40.43
+India,Haryana,"Calendar Year (Jan - Dec), 2020",Kurukshetra,Kurukshetra University,IR-O-U-0164,99,39.79
+India,Haryana,"Calendar Year (Jan - Dec), 2020",Rohtak,Maharshi Dayanand University,IR-O-I-1280,76,41.95
+India,Jammu and Kashmir,"Calendar Year (Jan - Dec), 2020",Jammu,University of Jammu,IR-O-U-0195,52,45.53180534
+India,Jammu and Kashmir,"Calendar Year (Jan - Dec), 2020",Srinagar,University of Kashmir,IR-O-U-0196,48,45.96218115
+India,Jharkhand,"Calendar Year (Jan - Dec), 2020",Ranchi,Birla Institute of Technology,IR-O-U-0202,66,43.5
+India,Karnataka,"Calendar Year (Jan - Dec), 2020",Belagavi,KLE Academy of Higher Education and Research,IR-O-U-0225,70,43.1
+India,Karnataka,"Calendar Year (Jan - Dec), 2020",Belagavi,Visvesvaraya Technological University,IR-O-U-0249,80,41.63
+India,Karnataka,"Calendar Year (Jan - Dec), 2020",Bengaluru,Bangalore University,IR-O-U-0215,68,43.33
+India,Karnataka,"Calendar Year (Jan - Dec), 2020",Bengaluru,Indian Institute of Science,IR-O-U-0220,1,84.18
+India,Karnataka,"Calendar Year (Jan - Dec), 2020",Bengaluru,Jain University,IR-O-U-0223,85,41.03
+India,Karnataka,"Calendar Year (Jan - Dec), 2020",Mangaluru,Nitte (Deemed to be University),IR-O-U-0239,74,42.19
+India,Karnataka,"Calendar Year (Jan - Dec), 2020",Mangaluru,Yenepoya University,IR-O-U-0250,86,40.99
+India,Karnataka,"Calendar Year (Jan - Dec), 2020",Manipal,Manipal Academy of Higher Education,IR-O-U-0234,8,61.51
+India,Karnataka,"Calendar Year (Jan - Dec), 2020",Mysuru,JSS Academy of Higher Education and Research,IR-O-U-0222,33,50.2
+India,Karnataka,"Calendar Year (Jan - Dec), 2020",Mysuru,Mysore University,IR-O-U-0235,27,51.84
+India,Karnataka,"Calendar Year (Jan - Dec), 2020",Shivamogga,Kuvempu University,IR-O-U-0232,73,42.45
+India,Kerala,"Calendar Year (Jan - Dec), 2020",Kochi,Cochin University of Science and Technology,IR-O-U-0253,62,45.02
+India,Kerala,"Calendar Year (Jan - Dec), 2020",Kottayam,Mahatma Gandhi University,IR-O-U-0262,30,50.93
+India,Kerala,"Calendar Year (Jan - Dec), 2020",Malappuram,Calcutta University,IR-O-U-0251,54,46.37
+India,Kerala,"Calendar Year (Jan - Dec), 2020",Thiruvananthapuram,Kerala University,IR-O-U-0260,23,52.35
+India,Ladakh,"Calendar Year (Jan - Dec), 2020",Jammu,University of Jammu,IR-O-U-0195,52,1.018194665
+India,Ladakh,"Calendar Year (Jan - Dec), 2020",Srinagar,University of Kashmir,IR-O-U-0196,48,1.027818846
+India,Maharashtra,"Calendar Year (Jan - Dec), 2020",Aurangabad,Dr. Babasaheb Ambedkar Marathwada University,IR-O-U-0298,69,43.12
+India,Maharashtra,"Calendar Year (Jan - Dec), 2020",Karad,Krishna Institute of Medical Sciences,IR-O-C-23033,90,40.87
+India,Maharashtra,"Calendar Year (Jan - Dec), 2020",Mumbai,Homi Bhabha National Institute,IR-O-U-0304,14,56.04
+India,Maharashtra,"Calendar Year (Jan - Dec), 2020",Mumbai,Institute of Chemical Technology,IR-O-U-0308,18,54.1
+India,Maharashtra,"Calendar Year (Jan - Dec), 2020",Mumbai,Mumbai University,IR-O-U-0318,65,44
+India,Maharashtra,"Calendar Year (Jan - Dec), 2020",Mumbai,Padmashree Dr. D. Y. Patil Vidyapeeth,IR-O-U-0321,77,41.74
+India,Maharashtra,"Calendar Year (Jan - Dec), 2020",Mumbai,SVKM's Narsee Monjee Institute of Management Studies,IR-O-N-10,57,46.01
+India,Maharashtra,"Calendar Year (Jan - Dec), 2020",Mumbai,Tata Institute of Social Sciences,IR-O-U-0331,34,50.1
+India,Maharashtra,"Calendar Year (Jan - Dec), 2020",Pune,Bharati Vidyapeeth,IR-O-I-1361,63,44.84
+India,Maharashtra,"Calendar Year (Jan - Dec), 2020",Pune,Dr. D. Y. Patil Vidyapeeth,IR-O-I-1110,46,47.92
+India,Maharashtra,"Calendar Year (Jan - Dec), 2020",Pune,Savitribai Phule Pune University,IR-O-U-0323,9,61.13
+India,Maharashtra,"Calendar Year (Jan - Dec), 2020",Pune,Symbiosis International,IR-O-U-0329,43,48.35
+India,Maharashtra,"Calendar Year (Jan - Dec), 2020",Wardha,Datta Meghe Institute of Medical Sciences,IR-O-U-0295,61,45.24
+India,Meghalaya,"Calendar Year (Jan - Dec), 2020",Shillong,North Eastern Hill University,IR-O-U-0341,49,46.88
+India,Mizoram,"Calendar Year (Jan - Dec), 2020",Aizawl,Mizoram University,IR-O-U-0345,67,43.49
+India,Odisha,"Calendar Year (Jan - Dec), 2020",Bhubaneswar,Kalinga Institute of Industrial Technology,IR-O-U-0356,24,52.33
+India,Odisha,"Calendar Year (Jan - Dec), 2020",Bhubaneswar,Siksha 'O' Anusandhan,IR-O-U-0363,20,53.1
+India,Odisha,"Calendar Year (Jan - Dec), 2020",Bhubaneswar,Utkal University,IR-O-U-0366,96,40.05
+India,Puducherry,"Calendar Year (Jan - Dec), 2020",Puducherry,Pondicherry University,IR-O-U-0369,58,45.82
+India,Puducherry,"Calendar Year (Jan - Dec), 2020",Puducherry,Sri Balaji Vidyapeeth Mahatma Gandhi Medical College Campus,IR-O-U-0370,88,40.92
+India,Punjab,"Calendar Year (Jan - Dec), 2020",Amritsar,Guru Nanak Dev University,IR-O-U-0376,51,46.58
+India,Punjab,"Calendar Year (Jan - Dec), 2020",Bathinda,Central University of Punjab,IR-O-U-0372,87,40.93
+India,Punjab,"Calendar Year (Jan - Dec), 2020",Patiala,Punjabi University,IR-O-U-0383,64,44.07
+India,Punjab,"Calendar Year (Jan - Dec), 2020",Patiala,Thapar Institute of Engineering and Technology,IR-O-I-1480,31,50.65
+India,Punjab,"Calendar Year (Jan - Dec), 2020",Phagwara,Lovely Professional University,IR-O-U-0379,78,41.69
+India,Rajasthan,"Calendar Year (Jan - Dec), 2020",Banasthali,Banasthali Vidyapith,IR-O-U-0389,55,46.32
+India,Rajasthan,"Calendar Year (Jan - Dec), 2020",Pilani,Birla Institute of Technology and Science,IR-O-U-0391,15,55.79
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2020",Chennai,Anna University,IR-O-U-0439,12,58.71
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2020",Chennai,Bharath Institute of Higher Education and Research,IR-O-U-0446,59,45.67
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2020",Chennai,SRM Institute of Science and Technology,IR-O-U-0473,35,50.07
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2020",Chennai,Sathyabama Institute of Science and Technology,IR-O-U-0474,39,48.77
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2020",Chennai,Saveetha Institute of Medical and Technical Sciences,IR-O-I-1441,42,48.56
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2020",Chennai,Sri Ramachandra Institute of Higher Education and Research,IR-O-I-1486,28,51.32
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2020",Chennai,University of Madras,IR-O-I-1357,22,52.55
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2020",Coimbatore,Amrita Vishwa Vidyapeetham,IR-O-U-0436,4,62.27
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2020",Coimbatore,Bharathiar University,IR-O-U-0447,13,58.3
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2020",Gandhigram,The Gandhigram Rural Institute,IR-O-U-0453,91,40.65
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2020",Kanchipuram District,Chettinad Academy of Research and Education,IR-O-U-0451,98,39.97
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2020",Karaikudi,Alagappa University,IR-O-U-0435,36,49.22
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2020",Madurai,Madurai Kamaraj University,IR-O-U-0463,60,45.58
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2020",Salem,Periyar University,IR-O-U-0470,83,41.09
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2020",Srivilliputtur,Kalasalingam Academy of Research and Education,IR-O-U-0458,72,42.57
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2020",Thanjavur,Shanmugha Arts Science Technology and Research Academy,IR-O-U-0476,25,52.22
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2020",Tiruchirappalli,Bharathidasan University,IR-O-U-0448,53,46.41
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2020",Vellore,Vellore Institute of Technology,IR-O-U-0490,16,55.22
+India,Telangana,"Calendar Year (Jan - Dec), 2020",Hyderabad,International Institute of Information Technology Hyderabad,IR-O-U-0014,78,41.69
+India,Telangana,"Calendar Year (Jan - Dec), 2020",Hyderabad,Osmania University,IR-O-U-0027,29,51.15
+India,Telangana,"Calendar Year (Jan - Dec), 2020",Hyderabad,University of Hyderabad,IR-O-U-0042,6,61.7
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2020",Agra,Dayalbagh Educational Institute,IR-O-U-0507,82,41.21
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2020",Aligarh,Aligarh Muslim University,IR-O-U-0496,17,54.3
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2020",Dadri,Shiv Nadar University,IR-O-U-0642,56,46.11
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2020",Gautam Budh Nagar,Amity University Noida,IR-O-U-0497,37,49.02
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2020",Lucknow,King George's Medical University,IR-O-U-0523,32,50.45
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2020",Varanasi,Banaras Hindu University,IR-O-U-0500,3,63.15
+India,Uttarakhand,"Calendar Year (Jan - Dec), 2020",Dehradun,Graphic Era University,IR-O-U-0555,97,40.04
+India,West Bengal,"Calendar Year (Jan - Dec), 2020",Bardhaman,The University of Burdwan,IR-O-U-0569,92,40.55
+India,West Bengal,"Calendar Year (Jan - Dec), 2020",Kalyani,Kalyani University,IR-O-U-0576,89,40.91
+India,West Bengal,"Calendar Year (Jan - Dec), 2020",Kolkata,Calcutta University,IR-O-U-0570,7,61.53
+India,West Bengal,"Calendar Year (Jan - Dec), 2020",Kolkata,Jadavpur University,IR-O-U-0575,5,61.99
+India,West Bengal,"Calendar Year (Jan - Dec), 2020",Santiniketan,Visva Bharati,IR-O-U-0589,50,46.84
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2019",Tirupati,Sri Venkateswara Institute of Medical Sciences,IR-O-U-0036,77,40.24
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2019",Tirupati,Sri Venkateswara University,IR-O-U-0037,48,44.88
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2019",Vaddeswaram,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),IR-O-U-0020,50,44.7
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2019",Visakhapatnam,Andhra University,IR-O-U-0006,16,52.11
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2019",Visakhapatnam,Gandhi Institute of Technology and Management,IR-O-U-0011,84,39.42
+India,Arunachal Pradesh,"Calendar Year (Jan - Dec), 2019",Itanagar,Rajiv Gandhi University,IR-O-U-0047,99,38.48
+India,Assam,"Calendar Year (Jan - Dec), 2019",Dibrugarh,Dibrugarh University,IR-O-U-0051,86,39.3
+India,Assam,"Calendar Year (Jan - Dec), 2019",Guwahati,Gauhati University,IR-O-U-0052,42,45.57
+India,Assam,"Calendar Year (Jan - Dec), 2019",Silchar,Assam University,IR-O-U-0050,97,38.67
+India,Assam,"Calendar Year (Jan - Dec), 2019",Tezpur,Tezpur University,IR-O-U-0056,29,48.47
+India,Chandigarh,"Calendar Year (Jan - Dec), 2019",Chandigarh,Panjab University,IR-O-U-0078,21,51.25
+India,Delhi,"Calendar Year (Jan - Dec), 2019",Delhi,Delhi Technological University,IR-O-U-0098,47,44.89
+India,Delhi,"Calendar Year (Jan - Dec), 2019",Delhi,Guru Gobind Singh Indraprastha University,IR-O-U-0099,66,41.21
+India,Delhi,"Calendar Year (Jan - Dec), 2019",Delhi,Jamia Hamdard,IR-O-U-0107,18,51.73
+India,Delhi,"Calendar Year (Jan - Dec), 2019",Delhi,Jamia Millia Islamia,IR-O-U-0108,12,58.07
+India,Delhi,"Calendar Year (Jan - Dec), 2019",Delhi,Jawaharlal Nehru University,IR-O-U-0109,2,68.68
+India,Delhi,"Calendar Year (Jan - Dec), 2019",Delhi,University of Delhi,IR-O-U-0120,13,57.59
+India,Goa,"Calendar Year (Jan - Dec), 2019",Goa,Goa University,IR-O-U-0121,93,38.76
+India,Gujarat,"Calendar Year (Jan - Dec), 2019",Anand,Anand Agricultural University,IR-O-U-0123,67,41.2
+India,Haryana,"Calendar Year (Jan - Dec), 2019",Hisar,Chaudhary Charan Singh Haryana Agricultural University,IR-O-U-0159,63,42.36
+India,Haryana,"Calendar Year (Jan - Dec), 2019",Kurukshetra,Kurukshetra University,IR-O-U-0164,98,38.6
+India,Haryana,"Calendar Year (Jan - Dec), 2019",Rohtak,Maharshi Dayanand University,IR-O-I-1280,90,38.94
+India,Himachal Pradesh,"Calendar Year (Jan - Dec), 2019",Solan,Dr. Y. S. Parmar University of Horticulture and Forestry,IR-O-U-0181,80,40.07
+India,Jammu and Kashmir,"Calendar Year (Jan - Dec), 2019",Jammu,University of Jammu,IR-O-U-0195,74,39.54566895
+India,Jammu and Kashmir,"Calendar Year (Jan - Dec), 2019",Srinagar,University of Kashmir,IR-O-U-0196,53,43.22342595
+India,Jharkhand,"Calendar Year (Jan - Dec), 2019",Ranchi,Birla Institute of Technology,IR-O-U-0202,59,43.49
+India,Karnataka,"Calendar Year (Jan - Dec), 2019",Belagavi,KLE Academy of Higher Education and Research,IR-O-U-0225,69,40.92
+India,Karnataka,"Calendar Year (Jan - Dec), 2019",Bengaluru,Indian Institute of Science,IR-O-U-0220,1,82.28
+India,Karnataka,"Calendar Year (Jan - Dec), 2019",Dharwad,University of Agricultural Sciences,IR-O-U-0246,83,39.59
+India,Karnataka,"Calendar Year (Jan - Dec), 2019",Mangalagangotri,Mangalore University,IR-O-U-0233,87,39.26
+India,Karnataka,"Calendar Year (Jan - Dec), 2019",Mangaluru,Nitte (Deemed to be University),IR-O-U-0239,70,40.88
+India,Karnataka,"Calendar Year (Jan - Dec), 2019",Mangaluru,Yenepoya University,IR-O-U-0250,95,38.68
+India,Karnataka,"Calendar Year (Jan - Dec), 2019",Manipal,Manipal Academy of Higher Education,IR-O-U-0234,9,58.5
+India,Karnataka,"Calendar Year (Jan - Dec), 2019",Mysuru,JSS Academy of Higher Education and Research,IR-O-U-0222,34,46.97
+India,Karnataka,"Calendar Year (Jan - Dec), 2019",Mysuru,Mysore University,IR-O-U-0235,54,44.06
+India,Karnataka,"Calendar Year (Jan - Dec), 2019",Shivamogga,Kuvempu University,IR-O-U-0232,73,40.6
+India,Kerala,"Calendar Year (Jan - Dec), 2019",Kochi,Cochin University of Science and Technology,IR-O-U-0253,65,41.42
+India,Kerala,"Calendar Year (Jan - Dec), 2019",Kottayam,Mahatma Gandhi University,IR-O-U-0262,30,48.08
+India,Kerala,"Calendar Year (Jan - Dec), 2019",Malappuram,Calcutta University,IR-O-U-0251,64,42.22
+India,Kerala,"Calendar Year (Jan - Dec), 2019",Thiruvananthapuram,Kerala University,IR-O-U-0260,22,51.21
+India,Ladakh,"Calendar Year (Jan - Dec), 2019",Jammu,University of Jammu,IR-O-U-0195,74,0.884331048
+India,Ladakh,"Calendar Year (Jan - Dec), 2019",Srinagar,University of Kashmir,IR-O-U-0196,53,0.966574054
+India,Maharashtra,"Calendar Year (Jan - Dec), 2019",Aurangabad,Dr. Babasaheb Ambedkar Marathwada University,IR-O-U-0298,85,39.33
+India,Maharashtra,"Calendar Year (Jan - Dec), 2019",Mumbai,Homi Bhabha National Institute,IR-O-U-0304,17,51.95
+India,Maharashtra,"Calendar Year (Jan - Dec), 2019",Mumbai,Institute of Chemical Technology,IR-O-U-0308,15,52.62
+India,Maharashtra,"Calendar Year (Jan - Dec), 2019",Mumbai,Mumbai University,IR-O-U-0318,81,40.03
+India,Maharashtra,"Calendar Year (Jan - Dec), 2019",Mumbai,Padmashree Dr. D. Y. Patil Vidyapeeth,IR-O-U-0321,88,39.18
+India,Maharashtra,"Calendar Year (Jan - Dec), 2019",Mumbai,SVKM's Narsee Monjee Institute of Management Studies,IR-O-N-10,57,43.63
+India,Maharashtra,"Calendar Year (Jan - Dec), 2019",Mumbai,Tata Institute of Social Sciences,IR-O-U-0331,35,46.82
+India,Maharashtra,"Calendar Year (Jan - Dec), 2019",Pune,Bharati Vidyapeeth,IR-O-I-1361,62,42.89
+India,Maharashtra,"Calendar Year (Jan - Dec), 2019",Pune,Dr. D. Y. Patil Vidyapeeth,IR-O-I-1110,46,45.11
+India,Maharashtra,"Calendar Year (Jan - Dec), 2019",Pune,Savitribai Phule Pune University,IR-O-U-0323,10,58.4
+India,Maharashtra,"Calendar Year (Jan - Dec), 2019",Pune,Symbiosis International,IR-O-U-0329,56,43.65
+India,Meghalaya,"Calendar Year (Jan - Dec), 2019",Shillong,North Eastern Hill University,IR-O-U-0341,39,45.99
+India,Mizoram,"Calendar Year (Jan - Dec), 2019",Aizawl,Mizoram University,IR-O-U-0345,76,40.27
+India,Odisha,"Calendar Year (Jan - Dec), 2019",Bhubaneswar,Kalinga Institute of Industrial Technology,IR-O-U-0356,31,47.97
+India,Odisha,"Calendar Year (Jan - Dec), 2019",Bhubaneswar,Siksha 'O' Anusandhan,IR-O-U-0363,24,50.31
+India,Puducherry,"Calendar Year (Jan - Dec), 2019",Puducherry,Pondicherry University,IR-O-U-0369,48,44.88
+India,Puducherry,"Calendar Year (Jan - Dec), 2019",Puducherry,Sri Balaji Vidyapeeth Mahatma Gandhi Medical College Campus,IR-O-U-0370,72,40.87
+India,Punjab,"Calendar Year (Jan - Dec), 2019",Amritsar,Guru Nanak Dev University,IR-O-U-0376,55,43.69
+India,Punjab,"Calendar Year (Jan - Dec), 2019",Bathinda,Central University of Punjab,IR-O-U-0372,95,38.68
+India,Punjab,"Calendar Year (Jan - Dec), 2019",Ludhiana,Punjab Agricultural University,IR-O-U-0381,51,44.66
+India,Punjab,"Calendar Year (Jan - Dec), 2019",Patiala,Thapar Institute of Engineering and Technology,IR-O-I-1480,27,49.27
+India,Rajasthan,"Calendar Year (Jan - Dec), 2019",Banasthali,Banasthali Vidyapith,IR-O-U-0389,61,43.22
+India,Rajasthan,"Calendar Year (Jan - Dec), 2019",Pilani,Birla Institute of Technology and Science,IR-O-U-0391,23,50.53
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2019",Chennai,Anna University,IR-O-U-0439,7,60.35
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2019",Chennai,Bharath Institute of Higher Education and Research,IR-O-U-0446,36,46.32
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2019",Chennai,Meenakshi Academy of Higher Education and Research,IR-O-U-0465,100,38.45
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2019",Chennai,SRM Institute of Science and Technology,IR-O-U-0473,32,47.8
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2019",Chennai,Sathyabama Institute of Science and Technology,IR-O-U-0474,41,45.58
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2019",Chennai,Saveetha Institute of Medical and Technical Sciences,IR-O-I-1441,43,45.42
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2019",Chennai,Sri Ramachandra Institute of Higher Education and Research,IR-O-I-1486,33,47.34
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2019",Chennai,Tamil Nadu Veterinary and Animal Sciences University,IR-O-U-0487,70,40.88
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2019",Chennai,University of Madras,IR-O-I-1357,20,51.34
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2019",Coimbatore,Amrita Vishwa Vidyapeetham,IR-O-U-0436,8,59.22
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2019",Coimbatore,Bharathiar University,IR-O-U-0447,14,57.23
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2019",Coimbatore,Karunya Institute of Technology and Sciences,IR-O-U-0460,92,38.79
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2019",Coimbatore,Tamil Nadu Agricultural University,IR-O-U-0485,44,45.41
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2019",Gandhigram,The Gandhigram Rural Institute,IR-O-U-0453,75,40.42
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2019",Karaikudi,Alagappa University,IR-O-U-0435,28,48.54
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2019",Madurai,Madurai Kamaraj University,IR-O-U-0463,45,45.2
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2019",Salem,Periyar University,IR-O-U-0470,68,40.99
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2019",Thanjavur,Shanmugha Arts Science Technology and Research Academy,IR-O-U-0476,40,45.8
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2019",Tiruchirappalli,Bharathidasan University,IR-O-U-0448,60,43.41
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2019",Tirunelveli,Manonmaniam Sundaranar University,IR-O-U-0464,93,38.76
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2019",Vellore,Vellore Institute of Technology,IR-O-U-0490,19,51.44
+India,Telangana,"Calendar Year (Jan - Dec), 2019",Hyderabad,International Institute of Information Technology Hyderabad,IR-O-U-0014,82,39.97
+India,Telangana,"Calendar Year (Jan - Dec), 2019",Hyderabad,Osmania University,IR-O-U-0027,26,49.86
+India,Telangana,"Calendar Year (Jan - Dec), 2019",Hyderabad,Professor Jayashankar Telangana State Agricultural University,IR-O-U-0784,79,40.17
+India,Telangana,"Calendar Year (Jan - Dec), 2019",Hyderabad,University of Hyderabad,IR-O-U-0042,4,61.85
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2019",Agra,Dayalbagh Educational Institute,IR-O-U-0507,77,40.24
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2019",Aligarh,Aligarh Muslim University,IR-O-U-0496,11,58.36
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2019",Dadri,Shiv Nadar University,IR-O-U-0642,52,44.45
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2019",Gautam Budh Nagar,Amity University,IR-O-U-0497,58,43.53
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2019",Lucknow,King George's Medical University,IR-O-U-0523,25,49.91
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2019",Varanasi,Banaras Hindu University,IR-O-U-0500,3,64.55
+India,Uttarakhand,"Calendar Year (Jan - Dec), 2019",Pantnagar,G. B. Pant University of Agriculture and Technology,IR-O-U-0554,38,46.09
+India,West Bengal,"Calendar Year (Jan - Dec), 2019",Bardhaman,The University of Burdwan,IR-O-U-0569,89,38.98
+India,West Bengal,"Calendar Year (Jan - Dec), 2019",Kalyani,Kalyani University,IR-O-U-0576,91,38.85
+India,West Bengal,"Calendar Year (Jan - Dec), 2019",Kolkata,Calcutta University,IR-O-U-0570,5,60.87
+India,West Bengal,"Calendar Year (Jan - Dec), 2019",Kolkata,Jadavpur University,IR-O-U-0575,6,60.53
+India,West Bengal,"Calendar Year (Jan - Dec), 2019",Santiniketan,Visva Bharati,IR-O-U-0589,37,46.27
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2018",Anantapur,Sri Sathya Sai Institute of Higher Learning,IR-1-O-O-U-0035,92,38.53
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2018",Tirupati,Sri Venkateswara Institute of Medical Sciences,IR-1-O-D-U-0036,62,42.33
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2018",Tirupati,Sri Venkateswara University,IR-2-O-OE-U-0037,49,43.44
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2018",Vaddeswaram,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),IR-2-O-EM-U-0020,56,42.78
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2018",Visakhapatnam,Andhra University,IR-6-O-OEMALP-U-0006,22,50.39
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2018",Visakhapatnam,Gandhi Institute of Technology and Management,IR-1-O-O-U-0011,85,39.02
+India,Assam,"Calendar Year (Jan - Dec), 2018",Dibrugarh,Dibrugarh University,IR-1-O-O-U-0051,84,39.13
+India,Assam,"Calendar Year (Jan - Dec), 2018",Guwahati,Gauhati University,IR-1-O-O-U-0052,39,45.44
+India,Assam,"Calendar Year (Jan - Dec), 2018",Silchar,Assam University,IR-1-O-O-U-0050,87,38.79
+India,Assam,"Calendar Year (Jan - Dec), 2018",Tezpur,Tezpur University,IR-1-O-O-U-0056,29,48
+India,Chandigarh,"Calendar Year (Jan - Dec), 2018",Chandigarh,Panjab University,IR-6-O-OEMLDP-U-0078,20,50.94
+India,Delhi,"Calendar Year (Jan - Dec), 2018",Delhi,Delhi Technological University,IR-2-O-OE-U-0098,70,40.52
+India,Delhi,"Calendar Year (Jan - Dec), 2018",Delhi,Guru Gobind Singh Indraprastha University,IR-5-O-OEMAL-U-0099,74,40.05
+India,Delhi,"Calendar Year (Jan - Dec), 2018",Delhi,Jamia Hamdard,IR-5-O-OEMDP-U-0107,23,50.31
+India,Delhi,"Calendar Year (Jan - Dec), 2018",Delhi,Jamia Millia Islamia,IR-5-O-OEMAL-U-0108,12,56.18
+India,Delhi,"Calendar Year (Jan - Dec), 2018",Delhi,Jawaharlal Nehru University,IR-1-O-O-U-0109,2,67.57
+India,Delhi,"Calendar Year (Jan - Dec), 2018",Delhi,University of Delhi,IR-1-O-O-U-0120,7,58.69
+India,Goa,"Calendar Year (Jan - Dec), 2018",Goa,Goa University,IR-1-O-O-U-0121,68,40.66
+India,Gujarat,"Calendar Year (Jan - Dec), 2018",Ahmedabad,Nirma University,IR-1-O-O-U-0146,94,38.15
+India,Gujarat,"Calendar Year (Jan - Dec), 2018",Anand,Anand Agricultural University,IR-1-O-O-U-0123,83,39.21
+India,Haryana,"Calendar Year (Jan - Dec), 2018",Hisar,Chaudhary Charan Singh Haryana Agricultural University,IR-1-O-O-U-0159,50,43.21
+India,Haryana,"Calendar Year (Jan - Dec), 2018",Kurukshetra,Kurukshetra University,IR-5-O-OEMLP-U-0164,80,39.45
+India,Haryana,"Calendar Year (Jan - Dec), 2018",Rohtak,Maharshi Dayanand University,IR-1-O-O-I-1280,76,39.87
+India,Himachal Pradesh,"Calendar Year (Jan - Dec), 2018",Solan,Dr. Y. S. Parmar University of Horticulture and Forestry,IR-1-O-O-U-0181,71,40.3
+India,Jammu and Kashmir,"Calendar Year (Jan - Dec), 2018",Jammu,University of Jammu,IR-3-O-OML-U-0195,51,42.24529909
+India,Jammu and Kashmir,"Calendar Year (Jan - Dec), 2018",Srinagar,University of Kashmir,IR-1-O-O-U-0196,47,42.99845677
+India,Jharkhand,"Calendar Year (Jan - Dec), 2018",Ranchi,Birla Institute of Technology,IR-5-O-OEMAP-U-0202,43,44.71
+India,Karnataka,"Calendar Year (Jan - Dec), 2018",Belagavi,KLE Academy of Higher Education and Research,IR-1-O-O-U-0225,57,42.76
+India,Karnataka,"Calendar Year (Jan - Dec), 2018",Bengaluru,Indian Institute of Science,IR-1-O-O-U-0220,1,82.16
+India,Karnataka,"Calendar Year (Jan - Dec), 2018",Bengaluru,PES University,IR-3-O-OEM-U-0733,99,37.51
+India,Karnataka,"Calendar Year (Jan - Dec), 2018",Dharwad,University of Agricultural Sciences,IR-1-O-O-U-0246,58,42.55
+India,Karnataka,"Calendar Year (Jan - Dec), 2018",Mangaluru,Nitte (Deemed to be University),IR-1-O-O-U-0239,77,39.7
+India,Karnataka,"Calendar Year (Jan - Dec), 2018",Mangaluru,Yenepoya University,IR-2-O-OD-U-0250,92,38.53
+India,Karnataka,"Calendar Year (Jan - Dec), 2018",Manipal,Manipal Academy of Higher Education,IR-1-O-O-U-0234,11,57.37
+India,Karnataka,"Calendar Year (Jan - Dec), 2018",Mysuru,JSS Academy of Higher Education and Research,IR-2-O-OP-U-0222,37,45.76
+India,Karnataka,"Calendar Year (Jan - Dec), 2018",Shivamogga,Kuvempu University,IR-1-O-O-U-0232,78,39.68
+India,Kerala,"Calendar Year (Jan - Dec), 2018",Kochi,Cochin University of Science and Technology,IR-1-O-O-U-0253,69,40.53
+India,Kerala,"Calendar Year (Jan - Dec), 2018",Kottayam,Mahatma Gandhi University,IR-1-O-O-U-0262,34,46.56
+India,Kerala,"Calendar Year (Jan - Dec), 2018",Malappuram,Calcutta University,IR-1-O-O-U-0251,73,40.06
+India,Kerala,"Calendar Year (Jan - Dec), 2018",Thiruvananthapuram,Kerala University,IR-1-O-O-U-0260,30,47.72
+India,Ladakh,"Calendar Year (Jan - Dec), 2018",Jammu,University of Jammu,IR-3-O-OML-U-0195,51,0.944700914
+India,Ladakh,"Calendar Year (Jan - Dec), 2018",Srinagar,University of Kashmir,IR-1-O-O-U-0196,47,0.961543232
+India,Maharashtra,"Calendar Year (Jan - Dec), 2018",Kolhapur,D. Y. Patil Educational Society,IR-1-O-D-U-0294,97,37.61
+India,Maharashtra,"Calendar Year (Jan - Dec), 2018",Mumbai,Homi Bhabha National Institute,IR-1-O-O-U-0304,26,48.98
+India,Maharashtra,"Calendar Year (Jan - Dec), 2018",Mumbai,Institute of Chemical Technology,IR-3-O-OEP-U-0308,19,51.39
+India,Maharashtra,"Calendar Year (Jan - Dec), 2018",Mumbai,SVKM's Narsee Monjee Institute of Management Studies,IR-6-O-OEMAPC-N-10,55,42.8
+India,Maharashtra,"Calendar Year (Jan - Dec), 2018",Mumbai,Tata Institute of Social Sciences,IR-1-O-O-U-0331,32,47.46
+India,Maharashtra,"Calendar Year (Jan - Dec), 2018",Pune,Bharati Vidyapeeth,IR-1-O-O-I-1361,66,41.71
+India,Maharashtra,"Calendar Year (Jan - Dec), 2018",Pune,Dr. D. Y. Patil Vidyapeeth,IR-2-O-OD-I-1110,52,43.15
+India,Maharashtra,"Calendar Year (Jan - Dec), 2018",Pune,Savitribai Phule Pune University,IR-1-O-O-U-0323,9,58.24
+India,Maharashtra,"Calendar Year (Jan - Dec), 2018",Pune,Symbiosis International,IR-1-O-O-U-0329,44,44.62
+India,Meghalaya,"Calendar Year (Jan - Dec), 2018",Shillong,North Eastern Hill University,IR-1-O-O-U-0341,61,42.34
+India,Mizoram,"Calendar Year (Jan - Dec), 2018",Aizawl,Mizoram University,IR-1-O-O-U-0345,81,39.36
+India,Nagaland,"Calendar Year (Jan - Dec), 2018",Zunheboto,Nagaland University,IR-1-O-O-U-0347,95,38.14
+India,Odisha,"Calendar Year (Jan - Dec), 2018",Bhubaneswar,Kalinga Institute of Industrial Technology,IR-5-O-OEMLD-U-0356,42,44.81
+India,Odisha,"Calendar Year (Jan - Dec), 2018",Bhubaneswar,Siksha 'O' Anusandhan,IR-2-O-OD-U-0363,24,49.59
+India,Odisha,"Calendar Year (Jan - Dec), 2018",Khordha,Orissa University of Agriculture and Technology,IR-1-O-O-U-0360,91,38.55
+India,Puducherry,"Calendar Year (Jan - Dec), 2018",Puducherry,Pondicherry University,IR-3-O-OEM-U-0369,59,42.36
+India,Puducherry,"Calendar Year (Jan - Dec), 2018",Puducherry,Sri Balaji Vidyapeeth Mahatma Gandhi Medical College Campus,IR-1-O-D-U-0370,72,40.25
+India,Punjab,"Calendar Year (Jan - Dec), 2018",Amritsar,Guru Nanak Dev University,IR-1-O-O-U-0376,59,42.36
+India,Punjab,"Calendar Year (Jan - Dec), 2018",Ludhiana,Punjab Agricultural University,IR-1-O-O-U-0381,38,45.56
+India,Punjab,"Calendar Year (Jan - Dec), 2018",Patiala,Thapar Institute of Engineering and Technology,IR-2-O-EM-I-1480,33,47.11
+India,Rajasthan,"Calendar Year (Jan - Dec), 2018",Banasthali,Banasthali Vidyapith,IR-4-O-OEMP-U-0389,64,41.88
+India,Rajasthan,"Calendar Year (Jan - Dec), 2018",Pilani,Birla Institute of Technology and Science,IR-3-O-OEP-U-0391,17,52.15
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2018",Chennai,Anna University,IR-4-O-OEMA-U-0439,4,62.82
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2018",Chennai,Bharath Institute of Higher Education and Research,IR-1-O-O-U-0446,21,50.74
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2018",Chennai,Meenakshi Academy of Higher Education and Research,IR-2-O-OD-U-0465,88,38.7
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2018",Chennai,SRM Institute of Science and Technology,IR-5-O-OEMDP-U-0473,41,45.17
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2018",Chennai,Sathyabama Institute of Science and Technology,IR-4-O-OEMA-U-0474,45,44.34
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2018",Chennai,Saveetha Institute of Medical and Technical Sciences,IR-2-O-OD-I-1441,46,44
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2018",Chennai,Sri Ramachandra Medical College and Research Institute,IR-3-O-ODP-I-1486,40,45.29
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2018",Chennai,Tamil Nadu Veterinary and Animal Sciences University,IR-1-O-O-U-0487,65,41.73
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2018",Chennai,University of Madras,IR-1-O-O-I-1357,18,51.52
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2018",Coimbatore,Amrita Vishwa Vidyapeetham,IR-1-O-O-U-0436,8,58.46
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2018",Coimbatore,Bharathiar University,IR-1-O-C-U-0447,13,55.08
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2018",Coimbatore,Karunya Institute of Technology and Sciences,IR-3-O-OEM-U-0460,89,38.61
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2018",Coimbatore,Tamil Nadu Agricultural University,IR-1-O-O-U-0485,25,49.22
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2018",Gandhigram,The Gandhigram Rural Institute,IR-1-O-O-U-0453,79,39.5
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2018",Karaikudi,Alagappa University,IR-1-O-C-U-0435,27,48.25
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2018",Madurai,Madurai Kamaraj University,IR-1-O-O-U-0463,54,42.98
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2018",Salem,Periyar University,IR-1-O-O-U-0470,90,38.58
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2018",Thanjavur,Shanmugha Arts Science Technology and Research Academy,IR-4-O-OEML-U-0476,36,46.33
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2018",Tiruchirappalli,Bharathidasan University,IR-1-O-O-U-0448,67,41.63
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2018",Vellore,Vellore Institute of Technology,IR-3-O-OEM-U-0490,16,52.68
+India,Telangana,"Calendar Year (Jan - Dec), 2018",Hyderabad,International Institute of Information Technology Hyderabad,IR-1-O-E-U-0014,98,37.52
+India,Telangana,"Calendar Year (Jan - Dec), 2018",Hyderabad,Osmania University,IR-1-O-O-U-0027,28,48.02
+India,Telangana,"Calendar Year (Jan - Dec), 2018",Hyderabad,Professor Jayashankar Telangana State Agricultural University,IR-1-O-O-U-0784,82,39.3
+India,Telangana,"Calendar Year (Jan - Dec), 2018",Hyderabad,University of Hyderabad,IR-1-O-O-U-0042,5,60.54
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2018",Agra,Dayalbagh Educational Institute,IR-2-O-OE-U-0507,63,41.95
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2018",Aligarh,Aligarh Muslim University,IR-7-O-OEMALDC-U-0496,10,57.78
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2018",Chithera,Shiv Nadar University,IR-1-O-O-U-0642,48,43.68
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2018",Gautam Budh Nagar,Amity University,IR-6-O-OEMALP-U-0497,53,42.99
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2018",Lucknow,King George's Medical University,IR-1-O-D-U-0523,15,52.73
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2018",Noida,Jaypee Institute of Information Technology,IR-2-O-OE-U-0522,100,37.47
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2018",Varanasi,Banaras Hindu University,IR-3-O-OMD-U-0500,3,63.52
+India,Uttarakhand,"Calendar Year (Jan - Dec), 2018",Pantnagar,G. B. Pant University of Agriculture and Technology,IR-1-O-O-U-0554,34,46.56
+India,West Bengal,"Calendar Year (Jan - Dec), 2018",Bardhaman,The University of Burdwan,IR-1-O-O-U-0569,96,37.68
+India,West Bengal,"Calendar Year (Jan - Dec), 2018",Kalyani,Kalyani University,IR-1-O-O-U-0576,86,38.87
+India,West Bengal,"Calendar Year (Jan - Dec), 2018",Kolkata,Calcutta University,IR-1-O-O-U-0570,14,53.38
+India,West Bengal,"Calendar Year (Jan - Dec), 2018",Kolkata,Jadavpur University,IR-2-O-OE-U-0575,6,59.68
+India,West Bengal,"Calendar Year (Jan - Dec), 2018",Kolkata,Visva Bharati,IR-1-O-O-U-0589,31,47.62
+India,West Bengal,"Calendar Year (Jan - Dec), 2018",Nadia,Bidhan Chandra Krishi Vishwavidyalaya,IR-1-O-O-U-0568,75,39.98
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2017",Anantapur,Sri Krishnadevaraya University,IR17-I-2-1-N001,96,33.76
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2017",Anantapur,Sri Sathya Sai Institute of Higher Learning,IR17-I-2-1-663,69,36.75
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2017",Kakinada,Jawaharlal Nehru Technological University,IR17-I-1-18289,99,33.44
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2017",Tirupati,Sri Venkateswara University,IR17-I-2-1-668,42,41.48
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2017",Tirupati,Sri Venkateswara Veterinary University,IR17-I-2-1-670,78,35.92
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2017",Visakhapatnam,Andhra University,IR17-I-2-1-31,43,41.38
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2017",Visakhapatnam,Gandhi Institute of Technology and Management,IR17-I-2-1-2812182676,89,35.09
+India,Arunachal Pradesh,"Calendar Year (Jan - Dec), 2017",Rono Hills,Rajiv Gandhi University,IR17-I-2-18449,76,36.15
+India,Assam,"Calendar Year (Jan - Dec), 2017",Dibrugarh,Dibrugarh University,IR17-I-2-1-159,74,36.28
+India,Assam,"Calendar Year (Jan - Dec), 2017",Guwahati,Gauhati University,IR17-I-2-30702,27,44.42
+India,Assam,"Calendar Year (Jan - Dec), 2017",Silchar,Assam University,IR17-I-2-277952,92,34.38
+India,Assam,"Calendar Year (Jan - Dec), 2017",Tezpur,Tezpur University,IR17-I-2-10563,30,43.78
+India,Chandigarh,"Calendar Year (Jan - Dec), 2017",Chandigarh,Panjab University,IR17-I-2-1-2814248400,33,43.13
+India,Delhi,"Calendar Year (Jan - Dec), 2017",Delhi,Indian Agricultural Research Institute,IR17-I-2-1-243,15,51.2
+India,Delhi,"Calendar Year (Jan - Dec), 2017",Delhi,Jamia Hamdard,IR17-I-2-17784,26,44.84
+India,Delhi,"Calendar Year (Jan - Dec), 2017",Delhi,Jamia Millia Islamia,IR17-I-2-1-2814289415,12,51.75
+India,Delhi,"Calendar Year (Jan - Dec), 2017",Delhi,Jawaharlal Nehru University,IR17-I-2-1-319,2,61.53
+India,Delhi,"Calendar Year (Jan - Dec), 2017",Delhi,University of Delhi,IR17-I-2-18552,8,55.37
+India,Delhi,"Calendar Year (Jan - Dec), 2017",Dwarka,Guru Gobind Singh Indraprastha University,IR17-I-2-12969,82,35.6
+India,Goa,"Calendar Year (Jan - Dec), 2017",Goa,Goa University,IR17-I-2-18200,64,37.16
+India,Gujarat,"Calendar Year (Jan - Dec), 2017",Ahmedabad,Nirma University,IR17-I-2-18406,75,36.21
+India,Gujarat,"Calendar Year (Jan - Dec), 2017",Anand,Anand Agricultural University,IR17-I-2-18276,40,42.26
+India,Haryana,"Calendar Year (Jan - Dec), 2017",Kurukshetra,Kurukshetra University,IR17-I-2-1-373,59,38.26
+India,Himachal Pradesh,"Calendar Year (Jan - Dec), 2017",Solan,Dr. Y. S. Parmar University of Horticulture and Forestry,IR17-I-2-1-178,51,39.54
+India,Himachal Pradesh,"Calendar Year (Jan - Dec), 2017",Solan,Jaypee University of Information Technology,IR17-I-2-18296,93,34.14
+India,Jammu and Kashmir,"Calendar Year (Jan - Dec), 2017",Jammu,University of Jammu,IR17-I-2-1-2809340824,63,36.415663
+India,Jammu and Kashmir,"Calendar Year (Jan - Dec), 2017",Srinagar,University of Kashmir,IR17-I-2-1-351,73,35.52556756
+India,Karnataka,"Calendar Year (Jan - Dec), 2017",Belagavi,KLE Academy of Higher Education and Research,IR17-I-2-1-N002,62,37.25
+India,Karnataka,"Calendar Year (Jan - Dec), 2017",Bengaluru,Indian Institute of Science,IR17-I-2-18243,1,83.28
+India,Karnataka,"Calendar Year (Jan - Dec), 2017",Bengaluru,Jawaharlal Nehru Centre for Advanced Scientific Research,IR17-I-2-30673,4,58.25
+India,Karnataka,"Calendar Year (Jan - Dec), 2017",Bengaluru,PES University,IR17-I-2-1-541,94,33.94
+India,Karnataka,"Calendar Year (Jan - Dec), 2017",Mangaluru,Nitte (Deemed to be University),IR17-I-2-18407,83,35.5
+India,Karnataka,"Calendar Year (Jan - Dec), 2017",Manipal,Manipal Academy of Higher Education,IR17-I-2-18364,18,48.27
+India,Karnataka,"Calendar Year (Jan - Dec), 2017",Mysuru,Jagadguru Sri Shivarathreeshwara University,IR17-I-2-1-299,45,41.18
+India,Karnataka,"Calendar Year (Jan - Dec), 2017",Mysuru,Mysore University,IR17-I-2-1-457,36,42.83
+India,Kerala,"Calendar Year (Jan - Dec), 2017",Kochi,Cochin University of Science and Technology,IR17-I-2-18161,86,35.42
+India,Kerala,"Calendar Year (Jan - Dec), 2017",Kottayam,Mahatma Gandhi University,IR17-I-2-18356,67,36.79
+India,Kerala,"Calendar Year (Jan - Dec), 2017",Kozhikode,Calcutta University,IR17-I-2-18607,57,38.45
+India,Kerala,"Calendar Year (Jan - Dec), 2017",Thiruvananthapuram,Indian Institute of Space Science and Technology,IR17-I-1-1-249,35,43.06
+India,Kerala,"Calendar Year (Jan - Dec), 2017",Thiruvananthapuram,Kerala University,IR17-I-2-18317,29,43.95
+India,Ladakh,"Calendar Year (Jan - Dec), 2017",Jammu,University of Jammu,IR17-I-2-1-2809340824,63,0.814337
+India,Ladakh,"Calendar Year (Jan - Dec), 2017",Srinagar,University of Kashmir,IR17-I-2-1-351,73,0.794432443
+India,Maharashtra,"Calendar Year (Jan - Dec), 2017",Mumbai,Homi Bhabha National Institute,IR17-I-2-18230,21,46.45
+India,Maharashtra,"Calendar Year (Jan - Dec), 2017",Mumbai,Institute of Chemical Technology,IR17-I-2-18261,25,44.95
+India,Maharashtra,"Calendar Year (Jan - Dec), 2017",Mumbai,Narsee Monjee Institute of Management Studies,IR17-I-2-18385,98,33.6
+India,Maharashtra,"Calendar Year (Jan - Dec), 2017",Mumbai,Tata Institute of Social Sciences,IR17-I-1-700,31,43.71
+India,Maharashtra,"Calendar Year (Jan - Dec), 2017",Pune,Bharati Vidyapeeth,IR17-I-2-18580,54,38.73
+India,Maharashtra,"Calendar Year (Jan - Dec), 2017",Pune,Dr. D. Y. Patil Vidyapeeth,IR17-I-2-30671,47,40.59
+India,Maharashtra,"Calendar Year (Jan - Dec), 2017",Pune,Savitribai Phule Pune University,IR17-I-2-1-618,10,52.81
+India,Maharashtra,"Calendar Year (Jan - Dec), 2017",Pune,Symbiosis International,IR17-I-2-21078,61,37.67
+India,Meghalaya,"Calendar Year (Jan - Dec), 2017",Shillong,North Eastern Hill University,IR17-I-2-18409,48,40.51
+India,Mizoram,"Calendar Year (Jan - Dec), 2017",Aizawl,Mizoram University,IR17-I-2-1-448,58,38.36
+India,Odisha,"Calendar Year (Jan - Dec), 2017",Bhubaneswar,Kalinga Institute of Industrial Technology,IR17-I-2-1-336,49,40.47
+India,Odisha,"Calendar Year (Jan - Dec), 2017",Bhubaneswar,Siksha 'O' Anusandhan,IR17-I-2-1-624,20,46.72
+India,Puducherry,"Calendar Year (Jan - Dec), 2017",Puducherry,Pondicherry University,IR17-I-2-18424,37,42.7
+India,Puducherry,"Calendar Year (Jan - Dec), 2017",Puducherry,Sri Balaji Vidyapeeth Mahatma Gandhi Medical College Campus,IR17-I-2-1-653,83,35.5
+India,Punjab,"Calendar Year (Jan - Dec), 2017",Amritsar,Guru Nanak Dev University,IR17-I-2-18110,80,35.83
+India,Punjab,"Calendar Year (Jan - Dec), 2017",Ludhiana,Guru Angad Dev Veterinary and Animal Sciences University,IR17-I-2-18214,50,40.1
+India,Punjab,"Calendar Year (Jan - Dec), 2017",Ludhiana,Punjab Agricultural University,IR17-I-1-30713,24,44.99
+India,Punjab,"Calendar Year (Jan - Dec), 2017",Patiala,Thapar University,IR17-I-2-1-2813959492,46,40.78
+India,Rajasthan,"Calendar Year (Jan - Dec), 2017",Banasthali,Banasthali Vidyapith,IR17-I-2-18508,53,38.74
+India,Rajasthan,"Calendar Year (Jan - Dec), 2017",Bikaner,Rajasthan University of Veterinary and Animal Sciences,IR17-I-2-18446,68,36.78
+India,Rajasthan,"Calendar Year (Jan - Dec), 2017",Jaipur,Rajasthan University,IR17-I-2-1-570,79,35.85
+India,Rajasthan,"Calendar Year (Jan - Dec), 2017",Pilani,Birla Institute of Technology and Science,IR17-I-2-18599,13,51.46
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2017",Annamalainagar,Annamalai University,IR17-I-2-1-33,56,38.59
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2017",Chennai,Anna University,IR17-I-2-18292,6,56.5
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2017",Chennai,B. S. Abdur Rahman Institute of Science and Technology,IR17-I-2-1-57,100,32.99
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2017",Chennai,Bharath Institute of Higher Education and Research,IR17-I-2-18559,21,46.45
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2017",Chennai,Meenakshi Academy of Higher Education and Research,IR17-I-2-1-445,70,36.47
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2017",Chennai,SRM Institute of Science and Technology,IR17-I-2-1-596,34,43.07
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2017",Chennai,Sathyabama Institute of Science and Technology,IR17-I-2-18472,44,41.3
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2017",Chennai,Saveetha Institute of Medical and Technical Sciences,IR17-I-2-18474,55,38.68
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2017",Chennai,Sri Ramachandra University,IR17-I-2-1-661,39,42.46
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2017",Chennai,Tamil Nadu Veterinary and Animal Sciences University,IR17-I-2-1-697,38,42.48
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2017",Chennai,University of Madras,IR17-I-2-18341,41,41.85
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2017",Chennai,Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology,IR17-I-2-1-11112,65,37.13
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2017",Coimbatore,Amrita Vishwa Vidyapeetham,IR17-I-2-18267,9,54.7
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2017",Coimbatore,Bharathiar University,IR17-I-2-18567,28,44.29
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2017",Coimbatore,Karpagam Academy of Higher Education,IR17-I-2-18311,90,34.86
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2017",Coimbatore,Karunya Institute of Technology and Sciences,IR17-I-2-18312,71,36.44
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2017",Coimbatore,Tamil Nadu Agricultural University,IR17-I-2-15598,17,48.84
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2017",Gandhigram,The Gandhigram Rural Institute,IR17-I-2-12265,91,34.56
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2017",Karaikudi,Alagappa University,IR17-I-2-18168,97,33.66
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2017",Madurai,Madurai Kamaraj University,IR17-I-2-18342,77,36.04
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2017",Salem,Periyar University,IR17-I-2-18422,85,35.44
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2017",Thanjavur,Shanmugha Arts Science Technology and Research Academy,IR17-I-2-18477,32,43.5
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2017",Tiruchirappalli,Bharathidasan University,IR17-I-2-30492,88,35.14
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2017",Vellore,Vellore Institute of Technology,IR17-I-2-18572,14,51.36
+India,Telangana,"Calendar Year (Jan - Dec), 2017",Hyderabad,Osmania University,IR17-I-2-18414,23,45.52
+India,Telangana,"Calendar Year (Jan - Dec), 2017",Hyderabad,University of Hyderabad,IR17-I-2-1-2813521158,7,56.3
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2017",Agra,Dayalbagh Educational Institute,IR17-I-2-1-2812766280,72,36.36
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2017",Aligarh,Aligarh Muslim University,IR17-I-2-18189,11,52.74
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2017",Chithera,Shiv Nadar University,IR17-I-2-10933,60,37.95
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2017",Gautam Budh Nagar,Amity University,IR17-I-2-18259,52,39.17
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2017",Noida,Jaypee Institute of Information Technology,IR17-I-2-1-321,81,35.69
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2017",Prayagraj,University of Allahabad (Prayagraj),IR17-I-2-18551,95,33.86
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2017",Varanasi,Banaras Hindu University,IR17-I-2-18500,3,58.92
+India,West Bengal,"Calendar Year (Jan - Dec), 2017",Kalyani,Kalyani University,IR17-I-2-18305,66,36.84
+India,West Bengal,"Calendar Year (Jan - Dec), 2017",Kolkata,Calcutta University,IR17-I-2-18606,16,48.9
+India,West Bengal,"Calendar Year (Jan - Dec), 2017",Kolkata,Jadavpur University,IR17-I-2-10326,5,57.32
+India,West Bengal,"Calendar Year (Jan - Dec), 2017",Kolkata,Visva Bharati,IR17-I-2-18581,19,48.19
+India,West Bengal,"Calendar Year (Jan - Dec), 2017",Midnapore,Vidyasagar University,IR17-I-2-15640,87,35.23
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2016",Kadapa,Yogi Vemana University,NIRF-UNIV-792,92,49.11
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2016",Kakinada,Jawaharlal Nehru Technological University,NIRF-UNIV-317,69,54.71
+India,Andhra Pradesh,"Calendar Year (Jan - Dec), 2016",Tirupati,Sri Venkateswara University,NIRF-UNIV-668,63,55.93
+India,Assam,"Calendar Year (Jan - Dec), 2016",Dibrugarh,Dibrugarh University,NIRF-UNIV-159,74,53.89
+India,Assam,"Calendar Year (Jan - Dec), 2016",Guwahati,Gauhati University,NIRF-UNIV-194,22,68.58
+India,Assam,"Calendar Year (Jan - Dec), 2016",Silchar,Assam University,NIRF-UNIV-47,77,53.13
+India,Assam,"Calendar Year (Jan - Dec), 2016",Tezpur,Tezpur University,NIRF-UNIV-708,5,84.31
+India,Bihar,"Calendar Year (Jan - Dec), 2016",Patna,Central University of South Bihar,NIRF-UNIV-112,94,48.89
+India,Chandigarh,"Calendar Year (Jan - Dec), 2016",Chandigarh,Panjab University,NIRF-UNIV-558,12,76.02
+India,Chhattisgarh,"Calendar Year (Jan - Dec), 2016",Raipur,Pt. Ravishankar Shukla University,NIRF-UNIV-554,46,61.09
+India,Delhi,"Calendar Year (Jan - Dec), 2016",Delhi,Ambedkar University Delhi (AUD),NIRF-UNIV-21,96,47.83
+India,Delhi,"Calendar Year (Jan - Dec), 2016",Delhi,Guru Gobind Singh Indraprastha University,NIRF-UNIV-215,21,69.65
+India,Delhi,"Calendar Year (Jan - Dec), 2016",Delhi,Indian Institute of Foreign Trade (IIFT),NIRF-UNIV-242,81,51.82
+India,Delhi,"Calendar Year (Jan - Dec), 2016",Delhi,Indian Law Institute,NIRF-UNIV-265,99,47.19
+India,Delhi,"Calendar Year (Jan - Dec), 2016",Delhi,Indraprastha Institute of Information Technology,NIRF-UNIV-276,56,58.62
+India,Delhi,"Calendar Year (Jan - Dec), 2016",Delhi,Institute of Liver and Biliary Sciences,NIRF-UNIV-283,27,66.65
+India,Delhi,"Calendar Year (Jan - Dec), 2016",Delhi,Jamia Hamdard,NIRF-UNIV-309,18,71.44
+India,Delhi,"Calendar Year (Jan - Dec), 2016",Delhi,Jamia Millia Islamia,NIRF-UNIV-310,83,51.51
+India,Delhi,"Calendar Year (Jan - Dec), 2016",Delhi,Jawaharlal Nehru University,NIRF-UNIV-319,3,86.45
+India,Delhi,"Calendar Year (Jan - Dec), 2016",Delhi,National Law University,NIRF-UNIV-497,71,54.17
+India,Delhi,"Calendar Year (Jan - Dec), 2016",Delhi,TERI School of Advanced Studies,NIRF-UNIV-707,70,54.46
+India,Delhi,"Calendar Year (Jan - Dec), 2016",Delhi,University of Delhi,NIRF-UNIV-741,6,83.19
+India,Goa,"Calendar Year (Jan - Dec), 2016",Goa,Goa University,NIRF-UNIV-199,20,69.9
+India,Gujarat,"Calendar Year (Jan - Dec), 2016",Ahmedabad,Gujarat University,NIRF-UNIV-210,73,54.01
+India,Gujarat,"Calendar Year (Jan - Dec), 2016",Gandhinagar,Central University of Gujarat,NIRF-UNIV-101,60,57.14
+India,Gujarat,"Calendar Year (Jan - Dec), 2016",Gandhinagar,Pandit Deendayal Petroleum University,NIRF-UNIV-534,55,58.67
+India,Gujarat,"Calendar Year (Jan - Dec), 2016",Vadodara,Maharaja Sayajirao University of Baroda,NIRF-UNIV-405,76,53.14
+India,Haryana,"Calendar Year (Jan - Dec), 2016",Gurugram,The Northcap University,NIRF-UNIV-721,82,51.63
+India,Haryana,"Calendar Year (Jan - Dec), 2016",Hisar,Guru Jambheshwar University of Science and Technology,NIRF-UNIV-216,24,67.46
+India,Haryana,"Calendar Year (Jan - Dec), 2016",Rohtak,Maharshi Dayanand University,NIRF-UNIV-409,44,61.31
+India,Haryana,"Calendar Year (Jan - Dec), 2016",Rohtak,Pt. Bhagwat Dayal Sharma University of Health Sciences,NIRF-UNIV-552,79,52.47
+India,Haryana,"Calendar Year (Jan - Dec), 2016",Sonepat,National Institute of Food Technology,NIRF-UNIV-467,50,60.44
+India,Himachal Pradesh,"Calendar Year (Jan - Dec), 2016",Solan,Jaypee University of Information Technology,NIRF-UNIV-324,37,64.21
+India,Himachal Pradesh,"Calendar Year (Jan - Dec), 2016",Solan,Shoolini University of Biotechnology and Management Sciences,NIRF-UNIV-629,66,55.49
+India,Jammu and Kashmir,"Calendar Year (Jan - Dec), 2016",Jammu,Jammu University,NIRF-UNIV-311,64,54.4816661
+India,Jammu and Kashmir,"Calendar Year (Jan - Dec), 2016",Katra,Shri Mata Vaishno Devi University,NIRF-UNIV-636,80,51.23428493
+India,Karnataka,"Calendar Year (Jan - Dec), 2016",Bengaluru,Indian Institute of Science,NIRF-UNIV-248,1,91.81
+India,Karnataka,"Calendar Year (Jan - Dec), 2016",Bengaluru,M. S. Ramaiah University of Applied Sciences,NIRF-UNIV-389,90,49.67
+India,Karnataka,"Calendar Year (Jan - Dec), 2016",Bengaluru,PES University,NIRF-UNIV-541,98,47.3
+India,Karnataka,"Calendar Year (Jan - Dec), 2016",Manipal,Manipal Academy of Higher Education,NIRF-UNIV-434,32,65.74
+India,Karnataka,"Calendar Year (Jan - Dec), 2016",Mysuru,Jagadguru Sri Shivarathreeshwara University,NIRF-UNIV-299,35,64.28
+India,Kerala,"Calendar Year (Jan - Dec), 2016",Kochi,Cochin University of Science and Technology,NIRF-UNIV-137,30,66.35
+India,Kerala,"Calendar Year (Jan - Dec), 2016",Thiruvananthapuram,Indian Institute of Space Science and Technology,NIRF-UNIV-249,8,78.82
+India,Ladakh,"Calendar Year (Jan - Dec), 2016",Jammu,Jammu University,NIRF-UNIV-311,64,1.218333895
+India,Ladakh,"Calendar Year (Jan - Dec), 2016",Katra,Shri Mata Vaishno Devi University,NIRF-UNIV-636,80,1.145715071
+India,Madhya Pradesh,"Calendar Year (Jan - Dec), 2016",Raghogarh,Jaypee University of Engineering and Technology,NIRF-UNIV-323,86,50.67
+India,Madhya Pradesh,"Calendar Year (Jan - Dec), 2016",Sagar,Dr. Harisingh Gour Vishwavidyalaya,NIRF-UNIV-172,39,63.69
+India,Maharashtra,"Calendar Year (Jan - Dec), 2016",Aurangabad,Dr. Babasaheb Ambedkar Marathwada University,NIRF-UNIV-166,87,50.07
+India,Maharashtra,"Calendar Year (Jan - Dec), 2016",Kolhapur,Shivaji University,NIRF-UNIV-626,28,66.53
+India,Maharashtra,"Calendar Year (Jan - Dec), 2016",Mumbai,Homi Bhabha National Institute,NIRF-UNIV-231,17,72.06
+India,Maharashtra,"Calendar Year (Jan - Dec), 2016",Mumbai,Institute of Chemical Technology,NIRF-UNIV-282,2,87.58
+India,Maharashtra,"Calendar Year (Jan - Dec), 2016",Mumbai,Narsee Monjee Institute of Management Studies,NIRF-UNIV-462,72,54.04
+India,Maharashtra,"Calendar Year (Jan - Dec), 2016",Pune,Institute of Armament Technology,NIRF-UNIV-285,38,64.05
+India,Maharashtra,"Calendar Year (Jan - Dec), 2016",Umavinagar,North Maharashtra University,NIRF-UNIV-521,59,57.28
+India,Meghalaya,"Calendar Year (Jan - Dec), 2016",Shillong,North Eastern Hill University,NIRF-UNIV-519,15,72.41
+India,Mizoram,"Calendar Year (Jan - Dec), 2016",Aizawl,Mizoram University,NIRF-UNIV-448,51,60.31
+India,Odisha,"Calendar Year (Jan - Dec), 2016",Bhubaneswar,Kalinga Institute of Industrial Technology,NIRF-UNIV-336,53,60.09
+India,Odisha,"Calendar Year (Jan - Dec), 2016",Bhubaneswar,Siksha 'O' Anusandhan,NIRF-UNIV-624,16A,72.25
+India,Puducherry,"Calendar Year (Jan - Dec), 2016",Puducherry,Pondicherry University,NIRF-UNIV-542,13,74.44
+India,Puducherry,"Calendar Year (Jan - Dec), 2016",Puducherry,Sri Balaji Vidyapeeth Mahatma Gandhi Medical College Campus,NIRF-UNIV-653,93,48.89
+India,Punjab,"Calendar Year (Jan - Dec), 2016",Amritsar,Guru Nanak Dev University,NIRF-UNIV-218,25,67.32
+India,Punjab,"Calendar Year (Jan - Dec), 2016",Bathinda,Central University of Punjab,NIRF-UNIV-110,65,55.62
+India,Punjab,"Calendar Year (Jan - Dec), 2016",Kapurthala,Punjab Technical University,NIRF-UNIV-557,54,60.06
+India,Rajasthan,"Calendar Year (Jan - Dec), 2016",Banasthali,Banasthali Vidyapith,NIRF-UNIV-67,29,66.37
+India,Rajasthan,"Calendar Year (Jan - Dec), 2016",Bandar Sindri,Central University of Rajasthan,NIRF-UNIV-111,34,64.49
+India,Rajasthan,"Calendar Year (Jan - Dec), 2016",Bikaner,Rajasthan University of Veterinary and Animal Sciences,NIRF-UNIV-573,97,47.65
+India,Rajasthan,"Calendar Year (Jan - Dec), 2016",Jaipur,LNM Institute of Information Technology,NIRF-UNIV-382,85,50.81
+India,Rajasthan,"Calendar Year (Jan - Dec), 2016",Kota,University of Kota,NIRF-UNIV-746,78,52.88
+India,Rajasthan,"Calendar Year (Jan - Dec), 2016",Pilani,Birla Institute of Technology and Science,NIRF-UNIV-86,9,76.85
+India,Rajasthan,"Calendar Year (Jan - Dec), 2016",Udaipur,Sir Padmapat Singhania University,NIRF-UNIV-646,95,48.2
+India,Sikkim,"Calendar Year (Jan - Dec), 2016",Gangtok,Sikkim University,NIRF-UNIV-644,61,57.08
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2016",Annamalainagar,Annamalai University,NIRF-UNIV-33,57,57.58
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2016",Chennai,Chettinad Academy of Research and Education,NIRF-UNIV-126,100,47.05
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2016",Chennai,SRM Institute of Science and Technology,NIRF-UNIV-596,43,62.29
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2016",Chennai,Sathyabama Institute of Science and Technology,NIRF-UNIV-615,42,62.46
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2016",Chennai,Sri Ramachandra Medical College and Research Institute,NIRF-UNIV-661,41A,62.53
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2016",Chennai,Tamil Nadu Veterinary and Animal Sciences University,NIRF-UNIV-697,36,64.23
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2016",Coimbatore,Amrita Vishwa Vidyapeetham,NIRF-UNIV-29,14A,74.02
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2016",Coimbatore,Bharathiar University,NIRF-UNIV-76,14,74.31
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2016",Coimbatore,Karunya Institute of Technology and Sciences,NIRF-UNIV-350,48,60.85
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2016",Coimbatore,Tamil Nadu Agricultural University,NIRF-UNIV-692,40,63.66
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2016",Kanyakumari,Noorul Islam Centre For Higher Education,NIRF-UNIV-516,75,53.42
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2016",Karaikudi,Alagappa University,NIRF-UNIV-15,49,60.63
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2016",Salem,Periyar University,NIRF-UNIV-540,47,60.99
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2016",Srivilliputtur,Kalasalingam Academy of Research and Education,NIRF-UNIV-335,52,60.27
+India,Tamil Nadu,"Calendar Year (Jan - Dec), 2016",Tiruvarur,Central University of Tamil Nadu,NIRF-UNIV-113,67,55.37
+India,Telangana,"Calendar Year (Jan - Dec), 2016",Hyderabad,International Institute of Information Technology Hyderabad,NIRF-UNIV-287,23,68.38
+India,Telangana,"Calendar Year (Jan - Dec), 2016",Hyderabad,Osmania University,NIRF-UNIV-529,33,65.4
+India,Telangana,"Calendar Year (Jan - Dec), 2016",Hyderabad,University of Hyderabad,NIRF-UNIV-745,4,85.45
+India,Tripura,"Calendar Year (Jan - Dec), 2016",Agartala,National Institute of Technology Agartala,NIRF-UNIV-470,89,49.73
+India,Tripura,"Calendar Year (Jan - Dec), 2016",Agartala,Tripura University,NIRF-UNIV-730,88,49.89
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2016",Agra,Dayalbagh Educational Institute,NIRF-UNIV-146,91,49.64
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2016",Aligarh,Aligarh Muslim University,NIRF-UNIV-18,10,76.62
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2016",Lucknow,Babasaheb Bhimrao Ambedkar University,NIRF-UNIV-62,84,51.39
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2016",Lucknow,King George's Medical University,NIRF-UNIV-360,16,72.24
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2016",Mathura,U.P. Pandit Deen Dayal Upadhyaya Pashu Chikitsa Vigyan Vishwavidhyalaya Evam Go,NIRF-UNIV-732,62,56.84
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2016",Prayagraj,University of Allahabad (Prayagraj),NIRF-UNIV-740,68,55.04
+India,Uttar Pradesh,"Calendar Year (Jan - Dec), 2016",Varanasi,Banaras Hindu University,NIRF-UNIV-66,7,81.22
+India,West Bengal,"Calendar Year (Jan - Dec), 2016",Kalyani,Kalyani University,NIRF-UNIV-338,45,61.3
+India,West Bengal,"Calendar Year (Jan - Dec), 2016",Kolkata,Presidency University,NIRF-UNIV-550,41,63.56
+India,West Bengal,"Calendar Year (Jan - Dec), 2016",Kolkata,Visva Bharati,NIRF-UNIV-780,11,76.11
+India,West Bengal,"Calendar Year (Jan - Dec), 2016",Mohanpur,Bidhan Chandra Krishi Vishwavidyalaya,NIRF-UNIV-81,31,66.33

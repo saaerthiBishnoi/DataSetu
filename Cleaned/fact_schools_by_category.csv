@@ -1,0 +1,2601 @@
+state,year,management,school_category,school_count
+Andaman And Nicobar Islands,2017,Government,Primary (I-V),182
+Andaman And Nicobar Islands,2017,Government Aided,Primary (I-V),0
+Andaman And Nicobar Islands,2017,Private Unaided,Primary (I-V),37
+Andhra Pradesh,2017,Government,Primary (I-V),33695
+Andhra Pradesh,2017,Government Aided,Primary (I-V),1492
+Andhra Pradesh,2017,Private Unaided,Primary (I-V),4145
+Andhra Pradesh,2017,Other,Primary (I-V),187
+Arunachal Pradesh,2017,Government,Primary (I-V),2108
+Arunachal Pradesh,2017,Government Aided,Primary (I-V),11
+Arunachal Pradesh,2017,Private Unaided,Primary (I-V),146
+Arunachal Pradesh,2017,Other,Primary (I-V),24
+Assam,2017,Government,Primary (I-V),39789
+Assam,2017,Government Aided,Primary (I-V),0
+Assam,2017,Private Unaided,Primary (I-V),1131
+Assam,2017,Other,Primary (I-V),6937
+Bihar,2017,Government,Primary (I-V),40652
+Bihar,2017,Government Aided,Primary (I-V),4
+Bihar,2017,Private Unaided,Primary (I-V),586
+Bihar,2017,Other,Primary (I-V),1482
+Chandigarh,2017,Government,Primary (I-V),8
+Chandigarh,2017,Government Aided,Primary (I-V),0
+Chandigarh,2017,Private Unaided,Primary (I-V),4
+Chandigarh,2017,Other,Primary (I-V),5
+Chhattisgarh,2017,Government,Primary (I-V),30936
+Chhattisgarh,2017,Government Aided,Primary (I-V),215
+Chhattisgarh,2017,Private Unaided,Primary (I-V),1860
+Chhattisgarh,2017,Other,Primary (I-V),162
+Delhi,2017,Government,Primary (I-V),1678
+Delhi,2017,Government Aided,Primary (I-V),47
+Delhi,2017,Private Unaided,Primary (I-V),983
+Goa,2017,Government,Primary (I-V),710
+Goa,2017,Government Aided,Primary (I-V),109
+Goa,2017,Private Unaided,Primary (I-V),109
+Gujarat,2017,Government,Primary (I-V),10472
+Gujarat,2017,Government Aided,Primary (I-V),71
+Gujarat,2017,Private Unaided,Primary (I-V),1399
+Gujarat,2017,Other,Primary (I-V),0
+Haryana,2017,Government,Primary (I-V),8713
+Haryana,2017,Government Aided,Primary (I-V),21
+Haryana,2017,Private Unaided,Primary (I-V),802
+Haryana,2017,Other,Primary (I-V),438
+Himachal Pradesh,2017,Government,Primary (I-V),10665
+Himachal Pradesh,2017,Private Unaided,Primary (I-V),655
+Himachal Pradesh,2017,Other,Primary (I-V),1
+Jammu And Kashmir,2017,Government,Primary (I-V),12924
+Jammu And Kashmir,2017,Private Unaided,Primary (I-V),1471
+Jammu And Kashmir,2017,Other,Primary (I-V),4
+Jharkhand,2017,Government,Primary (I-V),24340
+Jharkhand,2017,Government Aided,Primary (I-V),497
+Jharkhand,2017,Private Unaided,Primary (I-V),24
+Jharkhand,2017,Other,Primary (I-V),2604
+Karnataka,2017,Government,Primary (I-V),21615
+Karnataka,2017,Government Aided,Primary (I-V),237
+Karnataka,2017,Private Unaided,Primary (I-V),4437
+Karnataka,2017,Other,Primary (I-V),17
+Kerala,2017,Government,Primary (I-V),2623
+Kerala,2017,Government Aided,Primary (I-V),3901
+Kerala,2017,Private Unaided,Primary (I-V),921
+Kerala,2017,Other,Primary (I-V),787
+Ladakh,2017,Government,Primary (I-V),289
+Ladakh,2017,Private Unaided,Primary (I-V),33
+Ladakh,2017,Other,Primary (I-V),0
+Lakshadweep,2017,Government,Primary (I-V),15
+Madhya Pradesh,2017,Government,Primary (I-V),83442
+Madhya Pradesh,2017,Government Aided,Primary (I-V),424
+Madhya Pradesh,2017,Private Unaided,Primary (I-V),3117
+Madhya Pradesh,2017,Other,Primary (I-V),787
+Maharashtra,2017,Government,Primary (I-V),44205
+Maharashtra,2017,Government Aided,Primary (I-V),3181
+Maharashtra,2017,Private Unaided,Primary (I-V),5562
+Maharashtra,2017,Other,Primary (I-V),505
+Manipur,2017,Government,Primary (I-V),2032
+Manipur,2017,Government Aided,Primary (I-V),401
+Manipur,2017,Private Unaided,Primary (I-V),42
+Manipur,2017,Other,Primary (I-V),99
+Meghalaya,2017,Government,Primary (I-V),5453
+Meghalaya,2017,Government Aided,Primary (I-V),2498
+Meghalaya,2017,Private Unaided,Primary (I-V),1359
+Meghalaya,2017,Other,Primary (I-V),99
+Mizoram,2017,Government,Primary (I-V),1297
+Mizoram,2017,Government Aided,Primary (I-V),5
+Mizoram,2017,Private Unaided,Primary (I-V),222
+Mizoram,2017,Other,Primary (I-V),11
+Nagaland,2017,Government,Primary (I-V),1134
+Nagaland,2017,Private Unaided,Primary (I-V),125
+Odisha,2017,Government,Primary (I-V),33450
+Odisha,2017,Government Aided,Primary (I-V),310
+Odisha,2017,Private Unaided,Primary (I-V),864
+Odisha,2017,Other,Primary (I-V),1446
+Puducherry,2017,Government,Primary (I-V),234
+Puducherry,2017,Government Aided,Primary (I-V),3
+Puducherry,2017,Private Unaided,Primary (I-V),45
+Punjab,2017,Government,Primary (I-V),13059
+Punjab,2017,Government Aided,Primary (I-V),58
+Punjab,2017,Private Unaided,Primary (I-V),914
+Punjab,2017,Other,Primary (I-V),96
+Rajasthan,2017,Government,Primary (I-V),32597
+Rajasthan,2017,Private Unaided,Primary (I-V),4056
+Rajasthan,2017,Other,Primary (I-V),2255
+Sikkim,2017,Government,Primary (I-V),478
+Sikkim,2017,Government Aided,Primary (I-V),7
+Sikkim,2017,Private Unaided,Primary (I-V),240
+Tamil Nadu,2017,Government,Primary (I-V),24270
+Tamil Nadu,2017,Government Aided,Primary (I-V),5047
+Tamil Nadu,2017,Private Unaided,Primary (I-V),5867
+Tamil Nadu,2017,Other,Primary (I-V),421
+Telangana,2017,Government,Primary (I-V),19769
+Telangana,2017,Government Aided,Primary (I-V),297
+Telangana,2017,Private Unaided,Primary (I-V),686
+Telangana,2017,Other,Primary (I-V),129
+The Dadra And Nagar Haveli And Daman And Diu,2017,Government,Primary (I-V),205
+The Dadra And Nagar Haveli And Daman And Diu,2017,Government Aided,Primary (I-V),6
+The Dadra And Nagar Haveli And Daman And Diu,2017,Private Unaided,Primary (I-V),12
+The Dadra And Nagar Haveli And Daman And Diu,2017,Other,Primary (I-V),1
+Tripura,2017,Government,Primary (I-V),2207
+Tripura,2017,Government Aided,Primary (I-V),10
+Tripura,2017,Private Unaided,Primary (I-V),129
+Tripura,2017,Other,Primary (I-V),218
+Uttar Pradesh,2017,Government,Primary (I-V),114000
+Uttar Pradesh,2017,Government Aided,Primary (I-V),367
+Uttar Pradesh,2017,Private Unaided,Primary (I-V),40048
+Uttar Pradesh,2017,Other,Primary (I-V),9904
+Uttarakhand,2017,Government,Primary (I-V),12432
+Uttarakhand,2017,Government Aided,Primary (I-V),13
+Uttarakhand,2017,Private Unaided,Primary (I-V),2338
+Uttarakhand,2017,Other,Primary (I-V),298
+West Bengal,2017,Government,Primary (I-V),67179
+West Bengal,2017,Government Aided,Primary (I-V),80
+West Bengal,2017,Private Unaided,Primary (I-V),8891
+West Bengal,2017,Other,Primary (I-V),1949
+Andaman And Nicobar Islands,2016,Government,Primary (I-V),185
+Andaman And Nicobar Islands,2016,Government Aided,Primary (I-V),0
+Andaman And Nicobar Islands,2016,Private Unaided,Primary (I-V),33
+Andhra Pradesh,2016,Government,Primary (I-V),33363
+Andhra Pradesh,2016,Government Aided,Primary (I-V),1517
+Andhra Pradesh,2016,Private Unaided,Primary (I-V),4091
+Andhra Pradesh,2016,Other,Primary (I-V),222
+Arunachal Pradesh,2016,Government,Primary (I-V),2119
+Arunachal Pradesh,2016,Government Aided,Primary (I-V),9
+Arunachal Pradesh,2016,Private Unaided,Primary (I-V),149
+Arunachal Pradesh,2016,Other,Primary (I-V),27
+Assam,2016,Government,Primary (I-V),40471
+Assam,2016,Government Aided,Primary (I-V),0
+Assam,2016,Private Unaided,Primary (I-V),972
+Assam,2016,Other,Primary (I-V),7124
+Bihar,2016,Government,Primary (I-V),42021
+Bihar,2016,Government Aided,Primary (I-V),13
+Bihar,2016,Private Unaided,Primary (I-V),525
+Bihar,2016,Other,Primary (I-V),1019
+Chandigarh,2016,Government,Primary (I-V),8
+Chandigarh,2016,Government Aided,Primary (I-V),0
+Chandigarh,2016,Private Unaided,Primary (I-V),4
+Chandigarh,2016,Other,Primary (I-V),0
+Chhattisgarh,2016,Government,Primary (I-V),30938
+Chhattisgarh,2016,Government Aided,Primary (I-V),212
+Chhattisgarh,2016,Private Unaided,Primary (I-V),1664
+Chhattisgarh,2016,Other,Primary (I-V),155
+Delhi,2016,Government,Primary (I-V),1683
+Delhi,2016,Government Aided,Primary (I-V),48
+Delhi,2016,Private Unaided,Primary (I-V),993
+Goa,2016,Government,Primary (I-V),737
+Goa,2016,Government Aided,Primary (I-V),109
+Goa,2016,Private Unaided,Primary (I-V),112
+Gujarat,2016,Government,Primary (I-V),10536
+Gujarat,2016,Government Aided,Primary (I-V),69
+Gujarat,2016,Private Unaided,Primary (I-V),1260
+Gujarat,2016,Other,Primary (I-V),0
+Haryana,2016,Government,Primary (I-V),8740
+Haryana,2016,Government Aided,Primary (I-V),22
+Haryana,2016,Private Unaided,Primary (I-V),776
+Haryana,2016,Other,Primary (I-V),430
+Himachal Pradesh,2016,Government,Primary (I-V),10730
+Himachal Pradesh,2016,Private Unaided,Primary (I-V),598
+Himachal Pradesh,2016,Other,Primary (I-V),1
+Jammu And Kashmir,2016,Government,Primary (I-V),12893
+Jammu And Kashmir,2016,Private Unaided,Primary (I-V),1498
+Jammu And Kashmir,2016,Other,Primary (I-V),3
+Jharkhand,2016,Government,Primary (I-V),24656
+Jharkhand,2016,Government Aided,Primary (I-V),500
+Jharkhand,2016,Private Unaided,Primary (I-V),59
+Jharkhand,2016,Other,Primary (I-V),1715
+Karnataka,2016,Government,Primary (I-V),21782
+Karnataka,2016,Government Aided,Primary (I-V),247
+Karnataka,2016,Private Unaided,Primary (I-V),4522
+Karnataka,2016,Other,Primary (I-V),32
+Kerala,2016,Government,Primary (I-V),2906
+Kerala,2016,Government Aided,Primary (I-V),3909
+Kerala,2016,Private Unaided,Primary (I-V),664
+Kerala,2016,Other,Primary (I-V),868
+Ladakh,2016,Government,Primary (I-V),288
+Ladakh,2016,Private Unaided,Primary (I-V),34
+Ladakh,2016,Other,Primary (I-V),0
+Lakshadweep,2016,Government,Primary (I-V),17
+Madhya Pradesh,2016,Government,Primary (I-V),83753
+Madhya Pradesh,2016,Government Aided,Primary (I-V),470
+Madhya Pradesh,2016,Private Unaided,Primary (I-V),3300
+Madhya Pradesh,2016,Other,Primary (I-V),778
+Maharashtra,2016,Government,Primary (I-V),44516
+Maharashtra,2016,Government Aided,Primary (I-V),3162
+Maharashtra,2016,Private Unaided,Primary (I-V),5182
+Maharashtra,2016,Other,Primary (I-V),355
+Manipur,2016,Government,Primary (I-V),2426
+Manipur,2016,Government Aided,Primary (I-V),400
+Manipur,2016,Private Unaided,Primary (I-V),42
+Manipur,2016,Other,Primary (I-V),41
+Meghalaya,2016,Government,Primary (I-V),5454
+Meghalaya,2016,Government Aided,Primary (I-V),2500
+Meghalaya,2016,Private Unaided,Primary (I-V),1273
+Meghalaya,2016,Other,Primary (I-V),77
+Mizoram,2016,Government,Primary (I-V),1309
+Mizoram,2016,Government Aided,Primary (I-V),2
+Mizoram,2016,Private Unaided,Primary (I-V),211
+Mizoram,2016,Other,Primary (I-V),14
+Nagaland,2016,Government,Primary (I-V),1146
+Nagaland,2016,Private Unaided,Primary (I-V),128
+Odisha,2016,Government,Primary (I-V),33860
+Odisha,2016,Government Aided,Primary (I-V),312
+Odisha,2016,Private Unaided,Primary (I-V),897
+Odisha,2016,Other,Primary (I-V),1249
+Puducherry,2016,Government,Primary (I-V),234
+Puducherry,2016,Government Aided,Primary (I-V),3
+Puducherry,2016,Private Unaided,Primary (I-V),44
+Punjab,2016,Government,Primary (I-V),13226
+Punjab,2016,Government Aided,Primary (I-V),61
+Punjab,2016,Private Unaided,Primary (I-V),799
+Punjab,2016,Other,Primary (I-V),156
+Rajasthan,2016,Government,Primary (I-V),33433
+Rajasthan,2016,Private Unaided,Primary (I-V),4462
+Rajasthan,2016,Other,Primary (I-V),2298
+Sikkim,2016,Government,Primary (I-V),491
+Sikkim,2016,Government Aided,Primary (I-V),1
+Sikkim,2016,Private Unaided,Primary (I-V),245
+Tamil Nadu,2016,Government,Primary (I-V),24195
+Tamil Nadu,2016,Government Aided,Primary (I-V),5055
+Tamil Nadu,2016,Private Unaided,Primary (I-V),5892
+Tamil Nadu,2016,Other,Primary (I-V),272
+Telangana,2016,Government,Primary (I-V),19702
+Telangana,2016,Government Aided,Primary (I-V),302
+Telangana,2016,Private Unaided,Primary (I-V),1401
+Telangana,2016,Other,Primary (I-V),209
+The Dadra And Nagar Haveli And Daman And Diu,2016,Government,Primary (I-V),209
+The Dadra And Nagar Haveli And Daman And Diu,2016,Government Aided,Primary (I-V),6
+The Dadra And Nagar Haveli And Daman And Diu,2016,Private Unaided,Primary (I-V),13
+The Dadra And Nagar Haveli And Daman And Diu,2016,Other,Primary (I-V),3
+Tripura,2016,Government,Primary (I-V),2240
+Tripura,2016,Government Aided,Primary (I-V),10
+Tripura,2016,Private Unaided,Primary (I-V),114
+Tripura,2016,Other,Primary (I-V),183
+Uttar Pradesh,2016,Government,Primary (I-V),113938
+Uttar Pradesh,2016,Government Aided,Primary (I-V),477
+Uttar Pradesh,2016,Private Unaided,Primary (I-V),38401
+Uttar Pradesh,2016,Other,Primary (I-V),6780
+Uttarakhand,2016,Government,Primary (I-V),12595
+Uttarakhand,2016,Government Aided,Primary (I-V),10
+Uttarakhand,2016,Private Unaided,Primary (I-V),2441
+Uttarakhand,2016,Other,Primary (I-V),251
+West Bengal,2016,Government,Primary (I-V),66952
+West Bengal,2016,Government Aided,Primary (I-V),132
+West Bengal,2016,Private Unaided,Primary (I-V),8053
+West Bengal,2016,Other,Primary (I-V),1817
+Andaman And Nicobar Islands,2017,Government,Upper Primary (I-VIII),58
+Andaman And Nicobar Islands,2017,Government Aided,Upper Primary (I-VIII),0
+Andaman And Nicobar Islands,2017,Private Unaided,Upper Primary (I-VIII),23
+Andhra Pradesh,2017,Government,Upper Primary (I-VIII),4287
+Andhra Pradesh,2017,Government Aided,Upper Primary (I-VIII),284
+Andhra Pradesh,2017,Private Unaided,Upper Primary (I-VIII),4718
+Andhra Pradesh,2017,Other,Upper Primary (I-VIII),276
+Arunachal Pradesh,2017,Government,Upper Primary (I-VIII),972
+Arunachal Pradesh,2017,Government Aided,Upper Primary (I-VIII),19
+Arunachal Pradesh,2017,Private Unaided,Upper Primary (I-VIII),243
+Arunachal Pradesh,2017,Other,Upper Primary (I-VIII),22
+Assam,2017,Government,Upper Primary (I-VIII),885
+Assam,2017,Government Aided,Upper Primary (I-VIII),3
+Assam,2017,Private Unaided,Upper Primary (I-VIII),1536
+Assam,2017,Other,Upper Primary (I-VIII),51
+Bihar,2017,Government,Upper Primary (I-VIII),26198
+Bihar,2017,Government Aided,Upper Primary (I-VIII),64
+Bihar,2017,Private Unaided,Upper Primary (I-VIII),3833
+Bihar,2017,Other,Upper Primary (I-VIII),6729
+Chandigarh,2017,Government,Upper Primary (I-VIII),13
+Chandigarh,2017,Government Aided,Upper Primary (I-VIII),0
+Chandigarh,2017,Private Unaided,Upper Primary (I-VIII),14
+Chandigarh,2017,Other,Upper Primary (I-VIII),15
+Chhattisgarh,2017,Government,Upper Primary (I-VIII),125
+Chhattisgarh,2017,Government Aided,Upper Primary (I-VIII),34
+Chhattisgarh,2017,Private Unaided,Upper Primary (I-VIII),2711
+Chhattisgarh,2017,Other,Upper Primary (I-VIII),49
+Delhi,2017,Government,Upper Primary (I-VIII),5
+Delhi,2017,Government Aided,Upper Primary (I-VIII),10
+Delhi,2017,Private Unaided,Upper Primary (I-VIII),857
+Goa,2017,Government,Upper Primary (I-VIII),42
+Goa,2017,Government Aided,Upper Primary (I-VIII),20
+Goa,2017,Private Unaided,Upper Primary (I-VIII),6
+Gujarat,2017,Government,Upper Primary (I-VIII),22806
+Gujarat,2017,Government Aided,Upper Primary (I-VIII),176
+Gujarat,2017,Private Unaided,Upper Primary (I-VIII),6464
+Gujarat,2017,Other,Upper Primary (I-VIII),0
+Haryana,2017,Government,Upper Primary (I-VIII),3
+Haryana,2017,Government Aided,Upper Primary (I-VIII),1
+Haryana,2017,Private Unaided,Upper Primary (I-VIII),2324
+Haryana,2017,Other,Upper Primary (I-VIII),506
+Himachal Pradesh,2017,Government,Upper Primary (I-VIII),5
+Himachal Pradesh,2017,Private Unaided,Upper Primary (I-VIII),859
+Himachal Pradesh,2017,Other,Upper Primary (I-VIII),0
+Jammu And Kashmir,2017,Government,Upper Primary (I-VIII),7864
+Jammu And Kashmir,2017,Private Unaided,Upper Primary (I-VIII),2110
+Jammu And Kashmir,2017,Other,Upper Primary (I-VIII),1
+Jharkhand,2017,Government,Upper Primary (I-VIII),12461
+Jharkhand,2017,Government Aided,Upper Primary (I-VIII),485
+Jharkhand,2017,Private Unaided,Upper Primary (I-VIII),164
+Jharkhand,2017,Other,Upper Primary (I-VIII),3914
+Karnataka,2017,Government,Upper Primary (I-VIII),21923
+Karnataka,2017,Government Aided,Upper Primary (I-VIII),2635
+Karnataka,2017,Private Unaided,Upper Primary (I-VIII),6065
+Karnataka,2017,Other,Upper Primary (I-VIII),11
+Kerala,2017,Government,Upper Primary (I-VIII),812
+Kerala,2017,Government Aided,Upper Primary (I-VIII),1305
+Kerala,2017,Private Unaided,Upper Primary (I-VIII),696
+Kerala,2017,Other,Upper Primary (I-VIII),545
+Ladakh,2017,Government,Upper Primary (I-VIII),176
+Ladakh,2017,Private Unaided,Upper Primary (I-VIII),47
+Ladakh,2017,Other,Upper Primary (I-VIII),0
+Lakshadweep,2017,Government,Upper Primary (I-VIII),16
+Madhya Pradesh,2017,Government,Upper Primary (I-VIII),12
+Madhya Pradesh,2017,Government Aided,Upper Primary (I-VIII),159
+Madhya Pradesh,2017,Private Unaided,Upper Primary (I-VIII),17204
+Madhya Pradesh,2017,Other,Upper Primary (I-VIII),1104
+Maharashtra,2017,Government,Upper Primary (I-VIII),20666
+Maharashtra,2017,Government Aided,Upper Primary (I-VIII),4094
+Maharashtra,2017,Private Unaided,Upper Primary (I-VIII),4713
+Maharashtra,2017,Other,Upper Primary (I-VIII),382
+Manipur,2017,Government,Upper Primary (I-VIII),557
+Manipur,2017,Government Aided,Upper Primary (I-VIII),69
+Manipur,2017,Private Unaided,Upper Primary (I-VIII),284
+Manipur,2017,Other,Upper Primary (I-VIII),121
+Meghalaya,2017,Government,Upper Primary (I-VIII),7
+Meghalaya,2017,Government Aided,Upper Primary (I-VIII),22
+Meghalaya,2017,Private Unaided,Upper Primary (I-VIII),173
+Meghalaya,2017,Other,Upper Primary (I-VIII),20
+Mizoram,2017,Government,Upper Primary (I-VIII),4
+Mizoram,2017,Government Aided,Upper Primary (I-VIII),0
+Mizoram,2017,Private Unaided,Upper Primary (I-VIII),427
+Mizoram,2017,Other,Upper Primary (I-VIII),18
+Nagaland,2017,Government,Upper Primary (I-VIII),606
+Nagaland,2017,Private Unaided,Upper Primary (I-VIII),180
+Odisha,2017,Government,Upper Primary (I-VIII),15623
+Odisha,2017,Government Aided,Upper Primary (I-VIII),36
+Odisha,2017,Private Unaided,Upper Primary (I-VIII),1808
+Odisha,2017,Other,Upper Primary (I-VIII),1245
+Puducherry,2017,Government,Upper Primary (I-VIII),48
+Puducherry,2017,Government Aided,Upper Primary (I-VIII),1
+Puducherry,2017,Private Unaided,Upper Primary (I-VIII),28
+Punjab,2017,Government,Upper Primary (I-VIII),8
+Punjab,2017,Government Aided,Upper Primary (I-VIII),35
+Punjab,2017,Private Unaided,Upper Primary (I-VIII),2391
+Punjab,2017,Other,Upper Primary (I-VIII),95
+Rajasthan,2017,Government,Upper Primary (I-VIII),19940
+Rajasthan,2017,Private Unaided,Upper Primary (I-VIII),16500
+Rajasthan,2017,Other,Upper Primary (I-VIII),337
+Sikkim,2017,Government,Upper Primary (I-VIII),173
+Sikkim,2017,Government Aided,Upper Primary (I-VIII),2
+Sikkim,2017,Private Unaided,Upper Primary (I-VIII),151
+Tamil Nadu,2017,Government,Upper Primary (I-VIII),7067
+Tamil Nadu,2017,Government Aided,Upper Primary (I-VIII),1493
+Tamil Nadu,2017,Private Unaided,Upper Primary (I-VIII),734
+Tamil Nadu,2017,Other,Upper Primary (I-VIII),144
+Telangana,2017,Government,Upper Primary (I-VIII),3318
+Telangana,2017,Government Aided,Upper Primary (I-VIII),127
+Telangana,2017,Private Unaided,Upper Primary (I-VIII),3851
+Telangana,2017,Other,Upper Primary (I-VIII),92
+The Dadra And Nagar Haveli And Daman And Diu,2017,Government,Upper Primary (I-VIII),115
+The Dadra And Nagar Haveli And Daman And Diu,2017,Government Aided,Upper Primary (I-VIII),0
+The Dadra And Nagar Haveli And Daman And Diu,2017,Private Unaided,Upper Primary (I-VIII),21
+The Dadra And Nagar Haveli And Daman And Diu,2017,Other,Upper Primary (I-VIII),0
+Tripura,2017,Government,Upper Primary (I-VIII),1126
+Tripura,2017,Government Aided,Upper Primary (I-VIII),2
+Tripura,2017,Private Unaided,Upper Primary (I-VIII),115
+Tripura,2017,Other,Upper Primary (I-VIII),8
+Uttar Pradesh,2017,Government,Upper Primary (I-VIII),225
+Uttar Pradesh,2017,Government Aided,Upper Primary (I-VIII),419
+Uttar Pradesh,2017,Private Unaided,Upper Primary (I-VIII),12580
+Uttar Pradesh,2017,Other,Upper Primary (I-VIII),3127
+Uttarakhand,2017,Government,Upper Primary (I-VIII),27
+Uttarakhand,2017,Government Aided,Upper Primary (I-VIII),15
+Uttarakhand,2017,Private Unaided,Upper Primary (I-VIII),1962
+Uttarakhand,2017,Other,Upper Primary (I-VIII),79
+West Bengal,2017,Government,Upper Primary (I-VIII),162
+West Bengal,2017,Government Aided,Upper Primary (I-VIII),5
+West Bengal,2017,Private Unaided,Upper Primary (I-VIII),1215
+West Bengal,2017,Other,Upper Primary (I-VIII),336
+Andaman And Nicobar Islands,2016,Government,Upper Primary (I-VIII),62
+Andaman And Nicobar Islands,2016,Government Aided,Upper Primary (I-VIII),0
+Andaman And Nicobar Islands,2016,Private Unaided,Upper Primary (I-VIII),22
+Andhra Pradesh,2016,Government,Upper Primary (I-VIII),5122
+Andhra Pradesh,2016,Government Aided,Upper Primary (I-VIII),281
+Andhra Pradesh,2016,Private Unaided,Upper Primary (I-VIII),4630
+Andhra Pradesh,2016,Other,Upper Primary (I-VIII),238
+Arunachal Pradesh,2016,Government,Upper Primary (I-VIII),976
+Arunachal Pradesh,2016,Government Aided,Upper Primary (I-VIII),20
+Arunachal Pradesh,2016,Private Unaided,Upper Primary (I-VIII),241
+Arunachal Pradesh,2016,Other,Upper Primary (I-VIII),14
+Assam,2016,Government,Upper Primary (I-VIII),965
+Assam,2016,Government Aided,Upper Primary (I-VIII),4
+Assam,2016,Private Unaided,Upper Primary (I-VIII),1141
+Assam,2016,Other,Upper Primary (I-VIII),56
+Bihar,2016,Government,Upper Primary (I-VIII),26302
+Bihar,2016,Government Aided,Upper Primary (I-VIII),75
+Bihar,2016,Private Unaided,Upper Primary (I-VIII),2690
+Bihar,2016,Other,Upper Primary (I-VIII),3922
+Chandigarh,2016,Government,Upper Primary (I-VIII),12
+Chandigarh,2016,Government Aided,Upper Primary (I-VIII),0
+Chandigarh,2016,Private Unaided,Upper Primary (I-VIII),13
+Chandigarh,2016,Other,Upper Primary (I-VIII),5
+Chhattisgarh,2016,Government,Upper Primary (I-VIII),149
+Chhattisgarh,2016,Government Aided,Upper Primary (I-VIII),37
+Chhattisgarh,2016,Private Unaided,Upper Primary (I-VIII),2622
+Chhattisgarh,2016,Other,Upper Primary (I-VIII),41
+Delhi,2016,Government,Upper Primary (I-VIII),8
+Delhi,2016,Government Aided,Upper Primary (I-VIII),11
+Delhi,2016,Private Unaided,Upper Primary (I-VIII),866
+Goa,2016,Government,Upper Primary (I-VIII),43
+Goa,2016,Government Aided,Upper Primary (I-VIII),17
+Goa,2016,Private Unaided,Upper Primary (I-VIII),8
+Gujarat,2016,Government,Upper Primary (I-VIII),22716
+Gujarat,2016,Government Aided,Upper Primary (I-VIII),200
+Gujarat,2016,Private Unaided,Upper Primary (I-VIII),6207
+Gujarat,2016,Other,Upper Primary (I-VIII),0
+Haryana,2016,Government,Upper Primary (I-VIII),3
+Haryana,2016,Government Aided,Upper Primary (I-VIII),2
+Haryana,2016,Private Unaided,Upper Primary (I-VIII),2097
+Haryana,2016,Other,Upper Primary (I-VIII),458
+Himachal Pradesh,2016,Government,Upper Primary (I-VIII),5
+Himachal Pradesh,2016,Private Unaided,Upper Primary (I-VIII),839
+Himachal Pradesh,2016,Other,Upper Primary (I-VIII),0
+Jammu And Kashmir,2016,Government,Upper Primary (I-VIII),7851
+Jammu And Kashmir,2016,Private Unaided,Upper Primary (I-VIII),2068
+Jammu And Kashmir,2016,Other,Upper Primary (I-VIII),0
+Jharkhand,2016,Government,Upper Primary (I-VIII),12461
+Jharkhand,2016,Government Aided,Upper Primary (I-VIII),480
+Jharkhand,2016,Private Unaided,Upper Primary (I-VIII),175
+Jharkhand,2016,Other,Upper Primary (I-VIII),2711
+Karnataka,2016,Government,Upper Primary (I-VIII),21897
+Karnataka,2016,Government Aided,Upper Primary (I-VIII),2661
+Karnataka,2016,Private Unaided,Upper Primary (I-VIII),5681
+Karnataka,2016,Other,Upper Primary (I-VIII),16
+Kerala,2016,Government,Upper Primary (I-VIII),818
+Kerala,2016,Government Aided,Upper Primary (I-VIII),1300
+Kerala,2016,Private Unaided,Upper Primary (I-VIII),698
+Kerala,2016,Other,Upper Primary (I-VIII),552
+Ladakh,2016,Government,Upper Primary (I-VIII),176
+Ladakh,2016,Private Unaided,Upper Primary (I-VIII),46
+Ladakh,2016,Other,Upper Primary (I-VIII),0
+Lakshadweep,2016,Government,Upper Primary (I-VIII),12
+Madhya Pradesh,2016,Government,Upper Primary (I-VIII),23
+Madhya Pradesh,2016,Government Aided,Upper Primary (I-VIII),171
+Madhya Pradesh,2016,Private Unaided,Upper Primary (I-VIII),16530
+Madhya Pradesh,2016,Other,Upper Primary (I-VIII),896
+Maharashtra,2016,Government,Upper Primary (I-VIII),20851
+Maharashtra,2016,Government Aided,Upper Primary (I-VIII),4070
+Maharashtra,2016,Private Unaided,Upper Primary (I-VIII),4502
+Maharashtra,2016,Other,Upper Primary (I-VIII),222
+Manipur,2016,Government,Upper Primary (I-VIII),488
+Manipur,2016,Government Aided,Upper Primary (I-VIII),69
+Manipur,2016,Private Unaided,Upper Primary (I-VIII),262
+Manipur,2016,Other,Upper Primary (I-VIII),72
+Meghalaya,2016,Government,Upper Primary (I-VIII),7
+Meghalaya,2016,Government Aided,Upper Primary (I-VIII),16
+Meghalaya,2016,Private Unaided,Upper Primary (I-VIII),151
+Meghalaya,2016,Other,Upper Primary (I-VIII),16
+Mizoram,2016,Government,Upper Primary (I-VIII),5
+Mizoram,2016,Government Aided,Upper Primary (I-VIII),1
+Mizoram,2016,Private Unaided,Upper Primary (I-VIII),416
+Mizoram,2016,Other,Upper Primary (I-VIII),11
+Nagaland,2016,Government,Upper Primary (I-VIII),587
+Nagaland,2016,Private Unaided,Upper Primary (I-VIII),187
+Odisha,2016,Government,Upper Primary (I-VIII),16316
+Odisha,2016,Government Aided,Upper Primary (I-VIII),34
+Odisha,2016,Private Unaided,Upper Primary (I-VIII),1794
+Odisha,2016,Other,Upper Primary (I-VIII),969
+Puducherry,2016,Government,Upper Primary (I-VIII),48
+Puducherry,2016,Government Aided,Upper Primary (I-VIII),0
+Puducherry,2016,Private Unaided,Upper Primary (I-VIII),31
+Punjab,2016,Government,Upper Primary (I-VIII),345
+Punjab,2016,Government Aided,Upper Primary (I-VIII),31
+Punjab,2016,Private Unaided,Upper Primary (I-VIII),1925
+Punjab,2016,Other,Upper Primary (I-VIII),260
+Rajasthan,2016,Government,Upper Primary (I-VIII),20251
+Rajasthan,2016,Private Unaided,Upper Primary (I-VIII),16231
+Rajasthan,2016,Other,Upper Primary (I-VIII),325
+Sikkim,2016,Government,Upper Primary (I-VIII),188
+Sikkim,2016,Government Aided,Upper Primary (I-VIII),0
+Sikkim,2016,Private Unaided,Upper Primary (I-VIII),162
+Tamil Nadu,2016,Government,Upper Primary (I-VIII),7403
+Tamil Nadu,2016,Government Aided,Upper Primary (I-VIII),1497
+Tamil Nadu,2016,Private Unaided,Upper Primary (I-VIII),522
+Tamil Nadu,2016,Other,Upper Primary (I-VIII),161
+Telangana,2016,Government,Upper Primary (I-VIII),3361
+Telangana,2016,Government Aided,Upper Primary (I-VIII),135
+Telangana,2016,Private Unaided,Upper Primary (I-VIII),3810
+Telangana,2016,Other,Upper Primary (I-VIII),137
+The Dadra And Nagar Haveli And Daman And Diu,2016,Government,Upper Primary (I-VIII),115
+The Dadra And Nagar Haveli And Daman And Diu,2016,Government Aided,Upper Primary (I-VIII),0
+The Dadra And Nagar Haveli And Daman And Diu,2016,Private Unaided,Upper Primary (I-VIII),19
+The Dadra And Nagar Haveli And Daman And Diu,2016,Other,Upper Primary (I-VIII),0
+Tripura,2016,Government,Upper Primary (I-VIII),1158
+Tripura,2016,Government Aided,Upper Primary (I-VIII),2
+Tripura,2016,Private Unaided,Upper Primary (I-VIII),102
+Tripura,2016,Other,Upper Primary (I-VIII),9
+Uttar Pradesh,2016,Government,Upper Primary (I-VIII),195
+Uttar Pradesh,2016,Government Aided,Upper Primary (I-VIII),407
+Uttar Pradesh,2016,Private Unaided,Upper Primary (I-VIII),11140
+Uttar Pradesh,2016,Other,Upper Primary (I-VIII),2610
+Uttarakhand,2016,Government,Upper Primary (I-VIII),17
+Uttarakhand,2016,Government Aided,Upper Primary (I-VIII),9
+Uttarakhand,2016,Private Unaided,Upper Primary (I-VIII),1635
+Uttarakhand,2016,Other,Upper Primary (I-VIII),93
+West Bengal,2016,Government,Upper Primary (I-VIII),137
+West Bengal,2016,Government Aided,Upper Primary (I-VIII),19
+West Bengal,2016,Private Unaided,Upper Primary (I-VIII),1085
+West Bengal,2016,Other,Upper Primary (I-VIII),301
+Andaman And Nicobar Islands,2017,Government,Higher Secondary (I-XII),33
+Andaman And Nicobar Islands,2017,Government Aided,Higher Secondary (I-XII),2
+Andaman And Nicobar Islands,2017,Private Unaided,Higher Secondary (I-XII),10
+Andhra Pradesh,2017,Government,Higher Secondary (I-XII),188
+Andhra Pradesh,2017,Government Aided,Higher Secondary (I-XII),0
+Andhra Pradesh,2017,Private Unaided,Higher Secondary (I-XII),38
+Andhra Pradesh,2017,Other,Higher Secondary (I-XII),1
+Arunachal Pradesh,2017,Government,Higher Secondary (I-XII),39
+Arunachal Pradesh,2017,Government Aided,Higher Secondary (I-XII),10
+Arunachal Pradesh,2017,Private Unaided,Higher Secondary (I-XII),18
+Arunachal Pradesh,2017,Other,Higher Secondary (I-XII),2
+Assam,2017,Government,Higher Secondary (I-XII),138
+Assam,2017,Government Aided,Higher Secondary (I-XII),5
+Assam,2017,Private Unaided,Higher Secondary (I-XII),215
+Assam,2017,Other,Higher Secondary (I-XII),5
+Bihar,2017,Government,Higher Secondary (I-XII),1135
+Bihar,2017,Government Aided,Higher Secondary (I-XII),2
+Bihar,2017,Private Unaided,Higher Secondary (I-XII),262
+Bihar,2017,Other,Higher Secondary (I-XII),396
+Chandigarh,2017,Government,Higher Secondary (I-XII),43
+Chandigarh,2017,Government Aided,Higher Secondary (I-XII),6
+Chandigarh,2017,Private Unaided,Higher Secondary (I-XII),41
+Chandigarh,2017,Other,Higher Secondary (I-XII),1
+Chhattisgarh,2017,Government,Higher Secondary (I-XII),100
+Chhattisgarh,2017,Government Aided,Higher Secondary (I-XII),19
+Chhattisgarh,2017,Private Unaided,Higher Secondary (I-XII),1117
+Chhattisgarh,2017,Other,Higher Secondary (I-XII),0
+Delhi,2017,Government,Higher Secondary (I-XII),499
+Delhi,2017,Government Aided,Higher Secondary (I-XII),94
+Delhi,2017,Private Unaided,Higher Secondary (I-XII),593
+Goa,2017,Government,Higher Secondary (I-XII),6
+Goa,2017,Government Aided,Higher Secondary (I-XII),2
+Goa,2017,Private Unaided,Higher Secondary (I-XII),6
+Gujarat,2017,Government,Higher Secondary (I-XII),45
+Gujarat,2017,Government Aided,Higher Secondary (I-XII),59
+Gujarat,2017,Private Unaided,Higher Secondary (I-XII),1528
+Gujarat,2017,Other,Higher Secondary (I-XII),2
+Haryana,2017,Government,Higher Secondary (I-XII),33
+Haryana,2017,Government Aided,Higher Secondary (I-XII),107
+Haryana,2017,Private Unaided,Higher Secondary (I-XII),2517
+Haryana,2017,Other,Higher Secondary (I-XII),19
+Himachal Pradesh,2017,Government,Higher Secondary (I-XII),30
+Himachal Pradesh,2017,Private Unaided,Higher Secondary (I-XII),603
+Himachal Pradesh,2017,Other,Higher Secondary (I-XII),0
+Jammu And Kashmir,2017,Government,Higher Secondary (I-XII),104
+Jammu And Kashmir,2017,Private Unaided,Higher Secondary (I-XII),386
+Jammu And Kashmir,2017,Other,Higher Secondary (I-XII),0
+Jharkhand,2017,Government,Higher Secondary (I-XII),166
+Jharkhand,2017,Government Aided,Higher Secondary (I-XII),16
+Jharkhand,2017,Private Unaided,Higher Secondary (I-XII),263
+Jharkhand,2017,Other,Higher Secondary (I-XII),39
+Karnataka,2017,Government,Higher Secondary (I-XII),25
+Karnataka,2017,Government Aided,Higher Secondary (I-XII),6
+Karnataka,2017,Private Unaided,Higher Secondary (I-XII),680
+Karnataka,2017,Other,Higher Secondary (I-XII),0
+Kerala,2017,Government,Higher Secondary (I-XII),438
+Kerala,2017,Government Aided,Higher Secondary (I-XII),141
+Kerala,2017,Private Unaided,Higher Secondary (I-XII),891
+Kerala,2017,Other,Higher Secondary (I-XII),31
+Ladakh,2017,Government,Higher Secondary (I-XII),2
+Ladakh,2017,Private Unaided,Higher Secondary (I-XII),9
+Ladakh,2017,Other,Higher Secondary (I-XII),0
+Lakshadweep,2017,Government,Higher Secondary (I-XII),4
+Madhya Pradesh,2017,Government,Higher Secondary (I-XII),89
+Madhya Pradesh,2017,Government Aided,Higher Secondary (I-XII),69
+Madhya Pradesh,2017,Private Unaided,Higher Secondary (I-XII),3959
+Madhya Pradesh,2017,Other,Higher Secondary (I-XII),0
+Maharashtra,2017,Government,Higher Secondary (I-XII),367
+Maharashtra,2017,Government Aided,Higher Secondary (I-XII),4344
+Maharashtra,2017,Private Unaided,Higher Secondary (I-XII),1030
+Maharashtra,2017,Other,Higher Secondary (I-XII),21
+Manipur,2017,Government,Higher Secondary (I-XII),26
+Manipur,2017,Government Aided,Higher Secondary (I-XII),1
+Manipur,2017,Private Unaided,Higher Secondary (I-XII),88
+Manipur,2017,Other,Higher Secondary (I-XII),0
+Meghalaya,2017,Government,Higher Secondary (I-XII),12
+Meghalaya,2017,Government Aided,Higher Secondary (I-XII),4
+Meghalaya,2017,Private Unaided,Higher Secondary (I-XII),20
+Meghalaya,2017,Other,Higher Secondary (I-XII),3
+Mizoram,2017,Government,Higher Secondary (I-XII),0
+Mizoram,2017,Government Aided,Higher Secondary (I-XII),0
+Mizoram,2017,Private Unaided,Higher Secondary (I-XII),0
+Mizoram,2017,Other,Higher Secondary (I-XII),0
+Nagaland,2017,Government,Higher Secondary (I-XII),6
+Nagaland,2017,Private Unaided,Higher Secondary (I-XII),110
+Odisha,2017,Government,Higher Secondary (I-XII),52
+Odisha,2017,Government Aided,Higher Secondary (I-XII),0
+Odisha,2017,Private Unaided,Higher Secondary (I-XII),117
+Odisha,2017,Other,Higher Secondary (I-XII),18
+Puducherry,2017,Government,Higher Secondary (I-XII),6
+Puducherry,2017,Government Aided,Higher Secondary (I-XII),11
+Puducherry,2017,Private Unaided,Higher Secondary (I-XII),96
+Punjab,2017,Government,Higher Secondary (I-XII),101
+Punjab,2017,Government Aided,Higher Secondary (I-XII),189
+Punjab,2017,Private Unaided,Higher Secondary (I-XII),2362
+Punjab,2017,Other,Higher Secondary (I-XII),104
+Rajasthan,2017,Government,Higher Secondary (I-XII),9729
+Rajasthan,2017,Private Unaided,Higher Secondary (I-XII),7701
+Rajasthan,2017,Other,Higher Secondary (I-XII),13
+Sikkim,2017,Government,Higher Secondary (I-XII),77
+Sikkim,2017,Government Aided,Higher Secondary (I-XII),4
+Sikkim,2017,Private Unaided,Higher Secondary (I-XII),13
+Tamil Nadu,2017,Government,Higher Secondary (I-XII),136
+Tamil Nadu,2017,Government Aided,Higher Secondary (I-XII),88
+Tamil Nadu,2017,Private Unaided,Higher Secondary (I-XII),2921
+Tamil Nadu,2017,Other,Higher Secondary (I-XII),2
+Telangana,2017,Government,Higher Secondary (I-XII),245
+Telangana,2017,Government Aided,Higher Secondary (I-XII),0
+Telangana,2017,Private Unaided,Higher Secondary (I-XII),31
+Telangana,2017,Other,Higher Secondary (I-XII),0
+The Dadra And Nagar Haveli And Daman And Diu,2017,Government,Higher Secondary (I-XII),1
+The Dadra And Nagar Haveli And Daman And Diu,2017,Government Aided,Higher Secondary (I-XII),1
+The Dadra And Nagar Haveli And Daman And Diu,2017,Private Unaided,Higher Secondary (I-XII),14
+The Dadra And Nagar Haveli And Daman And Diu,2017,Other,Higher Secondary (I-XII),0
+Tripura,2017,Government,Higher Secondary (I-XII),323
+Tripura,2017,Government Aided,Higher Secondary (I-XII),21
+Tripura,2017,Private Unaided,Higher Secondary (I-XII),27
+Tripura,2017,Other,Higher Secondary (I-XII),3
+Uttar Pradesh,2017,Government,Higher Secondary (I-XII),299
+Uttar Pradesh,2017,Government Aided,Higher Secondary (I-XII),579
+Uttar Pradesh,2017,Private Unaided,Higher Secondary (I-XII),2328
+Uttar Pradesh,2017,Other,Higher Secondary (I-XII),532
+Uttarakhand,2017,Government,Higher Secondary (I-XII),53
+Uttarakhand,2017,Government Aided,Higher Secondary (I-XII),39
+Uttarakhand,2017,Private Unaided,Higher Secondary (I-XII),482
+Uttarakhand,2017,Other,Higher Secondary (I-XII),1
+West Bengal,2017,Government,Higher Secondary (I-XII),172
+West Bengal,2017,Government Aided,Higher Secondary (I-XII),12
+West Bengal,2017,Private Unaided,Higher Secondary (I-XII),494
+West Bengal,2017,Other,Higher Secondary (I-XII),117
+Andaman And Nicobar Islands,2016,Government,Higher Secondary (I-XII),34
+Andaman And Nicobar Islands,2016,Government Aided,Higher Secondary (I-XII),2
+Andaman And Nicobar Islands,2016,Private Unaided,Higher Secondary (I-XII),7
+Andhra Pradesh,2016,Government,Higher Secondary (I-XII),145
+Andhra Pradesh,2016,Government Aided,Higher Secondary (I-XII),0
+Andhra Pradesh,2016,Private Unaided,Higher Secondary (I-XII),27
+Andhra Pradesh,2016,Other,Higher Secondary (I-XII),2
+Arunachal Pradesh,2016,Government,Higher Secondary (I-XII),38
+Arunachal Pradesh,2016,Government Aided,Higher Secondary (I-XII),9
+Arunachal Pradesh,2016,Private Unaided,Higher Secondary (I-XII),20
+Arunachal Pradesh,2016,Other,Higher Secondary (I-XII),2
+Assam,2016,Government,Higher Secondary (I-XII),69
+Assam,2016,Government Aided,Higher Secondary (I-XII),5
+Assam,2016,Private Unaided,Higher Secondary (I-XII),186
+Assam,2016,Other,Higher Secondary (I-XII),5
+Bihar,2016,Government,Higher Secondary (I-XII),648
+Bihar,2016,Government Aided,Higher Secondary (I-XII),3
+Bihar,2016,Private Unaided,Higher Secondary (I-XII),230
+Bihar,2016,Other,Higher Secondary (I-XII),243
+Chandigarh,2016,Government,Higher Secondary (I-XII),43
+Chandigarh,2016,Government Aided,Higher Secondary (I-XII),6
+Chandigarh,2016,Private Unaided,Higher Secondary (I-XII),40
+Chandigarh,2016,Other,Higher Secondary (I-XII),0
+Chhattisgarh,2016,Government,Higher Secondary (I-XII),98
+Chhattisgarh,2016,Government Aided,Higher Secondary (I-XII),18
+Chhattisgarh,2016,Private Unaided,Higher Secondary (I-XII),1109
+Chhattisgarh,2016,Other,Higher Secondary (I-XII),0
+Delhi,2016,Government,Higher Secondary (I-XII),491
+Delhi,2016,Government Aided,Higher Secondary (I-XII),93
+Delhi,2016,Private Unaided,Higher Secondary (I-XII),583
+Goa,2016,Government,Higher Secondary (I-XII),6
+Goa,2016,Government Aided,Higher Secondary (I-XII),2
+Goa,2016,Private Unaided,Higher Secondary (I-XII),5
+Gujarat,2016,Government,Higher Secondary (I-XII),54
+Gujarat,2016,Government Aided,Higher Secondary (I-XII),87
+Gujarat,2016,Private Unaided,Higher Secondary (I-XII),1448
+Gujarat,2016,Other,Higher Secondary (I-XII),2
+Haryana,2016,Government,Higher Secondary (I-XII),36
+Haryana,2016,Government Aided,Higher Secondary (I-XII),107
+Haryana,2016,Private Unaided,Higher Secondary (I-XII),2336
+Haryana,2016,Other,Higher Secondary (I-XII),19
+Himachal Pradesh,2016,Government,Higher Secondary (I-XII),26
+Himachal Pradesh,2016,Private Unaided,Higher Secondary (I-XII),586
+Himachal Pradesh,2016,Other,Higher Secondary (I-XII),0
+Jammu And Kashmir,2016,Government,Higher Secondary (I-XII),104
+Jammu And Kashmir,2016,Private Unaided,Higher Secondary (I-XII),380
+Jammu And Kashmir,2016,Other,Higher Secondary (I-XII),0
+Jharkhand,2016,Government,Higher Secondary (I-XII),165
+Jharkhand,2016,Government Aided,Higher Secondary (I-XII),17
+Jharkhand,2016,Private Unaided,Higher Secondary (I-XII),245
+Jharkhand,2016,Other,Higher Secondary (I-XII),37
+Karnataka,2016,Government,Higher Secondary (I-XII),30
+Karnataka,2016,Government Aided,Higher Secondary (I-XII),8
+Karnataka,2016,Private Unaided,Higher Secondary (I-XII),672
+Karnataka,2016,Other,Higher Secondary (I-XII),1
+Kerala,2016,Government,Higher Secondary (I-XII),416
+Kerala,2016,Government Aided,Higher Secondary (I-XII),115
+Kerala,2016,Private Unaided,Higher Secondary (I-XII),877
+Kerala,2016,Other,Higher Secondary (I-XII),34
+Ladakh,2016,Government,Higher Secondary (I-XII),2
+Ladakh,2016,Private Unaided,Higher Secondary (I-XII),8
+Ladakh,2016,Other,Higher Secondary (I-XII),0
+Lakshadweep,2016,Government,Higher Secondary (I-XII),4
+Madhya Pradesh,2016,Government,Higher Secondary (I-XII),83
+Madhya Pradesh,2016,Government Aided,Higher Secondary (I-XII),76
+Madhya Pradesh,2016,Private Unaided,Higher Secondary (I-XII),3860
+Madhya Pradesh,2016,Other,Higher Secondary (I-XII),1
+Maharashtra,2016,Government,Higher Secondary (I-XII),339
+Maharashtra,2016,Government Aided,Higher Secondary (I-XII),4067
+Maharashtra,2016,Private Unaided,Higher Secondary (I-XII),818
+Maharashtra,2016,Other,Higher Secondary (I-XII),10
+Manipur,2016,Government,Higher Secondary (I-XII),24
+Manipur,2016,Government Aided,Higher Secondary (I-XII),0
+Manipur,2016,Private Unaided,Higher Secondary (I-XII),81
+Manipur,2016,Other,Higher Secondary (I-XII),0
+Meghalaya,2016,Government,Higher Secondary (I-XII),12
+Meghalaya,2016,Government Aided,Higher Secondary (I-XII),4
+Meghalaya,2016,Private Unaided,Higher Secondary (I-XII),17
+Meghalaya,2016,Other,Higher Secondary (I-XII),2
+Mizoram,2016,Government,Higher Secondary (I-XII),0
+Mizoram,2016,Government Aided,Higher Secondary (I-XII),0
+Mizoram,2016,Private Unaided,Higher Secondary (I-XII),0
+Mizoram,2016,Other,Higher Secondary (I-XII),0
+Nagaland,2016,Government,Higher Secondary (I-XII),6
+Nagaland,2016,Private Unaided,Higher Secondary (I-XII),98
+Odisha,2016,Government,Higher Secondary (I-XII),45
+Odisha,2016,Government Aided,Higher Secondary (I-XII),0
+Odisha,2016,Private Unaided,Higher Secondary (I-XII),109
+Odisha,2016,Other,Higher Secondary (I-XII),21
+Puducherry,2016,Government,Higher Secondary (I-XII),5
+Puducherry,2016,Government Aided,Higher Secondary (I-XII),11
+Puducherry,2016,Private Unaided,Higher Secondary (I-XII),93
+Punjab,2016,Government,Higher Secondary (I-XII),338
+Punjab,2016,Government Aided,Higher Secondary (I-XII),185
+Punjab,2016,Private Unaided,Higher Secondary (I-XII),1981
+Punjab,2016,Other,Higher Secondary (I-XII),173
+Rajasthan,2016,Government,Higher Secondary (I-XII),9419
+Rajasthan,2016,Private Unaided,Higher Secondary (I-XII),6755
+Rajasthan,2016,Other,Higher Secondary (I-XII),11
+Sikkim,2016,Government,Higher Secondary (I-XII),67
+Sikkim,2016,Government Aided,Higher Secondary (I-XII),2
+Sikkim,2016,Private Unaided,Higher Secondary (I-XII),11
+Tamil Nadu,2016,Government,Higher Secondary (I-XII),398
+Tamil Nadu,2016,Government Aided,Higher Secondary (I-XII),86
+Tamil Nadu,2016,Private Unaided,Higher Secondary (I-XII),2464
+Tamil Nadu,2016,Other,Higher Secondary (I-XII),4
+Telangana,2016,Government,Higher Secondary (I-XII),210
+Telangana,2016,Government Aided,Higher Secondary (I-XII),0
+Telangana,2016,Private Unaided,Higher Secondary (I-XII),34
+Telangana,2016,Other,Higher Secondary (I-XII),1
+The Dadra And Nagar Haveli And Daman And Diu,2016,Government,Higher Secondary (I-XII),1
+The Dadra And Nagar Haveli And Daman And Diu,2016,Government Aided,Higher Secondary (I-XII),2
+The Dadra And Nagar Haveli And Daman And Diu,2016,Private Unaided,Higher Secondary (I-XII),12
+The Dadra And Nagar Haveli And Daman And Diu,2016,Other,Higher Secondary (I-XII),0
+Tripura,2016,Government,Higher Secondary (I-XII),301
+Tripura,2016,Government Aided,Higher Secondary (I-XII),21
+Tripura,2016,Private Unaided,Higher Secondary (I-XII),26
+Tripura,2016,Other,Higher Secondary (I-XII),3
+Uttar Pradesh,2016,Government,Higher Secondary (I-XII),256
+Uttar Pradesh,2016,Government Aided,Higher Secondary (I-XII),570
+Uttar Pradesh,2016,Private Unaided,Higher Secondary (I-XII),1960
+Uttar Pradesh,2016,Other,Higher Secondary (I-XII),304
+Uttarakhand,2016,Government,Higher Secondary (I-XII),47
+Uttarakhand,2016,Government Aided,Higher Secondary (I-XII),35
+Uttarakhand,2016,Private Unaided,Higher Secondary (I-XII),438
+Uttarakhand,2016,Other,Higher Secondary (I-XII),0
+West Bengal,2016,Government,Higher Secondary (I-XII),167
+West Bengal,2016,Government Aided,Higher Secondary (I-XII),20
+West Bengal,2016,Private Unaided,Higher Secondary (I-XII),359
+West Bengal,2016,Other,Higher Secondary (I-XII),115
+Andaman And Nicobar Islands,2017,Government,Upper Primary (VI-VIII),1
+Andaman And Nicobar Islands,2017,Government Aided,Upper Primary (VI-VIII),0
+Andaman And Nicobar Islands,2017,Private Unaided,Upper Primary (VI-VIII),0
+Andhra Pradesh,2017,Government,Upper Primary (VI-VIII),0
+Andhra Pradesh,2017,Government Aided,Upper Primary (VI-VIII),2
+Andhra Pradesh,2017,Private Unaided,Upper Primary (VI-VIII),4
+Andhra Pradesh,2017,Other,Upper Primary (VI-VIII),0
+Arunachal Pradesh,2017,Government,Upper Primary (VI-VIII),52
+Arunachal Pradesh,2017,Government Aided,Upper Primary (VI-VIII),0
+Arunachal Pradesh,2017,Private Unaided,Upper Primary (VI-VIII),0
+Arunachal Pradesh,2017,Other,Upper Primary (VI-VIII),0
+Assam,2017,Government,Upper Primary (VI-VIII),5628
+Assam,2017,Government Aided,Upper Primary (VI-VIII),3935
+Assam,2017,Private Unaided,Upper Primary (VI-VIII),85
+Assam,2017,Other,Upper Primary (VI-VIII),591
+Bihar,2017,Government,Upper Primary (VI-VIII),239
+Bihar,2017,Government Aided,Upper Primary (VI-VIII),17
+Bihar,2017,Private Unaided,Upper Primary (VI-VIII),9
+Bihar,2017,Other,Upper Primary (VI-VIII),2
+Chandigarh,2017,Government,Upper Primary (VI-VIII),0
+Chandigarh,2017,Government Aided,Upper Primary (VI-VIII),0
+Chandigarh,2017,Private Unaided,Upper Primary (VI-VIII),0
+Chandigarh,2017,Other,Upper Primary (VI-VIII),0
+Chhattisgarh,2017,Government,Upper Primary (VI-VIII),13166
+Chhattisgarh,2017,Government Aided,Upper Primary (VI-VIII),69
+Chhattisgarh,2017,Private Unaided,Upper Primary (VI-VIII),117
+Chhattisgarh,2017,Other,Upper Primary (VI-VIII),38
+Delhi,2017,Government,Upper Primary (VI-VIII),17
+Delhi,2017,Government Aided,Upper Primary (VI-VIII),12
+Delhi,2017,Private Unaided,Upper Primary (VI-VIII),4
+Goa,2017,Government,Upper Primary (VI-VIII),1
+Goa,2017,Government Aided,Upper Primary (VI-VIII),6
+Goa,2017,Private Unaided,Upper Primary (VI-VIII),3
+Gujarat,2017,Government,Upper Primary (VI-VIII),236
+Gujarat,2017,Government Aided,Upper Primary (VI-VIII),266
+Gujarat,2017,Private Unaided,Upper Primary (VI-VIII),293
+Gujarat,2017,Other,Upper Primary (VI-VIII),0
+Haryana,2017,Government,Upper Primary (VI-VIII),2396
+Haryana,2017,Government Aided,Upper Primary (VI-VIII),0
+Haryana,2017,Private Unaided,Upper Primary (VI-VIII),7
+Haryana,2017,Other,Upper Primary (VI-VIII),0
+Himachal Pradesh,2017,Government,Upper Primary (VI-VIII),1996
+Himachal Pradesh,2017,Private Unaided,Upper Primary (VI-VIII),1
+Himachal Pradesh,2017,Other,Upper Primary (VI-VIII),0
+Jammu And Kashmir,2017,Government,Upper Primary (VI-VIII),134
+Jammu And Kashmir,2017,Private Unaided,Upper Primary (VI-VIII),0
+Jammu And Kashmir,2017,Other,Upper Primary (VI-VIII),0
+Jharkhand,2017,Government,Upper Primary (VI-VIII),17
+Jharkhand,2017,Government Aided,Upper Primary (VI-VIII),15
+Jharkhand,2017,Private Unaided,Upper Primary (VI-VIII),18
+Jharkhand,2017,Other,Upper Primary (VI-VIII),31
+Karnataka,2017,Government,Upper Primary (VI-VIII),244
+Karnataka,2017,Government Aided,Upper Primary (VI-VIII),72
+Karnataka,2017,Private Unaided,Upper Primary (VI-VIII),242
+Karnataka,2017,Other,Upper Primary (VI-VIII),0
+Kerala,2017,Government,Upper Primary (VI-VIII),55
+Kerala,2017,Government Aided,Upper Primary (VI-VIII),571
+Kerala,2017,Private Unaided,Upper Primary (VI-VIII),19
+Kerala,2017,Other,Upper Primary (VI-VIII),7
+Ladakh,2017,Government,Upper Primary (VI-VIII),3
+Ladakh,2017,Private Unaided,Upper Primary (VI-VIII),0
+Ladakh,2017,Other,Upper Primary (VI-VIII),0
+Lakshadweep,2017,Government,Upper Primary (VI-VIII),0
+Madhya Pradesh,2017,Government,Upper Primary (VI-VIII),30433
+Madhya Pradesh,2017,Government Aided,Upper Primary (VI-VIII),56
+Madhya Pradesh,2017,Private Unaided,Upper Primary (VI-VIII),64
+Madhya Pradesh,2017,Other,Upper Primary (VI-VIII),22
+Maharashtra,2017,Government,Upper Primary (VI-VIII),13
+Maharashtra,2017,Government Aided,Upper Primary (VI-VIII),0
+Maharashtra,2017,Private Unaided,Upper Primary (VI-VIII),129
+Maharashtra,2017,Other,Upper Primary (VI-VIII),8
+Manipur,2017,Government,Upper Primary (VI-VIII),22
+Manipur,2017,Government Aided,Upper Primary (VI-VIII),27
+Manipur,2017,Private Unaided,Upper Primary (VI-VIII),7
+Manipur,2017,Other,Upper Primary (VI-VIII),1
+Meghalaya,2017,Government,Upper Primary (VI-VIII),2228
+Meghalaya,2017,Government Aided,Upper Primary (VI-VIII),926
+Meghalaya,2017,Private Unaided,Upper Primary (VI-VIII),204
+Meghalaya,2017,Other,Upper Primary (VI-VIII),28
+Mizoram,2017,Government,Upper Primary (VI-VIII),956
+Mizoram,2017,Government Aided,Upper Primary (VI-VIII),74
+Mizoram,2017,Private Unaided,Upper Primary (VI-VIII),64
+Mizoram,2017,Other,Upper Primary (VI-VIII),0
+Nagaland,2017,Government,Upper Primary (VI-VIII),29
+Nagaland,2017,Private Unaided,Upper Primary (VI-VIII),0
+Odisha,2017,Government,Upper Primary (VI-VIII),1573
+Odisha,2017,Government Aided,Upper Primary (VI-VIII),1569
+Odisha,2017,Private Unaided,Upper Primary (VI-VIII),104
+Odisha,2017,Other,Upper Primary (VI-VIII),61
+Puducherry,2017,Government,Upper Primary (VI-VIII),1
+Puducherry,2017,Government Aided,Upper Primary (VI-VIII),0
+Puducherry,2017,Private Unaided,Upper Primary (VI-VIII),0
+Punjab,2017,Government,Upper Primary (VI-VIII),2670
+Punjab,2017,Government Aided,Upper Primary (VI-VIII),5
+Punjab,2017,Private Unaided,Upper Primary (VI-VIII),0
+Punjab,2017,Other,Upper Primary (VI-VIII),1
+Rajasthan,2017,Government,Upper Primary (VI-VIII),199
+Rajasthan,2017,Private Unaided,Upper Primary (VI-VIII),20
+Rajasthan,2017,Other,Upper Primary (VI-VIII),0
+Sikkim,2017,Government,Upper Primary (VI-VIII),0
+Sikkim,2017,Government Aided,Upper Primary (VI-VIII),0
+Sikkim,2017,Private Unaided,Upper Primary (VI-VIII),0
+Tamil Nadu,2017,Government,Upper Primary (VI-VIII),71
+Tamil Nadu,2017,Government Aided,Upper Primary (VI-VIII),31
+Tamil Nadu,2017,Private Unaided,Upper Primary (VI-VIII),12
+Tamil Nadu,2017,Other,Upper Primary (VI-VIII),4
+Telangana,2017,Government,Upper Primary (VI-VIII),0
+Telangana,2017,Government Aided,Upper Primary (VI-VIII),0
+Telangana,2017,Private Unaided,Upper Primary (VI-VIII),0
+Telangana,2017,Other,Upper Primary (VI-VIII),0
+The Dadra And Nagar Haveli And Daman And Diu,2017,Government,Upper Primary (VI-VIII),39
+The Dadra And Nagar Haveli And Daman And Diu,2017,Government Aided,Upper Primary (VI-VIII),0
+The Dadra And Nagar Haveli And Daman And Diu,2017,Private Unaided,Upper Primary (VI-VIII),0
+The Dadra And Nagar Haveli And Daman And Diu,2017,Other,Upper Primary (VI-VIII),0
+Tripura,2017,Government,Upper Primary (VI-VIII),1
+Tripura,2017,Government Aided,Upper Primary (VI-VIII),0
+Tripura,2017,Private Unaided,Upper Primary (VI-VIII),0
+Tripura,2017,Other,Upper Primary (VI-VIII),0
+Uttar Pradesh,2017,Government,Upper Primary (VI-VIII),46430
+Uttar Pradesh,2017,Government Aided,Upper Primary (VI-VIII),2550
+Uttar Pradesh,2017,Private Unaided,Upper Primary (VI-VIII),14891
+Uttar Pradesh,2017,Other,Upper Primary (VI-VIII),360
+Uttarakhand,2017,Government,Upper Primary (VI-VIII),2754
+Uttarakhand,2017,Government Aided,Upper Primary (VI-VIII),193
+Uttarakhand,2017,Private Unaided,Upper Primary (VI-VIII),343
+Uttarakhand,2017,Other,Upper Primary (VI-VIII),73
+West Bengal,2017,Government,Upper Primary (VI-VIII),7020
+West Bengal,2017,Government Aided,Upper Primary (VI-VIII),5
+West Bengal,2017,Private Unaided,Upper Primary (VI-VIII),265
+West Bengal,2017,Other,Upper Primary (VI-VIII),254
+Andaman And Nicobar Islands,2016,Government,Upper Primary (VI-VIII),0
+Andaman And Nicobar Islands,2016,Government Aided,Upper Primary (VI-VIII),0
+Andaman And Nicobar Islands,2016,Private Unaided,Upper Primary (VI-VIII),0
+Andhra Pradesh,2016,Government,Upper Primary (VI-VIII),0
+Andhra Pradesh,2016,Government Aided,Upper Primary (VI-VIII),1
+Andhra Pradesh,2016,Private Unaided,Upper Primary (VI-VIII),0
+Andhra Pradesh,2016,Other,Upper Primary (VI-VIII),0
+Arunachal Pradesh,2016,Government,Upper Primary (VI-VIII),52
+Arunachal Pradesh,2016,Government Aided,Upper Primary (VI-VIII),0
+Arunachal Pradesh,2016,Private Unaided,Upper Primary (VI-VIII),0
+Arunachal Pradesh,2016,Other,Upper Primary (VI-VIII),0
+Assam,2016,Government,Upper Primary (VI-VIII),6933
+Assam,2016,Government Aided,Upper Primary (VI-VIII),3905
+Assam,2016,Private Unaided,Upper Primary (VI-VIII),80
+Assam,2016,Other,Upper Primary (VI-VIII),576
+Bihar,2016,Government,Upper Primary (VI-VIII),253
+Bihar,2016,Government Aided,Upper Primary (VI-VIII),18
+Bihar,2016,Private Unaided,Upper Primary (VI-VIII),7
+Bihar,2016,Other,Upper Primary (VI-VIII),1
+Chandigarh,2016,Government,Upper Primary (VI-VIII),0
+Chandigarh,2016,Government Aided,Upper Primary (VI-VIII),0
+Chandigarh,2016,Private Unaided,Upper Primary (VI-VIII),0
+Chandigarh,2016,Other,Upper Primary (VI-VIII),0
+Chhattisgarh,2016,Government,Upper Primary (VI-VIII),11662
+Chhattisgarh,2016,Government Aided,Upper Primary (VI-VIII),68
+Chhattisgarh,2016,Private Unaided,Upper Primary (VI-VIII),117
+Chhattisgarh,2016,Other,Upper Primary (VI-VIII),37
+Delhi,2016,Government,Upper Primary (VI-VIII),18
+Delhi,2016,Government Aided,Upper Primary (VI-VIII),12
+Delhi,2016,Private Unaided,Upper Primary (VI-VIII),5
+Goa,2016,Government,Upper Primary (VI-VIII),0
+Goa,2016,Government Aided,Upper Primary (VI-VIII),8
+Goa,2016,Private Unaided,Upper Primary (VI-VIII),3
+Gujarat,2016,Government,Upper Primary (VI-VIII),307
+Gujarat,2016,Government Aided,Upper Primary (VI-VIII),233
+Gujarat,2016,Private Unaided,Upper Primary (VI-VIII),285
+Gujarat,2016,Other,Upper Primary (VI-VIII),0
+Haryana,2016,Government,Upper Primary (VI-VIII),2420
+Haryana,2016,Government Aided,Upper Primary (VI-VIII),0
+Haryana,2016,Private Unaided,Upper Primary (VI-VIII),6
+Haryana,2016,Other,Upper Primary (VI-VIII),0
+Himachal Pradesh,2016,Government,Upper Primary (VI-VIII),2065
+Himachal Pradesh,2016,Private Unaided,Upper Primary (VI-VIII),0
+Himachal Pradesh,2016,Other,Upper Primary (VI-VIII),0
+Jammu And Kashmir,2016,Government,Upper Primary (VI-VIII),131
+Jammu And Kashmir,2016,Private Unaided,Upper Primary (VI-VIII),0
+Jammu And Kashmir,2016,Other,Upper Primary (VI-VIII),0
+Jharkhand,2016,Government,Upper Primary (VI-VIII),15
+Jharkhand,2016,Government Aided,Upper Primary (VI-VIII),15
+Jharkhand,2016,Private Unaided,Upper Primary (VI-VIII),31
+Jharkhand,2016,Other,Upper Primary (VI-VIII),25
+Karnataka,2016,Government,Upper Primary (VI-VIII),142
+Karnataka,2016,Government Aided,Upper Primary (VI-VIII),74
+Karnataka,2016,Private Unaided,Upper Primary (VI-VIII),251
+Karnataka,2016,Other,Upper Primary (VI-VIII),0
+Kerala,2016,Government,Upper Primary (VI-VIII),58
+Kerala,2016,Government Aided,Upper Primary (VI-VIII),574
+Kerala,2016,Private Unaided,Upper Primary (VI-VIII),18
+Kerala,2016,Other,Upper Primary (VI-VIII),9
+Ladakh,2016,Government,Upper Primary (VI-VIII),3
+Ladakh,2016,Private Unaided,Upper Primary (VI-VIII),0
+Ladakh,2016,Other,Upper Primary (VI-VIII),0
+Lakshadweep,2016,Government,Upper Primary (VI-VIII),1
+Madhya Pradesh,2016,Government,Upper Primary (VI-VIII),30401
+Madhya Pradesh,2016,Government Aided,Upper Primary (VI-VIII),65
+Madhya Pradesh,2016,Private Unaided,Upper Primary (VI-VIII),90
+Madhya Pradesh,2016,Other,Upper Primary (VI-VIII),20
+Maharashtra,2016,Government,Upper Primary (VI-VIII),8
+Maharashtra,2016,Government Aided,Upper Primary (VI-VIII),2
+Maharashtra,2016,Private Unaided,Upper Primary (VI-VIII),100
+Maharashtra,2016,Other,Upper Primary (VI-VIII),6
+Manipur,2016,Government,Upper Primary (VI-VIII),23
+Manipur,2016,Government Aided,Upper Primary (VI-VIII),28
+Manipur,2016,Private Unaided,Upper Primary (VI-VIII),6
+Manipur,2016,Other,Upper Primary (VI-VIII),3
+Meghalaya,2016,Government,Upper Primary (VI-VIII),2257
+Meghalaya,2016,Government Aided,Upper Primary (VI-VIII),932
+Meghalaya,2016,Private Unaided,Upper Primary (VI-VIII),197
+Meghalaya,2016,Other,Upper Primary (VI-VIII),22
+Mizoram,2016,Government,Upper Primary (VI-VIII),960
+Mizoram,2016,Government Aided,Upper Primary (VI-VIII),74
+Mizoram,2016,Private Unaided,Upper Primary (VI-VIII),73
+Mizoram,2016,Other,Upper Primary (VI-VIII),1
+Nagaland,2016,Government,Upper Primary (VI-VIII),40
+Nagaland,2016,Private Unaided,Upper Primary (VI-VIII),0
+Odisha,2016,Government,Upper Primary (VI-VIII),2254
+Odisha,2016,Government Aided,Upper Primary (VI-VIII),1557
+Odisha,2016,Private Unaided,Upper Primary (VI-VIII),119
+Odisha,2016,Other,Upper Primary (VI-VIII),53
+Puducherry,2016,Government,Upper Primary (VI-VIII),1
+Puducherry,2016,Government Aided,Upper Primary (VI-VIII),0
+Puducherry,2016,Private Unaided,Upper Primary (VI-VIII),0
+Punjab,2016,Government,Upper Primary (VI-VIII),2678
+Punjab,2016,Government Aided,Upper Primary (VI-VIII),5
+Punjab,2016,Private Unaided,Upper Primary (VI-VIII),2
+Punjab,2016,Other,Upper Primary (VI-VIII),0
+Rajasthan,2016,Government,Upper Primary (VI-VIII),194
+Rajasthan,2016,Private Unaided,Upper Primary (VI-VIII),13
+Rajasthan,2016,Other,Upper Primary (VI-VIII),0
+Sikkim,2016,Government,Upper Primary (VI-VIII),0
+Sikkim,2016,Government Aided,Upper Primary (VI-VIII),0
+Sikkim,2016,Private Unaided,Upper Primary (VI-VIII),0
+Tamil Nadu,2016,Government,Upper Primary (VI-VIII),73
+Tamil Nadu,2016,Government Aided,Upper Primary (VI-VIII),32
+Tamil Nadu,2016,Private Unaided,Upper Primary (VI-VIII),14
+Tamil Nadu,2016,Other,Upper Primary (VI-VIII),6
+Telangana,2016,Government,Upper Primary (VI-VIII),0
+Telangana,2016,Government Aided,Upper Primary (VI-VIII),0
+Telangana,2016,Private Unaided,Upper Primary (VI-VIII),0
+Telangana,2016,Other,Upper Primary (VI-VIII),0
+The Dadra And Nagar Haveli And Daman And Diu,2016,Government,Upper Primary (VI-VIII),39
+The Dadra And Nagar Haveli And Daman And Diu,2016,Government Aided,Upper Primary (VI-VIII),0
+The Dadra And Nagar Haveli And Daman And Diu,2016,Private Unaided,Upper Primary (VI-VIII),0
+The Dadra And Nagar Haveli And Daman And Diu,2016,Other,Upper Primary (VI-VIII),0
+Tripura,2016,Government,Upper Primary (VI-VIII),1
+Tripura,2016,Government Aided,Upper Primary (VI-VIII),0
+Tripura,2016,Private Unaided,Upper Primary (VI-VIII),0
+Tripura,2016,Other,Upper Primary (VI-VIII),0
+Uttar Pradesh,2016,Government,Upper Primary (VI-VIII),46405
+Uttar Pradesh,2016,Government Aided,Upper Primary (VI-VIII),2574
+Uttar Pradesh,2016,Private Unaided,Upper Primary (VI-VIII),14540
+Uttar Pradesh,2016,Other,Upper Primary (VI-VIII),298
+Uttarakhand,2016,Government,Upper Primary (VI-VIII),2800
+Uttarakhand,2016,Government Aided,Upper Primary (VI-VIII),195
+Uttarakhand,2016,Private Unaided,Upper Primary (VI-VIII),373
+Uttarakhand,2016,Other,Upper Primary (VI-VIII),49
+West Bengal,2016,Government,Upper Primary (VI-VIII),7049
+West Bengal,2016,Government Aided,Upper Primary (VI-VIII),1
+West Bengal,2016,Private Unaided,Upper Primary (VI-VIII),256
+West Bengal,2016,Other,Upper Primary (VI-VIII),271
+Andaman And Nicobar Islands,2017,Government,Higher Secondary (VI-XIII),16
+Andaman And Nicobar Islands,2017,Government Aided,Higher Secondary (VI-XIII),0
+Andaman And Nicobar Islands,2017,Private Unaided,Higher Secondary (VI-XIII),0
+Andhra Pradesh,2017,Government,Higher Secondary (VI-XIII),181
+Andhra Pradesh,2017,Government Aided,Higher Secondary (VI-XIII),2
+Andhra Pradesh,2017,Private Unaided,Higher Secondary (VI-XIII),3
+Andhra Pradesh,2017,Other,Higher Secondary (VI-XIII),0
+Arunachal Pradesh,2017,Government,Higher Secondary (VI-XIII),49
+Arunachal Pradesh,2017,Government Aided,Higher Secondary (VI-XIII),0
+Arunachal Pradesh,2017,Private Unaided,Higher Secondary (VI-XIII),0
+Arunachal Pradesh,2017,Other,Higher Secondary (VI-XIII),0
+Assam,2017,Government,Higher Secondary (VI-XIII),648
+Assam,2017,Government Aided,Higher Secondary (VI-XIII),27
+Assam,2017,Private Unaided,Higher Secondary (VI-XIII),16
+Assam,2017,Other,Higher Secondary (VI-XIII),6
+Bihar,2017,Government,Higher Secondary (VI-XIII),55
+Bihar,2017,Government Aided,Higher Secondary (VI-XIII),18
+Bihar,2017,Private Unaided,Higher Secondary (VI-XIII),7
+Bihar,2017,Other,Higher Secondary (VI-XIII),4
+Chandigarh,2017,Government,Higher Secondary (VI-XIII),1
+Chandigarh,2017,Government Aided,Higher Secondary (VI-XIII),1
+Chandigarh,2017,Private Unaided,Higher Secondary (VI-XIII),1
+Chandigarh,2017,Other,Higher Secondary (VI-XIII),0
+Chhattisgarh,2017,Government,Higher Secondary (VI-XIII),36
+Chhattisgarh,2017,Government Aided,Higher Secondary (VI-XIII),43
+Chhattisgarh,2017,Private Unaided,Higher Secondary (VI-XIII),64
+Chhattisgarh,2017,Other,Higher Secondary (VI-XIII),0
+Delhi,2017,Government,Higher Secondary (VI-XIII),475
+Delhi,2017,Government Aided,Higher Secondary (VI-XIII),65
+Delhi,2017,Private Unaided,Higher Secondary (VI-XIII),7
+Goa,2017,Government,Higher Secondary (VI-XIII),5
+Goa,2017,Government Aided,Higher Secondary (VI-XIII),0
+Goa,2017,Private Unaided,Higher Secondary (VI-XIII),0
+Gujarat,2017,Government,Higher Secondary (VI-XIII),141
+Gujarat,2017,Government Aided,Higher Secondary (VI-XIII),93
+Gujarat,2017,Private Unaided,Higher Secondary (VI-XIII),61
+Gujarat,2017,Other,Higher Secondary (VI-XIII),0
+Haryana,2017,Government,Higher Secondary (VI-XIII),1988
+Haryana,2017,Government Aided,Higher Secondary (VI-XIII),47
+Haryana,2017,Private Unaided,Higher Secondary (VI-XIII),25
+Haryana,2017,Other,Higher Secondary (VI-XIII),0
+Himachal Pradesh,2017,Government,Higher Secondary (VI-XIII),1834
+Himachal Pradesh,2017,Private Unaided,Higher Secondary (VI-XIII),6
+Himachal Pradesh,2017,Other,Higher Secondary (VI-XIII),0
+Jammu And Kashmir,2017,Government,Higher Secondary (VI-XIII),86
+Jammu And Kashmir,2017,Private Unaided,Higher Secondary (VI-XIII),2
+Jammu And Kashmir,2017,Other,Higher Secondary (VI-XIII),0
+Jharkhand,2017,Government,Higher Secondary (VI-XIII),439
+Jharkhand,2017,Government Aided,Higher Secondary (VI-XIII),9
+Jharkhand,2017,Private Unaided,Higher Secondary (VI-XIII),8
+Jharkhand,2017,Other,Higher Secondary (VI-XIII),2
+Karnataka,2017,Government,Higher Secondary (VI-XIII),51
+Karnataka,2017,Government Aided,Higher Secondary (VI-XIII),11
+Karnataka,2017,Private Unaided,Higher Secondary (VI-XIII),9
+Karnataka,2017,Other,Higher Secondary (VI-XIII),0
+Kerala,2017,Government,Higher Secondary (VI-XIII),387
+Kerala,2017,Government Aided,Higher Secondary (VI-XIII),567
+Kerala,2017,Private Unaided,Higher Secondary (VI-XIII),40
+Kerala,2017,Other,Higher Secondary (VI-XIII),1
+Ladakh,2017,Government,Higher Secondary (VI-XIII),2
+Ladakh,2017,Private Unaided,Higher Secondary (VI-XIII),0
+Ladakh,2017,Other,Higher Secondary (VI-XIII),0
+Lakshadweep,2017,Government,Higher Secondary (VI-XIII),5
+Madhya Pradesh,2017,Government,Higher Secondary (VI-XIII),47
+Madhya Pradesh,2017,Government Aided,Higher Secondary (VI-XIII),78
+Madhya Pradesh,2017,Private Unaided,Higher Secondary (VI-XIII),99
+Madhya Pradesh,2017,Other,Higher Secondary (VI-XIII),0
+Maharashtra,2017,Government,Higher Secondary (VI-XIII),65
+Maharashtra,2017,Government Aided,Higher Secondary (VI-XIII),858
+Maharashtra,2017,Private Unaided,Higher Secondary (VI-XIII),336
+Maharashtra,2017,Other,Higher Secondary (VI-XIII),0
+Manipur,2017,Government,Higher Secondary (VI-XIII),30
+Manipur,2017,Government Aided,Higher Secondary (VI-XIII),0
+Manipur,2017,Private Unaided,Higher Secondary (VI-XIII),4
+Manipur,2017,Other,Higher Secondary (VI-XIII),0
+Meghalaya,2017,Government,Higher Secondary (VI-XIII),23
+Meghalaya,2017,Government Aided,Higher Secondary (VI-XIII),12
+Meghalaya,2017,Private Unaided,Higher Secondary (VI-XIII),4
+Meghalaya,2017,Other,Higher Secondary (VI-XIII),0
+Mizoram,2017,Government,Higher Secondary (VI-XIII),0
+Mizoram,2017,Government Aided,Higher Secondary (VI-XIII),0
+Mizoram,2017,Private Unaided,Higher Secondary (VI-XIII),0
+Mizoram,2017,Other,Higher Secondary (VI-XIII),0
+Nagaland,2017,Government,Higher Secondary (VI-XIII),44
+Nagaland,2017,Private Unaided,Higher Secondary (VI-XIII),4
+Odisha,2017,Government,Higher Secondary (VI-XIII),214
+Odisha,2017,Government Aided,Higher Secondary (VI-XIII),3
+Odisha,2017,Private Unaided,Higher Secondary (VI-XIII),4
+Odisha,2017,Other,Higher Secondary (VI-XIII),1
+Puducherry,2017,Government,Higher Secondary (VI-XIII),51
+Puducherry,2017,Government Aided,Higher Secondary (VI-XIII),0
+Puducherry,2017,Private Unaided,Higher Secondary (VI-XIII),1
+Punjab,2017,Government,Higher Secondary (VI-XIII),1954
+Punjab,2017,Government Aided,Higher Secondary (VI-XIII),101
+Punjab,2017,Private Unaided,Higher Secondary (VI-XIII),27
+Punjab,2017,Other,Higher Secondary (VI-XIII),0
+Rajasthan,2017,Government,Higher Secondary (VI-XIII),367
+Rajasthan,2017,Private Unaided,Higher Secondary (VI-XIII),396
+Rajasthan,2017,Other,Higher Secondary (VI-XIII),3
+Sikkim,2017,Government,Higher Secondary (VI-XIII),4
+Sikkim,2017,Government Aided,Higher Secondary (VI-XIII),4
+Sikkim,2017,Private Unaided,Higher Secondary (VI-XIII),0
+Tamil Nadu,2017,Government,Higher Secondary (VI-XIII),2920
+Tamil Nadu,2017,Government Aided,Higher Secondary (VI-XIII),1108
+Tamil Nadu,2017,Private Unaided,Higher Secondary (VI-XIII),288
+Tamil Nadu,2017,Other,Higher Secondary (VI-XIII),1
+Telangana,2017,Government,Higher Secondary (VI-XIII),206
+Telangana,2017,Government Aided,Higher Secondary (VI-XIII),0
+Telangana,2017,Private Unaided,Higher Secondary (VI-XIII),0
+Telangana,2017,Other,Higher Secondary (VI-XIII),0
+The Dadra And Nagar Haveli And Daman And Diu,2017,Government,Higher Secondary (VI-XIII),3
+The Dadra And Nagar Haveli And Daman And Diu,2017,Government Aided,Higher Secondary (VI-XIII),2
+The Dadra And Nagar Haveli And Daman And Diu,2017,Private Unaided,Higher Secondary (VI-XIII),0
+The Dadra And Nagar Haveli And Daman And Diu,2017,Other,Higher Secondary (VI-XIII),0
+Tripura,2017,Government,Higher Secondary (VI-XIII),65
+Tripura,2017,Government Aided,Higher Secondary (VI-XIII),8
+Tripura,2017,Private Unaided,Higher Secondary (VI-XIII),0
+Tripura,2017,Other,Higher Secondary (VI-XIII),0
+Uttar Pradesh,2017,Government,Higher Secondary (VI-XIII),516
+Uttar Pradesh,2017,Government Aided,Higher Secondary (VI-XIII),3540
+Uttar Pradesh,2017,Private Unaided,Higher Secondary (VI-XIII),5237
+Uttar Pradesh,2017,Other,Higher Secondary (VI-XIII),22
+Uttarakhand,2017,Government,Higher Secondary (VI-XIII),1333
+Uttarakhand,2017,Government Aided,Higher Secondary (VI-XIII),263
+Uttarakhand,2017,Private Unaided,Higher Secondary (VI-XIII),105
+Uttarakhand,2017,Other,Higher Secondary (VI-XIII),0
+West Bengal,2017,Government,Higher Secondary (VI-XIII),6117
+West Bengal,2017,Government Aided,Higher Secondary (VI-XIII),27
+West Bengal,2017,Private Unaided,Higher Secondary (VI-XIII),58
+West Bengal,2017,Other,Higher Secondary (VI-XIII),265
+Andaman And Nicobar Islands,2016,Government,Higher Secondary (VI-XIII),16
+Andaman And Nicobar Islands,2016,Government Aided,Higher Secondary (VI-XIII),0
+Andaman And Nicobar Islands,2016,Private Unaided,Higher Secondary (VI-XIII),0
+Andhra Pradesh,2016,Government,Higher Secondary (VI-XIII),178
+Andhra Pradesh,2016,Government Aided,Higher Secondary (VI-XIII),2
+Andhra Pradesh,2016,Private Unaided,Higher Secondary (VI-XIII),1
+Andhra Pradesh,2016,Other,Higher Secondary (VI-XIII),0
+Arunachal Pradesh,2016,Government,Higher Secondary (VI-XIII),51
+Arunachal Pradesh,2016,Government Aided,Higher Secondary (VI-XIII),0
+Arunachal Pradesh,2016,Private Unaided,Higher Secondary (VI-XIII),1
+Arunachal Pradesh,2016,Other,Higher Secondary (VI-XIII),0
+Assam,2016,Government,Higher Secondary (VI-XIII),641
+Assam,2016,Government Aided,Higher Secondary (VI-XIII),28
+Assam,2016,Private Unaided,Higher Secondary (VI-XIII),13
+Assam,2016,Other,Higher Secondary (VI-XIII),6
+Bihar,2016,Government,Higher Secondary (VI-XIII),59
+Bihar,2016,Government Aided,Higher Secondary (VI-XIII),18
+Bihar,2016,Private Unaided,Higher Secondary (VI-XIII),7
+Bihar,2016,Other,Higher Secondary (VI-XIII),5
+Chandigarh,2016,Government,Higher Secondary (VI-XIII),2
+Chandigarh,2016,Government Aided,Higher Secondary (VI-XIII),1
+Chandigarh,2016,Private Unaided,Higher Secondary (VI-XIII),2
+Chandigarh,2016,Other,Higher Secondary (VI-XIII),0
+Chhattisgarh,2016,Government,Higher Secondary (VI-XIII),216
+Chhattisgarh,2016,Government Aided,Higher Secondary (VI-XIII),44
+Chhattisgarh,2016,Private Unaided,Higher Secondary (VI-XIII),66
+Chhattisgarh,2016,Other,Higher Secondary (VI-XIII),0
+Delhi,2016,Government,Higher Secondary (VI-XIII),471
+Delhi,2016,Government Aided,Higher Secondary (VI-XIII),68
+Delhi,2016,Private Unaided,Higher Secondary (VI-XIII),9
+Goa,2016,Government,Higher Secondary (VI-XIII),5
+Goa,2016,Government Aided,Higher Secondary (VI-XIII),0
+Goa,2016,Private Unaided,Higher Secondary (VI-XIII),0
+Gujarat,2016,Government,Higher Secondary (VI-XIII),106
+Gujarat,2016,Government Aided,Higher Secondary (VI-XIII),108
+Gujarat,2016,Private Unaided,Higher Secondary (VI-XIII),79
+Gujarat,2016,Other,Higher Secondary (VI-XIII),0
+Haryana,2016,Government,Higher Secondary (VI-XIII),1864
+Haryana,2016,Government Aided,Higher Secondary (VI-XIII),48
+Haryana,2016,Private Unaided,Higher Secondary (VI-XIII),25
+Haryana,2016,Other,Higher Secondary (VI-XIII),0
+Himachal Pradesh,2016,Government,Higher Secondary (VI-XIII),1733
+Himachal Pradesh,2016,Private Unaided,Higher Secondary (VI-XIII),10
+Himachal Pradesh,2016,Other,Higher Secondary (VI-XIII),0
+Jammu And Kashmir,2016,Government,Higher Secondary (VI-XIII),90
+Jammu And Kashmir,2016,Private Unaided,Higher Secondary (VI-XIII),3
+Jammu And Kashmir,2016,Other,Higher Secondary (VI-XIII),0
+Jharkhand,2016,Government,Higher Secondary (VI-XIII),440
+Jharkhand,2016,Government Aided,Higher Secondary (VI-XIII),7
+Jharkhand,2016,Private Unaided,Higher Secondary (VI-XIII),12
+Jharkhand,2016,Other,Higher Secondary (VI-XIII),4
+Karnataka,2016,Government,Higher Secondary (VI-XIII),47
+Karnataka,2016,Government Aided,Higher Secondary (VI-XIII),10
+Karnataka,2016,Private Unaided,Higher Secondary (VI-XIII),9
+Karnataka,2016,Other,Higher Secondary (VI-XIII),0
+Kerala,2016,Government,Higher Secondary (VI-XIII),401
+Kerala,2016,Government Aided,Higher Secondary (VI-XIII),583
+Kerala,2016,Private Unaided,Higher Secondary (VI-XIII),41
+Kerala,2016,Other,Higher Secondary (VI-XIII),1
+Ladakh,2016,Government,Higher Secondary (VI-XIII),2
+Ladakh,2016,Private Unaided,Higher Secondary (VI-XIII),0
+Ladakh,2016,Other,Higher Secondary (VI-XIII),0
+Lakshadweep,2016,Government,Higher Secondary (VI-XIII),5
+Madhya Pradesh,2016,Government,Higher Secondary (VI-XIII),48
+Madhya Pradesh,2016,Government Aided,Higher Secondary (VI-XIII),83
+Madhya Pradesh,2016,Private Unaided,Higher Secondary (VI-XIII),107
+Madhya Pradesh,2016,Other,Higher Secondary (VI-XIII),0
+Maharashtra,2016,Government,Higher Secondary (VI-XIII),63
+Maharashtra,2016,Government Aided,Higher Secondary (VI-XIII),993
+Maharashtra,2016,Private Unaided,Higher Secondary (VI-XIII),353
+Maharashtra,2016,Other,Higher Secondary (VI-XIII),0
+Manipur,2016,Government,Higher Secondary (VI-XIII),23
+Manipur,2016,Government Aided,Higher Secondary (VI-XIII),0
+Manipur,2016,Private Unaided,Higher Secondary (VI-XIII),4
+Manipur,2016,Other,Higher Secondary (VI-XIII),0
+Meghalaya,2016,Government,Higher Secondary (VI-XIII),21
+Meghalaya,2016,Government Aided,Higher Secondary (VI-XIII),10
+Meghalaya,2016,Private Unaided,Higher Secondary (VI-XIII),3
+Meghalaya,2016,Other,Higher Secondary (VI-XIII),0
+Mizoram,2016,Government,Higher Secondary (VI-XIII),0
+Mizoram,2016,Government Aided,Higher Secondary (VI-XIII),0
+Mizoram,2016,Private Unaided,Higher Secondary (VI-XIII),0
+Mizoram,2016,Other,Higher Secondary (VI-XIII),0
+Nagaland,2016,Government,Higher Secondary (VI-XIII),43
+Nagaland,2016,Private Unaided,Higher Secondary (VI-XIII),3
+Odisha,2016,Government,Higher Secondary (VI-XIII),156
+Odisha,2016,Government Aided,Higher Secondary (VI-XIII),0
+Odisha,2016,Private Unaided,Higher Secondary (VI-XIII),4
+Odisha,2016,Other,Higher Secondary (VI-XIII),1
+Puducherry,2016,Government,Higher Secondary (VI-XIII),51
+Puducherry,2016,Government Aided,Higher Secondary (VI-XIII),0
+Puducherry,2016,Private Unaided,Higher Secondary (VI-XIII),1
+Punjab,2016,Government,Higher Secondary (VI-XIII),1956
+Punjab,2016,Government Aided,Higher Secondary (VI-XIII),102
+Punjab,2016,Private Unaided,Higher Secondary (VI-XIII),20
+Punjab,2016,Other,Higher Secondary (VI-XIII),0
+Rajasthan,2016,Government,Higher Secondary (VI-XIII),364
+Rajasthan,2016,Private Unaided,Higher Secondary (VI-XIII),445
+Rajasthan,2016,Other,Higher Secondary (VI-XIII),1
+Sikkim,2016,Government,Higher Secondary (VI-XIII),7
+Sikkim,2016,Government Aided,Higher Secondary (VI-XIII),0
+Sikkim,2016,Private Unaided,Higher Secondary (VI-XIII),0
+Tamil Nadu,2016,Government,Higher Secondary (VI-XIII),2827
+Tamil Nadu,2016,Government Aided,Higher Secondary (VI-XIII),1103
+Tamil Nadu,2016,Private Unaided,Higher Secondary (VI-XIII),290
+Tamil Nadu,2016,Other,Higher Secondary (VI-XIII),1
+Telangana,2016,Government,Higher Secondary (VI-XIII),206
+Telangana,2016,Government Aided,Higher Secondary (VI-XIII),0
+Telangana,2016,Private Unaided,Higher Secondary (VI-XIII),1
+Telangana,2016,Other,Higher Secondary (VI-XIII),0
+The Dadra And Nagar Haveli And Daman And Diu,2016,Government,Higher Secondary (VI-XIII),3
+The Dadra And Nagar Haveli And Daman And Diu,2016,Government Aided,Higher Secondary (VI-XIII),1
+The Dadra And Nagar Haveli And Daman And Diu,2016,Private Unaided,Higher Secondary (VI-XIII),1
+The Dadra And Nagar Haveli And Daman And Diu,2016,Other,Higher Secondary (VI-XIII),0
+Tripura,2016,Government,Higher Secondary (VI-XIII),61
+Tripura,2016,Government Aided,Higher Secondary (VI-XIII),8
+Tripura,2016,Private Unaided,Higher Secondary (VI-XIII),0
+Tripura,2016,Other,Higher Secondary (VI-XIII),0
+Uttar Pradesh,2016,Government,Higher Secondary (VI-XIII),511
+Uttar Pradesh,2016,Government Aided,Higher Secondary (VI-XIII),3469
+Uttar Pradesh,2016,Private Unaided,Higher Secondary (VI-XIII),4681
+Uttar Pradesh,2016,Other,Higher Secondary (VI-XIII),21
+Uttarakhand,2016,Government,Higher Secondary (VI-XIII),1250
+Uttarakhand,2016,Government Aided,Higher Secondary (VI-XIII),258
+Uttarakhand,2016,Private Unaided,Higher Secondary (VI-XIII),100
+Uttarakhand,2016,Other,Higher Secondary (VI-XIII),0
+West Bengal,2016,Government,Higher Secondary (VI-XIII),6044
+West Bengal,2016,Government Aided,Higher Secondary (VI-XIII),27
+West Bengal,2016,Private Unaided,Higher Secondary (VI-XIII),57
+West Bengal,2016,Other,Higher Secondary (VI-XIII),266
+Andaman And Nicobar Islands,2017,Government,Secondary (I-X),42
+Andaman And Nicobar Islands,2017,Government Aided,Secondary (I-X),0
+Andaman And Nicobar Islands,2017,Private Unaided,Secondary (I-X),6
+Andhra Pradesh,2017,Government,Secondary (I-X),540
+Andhra Pradesh,2017,Government Aided,Secondary (I-X),9
+Andhra Pradesh,2017,Private Unaided,Secondary (I-X),1394
+Andhra Pradesh,2017,Other,Secondary (I-X),65
+Arunachal Pradesh,2017,Government,Secondary (I-X),148
+Arunachal Pradesh,2017,Government Aided,Secondary (I-X),23
+Arunachal Pradesh,2017,Private Unaided,Secondary (I-X),87
+Arunachal Pradesh,2017,Other,Secondary (I-X),0
+Assam,2017,Government,Secondary (I-X),626
+Assam,2017,Government Aided,Secondary (I-X),7
+Assam,2017,Private Unaided,Secondary (I-X),1958
+Assam,2017,Other,Secondary (I-X),53
+Bihar,2017,Government,Secondary (I-X),1833
+Bihar,2017,Government Aided,Secondary (I-X),1
+Bihar,2017,Private Unaided,Secondary (I-X),228
+Bihar,2017,Other,Secondary (I-X),251
+Chandigarh,2017,Government,Secondary (I-X),55
+Chandigarh,2017,Government Aided,Secondary (I-X),0
+Chandigarh,2017,Private Unaided,Secondary (I-X),14
+Chandigarh,2017,Other,Secondary (I-X),2
+Chhattisgarh,2017,Government,Secondary (I-X),52
+Chhattisgarh,2017,Government Aided,Secondary (I-X),3
+Chhattisgarh,2017,Private Unaided,Secondary (I-X),554
+Chhattisgarh,2017,Other,Secondary (I-X),0
+Delhi,2017,Government,Secondary (I-X),24
+Delhi,2017,Government Aided,Secondary (I-X),11
+Delhi,2017,Private Unaided,Secondary (I-X),232
+Goa,2017,Government,Secondary (I-X),0
+Goa,2017,Government Aided,Secondary (I-X),165
+Goa,2017,Private Unaided,Secondary (I-X),14
+Gujarat,2017,Government,Secondary (I-X),29
+Gujarat,2017,Government Aided,Secondary (I-X),9
+Gujarat,2017,Private Unaided,Secondary (I-X),816
+Gujarat,2017,Other,Secondary (I-X),1
+Haryana,2017,Government,Secondary (I-X),2
+Haryana,2017,Government Aided,Secondary (I-X),37
+Haryana,2017,Private Unaided,Secondary (I-X),1857
+Haryana,2017,Other,Secondary (I-X),26
+Himachal Pradesh,2017,Government,Secondary (I-X),3
+Himachal Pradesh,2017,Private Unaided,Secondary (I-X),684
+Himachal Pradesh,2017,Other,Secondary (I-X),0
+Jammu And Kashmir,2017,Government,Secondary (I-X),1337
+Jammu And Kashmir,2017,Private Unaided,Secondary (I-X),1323
+Jammu And Kashmir,2017,Other,Secondary (I-X),1
+Jharkhand,2017,Government,Secondary (I-X),1440
+Jharkhand,2017,Government Aided,Secondary (I-X),12
+Jharkhand,2017,Private Unaided,Secondary (I-X),303
+Jharkhand,2017,Other,Secondary (I-X),526
+Karnataka,2017,Government,Secondary (I-X),492
+Karnataka,2017,Government Aided,Secondary (I-X),64
+Karnataka,2017,Private Unaided,Secondary (I-X),2889
+Karnataka,2017,Other,Secondary (I-X),2
+Kerala,2017,Government,Secondary (I-X),201
+Kerala,2017,Government Aided,Secondary (I-X),103
+Kerala,2017,Private Unaided,Secondary (I-X),855
+Kerala,2017,Other,Secondary (I-X),105
+Ladakh,2017,Government,Secondary (I-X),30
+Ladakh,2017,Private Unaided,Secondary (I-X),30
+Ladakh,2017,Other,Secondary (I-X),0
+Lakshadweep,2017,Government,Secondary (I-X),1
+Madhya Pradesh,2017,Government,Secondary (I-X),17
+Madhya Pradesh,2017,Government Aided,Secondary (I-X),11
+Madhya Pradesh,2017,Private Unaided,Secondary (I-X),3058
+Madhya Pradesh,2017,Other,Secondary (I-X),0
+Maharashtra,2017,Government,Secondary (I-X),881
+Maharashtra,2017,Government Aided,Secondary (I-X),6265
+Maharashtra,2017,Private Unaided,Secondary (I-X),2522
+Maharashtra,2017,Other,Secondary (I-X),93
+Manipur,2017,Government,Secondary (I-X),259
+Manipur,2017,Government Aided,Secondary (I-X),33
+Manipur,2017,Private Unaided,Secondary (I-X),447
+Manipur,2017,Other,Secondary (I-X),5
+Meghalaya,2017,Government,Secondary (I-X),11
+Meghalaya,2017,Government Aided,Secondary (I-X),6
+Meghalaya,2017,Private Unaided,Secondary (I-X),103
+Meghalaya,2017,Other,Secondary (I-X),8
+Mizoram,2017,Government,Secondary (I-X),0
+Mizoram,2017,Government Aided,Secondary (I-X),0
+Mizoram,2017,Private Unaided,Secondary (I-X),0
+Mizoram,2017,Other,Secondary (I-X),0
+Nagaland,2017,Government,Secondary (I-X),109
+Nagaland,2017,Private Unaided,Secondary (I-X),323
+Odisha,2017,Government,Secondary (I-X),2189
+Odisha,2017,Government Aided,Secondary (I-X),16
+Odisha,2017,Private Unaided,Secondary (I-X),376
+Odisha,2017,Other,Secondary (I-X),105
+Puducherry,2017,Government,Secondary (I-X),39
+Puducherry,2017,Government Aided,Secondary (I-X),18
+Puducherry,2017,Private Unaided,Secondary (I-X),103
+Punjab,2017,Government,Secondary (I-X),25
+Punjab,2017,Government Aided,Secondary (I-X),50
+Punjab,2017,Private Unaided,Secondary (I-X),2623
+Punjab,2017,Other,Secondary (I-X),89
+Rajasthan,2017,Government,Secondary (I-X),3971
+Rajasthan,2017,Private Unaided,Secondary (I-X),6992
+Rajasthan,2017,Other,Secondary (I-X),24
+Sikkim,2017,Government,Secondary (I-X),120
+Sikkim,2017,Government Aided,Secondary (I-X),1
+Sikkim,2017,Private Unaided,Secondary (I-X),22
+Tamil Nadu,2017,Government,Secondary (I-X),61
+Tamil Nadu,2017,Government Aided,Secondary (I-X),32
+Tamil Nadu,2017,Private Unaided,Secondary (I-X),1835
+Tamil Nadu,2017,Other,Secondary (I-X),11
+Telangana,2017,Government,Secondary (I-X),734
+Telangana,2017,Government Aided,Secondary (I-X),42
+Telangana,2017,Private Unaided,Secondary (I-X),5618
+Telangana,2017,Other,Secondary (I-X),12
+The Dadra And Nagar Haveli And Daman And Diu,2017,Government,Secondary (I-X),2
+The Dadra And Nagar Haveli And Daman And Diu,2017,Government Aided,Secondary (I-X),5
+The Dadra And Nagar Haveli And Daman And Diu,2017,Private Unaided,Secondary (I-X),11
+The Dadra And Nagar Haveli And Daman And Diu,2017,Other,Secondary (I-X),0
+Tripura,2017,Government,Secondary (I-X),587
+Tripura,2017,Government Aided,Secondary (I-X),4
+Tripura,2017,Private Unaided,Secondary (I-X),63
+Tripura,2017,Other,Secondary (I-X),4
+Uttar Pradesh,2017,Government,Secondary (I-X),25
+Uttar Pradesh,2017,Government Aided,Secondary (I-X),62
+Uttar Pradesh,2017,Private Unaided,Secondary (I-X),1023
+Uttar Pradesh,2017,Other,Secondary (I-X),1281
+Uttarakhand,2017,Government,Secondary (I-X),13
+Uttarakhand,2017,Government Aided,Secondary (I-X),5
+Uttarakhand,2017,Private Unaided,Secondary (I-X),172
+Uttarakhand,2017,Other,Secondary (I-X),1
+West Bengal,2017,Government,Secondary (I-X),46
+West Bengal,2017,Government Aided,Secondary (I-X),5
+West Bengal,2017,Private Unaided,Secondary (I-X),344
+West Bengal,2017,Other,Secondary (I-X),77
+Andaman And Nicobar Islands,2016,Government,Secondary (I-X),40
+Andaman And Nicobar Islands,2016,Government Aided,Secondary (I-X),0
+Andaman And Nicobar Islands,2016,Private Unaided,Secondary (I-X),7
+Andhra Pradesh,2016,Government,Secondary (I-X),489
+Andhra Pradesh,2016,Government Aided,Secondary (I-X),7
+Andhra Pradesh,2016,Private Unaided,Secondary (I-X),1187
+Andhra Pradesh,2016,Other,Secondary (I-X),64
+Arunachal Pradesh,2016,Government,Secondary (I-X),152
+Arunachal Pradesh,2016,Government Aided,Secondary (I-X),22
+Arunachal Pradesh,2016,Private Unaided,Secondary (I-X),79
+Arunachal Pradesh,2016,Other,Secondary (I-X),0
+Assam,2016,Government,Secondary (I-X),19
+Assam,2016,Government Aided,Secondary (I-X),11
+Assam,2016,Private Unaided,Secondary (I-X),1721
+Assam,2016,Other,Secondary (I-X),52
+Bihar,2016,Government,Secondary (I-X),2186
+Bihar,2016,Government Aided,Secondary (I-X),1
+Bihar,2016,Private Unaided,Secondary (I-X),210
+Bihar,2016,Other,Secondary (I-X),214
+Chandigarh,2016,Government,Secondary (I-X),51
+Chandigarh,2016,Government Aided,Secondary (I-X),0
+Chandigarh,2016,Private Unaided,Secondary (I-X),14
+Chandigarh,2016,Other,Secondary (I-X),0
+Chhattisgarh,2016,Government,Secondary (I-X),33
+Chhattisgarh,2016,Government Aided,Secondary (I-X),3
+Chhattisgarh,2016,Private Unaided,Secondary (I-X),546
+Chhattisgarh,2016,Other,Secondary (I-X),0
+Delhi,2016,Government,Secondary (I-X),24
+Delhi,2016,Government Aided,Secondary (I-X),10
+Delhi,2016,Private Unaided,Secondary (I-X),220
+Goa,2016,Government,Secondary (I-X),0
+Goa,2016,Government Aided,Secondary (I-X),161
+Goa,2016,Private Unaided,Secondary (I-X),15
+Gujarat,2016,Government,Secondary (I-X),26
+Gujarat,2016,Government Aided,Secondary (I-X),12
+Gujarat,2016,Private Unaided,Secondary (I-X),686
+Gujarat,2016,Other,Secondary (I-X),1
+Haryana,2016,Government,Secondary (I-X),3
+Haryana,2016,Government Aided,Secondary (I-X),37
+Haryana,2016,Private Unaided,Secondary (I-X),1859
+Haryana,2016,Other,Secondary (I-X),31
+Himachal Pradesh,2016,Government,Secondary (I-X),6
+Himachal Pradesh,2016,Private Unaided,Secondary (I-X),672
+Himachal Pradesh,2016,Other,Secondary (I-X),0
+Jammu And Kashmir,2016,Government,Secondary (I-X),1376
+Jammu And Kashmir,2016,Private Unaided,Secondary (I-X),1296
+Jammu And Kashmir,2016,Other,Secondary (I-X),0
+Jharkhand,2016,Government,Secondary (I-X),1441
+Jharkhand,2016,Government Aided,Secondary (I-X),12
+Jharkhand,2016,Private Unaided,Secondary (I-X),296
+Jharkhand,2016,Other,Secondary (I-X),512
+Karnataka,2016,Government,Secondary (I-X),497
+Karnataka,2016,Government Aided,Secondary (I-X),64
+Karnataka,2016,Private Unaided,Secondary (I-X),2595
+Karnataka,2016,Other,Secondary (I-X),0
+Kerala,2016,Government,Secondary (I-X),198
+Kerala,2016,Government Aided,Secondary (I-X),95
+Kerala,2016,Private Unaided,Secondary (I-X),850
+Kerala,2016,Other,Secondary (I-X),116
+Ladakh,2016,Government,Secondary (I-X),31
+Ladakh,2016,Private Unaided,Secondary (I-X),29
+Ladakh,2016,Other,Secondary (I-X),0
+Lakshadweep,2016,Government,Secondary (I-X),2
+Madhya Pradesh,2016,Government,Secondary (I-X),17
+Madhya Pradesh,2016,Government Aided,Secondary (I-X),15
+Madhya Pradesh,2016,Private Unaided,Secondary (I-X),2749
+Madhya Pradesh,2016,Other,Secondary (I-X),1
+Maharashtra,2016,Government,Secondary (I-X),841
+Maharashtra,2016,Government Aided,Secondary (I-X),5918
+Maharashtra,2016,Private Unaided,Secondary (I-X),2342
+Maharashtra,2016,Other,Secondary (I-X),42
+Manipur,2016,Government,Secondary (I-X),220
+Manipur,2016,Government Aided,Secondary (I-X),36
+Manipur,2016,Private Unaided,Secondary (I-X),453
+Manipur,2016,Other,Secondary (I-X),5
+Meghalaya,2016,Government,Secondary (I-X),10
+Meghalaya,2016,Government Aided,Secondary (I-X),9
+Meghalaya,2016,Private Unaided,Secondary (I-X),93
+Meghalaya,2016,Other,Secondary (I-X),8
+Mizoram,2016,Government,Secondary (I-X),0
+Mizoram,2016,Government Aided,Secondary (I-X),0
+Mizoram,2016,Private Unaided,Secondary (I-X),0
+Mizoram,2016,Other,Secondary (I-X),0
+Nagaland,2016,Government,Secondary (I-X),89
+Nagaland,2016,Private Unaided,Secondary (I-X),300
+Odisha,2016,Government,Secondary (I-X),1479
+Odisha,2016,Government Aided,Secondary (I-X),9
+Odisha,2016,Private Unaided,Secondary (I-X),411
+Odisha,2016,Other,Secondary (I-X),99
+Puducherry,2016,Government,Secondary (I-X),40
+Puducherry,2016,Government Aided,Secondary (I-X),19
+Puducherry,2016,Private Unaided,Secondary (I-X),108
+Punjab,2016,Government,Secondary (I-X),293
+Punjab,2016,Government Aided,Secondary (I-X),51
+Punjab,2016,Private Unaided,Secondary (I-X),2142
+Punjab,2016,Other,Secondary (I-X),262
+Rajasthan,2016,Government,Secondary (I-X),4186
+Rajasthan,2016,Private Unaided,Secondary (I-X),6779
+Rajasthan,2016,Other,Secondary (I-X),23
+Sikkim,2016,Government,Secondary (I-X),116
+Sikkim,2016,Government Aided,Secondary (I-X),1
+Sikkim,2016,Private Unaided,Secondary (I-X),21
+Tamil Nadu,2016,Government,Secondary (I-X),356
+Tamil Nadu,2016,Government Aided,Secondary (I-X),33
+Tamil Nadu,2016,Private Unaided,Secondary (I-X),1480
+Tamil Nadu,2016,Other,Secondary (I-X),12
+Telangana,2016,Government,Secondary (I-X),483
+Telangana,2016,Government Aided,Secondary (I-X),49
+Telangana,2016,Private Unaided,Secondary (I-X),4918
+Telangana,2016,Other,Secondary (I-X),25
+The Dadra And Nagar Haveli And Daman And Diu,2016,Government,Secondary (I-X),2
+The Dadra And Nagar Haveli And Daman And Diu,2016,Government Aided,Secondary (I-X),5
+The Dadra And Nagar Haveli And Daman And Diu,2016,Private Unaided,Secondary (I-X),10
+The Dadra And Nagar Haveli And Daman And Diu,2016,Other,Secondary (I-X),0
+Tripura,2016,Government,Secondary (I-X),551
+Tripura,2016,Government Aided,Secondary (I-X),4
+Tripura,2016,Private Unaided,Secondary (I-X),55
+Tripura,2016,Other,Secondary (I-X),3
+Uttar Pradesh,2016,Government,Secondary (I-X),38
+Uttar Pradesh,2016,Government Aided,Secondary (I-X),72
+Uttar Pradesh,2016,Private Unaided,Secondary (I-X),846
+Uttar Pradesh,2016,Other,Secondary (I-X),551
+Uttarakhand,2016,Government,Secondary (I-X),9
+Uttarakhand,2016,Government Aided,Secondary (I-X),5
+Uttarakhand,2016,Private Unaided,Secondary (I-X),156
+Uttarakhand,2016,Other,Secondary (I-X),1
+West Bengal,2016,Government,Secondary (I-X),44
+West Bengal,2016,Government Aided,Secondary (I-X),8
+West Bengal,2016,Private Unaided,Secondary (I-X),282
+West Bengal,2016,Other,Secondary (I-X),83
+Andaman And Nicobar Islands,2017,Government,Secondary (VI-X),3
+Andaman And Nicobar Islands,2017,Government Aided,Secondary (VI-X),0
+Andaman And Nicobar Islands,2017,Private Unaided,Secondary (VI-X),0
+Andhra Pradesh,2017,Government,Secondary (VI-X),5574
+Andhra Pradesh,2017,Government Aided,Secondary (VI-X),459
+Andhra Pradesh,2017,Private Unaided,Secondary (VI-X),4113
+Andhra Pradesh,2017,Other,Secondary (VI-X),21
+Arunachal Pradesh,2017,Government,Secondary (VI-X),44
+Arunachal Pradesh,2017,Government Aided,Secondary (VI-X),0
+Arunachal Pradesh,2017,Private Unaided,Secondary (VI-X),0
+Arunachal Pradesh,2017,Other,Secondary (VI-X),0
+Assam,2017,Government,Secondary (VI-X),1732
+Assam,2017,Government Aided,Secondary (VI-X),110
+Assam,2017,Private Unaided,Secondary (VI-X),63
+Assam,2017,Other,Secondary (VI-X),77
+Bihar,2017,Government,Secondary (VI-X),140
+Bihar,2017,Government Aided,Secondary (VI-X),5
+Bihar,2017,Private Unaided,Secondary (VI-X),58
+Bihar,2017,Other,Secondary (VI-X),8
+Chandigarh,2017,Government,Secondary (VI-X),0
+Chandigarh,2017,Government Aided,Secondary (VI-X),0
+Chandigarh,2017,Private Unaided,Secondary (VI-X),0
+Chandigarh,2017,Other,Secondary (VI-X),0
+Chhattisgarh,2017,Government,Secondary (VI-X),7
+Chhattisgarh,2017,Government Aided,Secondary (VI-X),2
+Chhattisgarh,2017,Private Unaided,Secondary (VI-X),24
+Chhattisgarh,2017,Other,Secondary (VI-X),0
+Delhi,2017,Government,Secondary (VI-X),87
+Delhi,2017,Government Aided,Secondary (VI-X),14
+Delhi,2017,Private Unaided,Secondary (VI-X),6
+Goa,2017,Government,Secondary (VI-X),74
+Goa,2017,Government Aided,Secondary (VI-X),144
+Goa,2017,Private Unaided,Secondary (VI-X),2
+Gujarat,2017,Government,Secondary (VI-X),59
+Gujarat,2017,Government Aided,Secondary (VI-X),14
+Gujarat,2017,Private Unaided,Secondary (VI-X),15
+Gujarat,2017,Other,Secondary (VI-X),0
+Haryana,2017,Government,Secondary (VI-X),1278
+Haryana,2017,Government Aided,Secondary (VI-X),11
+Haryana,2017,Private Unaided,Secondary (VI-X),30
+Haryana,2017,Other,Secondary (VI-X),1
+Himachal Pradesh,2017,Government,Secondary (VI-X),932
+Himachal Pradesh,2017,Private Unaided,Secondary (VI-X),1
+Himachal Pradesh,2017,Other,Secondary (VI-X),0
+Jammu And Kashmir,2017,Government,Secondary (VI-X),432
+Jammu And Kashmir,2017,Private Unaided,Secondary (VI-X),1
+Jammu And Kashmir,2017,Other,Secondary (VI-X),0
+Jharkhand,2017,Government,Secondary (VI-X),94
+Jharkhand,2017,Government Aided,Secondary (VI-X),106
+Jharkhand,2017,Private Unaided,Secondary (VI-X),316
+Jharkhand,2017,Other,Secondary (VI-X),80
+Karnataka,2017,Government,Secondary (VI-X),906
+Karnataka,2017,Government Aided,Secondary (VI-X),48
+Karnataka,2017,Private Unaided,Secondary (VI-X),114
+Karnataka,2017,Other,Secondary (VI-X),4
+Kerala,2017,Government,Secondary (VI-X),54
+Kerala,2017,Government Aided,Secondary (VI-X),285
+Kerala,2017,Private Unaided,Secondary (VI-X),22
+Kerala,2017,Other,Secondary (VI-X),1
+Ladakh,2017,Government,Secondary (VI-X),10
+Ladakh,2017,Private Unaided,Secondary (VI-X),0
+Ladakh,2017,Other,Secondary (VI-X),0
+Lakshadweep,2017,Government,Secondary (VI-X),0
+Madhya Pradesh,2017,Government,Secondary (VI-X),1
+Madhya Pradesh,2017,Government Aided,Secondary (VI-X),6
+Madhya Pradesh,2017,Private Unaided,Secondary (VI-X),39
+Madhya Pradesh,2017,Other,Secondary (VI-X),0
+Maharashtra,2017,Government,Secondary (VI-X),322
+Maharashtra,2017,Government Aided,Secondary (VI-X),3749
+Maharashtra,2017,Private Unaided,Secondary (VI-X),2197
+Maharashtra,2017,Other,Secondary (VI-X),38
+Manipur,2017,Government,Secondary (VI-X),94
+Manipur,2017,Government Aided,Secondary (VI-X),38
+Manipur,2017,Private Unaided,Secondary (VI-X),5
+Manipur,2017,Other,Secondary (VI-X),0
+Meghalaya,2017,Government,Secondary (VI-X),63
+Meghalaya,2017,Government Aided,Secondary (VI-X),122
+Meghalaya,2017,Private Unaided,Secondary (VI-X),31
+Meghalaya,2017,Other,Secondary (VI-X),5
+Mizoram,2017,Government,Secondary (VI-X),0
+Mizoram,2017,Government Aided,Secondary (VI-X),0
+Mizoram,2017,Private Unaided,Secondary (VI-X),0
+Mizoram,2017,Other,Secondary (VI-X),0
+Nagaland,2017,Government,Secondary (VI-X),146
+Nagaland,2017,Private Unaided,Secondary (VI-X),1
+Odisha,2017,Government,Secondary (VI-X),1665
+Odisha,2017,Government Aided,Secondary (VI-X),2181
+Odisha,2017,Private Unaided,Secondary (VI-X),193
+Odisha,2017,Other,Secondary (VI-X),57
+Puducherry,2017,Government,Secondary (VI-X),35
+Puducherry,2017,Government Aided,Secondary (VI-X),0
+Puducherry,2017,Private Unaided,Secondary (VI-X),1
+Punjab,2017,Government,Secondary (VI-X),1685
+Punjab,2017,Government Aided,Secondary (VI-X),27
+Punjab,2017,Private Unaided,Secondary (VI-X),8
+Punjab,2017,Other,Secondary (VI-X),1
+Rajasthan,2017,Government,Secondary (VI-X),69
+Rajasthan,2017,Private Unaided,Secondary (VI-X),129
+Rajasthan,2017,Other,Secondary (VI-X),2
+Sikkim,2017,Government,Secondary (VI-X),1
+Sikkim,2017,Government Aided,Secondary (VI-X),3
+Sikkim,2017,Private Unaided,Secondary (VI-X),0
+Tamil Nadu,2017,Government,Secondary (VI-X),3100
+Tamil Nadu,2017,Government Aided,Secondary (VI-X),576
+Tamil Nadu,2017,Private Unaided,Secondary (VI-X),181
+Tamil Nadu,2017,Other,Secondary (VI-X),8
+Telangana,2017,Government,Secondary (VI-X),5119
+Telangana,2017,Government Aided,Secondary (VI-X),225
+Telangana,2017,Private Unaided,Secondary (VI-X),340
+Telangana,2017,Other,Secondary (VI-X),0
+The Dadra And Nagar Haveli And Daman And Diu,2017,Government,Secondary (VI-X),0
+The Dadra And Nagar Haveli And Daman And Diu,2017,Government Aided,Secondary (VI-X),0
+The Dadra And Nagar Haveli And Daman And Diu,2017,Private Unaided,Secondary (VI-X),0
+The Dadra And Nagar Haveli And Daman And Diu,2017,Other,Secondary (VI-X),0
+Tripura,2017,Government,Secondary (VI-X),5
+Tripura,2017,Government Aided,Secondary (VI-X),0
+Tripura,2017,Private Unaided,Secondary (VI-X),1
+Tripura,2017,Other,Secondary (VI-X),0
+Uttar Pradesh,2017,Government,Secondary (VI-X),49
+Uttar Pradesh,2017,Government Aided,Secondary (VI-X),381
+Uttar Pradesh,2017,Private Unaided,Secondary (VI-X),3315
+Uttar Pradesh,2017,Other,Secondary (VI-X),52
+Uttarakhand,2017,Government,Secondary (VI-X),729
+Uttarakhand,2017,Government Aided,Secondary (VI-X),50
+Uttarakhand,2017,Private Unaided,Secondary (VI-X),60
+Uttarakhand,2017,Other,Secondary (VI-X),1
+West Bengal,2017,Government,Secondary (VI-X),2584
+West Bengal,2017,Government Aided,Secondary (VI-X),12
+West Bengal,2017,Private Unaided,Secondary (VI-X),96
+West Bengal,2017,Other,Secondary (VI-X),169
+Andaman And Nicobar Islands,2016,Government,Secondary (VI-X),3
+Andaman And Nicobar Islands,2016,Government Aided,Secondary (VI-X),0
+Andaman And Nicobar Islands,2016,Private Unaided,Secondary (VI-X),0
+Andhra Pradesh,2016,Government,Secondary (VI-X),5400
+Andhra Pradesh,2016,Government Aided,Secondary (VI-X),464
+Andhra Pradesh,2016,Private Unaided,Secondary (VI-X),4058
+Andhra Pradesh,2016,Other,Secondary (VI-X),25
+Arunachal Pradesh,2016,Government,Secondary (VI-X),40
+Arunachal Pradesh,2016,Government Aided,Secondary (VI-X),0
+Arunachal Pradesh,2016,Private Unaided,Secondary (VI-X),0
+Arunachal Pradesh,2016,Other,Secondary (VI-X),0
+Assam,2016,Government,Secondary (VI-X),1067
+Assam,2016,Government Aided,Secondary (VI-X),102
+Assam,2016,Private Unaided,Secondary (VI-X),60
+Assam,2016,Other,Secondary (VI-X),74
+Bihar,2016,Government,Secondary (VI-X),146
+Bihar,2016,Government Aided,Secondary (VI-X),11
+Bihar,2016,Private Unaided,Secondary (VI-X),66
+Bihar,2016,Other,Secondary (VI-X),4
+Chandigarh,2016,Government,Secondary (VI-X),0
+Chandigarh,2016,Government Aided,Secondary (VI-X),0
+Chandigarh,2016,Private Unaided,Secondary (VI-X),0
+Chandigarh,2016,Other,Secondary (VI-X),0
+Chhattisgarh,2016,Government,Secondary (VI-X),1325
+Chhattisgarh,2016,Government Aided,Secondary (VI-X),2
+Chhattisgarh,2016,Private Unaided,Secondary (VI-X),23
+Chhattisgarh,2016,Other,Secondary (VI-X),0
+Delhi,2016,Government,Secondary (VI-X),94
+Delhi,2016,Government Aided,Secondary (VI-X),14
+Delhi,2016,Private Unaided,Secondary (VI-X),6
+Goa,2016,Government,Secondary (VI-X),74
+Goa,2016,Government Aided,Secondary (VI-X),145
+Goa,2016,Private Unaided,Secondary (VI-X),2
+Gujarat,2016,Government,Secondary (VI-X),89
+Gujarat,2016,Government Aided,Secondary (VI-X),15
+Gujarat,2016,Private Unaided,Secondary (VI-X),19
+Gujarat,2016,Other,Secondary (VI-X),0
+Haryana,2016,Government,Secondary (VI-X),1380
+Haryana,2016,Government Aided,Secondary (VI-X),11
+Haryana,2016,Private Unaided,Secondary (VI-X),33
+Haryana,2016,Other,Secondary (VI-X),0
+Himachal Pradesh,2016,Government,Secondary (VI-X),924
+Himachal Pradesh,2016,Private Unaided,Secondary (VI-X),1
+Himachal Pradesh,2016,Other,Secondary (VI-X),0
+Jammu And Kashmir,2016,Government,Secondary (VI-X),392
+Jammu And Kashmir,2016,Private Unaided,Secondary (VI-X),1
+Jammu And Kashmir,2016,Other,Secondary (VI-X),0
+Jharkhand,2016,Government,Secondary (VI-X),97
+Jharkhand,2016,Government Aided,Secondary (VI-X),92
+Jharkhand,2016,Private Unaided,Secondary (VI-X),328
+Jharkhand,2016,Other,Secondary (VI-X),81
+Karnataka,2016,Government,Secondary (VI-X),608
+Karnataka,2016,Government Aided,Secondary (VI-X),50
+Karnataka,2016,Private Unaided,Secondary (VI-X),104
+Karnataka,2016,Other,Secondary (VI-X),2
+Kerala,2016,Government,Secondary (VI-X),54
+Kerala,2016,Government Aided,Secondary (VI-X),287
+Kerala,2016,Private Unaided,Secondary (VI-X),22
+Kerala,2016,Other,Secondary (VI-X),2
+Ladakh,2016,Government,Secondary (VI-X),9
+Ladakh,2016,Private Unaided,Secondary (VI-X),0
+Ladakh,2016,Other,Secondary (VI-X),0
+Lakshadweep,2016,Government,Secondary (VI-X),0
+Madhya Pradesh,2016,Government,Secondary (VI-X),1
+Madhya Pradesh,2016,Government Aided,Secondary (VI-X),5
+Madhya Pradesh,2016,Private Unaided,Secondary (VI-X),41
+Madhya Pradesh,2016,Other,Secondary (VI-X),0
+Maharashtra,2016,Government,Secondary (VI-X),328
+Maharashtra,2016,Government Aided,Secondary (VI-X),3430
+Maharashtra,2016,Private Unaided,Secondary (VI-X),2421
+Maharashtra,2016,Other,Secondary (VI-X),30
+Manipur,2016,Government,Secondary (VI-X),101
+Manipur,2016,Government Aided,Secondary (VI-X),40
+Manipur,2016,Private Unaided,Secondary (VI-X),7
+Manipur,2016,Other,Secondary (VI-X),0
+Meghalaya,2016,Government,Secondary (VI-X),24
+Meghalaya,2016,Government Aided,Secondary (VI-X),114
+Meghalaya,2016,Private Unaided,Secondary (VI-X),25
+Meghalaya,2016,Other,Secondary (VI-X),4
+Mizoram,2016,Government,Secondary (VI-X),0
+Mizoram,2016,Government Aided,Secondary (VI-X),0
+Mizoram,2016,Private Unaided,Secondary (VI-X),0
+Mizoram,2016,Other,Secondary (VI-X),0
+Nagaland,2016,Government,Secondary (VI-X),178
+Nagaland,2016,Private Unaided,Secondary (VI-X),1
+Odisha,2016,Government,Secondary (VI-X),3650
+Odisha,2016,Government Aided,Secondary (VI-X),3151
+Odisha,2016,Private Unaided,Secondary (VI-X),381
+Odisha,2016,Other,Secondary (VI-X),47
+Puducherry,2016,Government,Secondary (VI-X),35
+Puducherry,2016,Government Aided,Secondary (VI-X),0
+Puducherry,2016,Private Unaided,Secondary (VI-X),1
+Punjab,2016,Government,Secondary (VI-X),1688
+Punjab,2016,Government Aided,Secondary (VI-X),30
+Punjab,2016,Private Unaided,Secondary (VI-X),5
+Punjab,2016,Other,Secondary (VI-X),3
+Rajasthan,2016,Government,Secondary (VI-X),83
+Rajasthan,2016,Private Unaided,Secondary (VI-X),161
+Rajasthan,2016,Other,Secondary (VI-X),2
+Sikkim,2016,Government,Secondary (VI-X),5
+Sikkim,2016,Government Aided,Secondary (VI-X),0
+Sikkim,2016,Private Unaided,Secondary (VI-X),0
+Tamil Nadu,2016,Government,Secondary (VI-X),3047
+Tamil Nadu,2016,Government Aided,Secondary (VI-X),586
+Tamil Nadu,2016,Private Unaided,Secondary (VI-X),178
+Tamil Nadu,2016,Other,Secondary (VI-X),5
+Telangana,2016,Government,Secondary (VI-X),5015
+Telangana,2016,Government Aided,Secondary (VI-X),234
+Telangana,2016,Private Unaided,Secondary (VI-X),1098
+Telangana,2016,Other,Secondary (VI-X),6
+The Dadra And Nagar Haveli And Daman And Diu,2016,Government,Secondary (VI-X),0
+The Dadra And Nagar Haveli And Daman And Diu,2016,Government Aided,Secondary (VI-X),0
+The Dadra And Nagar Haveli And Daman And Diu,2016,Private Unaided,Secondary (VI-X),0
+The Dadra And Nagar Haveli And Daman And Diu,2016,Other,Secondary (VI-X),0
+Tripura,2016,Government,Secondary (VI-X),8
+Tripura,2016,Government Aided,Secondary (VI-X),0
+Tripura,2016,Private Unaided,Secondary (VI-X),1
+Tripura,2016,Other,Secondary (VI-X),0
+Uttar Pradesh,2016,Government,Secondary (VI-X),71
+Uttar Pradesh,2016,Government Aided,Secondary (VI-X),386
+Uttar Pradesh,2016,Private Unaided,Secondary (VI-X),2676
+Uttar Pradesh,2016,Other,Secondary (VI-X),27
+Uttarakhand,2016,Government,Secondary (VI-X),796
+Uttarakhand,2016,Government Aided,Secondary (VI-X),51
+Uttarakhand,2016,Private Unaided,Secondary (VI-X),61
+Uttarakhand,2016,Other,Secondary (VI-X),0
+West Bengal,2016,Government,Secondary (VI-X),2600
+West Bengal,2016,Government Aided,Secondary (VI-X),7
+West Bengal,2016,Private Unaided,Secondary (VI-X),98
+West Bengal,2016,Other,Secondary (VI-X),168
+Andaman And Nicobar Islands,2017,Government,Secondary (IX-X),0
+Andaman And Nicobar Islands,2017,Government Aided,Secondary (IX-X),0
+Andaman And Nicobar Islands,2017,Private Unaided,Secondary (IX-X),0
+Andhra Pradesh,2017,Government,Secondary (IX-X),0
+Andhra Pradesh,2017,Government Aided,Secondary (IX-X),0
+Andhra Pradesh,2017,Private Unaided,Secondary (IX-X),21
+Andhra Pradesh,2017,Other,Secondary (IX-X),0
+Arunachal Pradesh,2017,Government,Secondary (IX-X),1
+Arunachal Pradesh,2017,Government Aided,Secondary (IX-X),0
+Arunachal Pradesh,2017,Private Unaided,Secondary (IX-X),0
+Arunachal Pradesh,2017,Other,Secondary (IX-X),0
+Assam,2017,Government,Secondary (IX-X),1140
+Assam,2017,Government Aided,Secondary (IX-X),773
+Assam,2017,Private Unaided,Secondary (IX-X),232
+Assam,2017,Other,Secondary (IX-X),537
+Bihar,2017,Government,Secondary (IX-X),507
+Bihar,2017,Government Aided,Secondary (IX-X),11
+Bihar,2017,Private Unaided,Secondary (IX-X),593
+Bihar,2017,Other,Secondary (IX-X),15
+Chandigarh,2017,Government,Secondary (IX-X),0
+Chandigarh,2017,Government Aided,Secondary (IX-X),0
+Chandigarh,2017,Private Unaided,Secondary (IX-X),0
+Chandigarh,2017,Other,Secondary (IX-X),0
+Chhattisgarh,2017,Government,Secondary (IX-X),1897
+Chhattisgarh,2017,Government Aided,Secondary (IX-X),1
+Chhattisgarh,2017,Private Unaided,Secondary (IX-X),51
+Chhattisgarh,2017,Other,Secondary (IX-X),0
+Delhi,2017,Government,Secondary (IX-X),0
+Delhi,2017,Government Aided,Secondary (IX-X),0
+Delhi,2017,Private Unaided,Secondary (IX-X),0
+Goa,2017,Government,Secondary (IX-X),2
+Goa,2017,Government Aided,Secondary (IX-X),0
+Goa,2017,Private Unaided,Secondary (IX-X),0
+Gujarat,2017,Government,Secondary (IX-X),970
+Gujarat,2017,Government Aided,Secondary (IX-X),1955
+Gujarat,2017,Private Unaided,Secondary (IX-X),826
+Gujarat,2017,Other,Secondary (IX-X),0
+Haryana,2017,Government,Secondary (IX-X),0
+Haryana,2017,Government Aided,Secondary (IX-X),0
+Haryana,2017,Private Unaided,Secondary (IX-X),1
+Haryana,2017,Other,Secondary (IX-X),0
+Himachal Pradesh,2017,Government,Secondary (IX-X),0
+Himachal Pradesh,2017,Private Unaided,Secondary (IX-X),2
+Himachal Pradesh,2017,Other,Secondary (IX-X),0
+Jammu And Kashmir,2017,Government,Secondary (IX-X),38
+Jammu And Kashmir,2017,Private Unaided,Secondary (IX-X),1
+Jammu And Kashmir,2017,Other,Secondary (IX-X),0
+Jharkhand,2017,Government,Secondary (IX-X),365
+Jharkhand,2017,Government Aided,Secondary (IX-X),17
+Jharkhand,2017,Private Unaided,Secondary (IX-X),94
+Jharkhand,2017,Other,Secondary (IX-X),46
+Karnataka,2017,Government,Secondary (IX-X),3552
+Karnataka,2017,Government Aided,Secondary (IX-X),3519
+Karnataka,2017,Private Unaided,Secondary (IX-X),2992
+Karnataka,2017,Other,Secondary (IX-X),0
+Kerala,2017,Government,Secondary (IX-X),35
+Kerala,2017,Government Aided,Secondary (IX-X),102
+Kerala,2017,Private Unaided,Secondary (IX-X),20
+Kerala,2017,Other,Secondary (IX-X),2
+Ladakh,2017,Government,Secondary (IX-X),1
+Ladakh,2017,Private Unaided,Secondary (IX-X),0
+Ladakh,2017,Other,Secondary (IX-X),0
+Lakshadweep,2017,Government,Secondary (IX-X),0
+Madhya Pradesh,2017,Government,Secondary (IX-X),4758
+Madhya Pradesh,2017,Government Aided,Secondary (IX-X),26
+Madhya Pradesh,2017,Private Unaided,Secondary (IX-X),191
+Madhya Pradesh,2017,Other,Secondary (IX-X),0
+Maharashtra,2017,Government,Secondary (IX-X),187
+Maharashtra,2017,Government Aided,Secondary (IX-X),96
+Maharashtra,2017,Private Unaided,Secondary (IX-X),772
+Maharashtra,2017,Other,Secondary (IX-X),42
+Manipur,2017,Government,Secondary (IX-X),0
+Manipur,2017,Government Aided,Secondary (IX-X),19
+Manipur,2017,Private Unaided,Secondary (IX-X),13
+Manipur,2017,Other,Secondary (IX-X),0
+Meghalaya,2017,Government,Secondary (IX-X),1
+Meghalaya,2017,Government Aided,Secondary (IX-X),493
+Meghalaya,2017,Private Unaided,Secondary (IX-X),456
+Meghalaya,2017,Other,Secondary (IX-X),81
+Mizoram,2017,Government,Secondary (IX-X),300
+Mizoram,2017,Government Aided,Secondary (IX-X),138
+Mizoram,2017,Private Unaided,Secondary (IX-X),206
+Mizoram,2017,Other,Secondary (IX-X),22
+Nagaland,2017,Government,Secondary (IX-X),3
+Nagaland,2017,Private Unaided,Secondary (IX-X),0
+Odisha,2017,Government,Secondary (IX-X),1414
+Odisha,2017,Government Aided,Secondary (IX-X),1120
+Odisha,2017,Private Unaided,Secondary (IX-X),123
+Odisha,2017,Other,Secondary (IX-X),25
+Puducherry,2017,Government,Secondary (IX-X),0
+Puducherry,2017,Government Aided,Secondary (IX-X),0
+Puducherry,2017,Private Unaided,Secondary (IX-X),0
+Punjab,2017,Government,Secondary (IX-X),0
+Punjab,2017,Government Aided,Secondary (IX-X),1
+Punjab,2017,Private Unaided,Secondary (IX-X),2
+Punjab,2017,Other,Secondary (IX-X),3
+Rajasthan,2017,Government,Secondary (IX-X),0
+Rajasthan,2017,Private Unaided,Secondary (IX-X),0
+Rajasthan,2017,Other,Secondary (IX-X),0
+Sikkim,2017,Government,Secondary (IX-X),0
+Sikkim,2017,Government Aided,Secondary (IX-X),0
+Sikkim,2017,Private Unaided,Secondary (IX-X),0
+Tamil Nadu,2017,Government,Secondary (IX-X),3
+Tamil Nadu,2017,Government Aided,Secondary (IX-X),4
+Tamil Nadu,2017,Private Unaided,Secondary (IX-X),3
+Tamil Nadu,2017,Other,Secondary (IX-X),0
+Telangana,2017,Government,Secondary (IX-X),0
+Telangana,2017,Government Aided,Secondary (IX-X),0
+Telangana,2017,Private Unaided,Secondary (IX-X),0
+Telangana,2017,Other,Secondary (IX-X),0
+The Dadra And Nagar Haveli And Daman And Diu,2017,Government,Secondary (IX-X),25
+The Dadra And Nagar Haveli And Daman And Diu,2017,Government Aided,Secondary (IX-X),0
+The Dadra And Nagar Haveli And Daman And Diu,2017,Private Unaided,Secondary (IX-X),1
+The Dadra And Nagar Haveli And Daman And Diu,2017,Other,Secondary (IX-X),0
+Tripura,2017,Government,Secondary (IX-X),0
+Tripura,2017,Government Aided,Secondary (IX-X),1
+Tripura,2017,Private Unaided,Secondary (IX-X),0
+Tripura,2017,Other,Secondary (IX-X),0
+Uttar Pradesh,2017,Government,Secondary (IX-X),1419
+Uttar Pradesh,2017,Government Aided,Secondary (IX-X),40
+Uttar Pradesh,2017,Private Unaided,Secondary (IX-X),3746
+Uttar Pradesh,2017,Other,Secondary (IX-X),48
+Uttarakhand,2017,Government,Secondary (IX-X),208
+Uttarakhand,2017,Government Aided,Secondary (IX-X),9
+Uttarakhand,2017,Private Unaided,Secondary (IX-X),39
+Uttarakhand,2017,Other,Secondary (IX-X),21
+West Bengal,2017,Government,Secondary (IX-X),0
+West Bengal,2017,Government Aided,Secondary (IX-X),0
+West Bengal,2017,Private Unaided,Secondary (IX-X),1
+West Bengal,2017,Other,Secondary (IX-X),0
+Andaman And Nicobar Islands,2016,Government,Secondary (IX-X),0
+Andaman And Nicobar Islands,2016,Government Aided,Secondary (IX-X),0
+Andaman And Nicobar Islands,2016,Private Unaided,Secondary (IX-X),0
+Andhra Pradesh,2016,Government,Secondary (IX-X),0
+Andhra Pradesh,2016,Government Aided,Secondary (IX-X),0
+Andhra Pradesh,2016,Private Unaided,Secondary (IX-X),11
+Andhra Pradesh,2016,Other,Secondary (IX-X),0
+Arunachal Pradesh,2016,Government,Secondary (IX-X),0
+Arunachal Pradesh,2016,Government Aided,Secondary (IX-X),0
+Arunachal Pradesh,2016,Private Unaided,Secondary (IX-X),0
+Arunachal Pradesh,2016,Other,Secondary (IX-X),0
+Assam,2016,Government,Secondary (IX-X),2419
+Assam,2016,Government Aided,Secondary (IX-X),768
+Assam,2016,Private Unaided,Secondary (IX-X),236
+Assam,2016,Other,Secondary (IX-X),560
+Bihar,2016,Government,Secondary (IX-X),509
+Bihar,2016,Government Aided,Secondary (IX-X),69
+Bihar,2016,Private Unaided,Secondary (IX-X),576
+Bihar,2016,Other,Secondary (IX-X),5
+Chandigarh,2016,Government,Secondary (IX-X),0
+Chandigarh,2016,Government Aided,Secondary (IX-X),0
+Chandigarh,2016,Private Unaided,Secondary (IX-X),0
+Chandigarh,2016,Other,Secondary (IX-X),0
+Chhattisgarh,2016,Government,Secondary (IX-X),565
+Chhattisgarh,2016,Government Aided,Secondary (IX-X),1
+Chhattisgarh,2016,Private Unaided,Secondary (IX-X),53
+Chhattisgarh,2016,Other,Secondary (IX-X),0
+Delhi,2016,Government,Secondary (IX-X),0
+Delhi,2016,Government Aided,Secondary (IX-X),0
+Delhi,2016,Private Unaided,Secondary (IX-X),0
+Goa,2016,Government,Secondary (IX-X),2
+Goa,2016,Government Aided,Secondary (IX-X),0
+Goa,2016,Private Unaided,Secondary (IX-X),0
+Gujarat,2016,Government,Secondary (IX-X),898
+Gujarat,2016,Government Aided,Secondary (IX-X),1986
+Gujarat,2016,Private Unaided,Secondary (IX-X),749
+Gujarat,2016,Other,Secondary (IX-X),0
+Haryana,2016,Government,Secondary (IX-X),0
+Haryana,2016,Government Aided,Secondary (IX-X),0
+Haryana,2016,Private Unaided,Secondary (IX-X),1
+Haryana,2016,Other,Secondary (IX-X),0
+Himachal Pradesh,2016,Government,Secondary (IX-X),0
+Himachal Pradesh,2016,Private Unaided,Secondary (IX-X),0
+Himachal Pradesh,2016,Other,Secondary (IX-X),0
+Jammu And Kashmir,2016,Government,Secondary (IX-X),36
+Jammu And Kashmir,2016,Private Unaided,Secondary (IX-X),1
+Jammu And Kashmir,2016,Other,Secondary (IX-X),0
+Jharkhand,2016,Government,Secondary (IX-X),358
+Jharkhand,2016,Government Aided,Secondary (IX-X),33
+Jharkhand,2016,Private Unaided,Secondary (IX-X),97
+Jharkhand,2016,Other,Secondary (IX-X),38
+Karnataka,2016,Government,Secondary (IX-X),3540
+Karnataka,2016,Government Aided,Secondary (IX-X),3529
+Karnataka,2016,Private Unaided,Secondary (IX-X),3012
+Karnataka,2016,Other,Secondary (IX-X),2
+Kerala,2016,Government,Secondary (IX-X),39
+Kerala,2016,Government Aided,Secondary (IX-X),105
+Kerala,2016,Private Unaided,Secondary (IX-X),19
+Kerala,2016,Other,Secondary (IX-X),3
+Ladakh,2016,Government,Secondary (IX-X),1
+Ladakh,2016,Private Unaided,Secondary (IX-X),0
+Ladakh,2016,Other,Secondary (IX-X),0
+Lakshadweep,2016,Government,Secondary (IX-X),0
+Madhya Pradesh,2016,Government,Secondary (IX-X),4726
+Madhya Pradesh,2016,Government Aided,Secondary (IX-X),26
+Madhya Pradesh,2016,Private Unaided,Secondary (IX-X),177
+Madhya Pradesh,2016,Other,Secondary (IX-X),1
+Maharashtra,2016,Government,Secondary (IX-X),176
+Maharashtra,2016,Government Aided,Secondary (IX-X),317
+Maharashtra,2016,Private Unaided,Secondary (IX-X),775
+Maharashtra,2016,Other,Secondary (IX-X),28
+Manipur,2016,Government,Secondary (IX-X),0
+Manipur,2016,Government Aided,Secondary (IX-X),29
+Manipur,2016,Private Unaided,Secondary (IX-X),11
+Manipur,2016,Other,Secondary (IX-X),0
+Meghalaya,2016,Government,Secondary (IX-X),1
+Meghalaya,2016,Government Aided,Secondary (IX-X),504
+Meghalaya,2016,Private Unaided,Secondary (IX-X),454
+Meghalaya,2016,Other,Secondary (IX-X),72
+Mizoram,2016,Government,Secondary (IX-X),296
+Mizoram,2016,Government Aided,Secondary (IX-X),132
+Mizoram,2016,Private Unaided,Secondary (IX-X),196
+Mizoram,2016,Other,Secondary (IX-X),24
+Nagaland,2016,Government,Secondary (IX-X),3
+Nagaland,2016,Private Unaided,Secondary (IX-X),0
+Odisha,2016,Government,Secondary (IX-X),163
+Odisha,2016,Government Aided,Secondary (IX-X),111
+Odisha,2016,Private Unaided,Secondary (IX-X),29
+Odisha,2016,Other,Secondary (IX-X),7
+Puducherry,2016,Government,Secondary (IX-X),0
+Puducherry,2016,Government Aided,Secondary (IX-X),0
+Puducherry,2016,Private Unaided,Secondary (IX-X),0
+Punjab,2016,Government,Secondary (IX-X),0
+Punjab,2016,Government Aided,Secondary (IX-X),1
+Punjab,2016,Private Unaided,Secondary (IX-X),2
+Punjab,2016,Other,Secondary (IX-X),3
+Rajasthan,2016,Government,Secondary (IX-X),0
+Rajasthan,2016,Private Unaided,Secondary (IX-X),0
+Rajasthan,2016,Other,Secondary (IX-X),0
+Sikkim,2016,Government,Secondary (IX-X),0
+Sikkim,2016,Government Aided,Secondary (IX-X),0
+Sikkim,2016,Private Unaided,Secondary (IX-X),0
+Tamil Nadu,2016,Government,Secondary (IX-X),2
+Tamil Nadu,2016,Government Aided,Secondary (IX-X),4
+Tamil Nadu,2016,Private Unaided,Secondary (IX-X),2
+Tamil Nadu,2016,Other,Secondary (IX-X),0
+Telangana,2016,Government,Secondary (IX-X),0
+Telangana,2016,Government Aided,Secondary (IX-X),0
+Telangana,2016,Private Unaided,Secondary (IX-X),0
+Telangana,2016,Other,Secondary (IX-X),0
+The Dadra And Nagar Haveli And Daman And Diu,2016,Government,Secondary (IX-X),26
+The Dadra And Nagar Haveli And Daman And Diu,2016,Government Aided,Secondary (IX-X),0
+The Dadra And Nagar Haveli And Daman And Diu,2016,Private Unaided,Secondary (IX-X),0
+The Dadra And Nagar Haveli And Daman And Diu,2016,Other,Secondary (IX-X),0
+Tripura,2016,Government,Secondary (IX-X),0
+Tripura,2016,Government Aided,Secondary (IX-X),1
+Tripura,2016,Private Unaided,Secondary (IX-X),0
+Tripura,2016,Other,Secondary (IX-X),0
+Uttar Pradesh,2016,Government,Secondary (IX-X),1352
+Uttar Pradesh,2016,Government Aided,Secondary (IX-X),34
+Uttar Pradesh,2016,Private Unaided,Secondary (IX-X),3706
+Uttar Pradesh,2016,Other,Secondary (IX-X),73
+Uttarakhand,2016,Government,Secondary (IX-X),176
+Uttarakhand,2016,Government Aided,Secondary (IX-X),10
+Uttarakhand,2016,Private Unaided,Secondary (IX-X),38
+Uttarakhand,2016,Other,Secondary (IX-X),25
+West Bengal,2016,Government,Secondary (IX-X),0
+West Bengal,2016,Government Aided,Secondary (IX-X),0
+West Bengal,2016,Private Unaided,Secondary (IX-X),0
+West Bengal,2016,Other,Secondary (IX-X),0
+Andaman And Nicobar Islands,2017,Government,Higher Secondary (IX-XII),4
+Andaman And Nicobar Islands,2017,Government Aided,Higher Secondary (IX-XII),0
+Andaman And Nicobar Islands,2017,Private Unaided,Higher Secondary (IX-XII),0
+Andhra Pradesh,2017,Government,Higher Secondary (IX-XII),2
+Andhra Pradesh,2017,Government Aided,Higher Secondary (IX-XII),0
+Andhra Pradesh,2017,Private Unaided,Higher Secondary (IX-XII),0
+Andhra Pradesh,2017,Other,Higher Secondary (IX-XII),0
+Arunachal Pradesh,2017,Government,Higher Secondary (IX-XII),34
+Arunachal Pradesh,2017,Government Aided,Higher Secondary (IX-XII),0
+Arunachal Pradesh,2017,Private Unaided,Higher Secondary (IX-XII),4
+Arunachal Pradesh,2017,Other,Higher Secondary (IX-XII),3
+Assam,2017,Government,Higher Secondary (IX-XII),133
+Assam,2017,Government Aided,Higher Secondary (IX-XII),6
+Assam,2017,Private Unaided,Higher Secondary (IX-XII),66
+Assam,2017,Other,Higher Secondary (IX-XII),68
+Bihar,2017,Government,Higher Secondary (IX-XII),2428
+Bihar,2017,Government Aided,Higher Secondary (IX-XII),35
+Bihar,2017,Private Unaided,Higher Secondary (IX-XII),71
+Bihar,2017,Other,Higher Secondary (IX-XII),14
+Chandigarh,2017,Government,Higher Secondary (IX-XII),1
+Chandigarh,2017,Government Aided,Higher Secondary (IX-XII),0
+Chandigarh,2017,Private Unaided,Higher Secondary (IX-XII),0
+Chandigarh,2017,Other,Higher Secondary (IX-XII),0
+Chhattisgarh,2017,Government,Higher Secondary (IX-XII),2521
+Chhattisgarh,2017,Government Aided,Higher Secondary (IX-XII),34
+Chhattisgarh,2017,Private Unaided,Higher Secondary (IX-XII),166
+Chhattisgarh,2017,Other,Higher Secondary (IX-XII),0
+Delhi,2017,Government,Higher Secondary (IX-XII),2
+Delhi,2017,Government Aided,Higher Secondary (IX-XII),1
+Delhi,2017,Private Unaided,Higher Secondary (IX-XII),0
+Goa,2017,Government,Higher Secondary (IX-XII),0
+Goa,2017,Government Aided,Higher Secondary (IX-XII),0
+Goa,2017,Private Unaided,Higher Secondary (IX-XII),0
+Gujarat,2017,Government,Higher Secondary (IX-XII),253
+Gujarat,2017,Government Aided,Higher Secondary (IX-XII),3027
+Gujarat,2017,Private Unaided,Higher Secondary (IX-XII),1253
+Gujarat,2017,Other,Higher Secondary (IX-XII),1
+Haryana,2017,Government,Higher Secondary (IX-XII),37
+Haryana,2017,Government Aided,Higher Secondary (IX-XII),0
+Haryana,2017,Private Unaided,Higher Secondary (IX-XII),3
+Haryana,2017,Other,Higher Secondary (IX-XII),0
+Himachal Pradesh,2017,Government,Higher Secondary (IX-XII),0
+Himachal Pradesh,2017,Private Unaided,Higher Secondary (IX-XII),9
+Himachal Pradesh,2017,Other,Higher Secondary (IX-XII),0
+Jammu And Kashmir,2017,Government,Higher Secondary (IX-XII),459
+Jammu And Kashmir,2017,Private Unaided,Higher Secondary (IX-XII),11
+Jammu And Kashmir,2017,Other,Higher Secondary (IX-XII),0
+Jharkhand,2017,Government,Higher Secondary (IX-XII),322
+Jharkhand,2017,Government Aided,Higher Secondary (IX-XII),3
+Jharkhand,2017,Private Unaided,Higher Secondary (IX-XII),3
+Jharkhand,2017,Other,Higher Secondary (IX-XII),3
+Karnataka,2017,Government,Higher Secondary (IX-XII),647
+Karnataka,2017,Government Aided,Higher Secondary (IX-XII),180
+Karnataka,2017,Private Unaided,Higher Secondary (IX-XII),80
+Karnataka,2017,Other,Higher Secondary (IX-XII),0
+Kerala,2017,Government,Higher Secondary (IX-XII),165
+Kerala,2017,Government Aided,Higher Secondary (IX-XII),234
+Kerala,2017,Private Unaided,Higher Secondary (IX-XII),24
+Kerala,2017,Other,Higher Secondary (IX-XII),1
+Ladakh,2017,Government,Higher Secondary (IX-XII),10
+Ladakh,2017,Private Unaided,Higher Secondary (IX-XII),0
+Ladakh,2017,Other,Higher Secondary (IX-XII),0
+Lakshadweep,2017,Government,Higher Secondary (IX-XII),4
+Madhya Pradesh,2017,Government,Higher Secondary (IX-XII),3854
+Madhya Pradesh,2017,Government Aided,Higher Secondary (IX-XII),94
+Madhya Pradesh,2017,Private Unaided,Higher Secondary (IX-XII),359
+Madhya Pradesh,2017,Other,Higher Secondary (IX-XII),0
+Maharashtra,2017,Government,Higher Secondary (IX-XII),4
+Maharashtra,2017,Government Aided,Higher Secondary (IX-XII),54
+Maharashtra,2017,Private Unaided,Higher Secondary (IX-XII),114
+Maharashtra,2017,Other,Higher Secondary (IX-XII),1
+Manipur,2017,Government,Higher Secondary (IX-XII),15
+Manipur,2017,Government Aided,Higher Secondary (IX-XII),0
+Manipur,2017,Private Unaided,Higher Secondary (IX-XII),5
+Manipur,2017,Other,Higher Secondary (IX-XII),0
+Meghalaya,2017,Government,Higher Secondary (IX-XII),2
+Meghalaya,2017,Government Aided,Higher Secondary (IX-XII),43
+Meghalaya,2017,Private Unaided,Higher Secondary (IX-XII),28
+Meghalaya,2017,Other,Higher Secondary (IX-XII),1
+Mizoram,2017,Government,Higher Secondary (IX-XII),0
+Mizoram,2017,Government Aided,Higher Secondary (IX-XII),0
+Mizoram,2017,Private Unaided,Higher Secondary (IX-XII),0
+Mizoram,2017,Other,Higher Secondary (IX-XII),0
+Nagaland,2017,Government,Higher Secondary (IX-XII),2
+Nagaland,2017,Private Unaided,Higher Secondary (IX-XII),0
+Odisha,2017,Government,Higher Secondary (IX-XII),0
+Odisha,2017,Government Aided,Higher Secondary (IX-XII),0
+Odisha,2017,Private Unaided,Higher Secondary (IX-XII),0
+Odisha,2017,Other,Higher Secondary (IX-XII),0
+Puducherry,2017,Government,Higher Secondary (IX-XII),7
+Puducherry,2017,Government Aided,Higher Secondary (IX-XII),0
+Puducherry,2017,Private Unaided,Higher Secondary (IX-XII),0
+Punjab,2017,Government,Higher Secondary (IX-XII),3
+Punjab,2017,Government Aided,Higher Secondary (IX-XII),0
+Punjab,2017,Private Unaided,Higher Secondary (IX-XII),52
+Punjab,2017,Other,Higher Secondary (IX-XII),8
+Rajasthan,2017,Government,Higher Secondary (IX-XII),71
+Rajasthan,2017,Private Unaided,Higher Secondary (IX-XII),142
+Rajasthan,2017,Other,Higher Secondary (IX-XII),1
+Sikkim,2017,Government,Higher Secondary (IX-XII),0
+Sikkim,2017,Government Aided,Higher Secondary (IX-XII),0
+Sikkim,2017,Private Unaided,Higher Secondary (IX-XII),0
+Tamil Nadu,2017,Government,Higher Secondary (IX-XII),5
+Tamil Nadu,2017,Government Aided,Higher Secondary (IX-XII),7
+Tamil Nadu,2017,Private Unaided,Higher Secondary (IX-XII),6
+Tamil Nadu,2017,Other,Higher Secondary (IX-XII),0
+Telangana,2017,Government,Higher Secondary (IX-XII),0
+Telangana,2017,Government Aided,Higher Secondary (IX-XII),0
+Telangana,2017,Private Unaided,Higher Secondary (IX-XII),0
+Telangana,2017,Other,Higher Secondary (IX-XII),0
+The Dadra And Nagar Haveli And Daman And Diu,2017,Government,Higher Secondary (IX-XII),22
+The Dadra And Nagar Haveli And Daman And Diu,2017,Government Aided,Higher Secondary (IX-XII),0
+The Dadra And Nagar Haveli And Daman And Diu,2017,Private Unaided,Higher Secondary (IX-XII),0
+The Dadra And Nagar Haveli And Daman And Diu,2017,Other,Higher Secondary (IX-XII),0
+Tripura,2017,Government,Higher Secondary (IX-XII),0
+Tripura,2017,Government Aided,Higher Secondary (IX-XII),0
+Tripura,2017,Private Unaided,Higher Secondary (IX-XII),0
+Tripura,2017,Other,Higher Secondary (IX-XII),0
+Uttar Pradesh,2017,Government,Higher Secondary (IX-XII),146
+Uttar Pradesh,2017,Government Aided,Higher Secondary (IX-XII),306
+Uttar Pradesh,2017,Private Unaided,Higher Secondary (IX-XII),5381
+Uttar Pradesh,2017,Other,Higher Secondary (IX-XII),29
+Uttarakhand,2017,Government,Higher Secondary (IX-XII),73
+Uttarakhand,2017,Government Aided,Higher Secondary (IX-XII),31
+Uttarakhand,2017,Private Unaided,Higher Secondary (IX-XII),35
+Uttarakhand,2017,Other,Higher Secondary (IX-XII),3
+West Bengal,2017,Government,Higher Secondary (IX-XII),0
+West Bengal,2017,Government Aided,Higher Secondary (IX-XII),0
+West Bengal,2017,Private Unaided,Higher Secondary (IX-XII),1
+West Bengal,2017,Other,Higher Secondary (IX-XII),0
+Andaman And Nicobar Islands,2016,Government,Higher Secondary (IX-XII),4
+Andaman And Nicobar Islands,2016,Government Aided,Higher Secondary (IX-XII),0
+Andaman And Nicobar Islands,2016,Private Unaided,Higher Secondary (IX-XII),0
+Andhra Pradesh,2016,Government,Higher Secondary (IX-XII),3
+Andhra Pradesh,2016,Government Aided,Higher Secondary (IX-XII),0
+Andhra Pradesh,2016,Private Unaided,Higher Secondary (IX-XII),0
+Andhra Pradesh,2016,Other,Higher Secondary (IX-XII),0
+Arunachal Pradesh,2016,Government,Higher Secondary (IX-XII),31
+Arunachal Pradesh,2016,Government Aided,Higher Secondary (IX-XII),0
+Arunachal Pradesh,2016,Private Unaided,Higher Secondary (IX-XII),4
+Arunachal Pradesh,2016,Other,Higher Secondary (IX-XII),0
+Assam,2016,Government,Higher Secondary (IX-XII),204
+Assam,2016,Government Aided,Higher Secondary (IX-XII),6
+Assam,2016,Private Unaided,Higher Secondary (IX-XII),53
+Assam,2016,Other,Higher Secondary (IX-XII),64
+Bihar,2016,Government,Higher Secondary (IX-XII),2427
+Bihar,2016,Government Aided,Higher Secondary (IX-XII),36
+Bihar,2016,Private Unaided,Higher Secondary (IX-XII),62
+Bihar,2016,Other,Higher Secondary (IX-XII),13
+Chandigarh,2016,Government,Higher Secondary (IX-XII),0
+Chandigarh,2016,Government Aided,Higher Secondary (IX-XII),0
+Chandigarh,2016,Private Unaided,Higher Secondary (IX-XII),0
+Chandigarh,2016,Other,Higher Secondary (IX-XII),0
+Chhattisgarh,2016,Government,Higher Secondary (IX-XII),2219
+Chhattisgarh,2016,Government Aided,Higher Secondary (IX-XII),34
+Chhattisgarh,2016,Private Unaided,Higher Secondary (IX-XII),169
+Chhattisgarh,2016,Other,Higher Secondary (IX-XII),0
+Delhi,2016,Government,Higher Secondary (IX-XII),2
+Delhi,2016,Government Aided,Higher Secondary (IX-XII),1
+Delhi,2016,Private Unaided,Higher Secondary (IX-XII),0
+Goa,2016,Government,Higher Secondary (IX-XII),0
+Goa,2016,Government Aided,Higher Secondary (IX-XII),0
+Goa,2016,Private Unaided,Higher Secondary (IX-XII),0
+Gujarat,2016,Government,Higher Secondary (IX-XII),258
+Gujarat,2016,Government Aided,Higher Secondary (IX-XII),2894
+Gujarat,2016,Private Unaided,Higher Secondary (IX-XII),1205
+Gujarat,2016,Other,Higher Secondary (IX-XII),1
+Haryana,2016,Government,Higher Secondary (IX-XII),37
+Haryana,2016,Government Aided,Higher Secondary (IX-XII),0
+Haryana,2016,Private Unaided,Higher Secondary (IX-XII),4
+Haryana,2016,Other,Higher Secondary (IX-XII),0
+Himachal Pradesh,2016,Government,Higher Secondary (IX-XII),0
+Himachal Pradesh,2016,Private Unaided,Higher Secondary (IX-XII),4
+Himachal Pradesh,2016,Other,Higher Secondary (IX-XII),0
+Jammu And Kashmir,2016,Government,Higher Secondary (IX-XII),458
+Jammu And Kashmir,2016,Private Unaided,Higher Secondary (IX-XII),9
+Jammu And Kashmir,2016,Other,Higher Secondary (IX-XII),0
+Jharkhand,2016,Government,Higher Secondary (IX-XII),320
+Jharkhand,2016,Government Aided,Higher Secondary (IX-XII),4
+Jharkhand,2016,Private Unaided,Higher Secondary (IX-XII),3
+Jharkhand,2016,Other,Higher Secondary (IX-XII),0
+Karnataka,2016,Government,Higher Secondary (IX-XII),660
+Karnataka,2016,Government Aided,Higher Secondary (IX-XII),180
+Karnataka,2016,Private Unaided,Higher Secondary (IX-XII),88
+Karnataka,2016,Other,Higher Secondary (IX-XII),0
+Kerala,2016,Government,Higher Secondary (IX-XII),172
+Kerala,2016,Government Aided,Higher Secondary (IX-XII),248
+Kerala,2016,Private Unaided,Higher Secondary (IX-XII),26
+Kerala,2016,Other,Higher Secondary (IX-XII),1
+Ladakh,2016,Government,Higher Secondary (IX-XII),10
+Ladakh,2016,Private Unaided,Higher Secondary (IX-XII),0
+Ladakh,2016,Other,Higher Secondary (IX-XII),0
+Lakshadweep,2016,Government,Higher Secondary (IX-XII),4
+Madhya Pradesh,2016,Government,Higher Secondary (IX-XII),3827
+Madhya Pradesh,2016,Government Aided,Higher Secondary (IX-XII),90
+Madhya Pradesh,2016,Private Unaided,Higher Secondary (IX-XII),330
+Madhya Pradesh,2016,Other,Higher Secondary (IX-XII),0
+Maharashtra,2016,Government,Higher Secondary (IX-XII),3
+Maharashtra,2016,Government Aided,Higher Secondary (IX-XII),100
+Maharashtra,2016,Private Unaided,Higher Secondary (IX-XII),90
+Maharashtra,2016,Other,Higher Secondary (IX-XII),0
+Manipur,2016,Government,Higher Secondary (IX-XII),15
+Manipur,2016,Government Aided,Higher Secondary (IX-XII),0
+Manipur,2016,Private Unaided,Higher Secondary (IX-XII),5
+Manipur,2016,Other,Higher Secondary (IX-XII),0
+Meghalaya,2016,Government,Higher Secondary (IX-XII),2
+Meghalaya,2016,Government Aided,Higher Secondary (IX-XII),45
+Meghalaya,2016,Private Unaided,Higher Secondary (IX-XII),15
+Meghalaya,2016,Other,Higher Secondary (IX-XII),0
+Mizoram,2016,Government,Higher Secondary (IX-XII),0
+Mizoram,2016,Government Aided,Higher Secondary (IX-XII),0
+Mizoram,2016,Private Unaided,Higher Secondary (IX-XII),0
+Mizoram,2016,Other,Higher Secondary (IX-XII),0
+Nagaland,2016,Government,Higher Secondary (IX-XII),2
+Nagaland,2016,Private Unaided,Higher Secondary (IX-XII),1
+Odisha,2016,Government,Higher Secondary (IX-XII),0
+Odisha,2016,Government Aided,Higher Secondary (IX-XII),0
+Odisha,2016,Private Unaided,Higher Secondary (IX-XII),0
+Odisha,2016,Other,Higher Secondary (IX-XII),0
+Puducherry,2016,Government,Higher Secondary (IX-XII),7
+Puducherry,2016,Government Aided,Higher Secondary (IX-XII),0
+Puducherry,2016,Private Unaided,Higher Secondary (IX-XII),0
+Punjab,2016,Government,Higher Secondary (IX-XII),11
+Punjab,2016,Government Aided,Higher Secondary (IX-XII),0
+Punjab,2016,Private Unaided,Higher Secondary (IX-XII),42
+Punjab,2016,Other,Higher Secondary (IX-XII),10
+Rajasthan,2016,Government,Higher Secondary (IX-XII),109
+Rajasthan,2016,Private Unaided,Higher Secondary (IX-XII),195
+Rajasthan,2016,Other,Higher Secondary (IX-XII),1
+Sikkim,2016,Government,Higher Secondary (IX-XII),0
+Sikkim,2016,Government Aided,Higher Secondary (IX-XII),0
+Sikkim,2016,Private Unaided,Higher Secondary (IX-XII),0
+Tamil Nadu,2016,Government,Higher Secondary (IX-XII),5
+Tamil Nadu,2016,Government Aided,Higher Secondary (IX-XII),7
+Tamil Nadu,2016,Private Unaided,Higher Secondary (IX-XII),3
+Tamil Nadu,2016,Other,Higher Secondary (IX-XII),0
+Telangana,2016,Government,Higher Secondary (IX-XII),0
+Telangana,2016,Government Aided,Higher Secondary (IX-XII),0
+Telangana,2016,Private Unaided,Higher Secondary (IX-XII),0
+Telangana,2016,Other,Higher Secondary (IX-XII),0
+The Dadra And Nagar Haveli And Daman And Diu,2016,Government,Higher Secondary (IX-XII),22
+The Dadra And Nagar Haveli And Daman And Diu,2016,Government Aided,Higher Secondary (IX-XII),0
+The Dadra And Nagar Haveli And Daman And Diu,2016,Private Unaided,Higher Secondary (IX-XII),0
+The Dadra And Nagar Haveli And Daman And Diu,2016,Other,Higher Secondary (IX-XII),0
+Tripura,2016,Government,Higher Secondary (IX-XII),0
+Tripura,2016,Government Aided,Higher Secondary (IX-XII),0
+Tripura,2016,Private Unaided,Higher Secondary (IX-XII),0
+Tripura,2016,Other,Higher Secondary (IX-XII),0
+Uttar Pradesh,2016,Government,Higher Secondary (IX-XII),159
+Uttar Pradesh,2016,Government Aided,Higher Secondary (IX-XII),266
+Uttar Pradesh,2016,Private Unaided,Higher Secondary (IX-XII),5143
+Uttar Pradesh,2016,Other,Higher Secondary (IX-XII),17
+Uttarakhand,2016,Government,Higher Secondary (IX-XII),57
+Uttarakhand,2016,Government Aided,Higher Secondary (IX-XII),29
+Uttarakhand,2016,Private Unaided,Higher Secondary (IX-XII),33
+Uttarakhand,2016,Other,Higher Secondary (IX-XII),0
+West Bengal,2016,Government,Higher Secondary (IX-XII),0
+West Bengal,2016,Government Aided,Higher Secondary (IX-XII),0
+West Bengal,2016,Private Unaided,Higher Secondary (IX-XII),1
+West Bengal,2016,Other,Higher Secondary (IX-XII),0
+Andaman And Nicobar Islands,2017,Government,Higher Secondary (XI-XII),0
+Andaman And Nicobar Islands,2017,Government Aided,Higher Secondary (XI-XII),0
+Andaman And Nicobar Islands,2017,Private Unaided,Higher Secondary (XI-XII),0
+Andhra Pradesh,2017,Government,Higher Secondary (XI-XII),429
+Andhra Pradesh,2017,Government Aided,Higher Secondary (XI-XII),151
+Andhra Pradesh,2017,Private Unaided,Higher Secondary (XI-XII),1351
+Andhra Pradesh,2017,Other,Higher Secondary (XI-XII),1
+Arunachal Pradesh,2017,Government,Higher Secondary (XI-XII),0
+Arunachal Pradesh,2017,Government Aided,Higher Secondary (XI-XII),0
+Arunachal Pradesh,2017,Private Unaided,Higher Secondary (XI-XII),1
+Arunachal Pradesh,2017,Other,Higher Secondary (XI-XII),1
+Assam,2017,Government,Higher Secondary (XI-XII),246
+Assam,2017,Government Aided,Higher Secondary (XI-XII),227
+Assam,2017,Private Unaided,Higher Secondary (XI-XII),291
+Assam,2017,Other,Higher Secondary (XI-XII),102
+Bihar,2017,Government,Higher Secondary (XI-XII),341
+Bihar,2017,Government Aided,Higher Secondary (XI-XII),0
+Bihar,2017,Private Unaided,Higher Secondary (XI-XII),0
+Bihar,2017,Other,Higher Secondary (XI-XII),0
+Chandigarh,2017,Government,Higher Secondary (XI-XII),0
+Chandigarh,2017,Government Aided,Higher Secondary (XI-XII),0
+Chandigarh,2017,Private Unaided,Higher Secondary (XI-XII),0
+Chandigarh,2017,Other,Higher Secondary (XI-XII),0
+Chhattisgarh,2017,Government,Higher Secondary (XI-XII),8
+Chhattisgarh,2017,Government Aided,Higher Secondary (XI-XII),0
+Chhattisgarh,2017,Private Unaided,Higher Secondary (XI-XII),3
+Chhattisgarh,2017,Other,Higher Secondary (XI-XII),0
+Delhi,2017,Government,Higher Secondary (XI-XII),0
+Delhi,2017,Government Aided,Higher Secondary (XI-XII),0
+Delhi,2017,Private Unaided,Higher Secondary (XI-XII),0
+Goa,2017,Government,Higher Secondary (XI-XII),6
+Goa,2017,Government Aided,Higher Secondary (XI-XII),87
+Goa,2017,Private Unaided,Higher Secondary (XI-XII),6
+Gujarat,2017,Government,Higher Secondary (XI-XII),141
+Gujarat,2017,Government Aided,Higher Secondary (XI-XII),62
+Gujarat,2017,Private Unaided,Higher Secondary (XI-XII),598
+Gujarat,2017,Other,Higher Secondary (XI-XII),0
+Haryana,2017,Government,Higher Secondary (XI-XII),0
+Haryana,2017,Government Aided,Higher Secondary (XI-XII),0
+Haryana,2017,Private Unaided,Higher Secondary (XI-XII),5
+Haryana,2017,Other,Higher Secondary (XI-XII),0
+Himachal Pradesh,2017,Government,Higher Secondary (XI-XII),0
+Himachal Pradesh,2017,Private Unaided,Higher Secondary (XI-XII),9
+Himachal Pradesh,2017,Other,Higher Secondary (XI-XII),0
+Jammu And Kashmir,2017,Government,Higher Secondary (XI-XII),3
+Jammu And Kashmir,2017,Private Unaided,Higher Secondary (XI-XII),1
+Jammu And Kashmir,2017,Other,Higher Secondary (XI-XII),0
+Jharkhand,2017,Government,Higher Secondary (XI-XII),59
+Jharkhand,2017,Government Aided,Higher Secondary (XI-XII),16
+Jharkhand,2017,Private Unaided,Higher Secondary (XI-XII),200
+Jharkhand,2017,Other,Higher Secondary (XI-XII),13
+Karnataka,2017,Government,Higher Secondary (XI-XII),611
+Karnataka,2017,Government Aided,Higher Secondary (XI-XII),558
+Karnataka,2017,Private Unaided,Higher Secondary (XI-XII),2137
+Karnataka,2017,Other,Higher Secondary (XI-XII),1
+Kerala,2017,Government,Higher Secondary (XI-XII),13
+Kerala,2017,Government Aided,Higher Secondary (XI-XII),5
+Kerala,2017,Private Unaided,Higher Secondary (XI-XII),45
+Kerala,2017,Other,Higher Secondary (XI-XII),3
+Ladakh,2017,Government,Higher Secondary (XI-XII),0
+Ladakh,2017,Private Unaided,Higher Secondary (XI-XII),0
+Ladakh,2017,Other,Higher Secondary (XI-XII),0
+Lakshadweep,2017,Government,Higher Secondary (XI-XII),0
+Madhya Pradesh,2017,Government,Higher Secondary (XI-XII),0
+Madhya Pradesh,2017,Government Aided,Higher Secondary (XI-XII),1
+Madhya Pradesh,2017,Private Unaided,Higher Secondary (XI-XII),13
+Madhya Pradesh,2017,Other,Higher Secondary (XI-XII),0
+Maharashtra,2017,Government,Higher Secondary (XI-XII),40
+Maharashtra,2017,Government Aided,Higher Secondary (XI-XII),666
+Maharashtra,2017,Private Unaided,Higher Secondary (XI-XII),1791
+Maharashtra,2017,Other,Higher Secondary (XI-XII),2
+Manipur,2017,Government,Higher Secondary (XI-XII),2
+Manipur,2017,Government Aided,Higher Secondary (XI-XII),7
+Manipur,2017,Private Unaided,Higher Secondary (XI-XII),59
+Manipur,2017,Other,Higher Secondary (XI-XII),0
+Meghalaya,2017,Government,Higher Secondary (XI-XII),5
+Meghalaya,2017,Government Aided,Higher Secondary (XI-XII),64
+Meghalaya,2017,Private Unaided,Higher Secondary (XI-XII),98
+Meghalaya,2017,Other,Higher Secondary (XI-XII),20
+Mizoram,2017,Government,Higher Secondary (XI-XII),25
+Mizoram,2017,Government Aided,Higher Secondary (XI-XII),20
+Mizoram,2017,Private Unaided,Higher Secondary (XI-XII),116
+Mizoram,2017,Other,Higher Secondary (XI-XII),14
+Nagaland,2017,Government,Higher Secondary (XI-XII),1
+Nagaland,2017,Private Unaided,Higher Secondary (XI-XII),16
+Odisha,2017,Government,Higher Secondary (XI-XII),133
+Odisha,2017,Government Aided,Higher Secondary (XI-XII),627
+Odisha,2017,Private Unaided,Higher Secondary (XI-XII),370
+Odisha,2017,Other,Higher Secondary (XI-XII),117
+Puducherry,2017,Government,Higher Secondary (XI-XII),3
+Puducherry,2017,Government Aided,Higher Secondary (XI-XII),0
+Puducherry,2017,Private Unaided,Higher Secondary (XI-XII),2
+Punjab,2017,Government,Higher Secondary (XI-XII),10
+Punjab,2017,Government Aided,Higher Secondary (XI-XII),0
+Punjab,2017,Private Unaided,Higher Secondary (XI-XII),142
+Punjab,2017,Other,Higher Secondary (XI-XII),27
+Rajasthan,2017,Government,Higher Secondary (XI-XII),0
+Rajasthan,2017,Private Unaided,Higher Secondary (XI-XII),0
+Rajasthan,2017,Other,Higher Secondary (XI-XII),0
+Sikkim,2017,Government,Higher Secondary (XI-XII),0
+Sikkim,2017,Government Aided,Higher Secondary (XI-XII),0
+Sikkim,2017,Private Unaided,Higher Secondary (XI-XII),0
+Tamil Nadu,2017,Government,Higher Secondary (XI-XII),1
+Tamil Nadu,2017,Government Aided,Higher Secondary (XI-XII),0
+Tamil Nadu,2017,Private Unaided,Higher Secondary (XI-XII),16
+Tamil Nadu,2017,Other,Higher Secondary (XI-XII),0
+Telangana,2017,Government,Higher Secondary (XI-XII),454
+Telangana,2017,Government Aided,Higher Secondary (XI-XII),34
+Telangana,2017,Private Unaided,Higher Secondary (XI-XII),1505
+Telangana,2017,Other,Higher Secondary (XI-XII),0
+The Dadra And Nagar Haveli And Daman And Diu,2017,Government,Higher Secondary (XI-XII),3
+The Dadra And Nagar Haveli And Daman And Diu,2017,Government Aided,Higher Secondary (XI-XII),0
+The Dadra And Nagar Haveli And Daman And Diu,2017,Private Unaided,Higher Secondary (XI-XII),0
+The Dadra And Nagar Haveli And Daman And Diu,2017,Other,Higher Secondary (XI-XII),0
+Tripura,2017,Government,Higher Secondary (XI-XII),0
+Tripura,2017,Government Aided,Higher Secondary (XI-XII),0
+Tripura,2017,Private Unaided,Higher Secondary (XI-XII),0
+Tripura,2017,Other,Higher Secondary (XI-XII),0
+Uttar Pradesh,2017,Government,Higher Secondary (XI-XII),5
+Uttar Pradesh,2017,Government Aided,Higher Secondary (XI-XII),1
+Uttar Pradesh,2017,Private Unaided,Higher Secondary (XI-XII),22
+Uttar Pradesh,2017,Other,Higher Secondary (XI-XII),1
+Uttarakhand,2017,Government,Higher Secondary (XI-XII),7
+Uttarakhand,2017,Government Aided,Higher Secondary (XI-XII),1
+Uttarakhand,2017,Private Unaided,Higher Secondary (XI-XII),6
+Uttarakhand,2017,Other,Higher Secondary (XI-XII),6
+West Bengal,2017,Government,Higher Secondary (XI-XII),12
+West Bengal,2017,Government Aided,Higher Secondary (XI-XII),0
+West Bengal,2017,Private Unaided,Higher Secondary (XI-XII),4
+West Bengal,2017,Other,Higher Secondary (XI-XII),0
+Andaman And Nicobar Islands,2016,Government,Higher Secondary (XI-XII),0
+Andaman And Nicobar Islands,2016,Government Aided,Higher Secondary (XI-XII),0
+Andaman And Nicobar Islands,2016,Private Unaided,Higher Secondary (XI-XII),0
+Andhra Pradesh,2016,Government,Higher Secondary (XI-XII),0
+Andhra Pradesh,2016,Government Aided,Higher Secondary (XI-XII),0
+Andhra Pradesh,2016,Private Unaided,Higher Secondary (XI-XII),0
+Andhra Pradesh,2016,Other,Higher Secondary (XI-XII),0
+Arunachal Pradesh,2016,Government,Higher Secondary (XI-XII),0
+Arunachal Pradesh,2016,Government Aided,Higher Secondary (XI-XII),0
+Arunachal Pradesh,2016,Private Unaided,Higher Secondary (XI-XII),1
+Arunachal Pradesh,2016,Other,Higher Secondary (XI-XII),1
+Assam,2016,Government,Higher Secondary (XI-XII),254
+Assam,2016,Government Aided,Higher Secondary (XI-XII),219
+Assam,2016,Private Unaided,Higher Secondary (XI-XII),283
+Assam,2016,Other,Higher Secondary (XI-XII),108
+Bihar,2016,Government,Higher Secondary (XI-XII),357
+Bihar,2016,Government Aided,Higher Secondary (XI-XII),3
+Bihar,2016,Private Unaided,Higher Secondary (XI-XII),8
+Bihar,2016,Other,Higher Secondary (XI-XII),0
+Chandigarh,2016,Government,Higher Secondary (XI-XII),0
+Chandigarh,2016,Government Aided,Higher Secondary (XI-XII),0
+Chandigarh,2016,Private Unaided,Higher Secondary (XI-XII),0
+Chandigarh,2016,Other,Higher Secondary (XI-XII),0
+Chhattisgarh,2016,Government,Higher Secondary (XI-XII),11
+Chhattisgarh,2016,Government Aided,Higher Secondary (XI-XII),0
+Chhattisgarh,2016,Private Unaided,Higher Secondary (XI-XII),3
+Chhattisgarh,2016,Other,Higher Secondary (XI-XII),0
+Delhi,2016,Government,Higher Secondary (XI-XII),0
+Delhi,2016,Government Aided,Higher Secondary (XI-XII),1
+Delhi,2016,Private Unaided,Higher Secondary (XI-XII),0
+Goa,2016,Government,Higher Secondary (XI-XII),6
+Goa,2016,Government Aided,Higher Secondary (XI-XII),84
+Goa,2016,Private Unaided,Higher Secondary (XI-XII),7
+Gujarat,2016,Government,Higher Secondary (XI-XII),132
+Gujarat,2016,Government Aided,Higher Secondary (XI-XII),59
+Gujarat,2016,Private Unaided,Higher Secondary (XI-XII),564
+Gujarat,2016,Other,Higher Secondary (XI-XII),0
+Haryana,2016,Government,Higher Secondary (XI-XII),0
+Haryana,2016,Government Aided,Higher Secondary (XI-XII),0
+Haryana,2016,Private Unaided,Higher Secondary (XI-XII),1
+Haryana,2016,Other,Higher Secondary (XI-XII),1
+Himachal Pradesh,2016,Government,Higher Secondary (XI-XII),0
+Himachal Pradesh,2016,Private Unaided,Higher Secondary (XI-XII),8
+Himachal Pradesh,2016,Other,Higher Secondary (XI-XII),0
+Jammu And Kashmir,2016,Government,Higher Secondary (XI-XII),2
+Jammu And Kashmir,2016,Private Unaided,Higher Secondary (XI-XII),1
+Jammu And Kashmir,2016,Other,Higher Secondary (XI-XII),0
+Jharkhand,2016,Government,Higher Secondary (XI-XII),61
+Jharkhand,2016,Government Aided,Higher Secondary (XI-XII),22
+Jharkhand,2016,Private Unaided,Higher Secondary (XI-XII),171
+Jharkhand,2016,Other,Higher Secondary (XI-XII),12
+Karnataka,2016,Government,Higher Secondary (XI-XII),680
+Karnataka,2016,Government Aided,Higher Secondary (XI-XII),554
+Karnataka,2016,Private Unaided,Higher Secondary (XI-XII),1826
+Karnataka,2016,Other,Higher Secondary (XI-XII),1
+Kerala,2016,Government,Higher Secondary (XI-XII),11
+Kerala,2016,Government Aided,Higher Secondary (XI-XII),5
+Kerala,2016,Private Unaided,Higher Secondary (XI-XII),45
+Kerala,2016,Other,Higher Secondary (XI-XII),4
+Ladakh,2016,Government,Higher Secondary (XI-XII),0
+Ladakh,2016,Private Unaided,Higher Secondary (XI-XII),0
+Ladakh,2016,Other,Higher Secondary (XI-XII),0
+Lakshadweep,2016,Government,Higher Secondary (XI-XII),0
+Madhya Pradesh,2016,Government,Higher Secondary (XI-XII),1
+Madhya Pradesh,2016,Government Aided,Higher Secondary (XI-XII),1
+Madhya Pradesh,2016,Private Unaided,Higher Secondary (XI-XII),6
+Madhya Pradesh,2016,Other,Higher Secondary (XI-XII),0
+Maharashtra,2016,Government,Higher Secondary (XI-XII),29
+Maharashtra,2016,Government Aided,Higher Secondary (XI-XII),713
+Maharashtra,2016,Private Unaided,Higher Secondary (XI-XII),1508
+Maharashtra,2016,Other,Higher Secondary (XI-XII),3
+Manipur,2016,Government,Higher Secondary (XI-XII),3
+Manipur,2016,Government Aided,Higher Secondary (XI-XII),5
+Manipur,2016,Private Unaided,Higher Secondary (XI-XII),56
+Manipur,2016,Other,Higher Secondary (XI-XII),0
+Meghalaya,2016,Government,Higher Secondary (XI-XII),5
+Meghalaya,2016,Government Aided,Higher Secondary (XI-XII),65
+Meghalaya,2016,Private Unaided,Higher Secondary (XI-XII),90
+Meghalaya,2016,Other,Higher Secondary (XI-XII),20
+Mizoram,2016,Government,Higher Secondary (XI-XII),25
+Mizoram,2016,Government Aided,Higher Secondary (XI-XII),20
+Mizoram,2016,Private Unaided,Higher Secondary (XI-XII),113
+Mizoram,2016,Other,Higher Secondary (XI-XII),6
+Nagaland,2016,Government,Higher Secondary (XI-XII),3
+Nagaland,2016,Private Unaided,Higher Secondary (XI-XII),16
+Odisha,2016,Government,Higher Secondary (XI-XII),129
+Odisha,2016,Government Aided,Higher Secondary (XI-XII),568
+Odisha,2016,Private Unaided,Higher Secondary (XI-XII),394
+Odisha,2016,Other,Higher Secondary (XI-XII),92
+Puducherry,2016,Government,Higher Secondary (XI-XII),3
+Puducherry,2016,Government Aided,Higher Secondary (XI-XII),0
+Puducherry,2016,Private Unaided,Higher Secondary (XI-XII),2
+Punjab,2016,Government,Higher Secondary (XI-XII),33
+Punjab,2016,Government Aided,Higher Secondary (XI-XII),0
+Punjab,2016,Private Unaided,Higher Secondary (XI-XII),120
+Punjab,2016,Other,Higher Secondary (XI-XII),23
+Rajasthan,2016,Government,Higher Secondary (XI-XII),0
+Rajasthan,2016,Private Unaided,Higher Secondary (XI-XII),0
+Rajasthan,2016,Other,Higher Secondary (XI-XII),0
+Sikkim,2016,Government,Higher Secondary (XI-XII),0
+Sikkim,2016,Government Aided,Higher Secondary (XI-XII),0
+Sikkim,2016,Private Unaided,Higher Secondary (XI-XII),0
+Tamil Nadu,2016,Government,Higher Secondary (XI-XII),1
+Tamil Nadu,2016,Government Aided,Higher Secondary (XI-XII),0
+Tamil Nadu,2016,Private Unaided,Higher Secondary (XI-XII),17
+Tamil Nadu,2016,Other,Higher Secondary (XI-XII),0
+Telangana,2016,Government,Higher Secondary (XI-XII),450
+Telangana,2016,Government Aided,Higher Secondary (XI-XII),36
+Telangana,2016,Private Unaided,Higher Secondary (XI-XII),1311
+Telangana,2016,Other,Higher Secondary (XI-XII),0
+The Dadra And Nagar Haveli And Daman And Diu,2016,Government,Higher Secondary (XI-XII),3
+The Dadra And Nagar Haveli And Daman And Diu,2016,Government Aided,Higher Secondary (XI-XII),0
+The Dadra And Nagar Haveli And Daman And Diu,2016,Private Unaided,Higher Secondary (XI-XII),0
+The Dadra And Nagar Haveli And Daman And Diu,2016,Other,Higher Secondary (XI-XII),0
+Tripura,2016,Government,Higher Secondary (XI-XII),0
+Tripura,2016,Government Aided,Higher Secondary (XI-XII),0
+Tripura,2016,Private Unaided,Higher Secondary (XI-XII),0
+Tripura,2016,Other,Higher Secondary (XI-XII),0
+Uttar Pradesh,2016,Government,Higher Secondary (XI-XII),2
+Uttar Pradesh,2016,Government Aided,Higher Secondary (XI-XII),1
+Uttar Pradesh,2016,Private Unaided,Higher Secondary (XI-XII),23
+Uttar Pradesh,2016,Other,Higher Secondary (XI-XII),3
+Uttarakhand,2016,Government,Higher Secondary (XI-XII),6
+Uttarakhand,2016,Government Aided,Higher Secondary (XI-XII),2
+Uttarakhand,2016,Private Unaided,Higher Secondary (XI-XII),6
+Uttarakhand,2016,Other,Higher Secondary (XI-XII),4
+West Bengal,2016,Government,Higher Secondary (XI-XII),12
+West Bengal,2016,Government Aided,Higher Secondary (XI-XII),0
+West Bengal,2016,Private Unaided,Higher Secondary (XI-XII),1
+West Bengal,2016,Other,Higher Secondary (XI-XII),0

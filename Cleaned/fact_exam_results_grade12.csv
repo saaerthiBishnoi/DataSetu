@@ -1,0 +1,421 @@
+state,year,management,appeared,pass_pct
+Andaman And Nicobar Islands,2014,Government,4574.0,66.0
+Andaman And Nicobar Islands,2014,Government Aided,174.0,95.0
+Andaman And Nicobar Islands,2014,Other,0.0,0.0
+Andaman And Nicobar Islands,2014,Private Unaided,352.0,88.0
+Andaman And Nicobar Islands,2015,Government,4180.0,73.0
+Andaman And Nicobar Islands,2015,Government Aided,203.0,81.0
+Andaman And Nicobar Islands,2015,Other,0.0,0.0
+Andaman And Nicobar Islands,2015,Private Unaided,363.0,96.0
+Andaman And Nicobar Islands,2016,Government,3695.0,79.0
+Andaman And Nicobar Islands,2016,Government Aided,248.0,90.0
+Andaman And Nicobar Islands,2016,Other,0.0,0.0
+Andaman And Nicobar Islands,2016,Private Unaided,419.0,96.0
+Andhra Pradesh,2014,Government,0.0,0.0
+Andhra Pradesh,2014,Government Aided,0.0,0.0
+Andhra Pradesh,2014,Other,0.0,0.0
+Andhra Pradesh,2014,Private Unaided,0.0,0.0
+Andhra Pradesh,2015,Government,0.0,0.0
+Andhra Pradesh,2015,Government Aided,0.0,0.0
+Andhra Pradesh,2015,Other,0.0,0.0
+Andhra Pradesh,2015,Private Unaided,0.0,0.0
+Andhra Pradesh,2016,Government,0.0,0.0
+Andhra Pradesh,2016,Government Aided,0.0,0.0
+Andhra Pradesh,2016,Other,0.0,0.0
+Andhra Pradesh,2016,Private Unaided,0.0,0.0
+Arunachal Pradesh,2014,Government,13021.0,67.0
+Arunachal Pradesh,2014,Government Aided,290.0,98.0
+Arunachal Pradesh,2014,Other,0.0,0.0
+Arunachal Pradesh,2014,Private Unaided,1494.0,88.0
+Arunachal Pradesh,2015,Government,10191.0,65.0
+Arunachal Pradesh,2015,Government Aided,248.0,91.0
+Arunachal Pradesh,2015,Other,0.0,0.0
+Arunachal Pradesh,2015,Private Unaided,163.0,77.0
+Arunachal Pradesh,2016,Government,11980.0,56.0
+Arunachal Pradesh,2016,Government Aided,212.0,91.0
+Arunachal Pradesh,2016,Other,0.0,0.0
+Arunachal Pradesh,2016,Private Unaided,226.0,75.0
+Assam,2014,Government,120282.0,75.0
+Assam,2014,Government Aided,31710.0,79.0
+Assam,2014,Other,8034.0,79.0
+Assam,2014,Private Unaided,30098.0,85.0
+Assam,2015,Government,115458.0,78.0
+Assam,2015,Government Aided,24341.0,83.0
+Assam,2015,Other,7543.0,83.0
+Assam,2015,Private Unaided,31015.0,89.0
+Assam,2016,Government,89733.0,74.0
+Assam,2016,Government Aided,22055.0,73.0
+Assam,2016,Other,3574.0,80.0
+Assam,2016,Private Unaided,30504.0,88.0
+Bihar,2014,Government,451948.0,88.0
+Bihar,2014,Government Aided,12613.0,89.0
+Bihar,2014,Other,10037.0,93.0
+Bihar,2014,Private Unaided,19769.0,80.0
+Bihar,2015,Government,406717.0,62.0
+Bihar,2015,Government Aided,7403.0,73.0
+Bihar,2015,Other,10116.0,84.0
+Bihar,2015,Private Unaided,20975.0,62.0
+Bihar,2016,Government,413316.0,43.0
+Bihar,2016,Government Aided,5957.0,52.0
+Bihar,2016,Other,10307.0,74.0
+Bihar,2016,Private Unaided,22969.0,40.0
+Chandigarh,2014,Government,11093.0,75.0
+Chandigarh,2014,Government Aided,1679.0,78.0
+Chandigarh,2014,Other,0.0,0.0
+Chandigarh,2014,Private Unaided,5157.0,88.0
+Chandigarh,2015,Government,0.0,0.0
+Chandigarh,2015,Government Aided,0.0,0.0
+Chandigarh,2015,Other,0.0,0.0
+Chandigarh,2015,Private Unaided,0.0,0.0
+Chandigarh,2016,Government,10899.0,75.0
+Chandigarh,2016,Government Aided,1798.0,56.0
+Chandigarh,2016,Other,14.0,100.0
+Chandigarh,2016,Private Unaided,5047.0,85.0
+Chhattisgarh,2014,Government,198170.0,77.0
+Chhattisgarh,2014,Government Aided,8991.0,82.0
+Chhattisgarh,2014,Other,0.0,0.0
+Chhattisgarh,2014,Private Unaided,68766.0,81.0
+Chhattisgarh,2015,Government,192218.0,77.0
+Chhattisgarh,2015,Government Aided,8707.0,80.0
+Chhattisgarh,2015,Other,0.0,0.0
+Chhattisgarh,2015,Private Unaided,64659.0,80.0
+Chhattisgarh,2016,Government,95546.0,74.0
+Chhattisgarh,2016,Government Aided,4850.0,81.0
+Chhattisgarh,2016,Other,0.0,0.0
+Chhattisgarh,2016,Private Unaided,35528.0,79.0
+Delhi,2014,Government,146930.0,89.0
+Delhi,2014,Government Aided,14361.0,89.0
+Delhi,2014,Other,0.0,0.0
+Delhi,2014,Private Unaided,74224.0,94.0
+Delhi,2015,Government,140534.0,90.0
+Delhi,2015,Government Aided,13790.0,88.0
+Delhi,2015,Other,0.0,0.0
+Delhi,2015,Private Unaided,75285.0,94.0
+Delhi,2016,Government,131633.0,90.0
+Delhi,2016,Government Aided,13606.0,85.0
+Delhi,2016,Other,0.0,0.0
+Delhi,2016,Private Unaided,77515.0,94.0
+Goa,2014,Government,1684.0,84.0
+Goa,2014,Government Aided,13750.0,88.0
+Goa,2014,Other,0.0,0.0
+Goa,2014,Private Unaided,379.0,88.0
+Goa,2015,Government,2035.0,88.0
+Goa,2015,Government Aided,13223.0,90.0
+Goa,2015,Other,0.0,0.0
+Goa,2015,Private Unaided,346.0,93.0
+Goa,2016,Government,2200.0,81.0
+Goa,2016,Government Aided,13838.0,90.0
+Goa,2016,Other,0.0,0.0
+Goa,2016,Private Unaided,390.0,98.0
+Gujarat,2014,Government,23565.0,61.0
+Gujarat,2014,Government Aided,284227.0,63.0
+Gujarat,2014,Other,51.0,59.0
+Gujarat,2014,Private Unaided,160604.0,84.0
+Gujarat,2015,Government,23024.0,64.0
+Gujarat,2015,Government Aided,258777.0,67.0
+Gujarat,2015,Other,28.0,61.0
+Gujarat,2015,Private Unaided,162740.0,81.0
+Gujarat,2016,Government,18611.0,68.0
+Gujarat,2016,Government Aided,233093.0,75.0
+Gujarat,2016,Other,38.0,68.0
+Gujarat,2016,Private Unaided,164642.0,83.0
+Haryana,2014,Government,127285.0,54.0
+Haryana,2014,Government Aided,18044.0,67.0
+Haryana,2014,Other,496.0,70.0
+Haryana,2014,Private Unaided,159416.0,77.0
+Haryana,2015,Government,117266.0,64.0
+Haryana,2015,Government Aided,17029.0,73.0
+Haryana,2015,Other,355.0,74.0
+Haryana,2015,Private Unaided,168583.0,79.0
+Haryana,2016,Government,98304.0,68.0
+Haryana,2016,Government Aided,14471.0,73.0
+Haryana,2016,Other,208.0,85.0
+Haryana,2016,Private Unaided,165280.0,80.0
+Himachal Pradesh,2014,Government,80837.0,80.0
+Himachal Pradesh,2014,Government Aided,0.0,0.0
+Himachal Pradesh,2014,Other,0.0,0.0
+Himachal Pradesh,2014,Private Unaided,16782.0,91.0
+Himachal Pradesh,2015,Government,75207.0,85.0
+Himachal Pradesh,2015,Government Aided,0.0,0.0
+Himachal Pradesh,2015,Other,0.0,0.0
+Himachal Pradesh,2015,Private Unaided,15440.0,90.0
+Himachal Pradesh,2016,Government,82949.0,79.0
+Himachal Pradesh,2016,Government Aided,0.0,0.0
+Himachal Pradesh,2016,Other,0.0,0.0
+Himachal Pradesh,2016,Private Unaided,19476.0,89.0
+Jammu And Kashmir,2014,Government,84081.0,54.0
+Jammu And Kashmir,2014,Government Aided,0.0,0.0
+Jammu And Kashmir,2014,Other,0.0,0.0
+Jammu And Kashmir,2014,Private Unaided,15895.0,80.0
+Jammu And Kashmir,2015,Government,67332.0,55.0
+Jammu And Kashmir,2015,Government Aided,0.0,0.0
+Jammu And Kashmir,2015,Other,0.0,0.0
+Jammu And Kashmir,2015,Private Unaided,12237.0,78.0
+Jammu And Kashmir,2016,Government,80525.0,64.0
+Jammu And Kashmir,2016,Government Aided,0.0,0.0
+Jammu And Kashmir,2016,Other,0.0,0.0
+Jammu And Kashmir,2016,Private Unaided,16685.0,82.0
+Jharkhand,2014,Government,97779.0,69.0
+Jharkhand,2014,Government Aided,19982.0,88.0
+Jharkhand,2014,Other,3985.0,99.0
+Jharkhand,2014,Private Unaided,85805.0,83.0
+Jharkhand,2015,Government,0.0,0.0
+Jharkhand,2015,Government Aided,0.0,0.0
+Jharkhand,2015,Other,0.0,0.0
+Jharkhand,2015,Private Unaided,1490.0,71.0
+Jharkhand,2016,Government,91015.0,66.0
+Jharkhand,2016,Government Aided,8451.0,77.0
+Jharkhand,2016,Other,1640.0,97.0
+Jharkhand,2016,Private Unaided,102002.0,75.0
+Karnataka,2014,Government,91117.0,71.0
+Karnataka,2014,Government Aided,84627.0,72.0
+Karnataka,2014,Other,309.0,52.0
+Karnataka,2014,Private Unaided,99765.0,79.0
+Karnataka,2015,Government,91329.0,71.0
+Karnataka,2015,Government Aided,84751.0,72.0
+Karnataka,2015,Other,309.0,52.0
+Karnataka,2015,Private Unaided,99328.0,79.0
+Karnataka,2016,Government,0.0,0.0
+Karnataka,2016,Government Aided,0.0,0.0
+Karnataka,2016,Other,0.0,0.0
+Karnataka,2016,Private Unaided,0.0,0.0
+Kerala,2014,Government,136014.0,84.0
+Kerala,2014,Government Aided,136031.0,86.0
+Kerala,2014,Other,1289.0,92.0
+Kerala,2014,Private Unaided,50337.0,89.0
+Kerala,2015,Government,142022.0,84.0
+Kerala,2015,Government Aided,148216.0,84.0
+Kerala,2015,Other,753.0,97.0
+Kerala,2015,Private Unaided,46314.0,86.0
+Kerala,2016,Government,124914.0,82.0
+Kerala,2016,Government Aided,138886.0,88.0
+Kerala,2016,Other,243.0,88.0
+Kerala,2016,Private Unaided,45583.0,78.0
+Lakshadweep,2014,Government,938.0,63.0
+Lakshadweep,2014,Government Aided,0.0,0.0
+Lakshadweep,2014,Other,0.0,0.0
+Lakshadweep,2014,Private Unaided,0.0,0.0
+Lakshadweep,2015,Government,803.0,76.0
+Lakshadweep,2015,Government Aided,0.0,0.0
+Lakshadweep,2015,Other,0.0,0.0
+Lakshadweep,2015,Private Unaided,0.0,0.0
+Lakshadweep,2016,Government,86.0,0.0
+Lakshadweep,2016,Government Aided,0.0,0.0
+Lakshadweep,2016,Other,0.0,0.0
+Lakshadweep,2016,Private Unaided,0.0,0.0
+Madhya Pradesh,2014,Government,328224.0,76.0
+Madhya Pradesh,2014,Government Aided,21602.0,72.0
+Madhya Pradesh,2014,Other,0.0,0.0
+Madhya Pradesh,2014,Private Unaided,233906.0,79.0
+Madhya Pradesh,2015,Government,324619.0,80.0
+Madhya Pradesh,2015,Government Aided,18968.0,76.0
+Madhya Pradesh,2015,Other,12.0,83.0
+Madhya Pradesh,2015,Private Unaided,234786.0,78.0
+Madhya Pradesh,2016,Government,300814.0,78.0
+Madhya Pradesh,2016,Government Aided,16277.0,73.0
+Madhya Pradesh,2016,Other,0.0,0.0
+Madhya Pradesh,2016,Private Unaided,222474.0,76.0
+Maharashtra,2014,Government,28513.0,90.0
+Maharashtra,2014,Government Aided,903874.0,91.0
+Maharashtra,2014,Other,48.0,83.0
+Maharashtra,2014,Private Unaided,170014.0,89.0
+Maharashtra,2015,Government,33128.0,87.0
+Maharashtra,2015,Government Aided,971078.0,87.0
+Maharashtra,2015,Other,164.0,91.0
+Maharashtra,2015,Private Unaided,203411.0,88.0
+Maharashtra,2016,Government,35099.0,86.0
+Maharashtra,2016,Government Aided,985092.0,89.0
+Maharashtra,2016,Other,70.0,97.0
+Maharashtra,2016,Private Unaided,240725.0,89.0
+Manipur,2014,Government,8182.0,69.0
+Manipur,2014,Government Aided,1930.0,46.0
+Manipur,2014,Other,0.0,0.0
+Manipur,2014,Private Unaided,17458.0,87.0
+Manipur,2015,Government,7410.0,59.0
+Manipur,2015,Government Aided,991.0,45.0
+Manipur,2015,Other,0.0,0.0
+Manipur,2015,Private Unaided,16642.0,81.0
+Manipur,2016,Government,6857.0,62.0
+Manipur,2016,Government Aided,1056.0,50.0
+Manipur,2016,Other,0.0,0.0
+Manipur,2016,Private Unaided,15445.0,84.0
+Meghalaya,2014,Government,4165.0,69.0
+Meghalaya,2014,Government Aided,12838.0,83.0
+Meghalaya,2014,Other,253.0,89.0
+Meghalaya,2014,Private Unaided,6118.0,75.0
+Meghalaya,2015,Government,262.0,74.0
+Meghalaya,2015,Government Aided,296.0,80.0
+Meghalaya,2015,Other,0.0,0.0
+Meghalaya,2015,Private Unaided,269.0,64.0
+Meghalaya,2016,Government,2932.0,81.0
+Meghalaya,2016,Government Aided,10332.0,86.0
+Meghalaya,2016,Other,106.0,99.0
+Meghalaya,2016,Private Unaided,6057.0,81.0
+Mizoram,2014,Government,2768.0,81.0
+Mizoram,2014,Government Aided,1582.0,92.0
+Mizoram,2014,Other,0.0,0.0
+Mizoram,2014,Private Unaided,3319.0,86.0
+Mizoram,2015,Government,0.0,0.0
+Mizoram,2015,Government Aided,0.0,0.0
+Mizoram,2015,Other,0.0,0.0
+Mizoram,2015,Private Unaided,0.0,0.0
+Mizoram,2016,Government,2759.0,75.0
+Mizoram,2016,Government Aided,2003.0,86.0
+Mizoram,2016,Other,94.0,67.0
+Mizoram,2016,Private Unaided,4460.0,79.0
+Nagaland,2014,Government,2016.0,67.0
+Nagaland,2014,Government Aided,0.0,0.0
+Nagaland,2014,Other,0.0,0.0
+Nagaland,2014,Private Unaided,8069.0,81.0
+Nagaland,2015,Government,678.0,69.0
+Nagaland,2015,Government Aided,0.0,0.0
+Nagaland,2015,Other,0.0,0.0
+Nagaland,2015,Private Unaided,4630.0,79.0
+Nagaland,2016,Government,1105.0,78.0
+Nagaland,2016,Government Aided,0.0,0.0
+Nagaland,2016,Other,0.0,0.0
+Nagaland,2016,Private Unaided,5944.0,88.0
+Odisha,2014,Government,26728.0,89.0
+Odisha,2014,Government Aided,80807.0,73.0
+Odisha,2014,Other,5848.0,92.0
+Odisha,2014,Private Unaided,31338.0,81.0
+Odisha,2015,Government,21924.0,81.0
+Odisha,2015,Government Aided,85869.0,74.0
+Odisha,2015,Other,5169.0,58.0
+Odisha,2015,Private Unaided,31033.0,78.0
+Odisha,2016,Government,17086.0,73.0
+Odisha,2016,Government Aided,83077.0,69.0
+Odisha,2016,Other,7749.0,73.0
+Odisha,2016,Private Unaided,30596.0,69.0
+Puducherry,2014,Government,7503.0,77.0
+Puducherry,2014,Government Aided,1475.0,94.0
+Puducherry,2014,Other,0.0,0.0
+Puducherry,2014,Private Unaided,6579.0,98.0
+Puducherry,2015,Government,493.0,68.0
+Puducherry,2015,Government Aided,0.0,0.0
+Puducherry,2015,Other,0.0,0.0
+Puducherry,2015,Private Unaided,731.0,99.0
+Puducherry,2016,Government,0.0,0.0
+Puducherry,2016,Government Aided,0.0,0.0
+Puducherry,2016,Other,0.0,0.0
+Puducherry,2016,Private Unaided,0.0,0.0
+Punjab,2014,Government,183880.0,88.0
+Punjab,2014,Government Aided,36521.0,89.0
+Punjab,2014,Other,15611.0,91.0
+Punjab,2014,Private Unaided,107082.0,90.0
+Punjab,2015,Government,172729.0,88.0
+Punjab,2015,Government Aided,34664.0,88.0
+Punjab,2015,Other,11627.0,87.0
+Punjab,2015,Private Unaided,112912.0,90.0
+Punjab,2016,Government,149459.0,77.0
+Punjab,2016,Government Aided,33247.0,77.0
+Punjab,2016,Other,7968.0,82.0
+Punjab,2016,Private Unaided,134247.0,85.0
+Rajasthan,2014,Government,264347.0,84.0
+Rajasthan,2014,Government Aided,0.0,0.0
+Rajasthan,2014,Other,344.0,81.0
+Rajasthan,2014,Private Unaided,434311.0,89.0
+Rajasthan,2015,Government,261434.0,87.0
+Rajasthan,2015,Government Aided,0.0,0.0
+Rajasthan,2015,Other,127.0,96.0
+Rajasthan,2015,Private Unaided,425524.0,89.0
+Rajasthan,2016,Government,284397.0,89.0
+Rajasthan,2016,Government Aided,0.0,0.0
+Rajasthan,2016,Other,338.0,33.0
+Rajasthan,2016,Private Unaided,348439.0,89.0
+Sikkim,2014,Government,6065.0,79.0
+Sikkim,2014,Government Aided,270.0,100.0
+Sikkim,2014,Other,0.0,0.0
+Sikkim,2014,Private Unaided,651.0,91.0
+Sikkim,2015,Government,0.0,0.0
+Sikkim,2015,Government Aided,0.0,0.0
+Sikkim,2015,Other,0.0,0.0
+Sikkim,2015,Private Unaided,0.0,0.0
+Sikkim,2016,Government,6041.0,86.0
+Sikkim,2016,Government Aided,356.0,99.0
+Sikkim,2016,Other,0.0,0.0
+Sikkim,2016,Private Unaided,526.0,84.0
+Tamil Nadu,2014,Government,382895.0,85.0
+Tamil Nadu,2014,Government Aided,235093.0,93.0
+Tamil Nadu,2014,Other,0.0,0.0
+Tamil Nadu,2014,Private Unaided,211836.0,97.0
+Tamil Nadu,2015,Government,382744.0,86.0
+Tamil Nadu,2015,Government Aided,228679.0,94.0
+Tamil Nadu,2015,Other,88.0,100.0
+Tamil Nadu,2015,Private Unaided,220358.0,97.0
+Tamil Nadu,2016,Government,406009.0,87.0
+Tamil Nadu,2016,Government Aided,229615.0,95.0
+Tamil Nadu,2016,Other,28.0,100.0
+Tamil Nadu,2016,Private Unaided,266692.0,98.0
+Telangana,2014,Government,55810.0,76.0
+Telangana,2014,Government Aided,1342.0,47.0
+Telangana,2014,Other,0.0,0.0
+Telangana,2014,Private Unaided,112395.0,71.0
+Telangana,2015,Government,51421.0,78.0
+Telangana,2015,Government Aided,1586.0,45.0
+Telangana,2015,Other,0.0,0.0
+Telangana,2015,Private Unaided,107320.0,70.0
+Telangana,2016,Government,59189.0,74.0
+Telangana,2016,Government Aided,1689.0,43.0
+Telangana,2016,Other,0.0,0.0
+Telangana,2016,Private Unaided,115387.0,70.0
+The Dadra And Nagar Haveli And Daman And Diu,2014,Government,6546.0,61.0
+The Dadra And Nagar Haveli And Daman And Diu,2014,Government Aided,300.0,45.0
+The Dadra And Nagar Haveli And Daman And Diu,2014,Other,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2014,Private Unaided,1204.0,96.5
+The Dadra And Nagar Haveli And Daman And Diu,2015,Government,4592.0,59.0
+The Dadra And Nagar Haveli And Daman And Diu,2015,Government Aided,2290.0,35.0
+The Dadra And Nagar Haveli And Daman And Diu,2015,Other,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2015,Private Unaided,1200.0,85.0
+The Dadra And Nagar Haveli And Daman And Diu,2016,Government,7482.0,57.5
+The Dadra And Nagar Haveli And Daman And Diu,2016,Government Aided,1404.0,24.5
+The Dadra And Nagar Haveli And Daman And Diu,2016,Other,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2016,Private Unaided,1474.0,79.5
+Tripura,2014,Government,19455.0,81.0
+Tripura,2014,Government Aided,3091.0,82.0
+Tripura,2014,Other,28.0,96.0
+Tripura,2014,Private Unaided,1166.0,95.0
+Tripura,2015,Government,19061.0,81.0
+Tripura,2015,Government Aided,2939.0,83.0
+Tripura,2015,Other,22.0,100.0
+Tripura,2015,Private Unaided,1376.0,97.0
+Tripura,2016,Government,18470.0,78.0
+Tripura,2016,Government Aided,3060.0,83.0
+Tripura,2016,Other,27.0,78.0
+Tripura,2016,Private Unaided,1641.0,92.0
+Uttar Pradesh,2014,Government,64866.0,94.0
+Uttar Pradesh,2014,Government Aided,522774.0,95.0
+Uttar Pradesh,2014,Other,1202.0,93.0
+Uttar Pradesh,2014,Private Unaided,863835.0,89.0
+Uttar Pradesh,2015,Government,57616.0,95.0
+Uttar Pradesh,2015,Government Aided,445063.0,93.0
+Uttar Pradesh,2015,Other,5661.0,85.0
+Uttar Pradesh,2015,Private Unaided,859457.0,84.0
+Uttar Pradesh,2016,Government,41457.0,85.0
+Uttar Pradesh,2016,Government Aided,303692.0,84.0
+Uttar Pradesh,2016,Other,2684.0,73.0
+Uttar Pradesh,2016,Private Unaided,554601.0,80.0
+Uttarakhand,2014,Government,83745.0,78.0
+Uttarakhand,2014,Government Aided,27962.0,75.0
+Uttarakhand,2014,Other,0.0,0.0
+Uttarakhand,2014,Private Unaided,38924.0,76.0
+Uttarakhand,2015,Government,76222.0,82.0
+Uttarakhand,2015,Government Aided,23759.0,77.0
+Uttarakhand,2015,Other,47.0,85.0
+Uttarakhand,2015,Private Unaided,38740.0,79.0
+Uttarakhand,2016,Government,77809.0,80.0
+Uttarakhand,2016,Government Aided,23707.0,79.0
+Uttarakhand,2016,Other,167.0,119.0
+Uttarakhand,2016,Private Unaided,37065.0,79.0
+West Bengal,2014,Government,677907.0,82.0
+West Bengal,2014,Government Aided,5524.0,88.0
+West Bengal,2014,Other,28373.0,69.0
+West Bengal,2014,Private Unaided,12292.0,86.0
+West Bengal,2015,Government,689099.0,83.0
+West Bengal,2015,Government Aided,4008.0,88.0
+West Bengal,2015,Other,28303.0,68.0
+West Bengal,2015,Private Unaided,10011.0,83.0
+West Bengal,2016,Government,649648.0,84.0
+West Bengal,2016,Government Aided,4712.0,79.0
+West Bengal,2016,Other,26246.0,71.0
+West Bengal,2016,Private Unaided,11345.0,87.0
